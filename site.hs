@@ -59,7 +59,7 @@ main = hakyllWith config $ do
     match "templates/*" $ compile templateBodyCompiler
 
 config :: Configuration
-config = defaultConfiguration { destinationDirectory = "docs" }
+config = defaultConfiguration { destinationDirectory = "docs", deployCommand = "git checkout main; stack exec site clean; stack exec site build ; git add -A; git commit -m \"Publish.\"; git push origin main:main" }
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
