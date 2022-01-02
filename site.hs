@@ -2,12 +2,15 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
-
+import qualified Data.Text as T
+import           Slug (toSlug)
+import           Data.Maybe (fromMaybe)
+import           Data.Foldable (forM_)
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-    match "images/*" $ do
+    forM_ ["CNAME", "images/*"] $ \f -> match f $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -15,17 +18,18 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["about.rst", "contact.markdown"]) $ do
+    match (fromList ["about.md", "contact.md"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
     match "posts/*" $ do
-        route $ setExtension "html"
+        let ctx = constField "type" "article" <> postCtx
+        route $ metadataRoute titleRoute
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= loadAndApplyTemplate "templates/post.html"    ctx
+            >>= loadAndApplyTemplate "templates/default.html" ctx
             >>= relativizeUrls
 
     create ["archive.html"] $ do
@@ -66,3 +70,13 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+
+titleRoute :: Metadata -> Routes
+titleRoute = constRoute . fileNameFromTitle
+
+fileNameFromTitle :: Metadata -> FilePath
+fileNameFromTitle = T.unpack . (`T.append` ".html") . toSlug . T.pack . getTitleFromMeta
+
+getTitleFromMeta :: Metadata -> String
+getTitleFromMeta = fromMaybe "no title" . lookupString "title"
+
