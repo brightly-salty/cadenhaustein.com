@@ -5,6 +5,9 @@ input.clean.ligature.dashes: true
 
 rendering.inline_toc: true 
 
+html.side_notes: true
+html.dir.template: template.html
+
 output.base_path: ../books
 
 output.pdf: auto
