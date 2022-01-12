@@ -1,82 +1,68 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
-import           Hakyll
-import qualified Data.Text as T
-import           Slug (toSlug)
-import           Data.Maybe (fromMaybe)
-import           Data.Foldable (forM_)
+
+import Data.Foldable (forM_)
+import Data.List (isSuffixOf)
+import Data.Maybe (fromMaybe)
+import Data.Monoid (mappend)
+import Hakyll
+import System.FilePath (takeBaseName, takeDirectory, (</>))
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-    forM_ ["CNAME", "images/*"] $ \f -> match f $ do
-        route   idRoute
-        compile copyFileCompiler
+  forM_ ["CNAME", "images/*", "books/*.epub", "books/*.pdf", "books/*.tex", "books/*/*.svg"] $ \f -> match f $ do
+    route idRoute
+    compile copyFileCompiler
 
-    match "css/*" $ do
-        route   idRoute
-        compile compressCssCompiler
+  match "books/*/*.html" $ do
+    route idRoute
+    compile $
+      getResourceString
+        >>= relativizeUrls
 
-    match (fromList ["about.md", "contact.md"]) $ do
-        route   $ setExtension "html"
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
-            >>= relativizeUrls
+  match ("css/*" .||. "books/*/stylesheet.css") $ do
+    route idRoute
+    compile compressCssCompiler
 
-    match "posts/*" $ do
-        let ctx = constField "type" "article" <> postCtx
-        route $ metadataRoute titleRoute
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    ctx
-            >>= loadAndApplyTemplate "templates/default.html" ctx
-            >>= relativizeUrls
+  match (fromList ["about.md", "contact.md", "books.md"]) $ do
+    route cleanRoute
+    compile $
+      pandocCompiler
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= relativizeUrls
+        >>= cleanIndexUrls
 
-    create ["archive.html"] $ do
-        route idRoute
-        compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
-            let archiveCtx =
-                    listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Archives"            `mappend`
-                    defaultContext
+  match "index.html" $ do
+    route idRoute
+    compile $
+      getResourceBody
+        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= relativizeUrls
 
-            makeItem ""
-                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
-                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
-                >>= relativizeUrls
-
-
-    match "index.html" $ do
-        route idRoute
-        compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
-            let indexCtx =
-                    listField "posts" postCtx (return posts) `mappend`
-                    defaultContext
-
-            getResourceBody
-                >>= applyAsTemplate indexCtx
-                >>= loadAndApplyTemplate "templates/default.html" indexCtx
-                >>= relativizeUrls
-
-    match "templates/*" $ compile templateBodyCompiler
+  match "templates/*" $ compile templateBodyCompiler
 
 config :: Configuration
-config = defaultConfiguration { destinationDirectory = "docs", deployCommand = "git checkout main; stack exec site clean; stack exec site build ; git add -A; git commit -m \"Publish.\"; git push origin main:main" }
+config = defaultConfiguration {destinationDirectory = "docs"}
 
 --------------------------------------------------------------------------------
-postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
-    defaultContext
 
-titleRoute :: Metadata -> Routes
-titleRoute = constRoute . fileNameFromTitle
+cleanRoute :: Routes
+cleanRoute = customRoute createIndexRoute
+  where
+    createIndexRoute ident = takeDirectory p </> takeBaseName p </> "index.html"
+      where
+        p = toFilePath ident
 
-fileNameFromTitle :: Metadata -> FilePath
-fileNameFromTitle = T.unpack . (`T.append` ".html") . toSlug . T.pack . getTitleFromMeta
+cleanIndexUrls :: Item String -> Compiler (Item String)
+cleanIndexUrls = pure . fmap (withUrls cleanIndex)
 
-getTitleFromMeta :: Metadata -> String
-getTitleFromMeta = fromMaybe "no title" . lookupString "title"
+cleanIndexHtmls :: Item String -> Compiler (Item String)
+cleanIndexHtmls = pure . fmap (replaceAll "/index.html" (const "/"))
 
+cleanIndex :: String -> String
+cleanIndex url
+  | idx `isSuffixOf` url = take (length url - length idx) url
+  | otherwise = url
+  where
+    idx = "index.html"

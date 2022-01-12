@@ -1,0 +1,12 @@
+license: "This work is free of known copyright restrictions."
+
+input.clean.smart_quotes: true
+input.clean.ligature.dashes: true
+
+rendering.inline_toc: true 
+
+output.base_path: ../books
+
+output.pdf: auto
+output.epub: auto
+output.tex: auto

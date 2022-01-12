@@ -1,0 +1,29 @@
+import: common.book
+author: Hilaire Belloc
+title: The Free Press
+lang: en
+
+output.html.dir: the-free-press
+
+- the-free-press/dedication.md
+! the-free-press/summary.md
+- the-free-press/01.md
+- the-free-press/02.md
+- the-free-press/03.md
+- the-free-press/04.md
+- the-free-press/05.md
+- the-free-press/06.md
+- the-free-press/07.md
+- the-free-press/08.md
+- the-free-press/09.md
+- the-free-press/10.md
+- the-free-press/11.md
+- the-free-press/12.md
+- the-free-press/13.md
+- the-free-press/14.md
+- the-free-press/15.md
+- the-free-press/16.md
+- the-free-press/17.md
+- the-free-press/18.md
+- the-free-press/19.md
+- the-free-press/20.md

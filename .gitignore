@@ -1,2 +1,4 @@
 _cache/
 .stack-work/
+.vscode/settings.json
+books/
