@@ -29,7 +29,7 @@ main = hakyllWith config $ do
     route cleanRoute
     compile $
       pandocCompiler
-        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= loadAndApplyTemplate "templates/hakyll.html" defaultContext
         >>= relativizeUrls
         >>= cleanIndexUrls
 
@@ -37,10 +37,10 @@ main = hakyllWith config $ do
     route idRoute
     compile $
       getResourceBody
-        >>= loadAndApplyTemplate "templates/default.html" defaultContext
+        >>= loadAndApplyTemplate "templates/hakyll.html" defaultContext
         >>= relativizeUrls
 
-  match "templates/*" $ compile templateBodyCompiler
+  match "templates/hakyll.html" $ compile templateBodyCompiler
 
 config :: Configuration
 config = defaultConfiguration {destinationDirectory = "docs"}

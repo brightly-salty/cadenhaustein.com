@@ -1,0 +1,21 @@
+import: common.book
+author: Arthur Penty
+title: Guilds, Trade, and Agriculture
+lang: en
+
+output.html.dir: guilds-trade
+
+- guilds-trade/preface.md
++ guilds-trade/need-social-theory.md
++ guilds-trade/wages-foreign-trade.md 
++ guilds-trade/tyranny-big-business.md
++ guilds-trade/investing-spending.md
++ guilds-trade/producing-consuming.md
++ guilds-trade/fixed-prices-speculation.md
++ guilds-trade/guilds-just-price.md 
++ guilds-trade/great-change.md 
++ guilds-trade/agriculture-emigration.md 
++ guilds-trade/machinery-unemployment.md 
++ guilds-trade/morals-economics.md 
++ guilds-trade/industrialism-credit.md 
+- guilds-trade/europe-chaos.md
