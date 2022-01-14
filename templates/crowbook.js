@@ -5,6 +5,7 @@ function on(name) {
         elem.style.backgroundColor = "pink";
     }
 }
+
 function off(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
@@ -14,6 +15,7 @@ function off(name) {
 }
 
 var display_menu = false;
+
 function toggle() {
     if (display_menu) {
         display_menu = false;
@@ -29,9 +31,14 @@ function toggle() {
 }
 
 function readingTime() {
-    const text = document.getElementById("page").innerText;
-    const wpm = 225;
-    const words = text.trim().split(/\s+/).length;
-    const time = Math.ceil(words / wpm);
-    document.getElementById("time").innerText = time + ' minute read';
+    const WPM = 200;
+    var string = document.getElementById("page").innerText;
+    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
+    if (time < 0.5) {
+        document.getElementById('time').innerText = 'less than a minute';
+    } else if (time >= 0.5 && time < 1.5) {
+        document.getElementById('time').innerText = '1 minute';
+    } else {
+        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
+    }
 }

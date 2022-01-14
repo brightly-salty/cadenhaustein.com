@@ -5,8 +5,9 @@ body {
 }
 
 p {
-    text-indent: 1.25em;
-    margin:0;
+    text-indent: 2em;
+    line-height: 2.2;
+    margin: 0;
     hyphens: auto;
 }
 
@@ -14,11 +15,13 @@ blockquote {
     margin: 1em;
     font-style: italic;
 }
+
 code {
     font-size: 80%;
     font-family: "Linux Libertine Mono", monospace;
     background-color: #F0F0F0;
 }
+
 pre {
     font-family: "Linux Libertine Mono", monospace;
     margin: 1em;
@@ -27,17 +30,33 @@ pre {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
 /* Try to disable hyphenation in titles */
-h1, h2, h3, h4, h5, h5 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
     adobe-hyphenate: none;
-    -ms-hyphens: none; /* Trident (Windows) */
-    -moz-hyphens: none; /* Gecko (Firefox) */
-    -webkit-hyphens: none; /* Webkit */
-    -epub-hyphens: none; /* EPUB 3 */
-    hyphens: none; /* Futur standard */
+    -ms-hyphens: none;
+    /* Trident (Windows) */
+    -moz-hyphens: none;
+    /* Gecko (Firefox) */
+    -webkit-hyphens: none;
+    /* Webkit */
+    -epub-hyphens: none;
+    /* EPUB 3 */
+    hyphens: none;
+    /* Futur standard */
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     text-align: left;
     font-family: Linux Biolinum, sans-serif;
     font-variant: small-caps;
@@ -65,10 +84,11 @@ h1.title {
     text-align: center;
     font-size: 300%;
 }
+
 /* Author */
 h2.author {
     text-align: right;
-    font-size:  200%;
+    font-size: 200%;
 }
 
 /* Subtitle */
@@ -78,13 +98,16 @@ h2.subtitle {
 }
 
 /* When toc is displayed inlined */
-#toc ol, #toc ul {
+#toc ol,
+#toc ul {
     padding: 0;
     margin-left: 1em;
 }
+
 #toc li {
     list-style-type: none;
-    margin: 0; padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 #toc li:before {
@@ -162,7 +185,7 @@ table.notes tr td {
 table.notes tr td p {
     text-indent: 0;
 }
-                 
+
 /* Every markdown table is included in a <div class = "table"> */
 .table {
     margin: 1em;
@@ -177,7 +200,8 @@ table.notes tr td p {
     border-collapse: collapse;
 }
 
-.table table th, .table table td {
+.table table th,
+.table table td {
     border-style: solid;
     border-width: 1px;
     text-align: center;
@@ -188,15 +212,25 @@ table.notes tr td p {
     font-variant: small-caps;
 }
 
-{{#lang_fr}}
+    {
+        {
+        #lang_fr
+    }
+}
+
 /* Make list displays '–' instead of bullets */
 ul li {
     list-style-type: '–';
     padding-left: .5em;
 }
-{{/lang_fr}}
 
-span.initial { 
+    {
+        {
+        /lang_fr
+    }
+}
+
+span.initial {
     float: left;
     font-size: 285%;
     font-weight: bold;
@@ -217,9 +251,23 @@ p.first-para {
     padding: 0;
 }
 
-{{{additional_code}}}/* Default  HTML CSS file includes default EPUB CSS file */
+    {
+        {
+            {
+            additional_code
+        }
+    }
+}
 
-{{{colors}}}
+/* Default  HTML CSS file includes default EPUB CSS file */
+
+    {
+        {
+            {
+            colors
+        }
+    }
+}
 
 p.first-para:first-letter {
     font-size: 300%;
@@ -343,7 +391,10 @@ nav {
 }
 
 /* Improving readability for the HTML format only */
-p, blockquote, li, .image  {
+p,
+blockquote,
+li,
+.image {
     margin-right: auto;
     max-width: 33em;
 }
@@ -396,7 +447,8 @@ footer {
     font-variant: small-caps;
 }
 
-footer, #top {
+footer,
+#top {
     padding-top: .25em;
     padding-bottom: .25em;
     margin-left: 0;
@@ -405,11 +457,13 @@ footer, #top {
     transition: margin-left 1s;
 }
 
-footer a, #top a {
+footer a,
+#top a {
     text-decoration: none;
 }
 
-footer p, #top p {
+footer p,
+#top p {
     text-indent: 0;
     margin-left: auto;
     margin-right: auto;
@@ -419,4 +473,3 @@ footer p, #top p {
 }
 
 {{{additional_code}}}
-
