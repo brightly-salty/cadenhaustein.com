@@ -1,4 +1,4 @@
-all: orthodoxy the-free-press guilds-trade
+all: orthodoxy the-free-press guilds-trade servile-state
 
 %: common.book %.book ./%/*.md
 	-mkdir -p ../books/$@
