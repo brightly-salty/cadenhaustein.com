@@ -10,8 +10,7 @@
   <title>Orthodoxy - 7. The Eternal Revolution</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -106,7 +100,9 @@ function toggle() {
     « 6. The Paradoxes of Christianity
   </a>
 </p>
-      <h1 id="link-7"><span class="chapter-header">Chapter 7</span><br />The Eternal Revolution</h1><p id="para-147">The following propositions have been urged: First, that some faith in our life is required even to improve it; second, that some dissatisfaction with things as they are is necessary even in order to be satisfied; third, that to have this necessary content and necessary discontent it is not sufficient to have the obvious equilibrium of the Stoic. For mere resignation has neither the gigantic levity of pleasure nor the superb intolerance of pain. There is a vital objection to the advice merely to grin and bear it. The objection is that if you merely bear it, you do not grin. Greek heroes do not grin; but gargoyles do–because they are Christian. And when a Christian is pleased, he is (in the most exact sense) frightfully pleased; his pleasure is frightful. Christ prophesied the whole of Gothic architecture in that hour when nervous and respectable people (such people as now object to barrel organs) objected to the shouting of the gutter-snipes of Jerusalem. He said, “If these were silent, the very stones would cry out.” Under the impulse of His spirit arose like a clamorous chorus the façades of the mediaeval cathedrals, thronged with shouting faces and open mouths. The prophecy has fulfilled itself: the very stones cry out.</p>
+      <h1 id="link-7"><span class="chapter-header">Chapter 7</span><br />The Eternal Revolution</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-147">The following propositions have been urged: First, that some faith in our life is required even to improve it; second, that some dissatisfaction with things as they are is necessary even in order to be satisfied; third, that to have this necessary content and necessary discontent it is not sufficient to have the obvious equilibrium of the Stoic. For mere resignation has neither the gigantic levity of pleasure nor the superb intolerance of pain. There is a vital objection to the advice merely to grin and bear it. The objection is that if you merely bear it, you do not grin. Greek heroes do not grin; but gargoyles do–because they are Christian. And when a Christian is pleased, he is (in the most exact sense) frightfully pleased; his pleasure is frightful. Christ prophesied the whole of Gothic architecture in that hour when nervous and respectable people (such people as now object to barrel organs) objected to the shouting of the gutter-snipes of Jerusalem. He said, “If these were silent, the very stones would cry out.” Under the impulse of His spirit arose like a clamorous chorus the façades of the mediaeval cathedrals, thronged with shouting faces and open mouths. The prophecy has fulfilled itself: the very stones cry out.</p>
 <p id="para-148">If these things be conceded, though only for argument, we may take up where we left it the thread of the thought of the natural man, called by the Scotch (with regrettable familiarity), “The Old Man.” We can ask the next question so obviously in front of us. Some satisfaction is needed even to make things better. But what do we mean by making things better? Most modern talk on this matter is a mere argument in a circle-that circle which we have already made the symbol of madness and of mere rationalism. Evolution is only good if it produces good; good is only good if it helps evolution. The elephant stands on the tortoise, and the tortoise on the elephant.</p>
 <p id="para-149">Obviously, it will not do to take our ideal from the principle in nature; for the simple reason that (except for some human or divine theory), there is no principle in nature. For instance, the cheap anti-democrat of to-day will ten you solemnly that there is no equality in nature. He is right, but he does not see the logical addendum. There is no equality in nature; also there is no inequality in nature. Inequality, as much as equality, implies a standard of value. To read aristocracy into the anarchy of animals is just as sentimental as to read democracy into it. Both aristocracy and democracy are human ideals: the one saying that all men are valuable, the other that some men are more valuable. But nature does not say that cats are more valuable than mice; nature makes no remark on the subject. She does not even say that the cat is enviable or the mouse pitiable. We think the cat superior because we have (or most of us have) a particular philosophy to the effect that life is better than death. But if the mouse were a German pessimist mouse, he might not think that the cat had beaten him at all. He might think he had beaten the cat by getting to the grave first. Or he might feel that he had actually inflicted frightful punishment on the cat by keeping him alive. Just as a microbe might feel proud of spreading a pestilence, so the pessimistic mouse might exult to think that he was renewing in the cat the torture of conscious existence. It all depends on the philosophy of the mouse. You cannot even say that there is victory or superiority in nature unless you have some doctrine about what things are superior. You cannot even say that the cat scores unless there is a system of scoring. You cannot even say that the cat gets the best of it unless there is some best to be got.</p>
 <p id="para-150">We cannot, then, get the ideal itself from nature, and as we follow here the first and natural speculation, we will leave out (for the present) the idea of getting it from God. We must have our own vision. But the attempts of most moderns to express it are highly vague.</p>
@@ -153,6 +149,7 @@ function toggle() {
     <footer id="footer"><p id="para-244">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

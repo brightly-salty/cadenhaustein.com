@@ -10,8 +10,7 @@
   <title>Guilds, Trade, and Agriculture - 2. On Wages and Foreign Trade</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -111,7 +105,9 @@ function toggle() {
     « 1. The Need of a Social Theory
   </a>
 </p>
-      <h1 id="link-3"><span class="chapter-header">Chapter 2</span><br />On Wages and Foreign Trade</h1><p id="para-15">In the preceding chapter I urged the necessity of a social theory that would bring economics into a direct relationship with the informal Socialist philosophy with its ideas of brotherhood, mutual aid, fellowship and the common life. Recent events have brought into a new prominence the antagonism that exists between the head and the heart of Socialism.</p>
+      <h1 id="link-3"><span class="chapter-header">Chapter 2</span><br />On Wages and Foreign Trade</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-15">In the preceding chapter I urged the necessity of a social theory that would bring economics into a direct relationship with the informal Socialist philosophy with its ideas of brotherhood, mutual aid, fellowship and the common life. Recent events have brought into a new prominence the antagonism that exists between the head and the heart of Socialism.</p>
 <p id="para-16">During the war wages were raised to keep pace with the increasing cost of living. Nowadays, when prices are falling, the demand is made by employers that a corresponding reduction shall be made in wages. Behind this demand is the contention of employers that foreign trade cannot be restored and unemployment lessened while costs of production in this country remain as high as at present. The more reasonable trade unionists are disposed to accept this view on the assumption that the employers are willing to accept a corresponding reduction in profits. But the extremists refuse to accept any lowering of existing standards of wages without a struggle.</p>
 <p id="para-17">Now, from the point of view of formal Socialist theory, the extremists who refuse to consider a reduction in wages are in the right. If the relations of Capital and Labour are the mechanical ones postulated of Socialist theory the workers are justified in demanding that they shall enjoy a permanent increase in wages. Nor can there be any doubt whatsoever that they are ultimately in the right. If it was possible in the fifteenth century for the town worker to be paid a wage that worked out six or seven times the cost of his board and the agricultural worker two-thirds of this amount,<a href="#note-dest-1"><sup id="note-source-1">[1]</sup></a> it is on the face of things extra- ordinary that with our enormously increased productivity it should yet be impossible to pay the workers a wage which covers little more than bare necessities. Yet a close examination reveals the fact that the present system of industry is so wasteful and built up on a basis so false that it cannot be made to pay the wages that the workers are theoretically justified in demanding. It is apparent that the increases cannot come in the particular way Labour expects or by their particular methods. It is not in the nature of things. Industry as it exists to-day in our great industrial centres is dependent upon foreign trade, and so long as it is so dependent it will be necessary to compete. Except, therefore, where we enjoy some monopoly or other artificial advantage, we shall only be able to compete successfully by producing as cheaply as possible, and that involves lower wages than were paid during the war. There is no getting away from this. If we are to remain an industrial competing nation, the workers must be prepared to accept such wages as will enable our manufacturers to compete successfully.<a href="#note-dest-2"><sup id="note-source-2">[2]</sup></a> If they are not satisfied with so little–and there is no reason why they should be–the present system must be changed.</p>
 <p id="para-18">It is here we come to the popular Socialist fallacy. The present system is not changed merely by changing its ownership, since if the workers succeeded in getting possession of industry to-morrow they would be subject to the same economic laws to which employers are subject to-day, and they would be compelled to act much in the same way because they would be required to run the same machine. But if we wish to change the system we must recognize the necessity for industry to become as far as possible independent of foreign markets. This involves the revival of agriculture, for only by such means can the home markets be restored. In so far as industry could depend upon the home markets, we should be able to exercise control over the conditions of industry, and real fundamental changes in the position of the workers could be introduced. But it is vain to suppose that any such change can be introduced so long as industry rests on the economic quicksand of foreign markets. It becomes apparent therefore that if the position of the workers is to be improved they must take longer views. There is no such thing as “Socialism now.” But there is such a thing as Socialism in ten years’ time if the workers could be persuaded to follow a consistent policy over such a period of time. The trouble is that the workers, as indeed most people in every class, think of the social problem in the terms of their own jobs. The engineer wants a solution in the terms of engineering; the bootmaker in the terms of boots; the clerk in the terms of clerking. It is natural, perhaps, but none the less impossible, for it disregards the action of those world-wide economic forces which dominate all nations in proportion as they become dependent upon foreign trade.</p>
@@ -157,6 +153,7 @@ function toggle() {
     <footer id="footer"><p id="para-212">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

@@ -10,8 +10,7 @@
   <title>Guilds, Trade, and Agriculture - 12. Industrialism and Credit</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -111,7 +105,9 @@ function toggle() {
     « 11. On Morals and Economics
   </a>
 </p>
-      <h1 id="link-13"><span class="chapter-header">Chapter 12</span><br />Industrialism and Credit</h1><p id="para-112">IT has been my aim in this little volume to concentrate attention on certain issues that I feel to be primary and fundamental. There are other things that must be done, such as the liquidation of the war loan, but on this issue I have nothing to add to what has already been said by others. The expenditure of surplus wealth by the rich in the ways it used to be spent would also do much to mitigate the evils of unemployment. But no one at the present time can act in these matters except the rich, and as it seems impossible to persuade them to do anything that ultimately matters, it is just as well to base our politics upon the assumption that they will continue as at present–hoping against hope and doing nothing.</p>
+      <h1 id="link-13"><span class="chapter-header">Chapter 12</span><br />Industrialism and Credit</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-112">IT has been my aim in this little volume to concentrate attention on certain issues that I feel to be primary and fundamental. There are other things that must be done, such as the liquidation of the war loan, but on this issue I have nothing to add to what has already been said by others. The expenditure of surplus wealth by the rich in the ways it used to be spent would also do much to mitigate the evils of unemployment. But no one at the present time can act in these matters except the rich, and as it seems impossible to persuade them to do anything that ultimately matters, it is just as well to base our politics upon the assumption that they will continue as at present–hoping against hope and doing nothing.</p>
 <p id="para-113">The reason why we should concentrate our attention upon the things that are fundamental is precisely because they have been for so long neglected, while their importance to us is proportionate to their neglect. They were neglected because, as I have said before, they are antipathetic to industrialism, and industrialism appeared before the war to be built upon a rock, and few believed it carried within itself the seeds of its own destruction. On the contrary, the world was cursed with an easy-going belief that though evils undoubtedly existed they were merely incidental to the system, and could be remedied by half- baked measures of reform. But that serene self-confidence nowadays is gone, and I can write in a different way. It is no longer necessary for me to plead for recognition of the fact that internal evidence pointed to the break-up of our industrial civilization, since nowadays we can see it dissolving before our very eyes–the only evidence which the modern world is prepared to believe. In these circumstances self-preservation suggests that delay is dangerous, and that it is necessary to get to work at once to build the new society before the existing one breaks down completely.</p>
 <p id="para-114">Meanwhile, those who still retain any belief in the possibility of saving existing society from disruption are concentrating on the problems of credit. With the effort of those who are attempting to overcome the barriers to a revival of foreign trade set up by the depreciation of the exchanges, and with those who would break the monopoly of the banks, I have every sympathy. But with those who imagine that the problems of credit can be cured by some Morrison’s Pill it is different. In my opinion they are living in a world of illusions. One of these pill schemes, that formulated by Major C. H. Douglas, and for which the <em>New Age</em> has stood sponsor, demands special consideration, since, as the editor of that journal acted as sponsor for National Guilds, it has come to be discussed as if it were an approach to the Guilds.</p>
 <p id="para-115">It will not be necessary for us to consider this scheme in all its details. It will be sufficient for us to discuss its central idea. And here I would observe that though I cannot accept Major Douglas’s scheme, I recognize that he has attacked a real problem, though I may add that to some of us it is not a new one. Briefly, then, Major Douglas faces the fact that the policy of Maximum Production inevitably results in a deadlock, upsetting the balance between demand and supply, but instead of tracing it to the causes I have enumerated in Chapters 3, 4 and 5–that is ultimately to certain moral causes–he ignores morals entirely, and traces the phenomenon entirely to its immediate cause in our system of credit. This leads him to seek a solution of the problem in the terms of accountancy. He proposes to correct the discrepancy between demand and supply by selling goods below cost. There is, of course, nothing new in selling below cost. Manufacturers have resorted to it in every financial crisis when they have overproduced, to get rid of their surplus stocks. What is new is this: Appreciating the fact that the present financial crisis is no ordinary one that will pass by the normal operations of supply and demand, he exalts a practice that has hitherto been resorted to as a measure of temporary expediency into a permanent principle of finance. For according to Major Douglas, the selling price of articles must always be below cost, while he proposes that the difference between the actual costs of production and the selling price shall be made up to the producers by the Government in treasury notes. That is the gist of the scheme. It is the only idea we need discuss, as the others are merely accessory to it.</p>
@@ -134,6 +130,7 @@ function toggle() {
     <footer id="footer"><p id="para-222">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

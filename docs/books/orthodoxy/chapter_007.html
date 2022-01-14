@@ -10,8 +10,7 @@
   <title>Orthodoxy - 8. The Romance of Orthodoxy</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -106,7 +100,9 @@ function toggle() {
     « 7. The Eternal Revolution
   </a>
 </p>
-      <h1 id="link-8"><span class="chapter-header">Chapter 8</span><br />The Romance of Orthodoxy</h1><p id="para-184">It is customary to complain of the bustle and strenuousness of our epoch. But in truth the chief mark of our epoch is a profound laziness and fatigue; and the fact is that the real laziness is the cause of the apparent bustle. Take one quite external case; the streets are noisy with taxicabs and motorcars; but this is not due to human activity but to human repose. There would be less bustle if there were more activity, if people were simply walking about. Our world would be more silent if it were more strenuous. And this which is true of the apparent physical bustle is true also of the apparent bustle of the intellect. Most of the machinery of modern language is labour-saving machinery; and it saves mental labour very much more than it ought. Scientific phrases are used like scientific wheels and piston-rods to make swifter and smoother yet the path of the comfortable. Long words go rattling by us like long railway trains. We know they are carrying thousands who are too tired or too indolent to walk and think for themselves. It is a good exercise to try for once in a way to express any opinion one holds in words of one syllable. If you say “The social utility of the indeterminate sentence is recognised by all criminologists as a part of our sociological evolution towards a more humane and scientific view of punishment,” you can go on talking like that for hours with hardly a movement of the grey matter inside your skull. But if you begin “I wish Jones to go to gaol and Brown to say when Jones shall come out,” you will discover, with a thrill of horror, that you are obliged to think. The long words are not the hard words, it is the short words that are hard. There is much more metaphysical subtlety in the word “damn” than in the word “degeneration.”</p>
+      <h1 id="link-8"><span class="chapter-header">Chapter 8</span><br />The Romance of Orthodoxy</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-184">It is customary to complain of the bustle and strenuousness of our epoch. But in truth the chief mark of our epoch is a profound laziness and fatigue; and the fact is that the real laziness is the cause of the apparent bustle. Take one quite external case; the streets are noisy with taxicabs and motorcars; but this is not due to human activity but to human repose. There would be less bustle if there were more activity, if people were simply walking about. Our world would be more silent if it were more strenuous. And this which is true of the apparent physical bustle is true also of the apparent bustle of the intellect. Most of the machinery of modern language is labour-saving machinery; and it saves mental labour very much more than it ought. Scientific phrases are used like scientific wheels and piston-rods to make swifter and smoother yet the path of the comfortable. Long words go rattling by us like long railway trains. We know they are carrying thousands who are too tired or too indolent to walk and think for themselves. It is a good exercise to try for once in a way to express any opinion one holds in words of one syllable. If you say “The social utility of the indeterminate sentence is recognised by all criminologists as a part of our sociological evolution towards a more humane and scientific view of punishment,” you can go on talking like that for hours with hardly a movement of the grey matter inside your skull. But if you begin “I wish Jones to go to gaol and Brown to say when Jones shall come out,” you will discover, with a thrill of horror, that you are obliged to think. The long words are not the hard words, it is the short words that are hard. There is much more metaphysical subtlety in the word “damn” than in the word “degeneration.”</p>
 <p id="para-185">But these long comfortable words that save modern people the toil of reasoning have one particular aspect in which they are especially ruinous and confusing. This difficulty occurs when the same long word is used in different connections to mean quite different things. Thus, to take a well-known instance, the word “idealist” has one meaning as a piece of philosophy and quite another as a piece of moral rhetoric. In the same way the scientific materialists have had just reason to complain of people mixing up “materialist” as a term of cosmology with “materialist” as a moral taunt. So, to take a cheaper instance, the man who hates “progressives” in London always calls himself a “progressive” in South Africa.</p>
 <p id="para-186">A confusion quite as unmeaning as this has arisen in connection with the word “liberal ” as applied to religion and as applied to politics and society. It is often suggested that all Liberals ought to be freethinkers, because they ought to love everything that is free. You might just as well say that all idealists ought to be High Churchmen, because they ought to love everything that is high. You might as well say that Low Churchmen ought to like Low Mass, or that Broad Churchmen ought to like broad jokes. The thing is a mere accident of words. In actual modern Europe a free-thinker does not mean a man who thinks for himself. It means a man who, having thought for himself has come to one particular class of conclusions, the material origin of phenomena, the impossibility of miracles, the improbability of personal immortality and so on. And none of these ideas are particularly liberal. Nay, indeed almost an these ideas are definitely illiberal, as it is the purpose of this chapter to show.</p>
 <p id="para-187">In the few following pages I propose to point out as rapidly as possible that on every single one of the matters most strongly insisted on by liberalisers of theology their effect upon social practice would be definitely illiberal. Almost every contemporary proposal to bring freedom into the church is simply a proposal to bring tyranny into the world. For freeing the church now does not even mean freeing it in all directions. It means freeing that peculiar set of dogmas loosely called scientific, dogmas of monism, of pantheism, or of Arianism, or of necessity. And everyone of these (and we will take them one by one) can be shown to be the natural ally of oppression. In fact, it is a remarkable circumstance (indeed not so very remarkable when one comes to think of it) that most things are the allies of oppression. There is only one thing that can never go past a certain point in its alliance with oppression–and that is orthodoxy. I may, it is true, twist orthodoxy so as partly to justify a tyrant. But I can easily make up a German philosophy to justify him entirely.</p>
@@ -144,6 +140,7 @@ function toggle() {
     <footer id="footer"><p id="para-245">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

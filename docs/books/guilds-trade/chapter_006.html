@@ -10,8 +10,7 @@
   <title>Guilds, Trade, and Agriculture - 6. Fixed Prices versus Speculation</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -111,7 +105,9 @@ function toggle() {
     « 5. On Producing More and Consuming Less
   </a>
 </p>
-      <h1 id="link-7"><span class="chapter-header">Chapter 6</span><br />Fixed Prices versus Speculation</h1><p id="para-49">We have seen that the existing system of industry and finance is rapidly reaching a deadlock. What is to be done in the circumstances?</p>
+      <h1 id="link-7"><span class="chapter-header">Chapter 6</span><br />Fixed Prices versus Speculation</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-49">We have seen that the existing system of industry and finance is rapidly reaching a deadlock. What is to be done in the circumstances?</p>
 <p id="para-50">The first thing to do is to effect such repairs of the old machine as will enable it to run a little longer in order to gain time to build the new one, which we must have in running order before the existing machine breaks down completely. For such a purpose such measures as the reversal of our Russian policy, the removal of all blockades, and the provision of credits for the renewal of trade with Central Europe are indispensable. It will be unnecessary for me to do more than mention them, as steps towards their fulfilment have already been taken. But it is necessary to insist that though these measures may bring relief by enabling our merchants to dispose of their surplus stocks, yet the relief would only be temporary, inasmuch as if the Continental nations get on their feet again they will begin to compete with us in other markets. If on the contrary they do not recover their industrial position but relapse into more primitive conditions, they will not have sufficient surplus to enable them to buy our manufactures. If these facts were clearly recognized and the necessary measures taken in hand, then we should have nothing to fear. But the danger is that the moment any improvement in trade is felt we shall stop thinking and pursue the silly old game, comforting ourselves with the illusion that the dislocation of trade was due entirely to the war, and that there is nothing organically wrong with the industrial system.</p>
 <p id="para-51">The truth, however, must be faced. We are in an economic cul-de-sac, and there is but one path of escape; and that is to get back somehow to the primary realities of life. It must be recognized that we are up against the consequences of centuries of injustice, usury, and Machiavellianism in politics and business, and that there is finally no escape except to return to the principles af justice, honesty and fair dealing, upon which all civilizations rest.</p>
 <p id="para-52">Reduced to its simplest terms, the change necessary to enable society to escape from the deadlock that is threatening industry is conveniently expressed in the well-known formula:–“the substitution of production for profit by production for use”; and the first step in that direction will be taken when we begin to establish a system of fixed prices throughout industry. For though the Just Price rather than the fixed price is the ideal to be attained, yet it can only be realized by stages. The fixed price therefore is to be regarded as a step towards the Just Price, because the people will never be satisfied with a fixed price that is not a Just Price.</p>
@@ -137,6 +133,7 @@ function toggle() {
     <footer id="footer"><p id="para-216">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

@@ -10,8 +10,7 @@
   <title>The Free Press - III</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -119,7 +113,9 @@ function toggle() {
     « II
   </a>
 </p>
-      <h1 id="link-5">III</h1><p id="para-36">Side by side with the development of Capitalism went a change In the Press from Its primitive condition to a worse. The development of Capitalism meant that a smaller and a yet smaller number of men commanded the means of production and of distribution whereby could be printed and set before a large circle a news-sheet fuller than the old model. When distribution first changed with the advent of the railways the difference from the old condition was accentuated, and there arose perhaps one hundred, perhaps two hundred “organs,” as they were called, which, in this country and the Lowlands of Scotland, told men what their proprietors chose to tell them, both as to news and as to opinion. The population was still fairly well spread; there were a number of local capitals; distribution was not yet so organized as to permit a paper printed as near as Birmingham, even, to feel the competition of a paper printed in London only loo miles away. Papers printed as far from London as York, Liverpool or Exeter were the more Independent.</p>
+      <h1 id="link-5">III</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-36">Side by side with the development of Capitalism went a change In the Press from Its primitive condition to a worse. The development of Capitalism meant that a smaller and a yet smaller number of men commanded the means of production and of distribution whereby could be printed and set before a large circle a news-sheet fuller than the old model. When distribution first changed with the advent of the railways the difference from the old condition was accentuated, and there arose perhaps one hundred, perhaps two hundred “organs,” as they were called, which, in this country and the Lowlands of Scotland, told men what their proprietors chose to tell them, both as to news and as to opinion. The population was still fairly well spread; there were a number of local capitals; distribution was not yet so organized as to permit a paper printed as near as Birmingham, even, to feel the competition of a paper printed in London only loo miles away. Papers printed as far from London as York, Liverpool or Exeter were the more Independent.</p>
 <p id="para-37">Further the mass of men, though there was more Intelligent reading (and writing, for that matter) than there is to-day, had not acquired the habit of dally reading.</p>
 <p id="para-38">It may be doubted whether even to-day the mass of men (In the sense of the actual majority of adult citizens) have done so. But what I mean is that in the time of which I speak (the earlier part, and a portion of the middle, of the nineteenth century), there was no reading of papers as a regular habit by those who work with their hands. The papers were still in the main written for those who had leisure; those who for the most part had some travel, and those who had a smattering, at least, of the Humanities.</p>
 <p id="para-39">The matter appearing in the newspapers was often <em>written by</em> men of less facilities. But the people who wrote them, wrote them under the knowledge that their audience was of the sort I describe. To this day in the healthy remnant of our old State, in the country villages, much of this tradition survives. The country folk in my own neighbourhood can read as well as I can; but they prefer to talk among themselves when they are at leisure, or, at the most, to seize in a few moments the main items of news about the war; they prefer this, I say, as a habit of mind, to the poring over square yards of printed matter which (especially in the Sunday papers) are now food for their fellows in the town. That is because in the country a man has true neighbours, whereas the towns are a dust of isolated beings, mentally (and often physically) starved.</p>
@@ -133,6 +129,7 @@ function toggle() {
     <footer id="footer"><p id="para-290">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

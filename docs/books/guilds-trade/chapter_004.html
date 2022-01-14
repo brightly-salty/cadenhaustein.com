@@ -10,8 +10,7 @@
   <title>Guilds, Trade, and Agriculture - 4. On Investing and Spending</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -111,7 +105,9 @@ function toggle() {
     « 3. The Tyranny of Big Business
   </a>
 </p>
-      <h1 id="link-5"><span class="chapter-header">Chapter 4</span><br />On Investing and Spending</h1><p id="para-33">Considering the anti-climax in which big business is seen to be ending, the question arises: What is it that has impelled it on such a fatal course?</p>
+      <h1 id="link-5"><span class="chapter-header">Chapter 4</span><br />On Investing and Spending</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-33">Considering the anti-climax in which big business is seen to be ending, the question arises: What is it that has impelled it on such a fatal course?</p>
 <p id="para-34">With the individuals immediately concerned, love of money, power and personal ambition has doubtless been the mainspring of their activity. But it is a mistake to attribute too much to purely personal influences, inasmuch as such men are the instruments rather than the cause of developments. Their freedom of choice can be exercised only within certain well-defined limits. Those limits are determined by the current ideas and practice of finance, to which all their activities must have reference. To understand therefore the cause of the deadlock that is overtaking industry, we must inquire into those principles of finance which are accepted by all who engage in commercial activities.</p>
 <p id="para-35">In this connection it may be held that there is a sense in which it is true to say that the City has been the victim of a false economic philosophy. For though the principles of that philosophy have on the whole followed and justified economic practice rather than directed it, yet there can be little doubt that commercial men would not have embarked upon their latter-day enterprises with such abandon and self-confidence had they not believed that they were supported by the thought of the age. And indeed, apart from Ruskin and his followers, who were comparatively few in number, the thought of the age did on the whole, until a few years before the war, support the City in its doings. Collectivists objected to the proceeds of industry going into the pockets of a few, but they accepted the principles governing City finance. They did not perceive that apart from the way the earnings of industry were distributed there was anything fundamentally wrong in these principles of finance. Yet that there must be something very fundamentally wrong needs no demonstration to-day. Big business is too manifestly breaking down to be able to justify itself any longer.</p>
 <p id="para-36">Ultimately of course what is wrong is the modern philosophy of life, with its worship of wealth–its belief that the acquisition of money precedes the attainment of all other good things in this universe. But to change these values (and they must be changed) is the work of time, and we are unfortunately faced with immediate issues, the legacy of generations of false philosophy. To deal with them it is necessary to know the proximate cause of things, and the proximate cause of the activities of big business is undoubtedly the theory of investments as popularly understood. That theory teaches that money is never so usefully employed as when it is invested in some productive enterprise, and it recognize no limit to the possibility of such investments. Nearly all people with money accept this theory as a truth that is axiomatic, and consider them- selves as doing a positive service to the community when they reinvest any spare money they may have for further increase instead of spending it in some way or other. For, as they are accustomed to say, money so invested provides employment.</p>
@@ -129,6 +125,7 @@ function toggle() {
     <footer id="footer"><p id="para-214">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>

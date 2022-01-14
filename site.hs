@@ -21,7 +21,7 @@ main = hakyllWith config $ do
       getResourceString
         >>= relativizeUrls
 
-  match ("css/*" .||. "books/*/stylesheet.css") $ do
+  match ("css/*" .||. "books/*/*.css") $ do
     route idRoute
     compile compressCssCompiler
 

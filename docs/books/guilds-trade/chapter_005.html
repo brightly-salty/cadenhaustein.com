@@ -10,8 +10,7 @@
   <title>Guilds, Trade, and Agriculture - 5. On Producing More and Consuming Less</title>
   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script>
-    function on(name) {
+  <script> function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -28,32 +27,27 @@ function off(name) {
 
 var display_menu = false;
 function toggle() {
-    if (display_menu == true) {
+    if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
         document.getElementById("menu").style.left = "1em";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "0";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "0%";
-        }*/
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
         document.getElementById("content").style.marginLeft = "20%";
         document.getElementById("menu").style.left = "20%";
-/*        if(document.getElementById("top")) {
-            document.getElementById("top").style.left = "20%";
-        }
-        if(document.getElementById("footer")) {
-            document.getElementById("footer").style.marginLeft = "20%";
-        }*/
     }
 }
 
-  </script>
+function readingTime() {
+    const text = document.getElementById("page").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time + ' minute read';
+}
+ </script>
 </head>
 
 <body>
@@ -111,7 +105,9 @@ function toggle() {
     « 4. On Investing and Spending
   </a>
 </p>
-      <h1 id="link-6"><span class="chapter-header">Chapter 5</span><br />On Producing More and Consuming Less</h1><p id="para-41">The development of foreign trade was a primary cause in leading the rich to abandon their habit of spending their surplus wealth in public ways and to invest and reinvest it for the purpose of further increase. The discovery of America and the sea route to India transferred prosperity from the Hanseatic and other inland towns to seaports and countries with a good seaboard. The change was very profitable to English merchants, who began to secure a larger share of the commerce of the world. Moreover, it stimulated British industries, and the rich began to find increasing opportunities for profitable investment.</p>
+      <h1 id="link-6"><span class="chapter-header">Chapter 5</span><br />On Producing More and Consuming Less</h1>
+<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
+<p id="para-41">The development of foreign trade was a primary cause in leading the rich to abandon their habit of spending their surplus wealth in public ways and to invest and reinvest it for the purpose of further increase. The discovery of America and the sea route to India transferred prosperity from the Hanseatic and other inland towns to seaports and countries with a good seaboard. The change was very profitable to English merchants, who began to secure a larger share of the commerce of the world. Moreover, it stimulated British industries, and the rich began to find increasing opportunities for profitable investment.</p>
 <p id="para-42">These changes were accompanied by certain changes in economic thought. In the seventeenth century there arose the Mercantile school of economists whose central idea was to increase the wealth of the nation by foreign trade; and as a means towards this end they taught that the rule to follow was “to sell more to strangers yearly than we consume of theirs in value.” Translated into the terms of industry this doctrine becomes that of “producing more and consuming less.” By following this advice, money was made, and in the terms of cash men became wealthy. But unfortunately this was not the only consequence, for this policy brought into existence the problem of surplus production. This surplus was in the first instance deliberately created in order to take advantage of the opportunities of making money that the exploitation of distant markets afforded. But after machinery was invented, it became the plague of our society, for surplus goods increased so enormously in volume that it became a matter of life and death with us to find markets in which to dispose of our goods. For, as a consequence of this money-making policy our society has become economically so constituted that we cannot live merely by producing what we need, but must produce all manner of unnecessary things in order that we may have the money to buy the necessary things, of which we produce too little.</p>
 <p id="para-43">But the evil does not end with ourselves. In the long run, this policy defeats its own ends. It is obviously impossible as a world policy because all the nations cannot be increasing their production and decreasing their consumption at the same time. The thing is simply impossible. Hence it came about that once the employment of machinery began to give us an unfair advantage in exchange, one nation after another was drawn into the whirlpool of industrial production. And in proportion as this came about we were driven further and further afield in the search for markets, until a day came at last when there were no new markets left to exploit. When that point was reached competition became fiercer and fiercer, until the breaking-point arrived and war was precipitated.</p>
 <p id="para-44">The crisis came in Germany. Immediately it is to be traced to the Balkan War, which closed the Balkan markets to her, and to the fact that after the Agadir crisis in 1911 the French capitalists withdrew their loans from Germany, and these things combined to bring the German financial system into a state of bankruptcy; for this system, built upon an inverted pyramid of credit, could not for long bear the strain of adverse conditions. But the ultimate reason why the crisis made its appearance first in Germany was undoubtedly due to the fact that more than any other nation she had forced the pace of competition. In the fifteen years before the war Germany had quadrupled her output. The rate of productivity, due to never-slackening energy, technique and scientific development, was far out-stripping the rate of demand, and there was no stopping, for production was no longer controlled by de/nand but by plant. In consequence, a day came when all the world that would take German-made goods was choked to the lips. Economic difficulties appeared, and then the Prussian doctrine of force spread with alarming rapidity. War was decided upon for the purpose of relieving the pressure of competition by forcing goods upon other markets, and to cheapen production by getting control of additional sources of raw material. Hence the demand for colonial expansion, the destruction of the towns and industries of Belgium and Northern France, and the wholesale destruction of shipping by the submarine campaign. They all had one object in view: to relieve the pressure of competition and to get more elbow-room for German industries. The idea of relieving the pressure of competition by such commercial sabotage was not a new one. It had been employed by Rome when she destroyed Carthage and Corinth and the vineyards and olive groves in Gaul out of commercial rivalry. The Germans, who copied the methods of the Romans in so many ways, followed them also here.</p>
@@ -129,6 +125,7 @@ function toggle() {
     <footer id="footer"><p id="para-215">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
 </footer>
   </div>
+  <script> readingTime(); </script>
 </body>
 
 </html>
