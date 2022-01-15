@@ -1,0 +1,3 @@
+[submodule "crowbook"]
+	path = crowbook
+	url = https://github.com/brightly-salty/crowbook
