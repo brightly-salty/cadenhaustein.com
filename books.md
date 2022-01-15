@@ -13,4 +13,4 @@ A library of books I've found interesting and wanted to host so others can enjoy
 
 ---
 
-[Vote here](https://strawpoll.com/crzp6588f) on the next book I should add, or contact me to suggest others not on that list!
+<a href="https://b2v8c1aeb8d.typeform.com/to/F9E3sQvC" target="_blank" rel="noopener noreferrer">Vote here</a> on the next book I should add, or contact me to suggest others not on that list!
