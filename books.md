@@ -6,6 +6,7 @@ A library of books I've found interesting and wanted to host so others can enjoy
 
 | Year |      Author      |   Book                         | Online                                | PDF                         | ePub                          | Tex                          |
 |------|------------------|--------------------------------|---------------------------------------|-----------------------------|-------------------------------|------------------------------|
+| 1904 | G. K. Chesterton | The Napoleon of Notting Hill   | [Online](napoleon-notting/index.html) | [PDF](napoleon-notting.pdf) | [ePub](napoleon-notting.epub) | [Tex](napoleon-notting.tex)  |
 | 1908 | G. K. Chesterton | Orthodoxy                      | [Online](orthodoxy/index.html)        | [PDF](orthodoxy.pdf)        | [ePub](orthodoxy.epub)        | [Tex](orthodoxy.tex)         |
 | 1912 | Hilaire Belloc   | The Servile State              | [Online](servile-state/index.html)    | [PDF](servile-state.pdf)    | [ePub](servile-state.epub)    | [Tex](servile-state.tex)     |
 | 1917 | G. K. Chesterton | Utopia of Usurers              | [Online](utopia-usurers/index.html)   | [PDF](utopia-usurers.pdf)   | [ePub](utopia-usurers.epub)   | [Tex](utopia-usurers.tex)    |

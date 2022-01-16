@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="crowbook">
+  <meta name="author" content="G. K. Chesterton">
+  <meta name="viewport" content="width=device-width">
+  
+  <title>The Napoleon of Notting Hill - </title>
+  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+  <script> function on(name) {
+    var elements = document.getElementsByClassName(name);
+    for (var i = 0; i < elements.length; i++) {
+        var elem = elements[i];
+        elem.style.backgroundColor = "pink";
+    }
+}
+
+function off(name) {
+    var elements = document.getElementsByClassName(name);
+    for (var i = 0; i < elements.length; i++) {
+        var elem = elements[i];
+        elem.style.backgroundColor = "white";
+    }
+}
+
+var display_menu = false;
+
+function toggle() {
+    if (display_menu) {
+        display_menu = false;
+        document.getElementById("nav").style.left = "-21%";
+        document.getElementById("content").style.marginLeft = "0%";
+        document.getElementById("menu").style.left = "1em";
+    } else {
+        display_menu = true;
+        document.getElementById("nav").style.left = "0";
+        document.getElementById("content").style.marginLeft = "20%";
+        document.getElementById("menu").style.left = "20%";
+    }
+}
+
+function readingTime() {
+    const WPM = 200;
+    var string = document.getElementById("page").innerText;
+    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
+    if (time < 0.5) {
+        document.getElementById('time').innerText = 'less than a minute';
+    } else if (time >= 0.5 && time < 1.5) {
+        document.getElementById('time').innerText = '1 minute';
+    } else {
+        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
+    }
+} </script>
+</head>
+
+<body>
+  
+  <nav id="nav">
+    <h2><a href="index.html">The Napoleon of Notting Hill</a></h2>
+    <ul>
+<li><a href="chapter_000.html#link-1"> Book 1</a>
+<ul><li><a href="chapter_001.html#link-2">1. Introductory Remarks on the Art of Prophecy</a></li>
+<li><a href="chapter_002.html#link-3">2. The Man in Green</a></li>
+<li><a href="chapter_003.html#link-4">3. The Hill of Humour</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_004.html#link-5"> Book 2</a>
+<ul><li><a href="chapter_005.html#link-6">1. The Charter of the Cities</a></li>
+<li><a href="chapter_006.html#link-7">2. The Council of the Provosts</a></li>
+<li><a href="chapter_007.html#link-8">3. Enter a Lunatic</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_008.html#link-9"> Book 3</a>
+<ul><li><a href="chapter_009.html#link-10">1. The Mental Condition of Adam Wayne</a></li>
+<li><a href="chapter_010.html#link-11">2. The Remarkable Mr. Turnbull</a></li>
+<li><a href="chapter_011.html#link-12">3. The Experiment of Mr. Buck</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_012.html#link-13"> Book 4</a>
+<ul><li><a href="chapter_013.html#link-14">1. The Battle of the Lamps</a></li>
+<li><a href="chapter_014.html#link-15">2. The Correspondent of “The Court Journal”</a></li>
+<li><a href="chapter_015.html#link-16">3. The Great Army of South Kensington</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_016.html#link-17"> Book 5</a>
+<ul><li><a href="chapter_017.html#link-18">1. The Empire of Notting Hill</a></li>
+<li><a href="chapter_018.html#link-19">2. The Last Battle</a></li>
+<li><a href="chapter_019.html#link-20">3. Two Voices</a></li>
+
+</ul>
+</li>
+
+</ul>
+
+  </nav>
+
+  <div id="content">
+    
+    <div id="page">
+      <header>
+        <div id="menu">
+          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+        </div>
+      </header>
+      
+      <h2 class="author">G. K. Chesterton</h2>
+<h1 class="title">The Napoleon of Notting Hill</h1>
+<h2 class="subtitle"></h2>
+<div class="autograph">
+
+</div>
+<h1>Table of contents</h1>
+<div id="toc">
+<ul>
+<li><a href="chapter_000.html#link-1"> Book 1</a>
+<ul><li><a href="chapter_001.html#link-2">1. Introductory Remarks on the Art of Prophecy</a></li>
+<li><a href="chapter_002.html#link-3">2. The Man in Green</a></li>
+<li><a href="chapter_003.html#link-4">3. The Hill of Humour</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_004.html#link-5"> Book 2</a>
+<ul><li><a href="chapter_005.html#link-6">1. The Charter of the Cities</a></li>
+<li><a href="chapter_006.html#link-7">2. The Council of the Provosts</a></li>
+<li><a href="chapter_007.html#link-8">3. Enter a Lunatic</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_008.html#link-9"> Book 3</a>
+<ul><li><a href="chapter_009.html#link-10">1. The Mental Condition of Adam Wayne</a></li>
+<li><a href="chapter_010.html#link-11">2. The Remarkable Mr. Turnbull</a></li>
+<li><a href="chapter_011.html#link-12">3. The Experiment of Mr. Buck</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_012.html#link-13"> Book 4</a>
+<ul><li><a href="chapter_013.html#link-14">1. The Battle of the Lamps</a></li>
+<li><a href="chapter_014.html#link-15">2. The Correspondent of “The Court Journal”</a></li>
+<li><a href="chapter_015.html#link-16">3. The Great Army of South Kensington</a></li>
+
+</ul>
+</li>
+<li><a href="chapter_016.html#link-17"> Book 5</a>
+<ul><li><a href="chapter_017.html#link-18">1. The Empire of Notting Hill</a></li>
+<li><a href="chapter_018.html#link-19">2. The Last Battle</a></li>
+<li><a href="chapter_019.html#link-20">3. Two Voices</a></li>
+
+</ul>
+</li>
+
+</ul>
+
+</div>
+<p class="next_chapter">
+  <a href="chapter_000.html">
+    Book 1 »
+  </a>
+</p>
+      
+    </div>
+    <footer id="footer"><p id="para-218">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
+</footer>
+  </div>
+  <script> readingTime(); </script>
+</body>
+
+</html>

@@ -12,6 +12,6 @@ html.chapter.template: "<h1 id = 'link-{{{link}}}'>{{#has_number}}<span class = 
 
 output.base_path: ../books
 
-output.pdf: auto
+# output.pdf: auto
 output.epub: auto
 output.tex: auto
