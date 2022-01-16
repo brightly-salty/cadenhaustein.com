@@ -4,13 +4,25 @@ title: Library
 
 A library of books I've found interesting and wanted to host so others can enjoy them too.
 
-| Year |      Author      |   Book                         | Online                                | PDF                         | ePub                          | Tex                          |
-|------|------------------|--------------------------------|---------------------------------------|-----------------------------|-------------------------------|------------------------------|
-| 1908 | G. K. Chesterton | Orthodoxy                      | [Online](orthodoxy/index.html)        | [PDF](orthodoxy.pdf)        | [ePub](orthodoxy.epub)        | [Tex](orthodoxy.tex)         |
-| 1912 | Hilaire Belloc   | The Servile State              | [Online](servile-state/index.html)    | [PDF](servile-state.pdf)    | [ePub](servile-state.epub)    | [Tex](servile-state.tex)     |
-| 1917 | G. K. Chesterton | Utopia of Usurers              | [Online](utopia-usurers/index.html)   | [PDF](utopia-usurers.pdf)   | [ePub](utopia-usurers.epub)   | [Tex](utopia-usurers.tex)    |
-| 1918 | Hilaire Belloc   | The Free Press                 | [Online](the-free-press/index.html)   | [PDF](the-free-press.pdf)   | [ePub](the-free-press.epub)   | [Tex](the-free-press.tex)    |
-| 1921 | Arthur Penty     | Guilds, Trade, and Agriculture | [Online](guilds-trade/index.html)     | [PDF](guilds-trade.pdf)     | [ePub](guilds-trade.epub)     | [Tex](guilds-trade.epub)     |
+## G. K. Chesterton
+
+| Year | Book                                           | PDF                       | ePub                        |
+|------|------------------------------------------------|---------------------------|-----------------------------|
+| 1908 | [Orthodoxy](orthodoxy/index.html)              | [PDF](orthodoxy.pdf)      | [ePub](orthodoxy.epub)      |
+| 1917 | [Utopia of Usurers](utopia-usurers/index.html) | [PDF](utopia-usurers.pdf) | [ePub](utopia-usurers.epub) |
+
+## Hilaire Belloc
+
+| Year | Book                                          | PDF                       | ePub                        |
+|------|-----------------------------------------------|---------------------------|-----------------------------|
+| 1912 | [The Servile State](servile-state/index.html) | [PDF](servile-state.pdf)  | [ePub](servile-state.epub)  |
+| 1918 | [The Free Press](the-free-press/index.html)   | [PDF](the-free-press.pdf) | [ePub](the-free-press.epub) |
+
+## Arthur Penty
+
+| Year |   Book                                                    | PDF                     | ePub                      |
+|------|-----------------------------------------------------------|-------------------------|---------------------------|
+| 1921 | [Guilds, Trade, and Agriculture](guilds-trade/index.html) | [PDF](guilds-trade.pdf) | [ePub](guilds-trade.epub) |
 
 ---
 
