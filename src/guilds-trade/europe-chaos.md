@@ -44,7 +44,7 @@ A Bill of Exchange is, in simple words, a statement of claim by a creditor on hi
 
 Thus the gold exchange value between sovereigns and dollars can be easily calculated, and this is called the par of exchange. So it is normally open to the debtor to send gold in payment to his creditor. But the actual shipment of gold involves expense, so he usually adopted the second method.
 
-This method is for him to find a creditor in his own country who will sell him a Bill of Exchange or claim upon a debtor in the country to which he himself owes money, or in other words, an Englishman importing cotton from America has to buy dollars with which to pay for his cotton : for the American exporter, as a rule, needs payment in his own currency.
+This method is for him to find a creditor in his own country who will sell him a Bill of Exchange or claim upon a debtor in the country to which he himself owes money, or in other words, an Englishman importing cotton from America has to buy dollars with which to pay for his cotton: for the American exporter, as a rule, needs payment in his own currency.
 
 Similarly an American buying goods from England has to buy sterling, so he gets in touch with the Englishman who wishes to buy dollars, and the transaction is arranged to their mutual advantage. But if England has imported more than she has exported, there will be several Englishmen trying to buy dollars for each American who wishes to sell dollars for sterling. So the price of dollars rises--for the demand exceeds the supply.
 
@@ -104,7 +104,7 @@ It may be asked: "What steps have the Governments taken in order to rectify this
 
 There is no need to call attention to the extravagance of the various Governments. The word is on every one's lips, and the pity is that people do not realize the direction in which extravagance is leading us. For every fresh load of debt, every fresh issue of paper money brings the final tragedy nearer--when the machine on which we depend, and which is already tottering under the blows dealt it by the war, will be unable to serve us any longer.
 
-It is easy to give examples of the results of this extravagance--Continental inflation and British E.P.D. The first renders it more and more impossible for the Continent to buy, the second renders it difficult for our industries to produce the goods the Continent needs at a price they can pay. But whatever it results in, one thing is clear : This extravagance must cease, if Europe is to be saved.
+It is easy to give examples of the results of this extravagance--Continental inflation and British E.P.D. The first renders it more and more impossible for the Continent to buy, the second renders it difficult for our industries to produce the goods the Continent needs at a price they can pay. But whatever it results in, one thing is clear: This extravagance must cease, if Europe is to be saved.
 
 Among other steps taken, various Governments have attempted to regulate their exchanges. This was done during the war with fair success; but it meant the loss of our overseas securities, and also the raising of foreign loans. But after the war the exchanges had to be left to find their own level, with the result we now see.
 
@@ -138,7 +138,7 @@ The possibility of such a catastrophe is so terrible that so far no one has dare
 
 Unfortunately there are not wanting other indications that our civilization is in danger. We can only tabulate these briefly, but whenever in history a civilization has been approaching its end similar indications have appeared.
 
-They include a marked laxity in the morals and an open challenge to the established moral codes. For example, "The Right to Motherhood" shows what is meant. The failing influence of the orthodox faiths, love of luxury and extravagance at a time when tens of thousands are suffering from want ; a spirit of lawless violence, coupled with a strange apathy on the part of a large section of the community, are characteristic indications of a decaying civilization.
+They include a marked laxity in the morals and an open challenge to the established moral codes. For example, "The Right to Motherhood" shows what is meant. The failing influence of the orthodox faiths, love of luxury and extravagance at a time when tens of thousands are suffering from want; a spirit of lawless violence, coupled with a strange apathy on the part of a large section of the community, are characteristic indications of a decaying civilization.
 
 Though these vices are noticeable in Great Britain to-day, they are not nearly so marked as in many Continental countries, and only emphasize the more the fact that Great Britain is still healthier than the Continent.
 

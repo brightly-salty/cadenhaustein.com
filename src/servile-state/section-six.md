@@ -32,7 +32,7 @@ The first model we call *Socialism* or the Collectivist State; the second we cal
 
 With so much elucidated, I will proceed to show in my next section why the second model, involving the redistribution of property, is rejected as impracticable by our existing Capitalist Society, and why, therefore, the model chosen by reformers is the first model, that of a Collectivist State.
 
-I shall then proceed to show that at its first inception all Collectivist Reform is necessarily deflected and evolves, in the place of what it had intended, a new thing : a society wherein the owners remain few and wherein the proletarian mass accepts security at the expense of servitude.
+I shall then proceed to show that at its first inception all Collectivist Reform is necessarily deflected and evolves, in the place of what it had intended, a new thing: a society wherein the owners remain few and wherein the proletarian mass accepts security at the expense of servitude.
 
 Have I made myself clear?
 
