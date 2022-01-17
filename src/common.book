@@ -14,4 +14,3 @@ output.base_path: ../books
 
 # output.pdf: auto
 output.epub: auto
-output.tex: auto

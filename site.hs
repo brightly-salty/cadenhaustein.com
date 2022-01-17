@@ -11,17 +11,17 @@ import System.FilePath (takeBaseName, takeDirectory, (</>))
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["CNAME", "images/*", "books/**/*.epub", "books/**/*.pdf", "books/**/*.tex", "books/**/*.svg", "books/**/*.png"] $ \f -> match f $ do
+  forM_ ["CNAME", "sitemap.xml", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/**/*.svg", "books/**/*.png"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
-  match "books/*/*.html" $ do
+  match "books/**/*.html" $ do
     route idRoute
     compile $
       getResourceString
         >>= relativizeUrls
 
-  match ("css/*" .||. "books/*/*.css") $ do
+  match ("css/*" .||. "books/**/*.css") $ do
     route idRoute
     compile compressCssCompiler
 
