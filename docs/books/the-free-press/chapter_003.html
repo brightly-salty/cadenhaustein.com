@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - II</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - II</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,24 +95,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_002.html">
     « I
   </a>
 </p>
-      <h1 id="link-4">II</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-23">“The Press” means (for the purpose of such an examination) the dissemination by frequently and regularly printed sheets (commonly daily sheets) of (1) news and (2) suggested ideas.</p>
+            <h1 id="link-4">II</h1><p id="para-23">“The Press” means (for the purpose of such an examination) the dissemination by frequently and regularly printed sheets (commonly daily sheets) of (1) news and (2) suggested ideas.</p>
 <p id="para-24">These two things are quite distinct in character and should be regarded separately, though they merge in this: that false ideas are suggested by false news and especially by news which is false through suppression.</p>
 <p id="para-25">First, of News:-—</p>
 <p id="para-26">News, that is, information with regard to those things which affect us but which are not within our own immediate view, is necessary to the life of the State.</p>
@@ -135,16 +124,14 @@ function readingTime() {
 <p id="para-34">These general characters were present in the Press even in its infancy, when each news-sheet still covered but a comparatively small circle; when distribution was difficult, and when the audience addressed was also select and in some measure able to criticize whatever was presented to it. But though present they had no great force; for the adventure of a newspaper was limited. The older method of obtaining news was still remembered and used. The regular readers of anything, paper or book, were few, and those few cared much more for the quality of what they read than for its amount. Moreover, they had some means of judging its truth and value.</p>
 <p id="para-35">In this early phase, moreover, the Press was necessarily highly diverse. One man could print and sell profitably a thousand copies of his version of a piece of news, of his opinions, or those of his clique. There were hundreds of other men who, if they took the pains, had the means to set out a rival account and a rival opinion. We shall see how, as Capitalism grew, these safeguards decayed and the bad characters described were increased to their present enormity.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_004.html">
     III »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-289">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

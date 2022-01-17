@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - IX</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - IX</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,24 +95,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_009.html">
     « VIII
   </a>
 </p>
-      <h1 id="link-11">IX</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-113">I say that the few newspaper controllers govern; and govern abominably. I am right. But they only do so, as do all new powers, by at once alliance with, and treason against, the old: witness Harmsworth and the politicians. The new governing Press is an oligarchy which still works " in with " the just-less-new parliamentary oligarchy.</p>
+            <h1 id="link-11">IX</h1><p id="para-113">I say that the few newspaper controllers govern; and govern abominably. I am right. But they only do so, as do all new powers, by at once alliance with, and treason against, the old: witness Harmsworth and the politicians. The new governing Press is an oligarchy which still works " in with " the just-less-new parliamentary oligarchy.</p>
 <p id="para-114">This connection has developed in the great Capitalist papers a certain character which can be best described by the term “Official.”</p>
 <p id="para-115">Under certain forms of arbitrary government In Continental Europe ministers once made use of picked and rare newspapers to express their views, and these newspapers came to be called “The Official Press.” It was a crude method, and has been long abandoned even by the simpler despotic forms of government. Nothing of that kind exists now, of course, in the deeper corruption of modern Europe–least of all In England.</p>
 <p id="para-116">What has grown up here is a Press organization of support and favour to the system of professional politics which colours the whole of our great Capitalist papers to-day in England. This gives them so distinct a character of parliamentary falsehood, and that falsehood Is so clearly dictated by their connection with executive power that they merit the title “Official.”</p>
@@ -145,16 +134,14 @@ function readingTime() {
 <p id="para-134">With this I pass from the just denunciation of evil to the exposition of what is good.</p>
 <p id="para-135">I propose to examine the nature of that movement which I call “The Free Press,” to analyse the disabilities under which it suffers, and to conclude with my conviction that it is, in spite of its disabilities, not only a growing force, but a salutary one, and, in a certain measure, a conquering one. It is to this argument that I shall now ask my readers to direct themselves.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_011.html">
     X »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-296">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

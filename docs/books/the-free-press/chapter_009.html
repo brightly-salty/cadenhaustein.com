@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - VIII</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - VIII</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,24 +95,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_008.html">
     « VII
   </a>
 </p>
-      <h1 id="link-10">VIII</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-96">I say that our interest lies in the question of degree. It always does. The philosopher said: “All things are a matter of degree; and who shall establish degree?” But I think we are agreed–and by “we” I mean all educated men with some knowledge of the world around us–that the degree to which the suppression of truth, the propagation of falsehood, the artificial creation of opinion, and the boycott of Inconvenient doctrine have reached in the great Capitalist Press for some time past in England, Is at least dangerously high.</p>
+            <h1 id="link-10">VIII</h1><p id="para-96">I say that our interest lies in the question of degree. It always does. The philosopher said: “All things are a matter of degree; and who shall establish degree?” But I think we are agreed–and by “we” I mean all educated men with some knowledge of the world around us–that the degree to which the suppression of truth, the propagation of falsehood, the artificial creation of opinion, and the boycott of Inconvenient doctrine have reached in the great Capitalist Press for some time past in England, Is at least dangerously high.</p>
 <p id="para-97">There is no one in public life but could give dozens of examples from his own experience of perfectly sensible letters to the Press, citing irrefutable testimony upon matters of the first importance, being refused publicity. Within the guild of the journalists, there is not a man who could not give you a hundred examples of deliberate suppression and deliberate falsehood by his employers both as regards news important to the nation and as regards great bodies of opinion.</p>
 <p id="para-98">Equally significant with the mere vast numerical accumulation of such instances is their quality.</p>
 <p id="para-99">Let me give a few examples. No straight-forward, common-sense, <em>real</em> description of any professional politician–his manners, capacities, way of speaking, intelligence–ever appears to-day in any of the great papers. We never have anything within a thousand miles of what men who meet them say.</p>
@@ -139,16 +128,14 @@ function readingTime() {
 <p id="para-111">I could give any number of other, and, perhaps, minor instances as the times go (but still enormous instances as older morals went) of the same thing. They have shown the incapacity and falsehood of the great capitalist newspapers during these few months of white-hot crisis in the fate of England.</p>
 <p id="para-112">This is not a querulous complaint against evils that are human and necessary, and therefore always present. I detest such waste of energy, and I agree with all my heart in the statement recently made by the Editor of “The New Age” that in moments such as these, when any waste is inexcusable, sterile complaint is the <em>worst</em> of waste. But my complaint here is not sterile. It is fruitful. This Capitalist Press has come at last to warp all judgment. The tiny oligarchy which controls it is irresponsible and feels itself immune. It has come to believe that it can suppress any truth and suggest any falsehood. It governs, and governs abominably: and it is governing thus in the midst of a war for life.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_010.html">
     IX »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-295">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - XIX</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - XIX</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,24 +95,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_019.html">
     « XVIII
   </a>
 </p>
-      <h1 id="link-29">XIX</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-270">But there is a last factor in this progressive advance of the free Press towards success which I think the most important of all. It is the factor of time in the process of human generations.</p>
+            <h1 id="link-29">XIX</h1><p id="para-270">But there is a last factor in this progressive advance of the free Press towards success which I think the most important of all. It is the factor of time in the process of human generations.</p>
 <p id="para-271">It is an old tag that the paradox of one age is the commonplace of the next, and that tag is true. It is true, because young men are doubly formed. First, by the reality and freshness of their own experience, and next, by the authority of their elders.</p>
 <p id="para-272">You see the thing in the reputation of poets. For instance, when A is 20, B 40, and C 60, a new poet appears, and is, perhaps, thought an eccentric. “A” cannot help recognizing the new note and admiring it, but he is a little ashamed of what may turn out to be an immature opinion, and he holds his tongue. “B” is too busy in middle life and already too hardened to feel the force of the new note and the authority he has over “A” renders “A” still more doubtful of his own judgment. “C” is frankly contemptuous of the new note. He has sunk into the groove of old age.</p>
 <p id="para-273">Now let twenty years pass, and things will have changed in this fashion. “C” is dead. “B” has grown old, and is of less effect as an authority. “A” is himself in middle age, and is sure of his own taste and not prepared to take that of elders. He has already long expressed his admiration for the new poet, who is, indeed, not a “new poet” any longer, but, perhaps, already an established classic.</p>
@@ -130,16 +119,14 @@ function readingTime() {
 <p id="para-276">With this Increasing and cumulative effect of truth-telling, even when that truth is marred or distorted by enthusiasm, all the disabilities under which It has suffered will coincidently weaken. The strongest force of all against people’s hearing the truth–the arbitrary power still used by the political lawyers to suppress Free writing–will, I think, weaken.</p>
 <p id="para-277">The Courts, after all, depend largely upon the mass of opinion. Twenty years ago, for instance, an accusation of bribery brought against some professional politician would have been thought a monstrosity, and, however true, would nearly always have given the political lawyers, his colleagues, occasion for violent repression. To-day the thing has become so much a commonplace that all appeals to the old Illusion would fall flat. The presiding lawyer could not put on an air of shocked incredulity at hearing that such-and-such a Minister had been mixed up in such-and-such a financial scandal. We take such things for granted nowadays.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_021.html">
     XX »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-306">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

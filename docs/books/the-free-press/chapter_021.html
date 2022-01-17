@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - XX</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - XX</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,24 +95,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_020.html">
     « XIX
   </a>
 </p>
-      <h1 id="link-30">XX</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-278">What I do doubt in the approaching and already apparent success of the Free Press is its power to effect democratic reform.</p>
+            <h1 id="link-30">XX</h1><p id="para-278">What I do doubt in the approaching and already apparent success of the Free Press is its power to effect democratic reform.</p>
 <p id="para-279">It will succeed at last in getting the truth told pretty openly and pretty thoroughly. It will break down the barrier between the little governing clique in which the truth is cynically admitted and the bulk of educated men and women who cannot get the truth by word of mouth but depend upon the printed word. We shall, I believe, even within the lifetime of those who have taken part in the struggle, have all the great problems of our time, particularly the Economic problems, honestly debated. But what I do not see is the avenue whereby the great mass of the people can now be restored to an interest in the way in which they are governed, or even in the re-establishment of their own economic independence.</p>
 <p id="para-280">So far as I can gather from the life around me, the popular appetite for freedom and even for criticism has disappeared. The wage-earner demands sufficient and regular subsistence, including a system of pensions, and, as part of his definition of subsistence and sufficiency, a due portion of leisure. That he demands a property in the means of production, I can see no sign whatever. It may come; but all the evidence Is the other way. And as for a general public indignation against corrupt government, there is (below the few in the know who either share the swag or shrug their shoulders) no sign that it will be strong enough to have any effect.</p>
 <p id="para-281">All we can hope to do Is, for the moment, negative: In my view, at least. We can undermine the power of the Capitalist Press. We can expose it as we have exposed the Politicians. It is very powerful but very vulnerable–as are all human things that repose on a lie. We may expect, in a delay perhaps as brief as that which was required to pillory, and, therefore, to hamstring the miserable falsehood and ineptitude called the Party System (that Is, In some ten years or less), to reduce the Official Press to the same plight. In some ways the danger of failure is less, for our opponent is certainly less well-organized. But beyond that–beyond these limits–we shall not attain. We shall enlighten, and by enlightening, destroy. We shall not provoke public action, for the methods and instincts of corporate civic action have disappeared.</p>
@@ -130,12 +119,10 @@ function readingTime() {
 <p id="para-284">I shall do so, and the others who continue in like service will do so, <em>first</em>, because, though the work is so far negative only, there is (and we all instinctively feel it), a <em>Vis Medicatrix Naturae</em>: merely in weakening an evil you may soon be, you ultimately will surely be, creating a good: <em>secondly</em>, because self-respect and honour demand it. No man who has the truth to tell and the power to tell it can long remain hiding it from fear or even from despair without ignominy. To release the truth against whatever odds, even if so doing can no longer help the Commonwealth, is a necessity for the soul.</p>
 <p id="para-285">We have also this last consolation, that those who leave us and attach themselves from fear or greed to the stronger party of dissemblers gradually lose thereby their chance of fame in letters. Sound writing cannot survive in the air of mechanical hypocrisy. They with their enormous modern audiences are the hacks doomed to oblivion. We, under the modern silence, are the inheritors of those who built up the political greatness of England upon a foundation of free speech, and of the prose which it begets. Those who prefer to sell themselves or to be cowed gain, as a rule, not even that ephemeral security for which they betrayed their fellows; meanwhile, they leave to us the only solid and permanent form of political power, which is the gift of mastery through persuasion.</p>
 
-      
+            
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-307">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

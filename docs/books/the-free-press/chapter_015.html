@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - XIV</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - XIV</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,39 +95,35 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_014.html">
     « XIII
   </a>
 </p>
-      <h1 id="link-24">XIV</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-239">The first thing to note is that the Free Press is not read perfunctorily, but with close attention. The audience it has, if small, is an audience which never misses its pronouncements whether it agrees or disagrees with them, and which is absorbed in its opinions, its statement of fact and its arguments. Look narrowly at History and you will find that all great <em>reforms</em> have started thus: not through a widespread control acting downwards, but through spontaneous energy, local and intensive, acting upwards.</p>
+            <h1 id="link-24">XIV</h1><p id="para-239">The first thing to note is that the Free Press is not read perfunctorily, but with close attention. The audience it has, if small, is an audience which never misses its pronouncements whether it agrees or disagrees with them, and which is absorbed in its opinions, its statement of fact and its arguments. Look narrowly at History and you will find that all great <em>reforms</em> have started thus: not through a widespread control acting downwards, but through spontaneous energy, local and intensive, acting upwards.</p>
 <p id="para-240">You cannot say this of the Official Press, for the simple reason that the Official Press is only of real political interest on rare and brief occasions. It is read of course, by a thousand times more people than those who read the Free Press. But its readers are not gripped by it. They are not, save upon the rare occasions of a particular “scoop” or “boom,” <em>informed</em> by it, in the old sense of that pregnant word, <em>informed:</em>–they are not possessed, filled, changed, moulded to new action.</p>
 <p id="para-241">One of the proofs of this–a curious, a comic, but a most conclusive proof–is the dependence of the great daily papers on the headline. Ninety-nine people out of a hundred retain this and nothing more, because the matter below is but a flaccid expansion of the headline.</p>
 <p id="para-242">Now the Headline suggests, of course, a fact (or falsehood) with momentary power. So does the Poster. But the mere fact of dependence on such methods is a proof of the inherent weakness underlying it.</p>
 <p id="para-243">You have, then, at the outset a difference of <em>quality</em> in the reading and in the effect of the reading which it is of capital importance to my argument that the reader should note. The Free Press is really read and digested. The Official Press is not. Its scream is heard, but it provides no food for the mind. One does not contrast the exiguity of a pint of nitric acid in an engraver’s studio with the hundreds of gallons of water in the cisterns of his house. No amount of water would bite into the copper. Only the acid does that: and a little of the acid is enough.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_016.html">
     XV »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-301">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>
