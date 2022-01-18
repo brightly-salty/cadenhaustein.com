@@ -78,7 +78,7 @@ There is one last point to be considered in this definition.
 
 It is this:
 
-Since, in the nature of things, a free society must enforce a contract (a free society consisting in nothing else but the enforcement of free contracts), how far can that be called a Servile condition which is the result of contract nominally or really free? In other words, is not a contract to labour, however freely entered into, servile of its nature when enforced by the State ?
+Since, in the nature of things, a free society must enforce a contract (a free society consisting in nothing else but the enforcement of free contracts), how far can that be called a Servile condition which is the result of contract nominally or really free? In other words, is not a contract to labour, however freely entered into, servile of its nature when enforced by the State?
 
 For instance, I have no food or clothing, nor do I possess the means of production whereby I can produce any wealth in exchange for such. I am so circumstanced that an owner of the Means of Production will not allow me access to those Means unless I sign a contract to serve him for a week at a wage of bare subsistence. Does the State in enforcing that contract make me for that week a slave?
 

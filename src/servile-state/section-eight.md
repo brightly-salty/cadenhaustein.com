@@ -118,7 +118,7 @@ These two factors, then, the memory of an older condition of economic freedom, a
 
 The thing may be put in many ways. I will put it in what I believe to be the most conclusive of all.
 
-If you were to approach those millions of families now living at a wage, with the proposal for a contract of service for life, guaranteeing them employment at what each regarded as his usual full wage, how many would refuse ?
+If you were to approach those millions of families now living at a wage, with the proposal for a contract of service for life, guaranteeing them employment at what each regarded as his usual full wage, how many would refuse?
 
 Such a contract would, of course, involve a loss of freedom: a life-contract of the kind is, to be accurate, no contract at all. It is the negation of contract and the acceptation of status. It would lay the man that undertook it under an obligation of forced labour, coterminous and coincident with his power to labour. It would be a permanent renunciation of his right (if such a right exists) to the surplus values created by his labour. If we ask ourselves how many men, or rather how many families, would prefer freedom (with its accompaniments of certain insecurity and possible insufficiency) to such a life-contract, no one can deny that the answer is: "Very few would refuse it." That is the key to the whole matter.
 
