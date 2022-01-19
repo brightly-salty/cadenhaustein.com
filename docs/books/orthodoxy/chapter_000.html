@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="G. K. Chesterton">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>Orthodoxy - 1. Introduction in Defense of Everything Else</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="G. K. Chesterton">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>Orthodoxy - 1. Introduction in Defense of Everything Else</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">Orthodoxy</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">Orthodoxy</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">1. Introduction in Defense of Everything Else</a></li>
 <li><a href="chapter_001.html#link-2">2. The Maniac</a></li>
 <li><a href="chapter_002.html#link-3">3. The Suicide of Thought</a></li>
@@ -91,20 +82,18 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      
-      <h1 id="link-1"><span class="chapter-header">Chapter 1</span><br />Introduction in Defense of Everything Else</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-1">The only possible excuse for this book is that it is an answer to a challenge. Even a bad shot is dignified when he accepts a duel. When some time ago I published a series of hasty but sincere papers, under the name of “Heretics,” several critics for whose intellect I have a warm respect (I may mention specially Mr. G. S. Street) said that it was all very well for me to tell everybody to affirm his cosmic theory, but that I had carefully avoided supporting my precepts with example. “I will begin to worry about my philosophy,” said Mr. Street, “when Mr. Chesterton has given us his.” It was perhaps an incautious suggestion to make to a person only too ready to write books upon the feeblest provocation. But after all, though Mr. Street has inspired and created this book, he need not read it. If he does read it, he will find that in its pages I have attempted in a vague and personal way, in a set of mental pictures rather than in a series of deductions, to state the philosophy in which I have come to believe. I will not call it my philosophy; for I did not make it. God and humanity made it; and it made me.</p>
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            
+            <h1 id="link-1"><span class="chapter-header">Chapter 1</span><br />Introduction in Defense of Everything Else</h1><p id="para-1">The only possible excuse for this book is that it is an answer to a challenge. Even a bad shot is dignified when he accepts a duel. When some time ago I published a series of hasty but sincere papers, under the name of “Heretics,” several critics for whose intellect I have a warm respect (I may mention specially Mr. G. S. Street) said that it was all very well for me to tell everybody to affirm his cosmic theory, but that I had carefully avoided supporting my precepts with example. “I will begin to worry about my philosophy,” said Mr. Street, “when Mr. Chesterton has given us his.” It was perhaps an incautious suggestion to make to a person only too ready to write books upon the feeblest provocation. But after all, though Mr. Street has inspired and created this book, he need not read it. If he does read it, he will find that in its pages I have attempted in a vague and personal way, in a set of mental pictures rather than in a series of deductions, to state the philosophy in which I have come to believe. I will not call it my philosophy; for I did not make it. God and humanity made it; and it made me.</p>
 <p id="para-2">I have often had a fancy for writing a romance about an English yachtsman who slightly miscalculated his course and discovered England under the impression that it was a new island in the South Seas. I always find, however, that I am either too busy or too lazy to write this fine work, so I may as well give it away for the purposes of philosophical illustration. There will probably be a general impression that the man who landed (armed to the teeth and talking by signs) to plant the British flag on that barbaric temple which turned out to be the Pavilion at Brighton, felt rather a fool. I am not here concerned to deny that he looked a fool. But if you imagine that he felt a fool, or at any rate that the sense of folly was his sole or his dominant emotion, then you have not studied with sufficient delicacy the rich romantic nature of the hero’ of this tale. His mistake was really a most enviable mistake; and he knew it, if he was the man I take him for. What could be more delightful than to have in the same few minutes all the fascinating terrors of going abroad combined with all the humane security of coming home again? What could be better than to have all the fun of discovering South Africa without the disgusting necessity of landing there? What could be more glorious than to brace one’s self up to discover New South Wales and then realize, with a gush of happy tears, that it was really old South Wales. This at least seems to me the main problem for philosophers, and is in a manner the main problem of this book. How can we contrive to be at once astonished at the world and yet at home in it? How can this queer cosmic town, with its many-legged citizens, with its monstrous and ancient lamps, how can this world give us at once the fascination of a strange town and the comfort and honour of being our own town?</p>
 <p id="para-3">To show that a faith or a philosophy is true from every standpoint would be too big an undertaking even for a much bigger book than this it is necessary to follow one path of argument; and this is the path that I here propose to follow. I wish to set forth my faith as particularly answering this double spiritual need, the need for that mixture of the familiar and the unfamiliar which Christendom has rightly named romance. For the very word “romance” has in it the mystery and ancient meaning of Rome. Any one setting out to dispute anything ought always to begin by saying what he does not dispute. Beyond stating what he proposes to prove he should always state what he does not propose to prove. The thing I do not propose to prove, the thing I propose to take as common ground between myself and any average reader, is this desirability of an active and imaginative life, picturesque and full of a poetical curiosity, a life such as western man at any rate always seems to have desired. If a man says that extinction is better than existence or blank existence better than variety and adventure, then he is not one of the ordinary people to whom I am talking. If a man prefers nothing I can give him nothing. But nearly all people I have ever met in this western society in which I live would agree to the general proposition that we need this life of practical romance; the combination of something that is strange with something that is secure. We need so to view the world as to combine an idea of wonder and an idea of welcome. We need to be happy in this wonderland without once being merely comfortable. It is <em>this</em> achievement of my creed that I shall chiefly pursue in these pages.</p>
 <p id="para-4">But I have a peculiar reason for mentioning the man in a yacht, who discovered England. For I am that man in a yacht. I discovered England. I do not see how this book can avoid being egotistical; and I do not quite see (to tell the truth) how it can avoid being dull. Dullness will, however, free me from the charge which I most lament; the charge of being flippant. Mere light sophistry is the thing that I happen to despise most of all things, and it is perhaps a wholesome fact that this is the thing of which I am generally accused. I know nothing so contemptible as a mere paradox; a mere ingenious defence of the indefensible. If it were true (as has been said) that Mr. Bernard Shaw lived upon paradox, then he ought to be a mere common millionaire; for a man of his mental activity could invent a sophistry every six minutes. It is as easy as lying; because it is lying. The truth is, of course, that Mr. Shaw is cruelly hampered by the fact that he cannot tell any lie unless he thinks it is the truth. I find myself under the same intolerable bondage. I never in my life said anything merely because I thought it funny; though, of course, I have had ordinary human vain-glory, and may have thought it funny because I had said it. It is one thing to describe an interview with a gorgon or a griffin, a creature who does not exist. It is another thing to discover that the rhinoceros does exist and then take pleasure in the fact that he looks as if he didn’t. One searches for truth, but it may be that one pursues instinctively the more extraordinary truths. And I offer this book with the heartiest sentiments to all the jolly people who hate what I write, and regard it (very justly, for all I know), as a piece of poor clowning or a single tiresome joke.</p>
@@ -112,16 +101,14 @@ function readingTime() {
 <p id="para-6">It may be that somebody will be entertained by the account of this happy fiasco. It might amuse a friend or an enemy to read how I gradually learnt from the truth of some stray legend or from the falsehood of some dominant philosophy, things that I might have learnt from my catechism–if I had ever learnt it. There may or may not be some entertainment in reading how I found at last in an anarchist club or a Babylonian temple what I might have found in the nearest parish church. If anyone is entertained by learning how the flowers of the field or the phrases in an omnibus, the accidents of politics or the pains of youth came together in a certain order to produce a certain conviction of Christian orthodoxy, he may possibly read this book. But there is in everything a reasonable division of labour. I have written the book, and nothing on earth would induce me to read it.</p>
 <p id="para-7">I add one purely pedantic note which comes, as a note naturally should, at the beginning of the book. These essays are concerned only to discuss the actual fact that the central Christian theology (sufficiently summarized in the Apostles’ Creed) is the best root of energy and sound ethics. They are not intended to discuss the very fascinating but quite different question of what is the present seat of authority for the proclamation of that creed. When the word “orthodoxy” is used here it means the Apostles’ Creed, as understood by everybody calling himself Christian until a very short time ago and the general historic conduct of those who held such a creed. I have been forced by mere space to confine myself to what I have got from this creed; I do not touch the matter much disputed among modern Christians, of where we ourselves got it. This is not an ecclesiastical treatise but a sort of slovenly autobiography. But if any one wants my opinions about the actual nature of the authority, Mr. G. S. Street has only to throw me another challenge, and I will write him another book.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_001.html">
     2. The Maniac »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-238">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

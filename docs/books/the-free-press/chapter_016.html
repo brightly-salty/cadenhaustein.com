@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - XV</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - XV</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,39 +95,35 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_015.html">
     « XIV
   </a>
 </p>
-      <h1 id="link-25">XV</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-244">Next let it be noted that the Free Press powerfully affects, even when they disagree with it, and most of all when they hate it, the small class through whom in the modern world ideas spread.</p>
+            <h1 id="link-25">XV</h1><p id="para-244">Next let it be noted that the Free Press powerfully affects, even when they disagree with it, and most of all when they hate it, the small class through whom in the modern world ideas spread.</p>
 <p id="para-245">There never was a time in European history when the mass of people thought so little for themselves, and depended so much (for the ultimate form of their society) upon the conclusions and vocabulary of a restricted leisured body.</p>
 <p id="para-246">That is a diseased state of affairs. It gives all their power to tiny cliques of well-to-do people. But incidentally it helps the Free Press.</p>
 <p id="para-247">It is a restricted leisured body to which the Free Press appeals. So strict has been the boycott–and still is, though a little weakening–that the editors of, and writers upon, the Free Papers probably underestimate their own effect even now. They are never mentioned in the great daily journals. It is almost a point of honour with the Official Press to turn a phrase upside down, or, if they must quote, to quote in the most round-about fashion, rather than print in plain black and white the three words “The New Age” or “The New Witness.”</p>
 <p id="para-248">But there are a number of tests which show how deeply the effect of a Free Paper of limited circulation bites in. Here is one apparently superficial test, but a test to which I attach great importance because it is a revelation of how minds work. Certain phrases peculiar to the Free Journals find their way into the writing of all the rest. I could give a number of instances. I will give one: the word “profiteer.” It was first used in the columns of “The New Age,” if I am not mistaken. It has gained ground everywhere. This does not mean that the mass of the employees upon daily papers understand what they are talking about when they use the word “profiteer,” any more than they understand what they are talking about when they use the words “servile state.” They commonly debase the word “profiteer” to mean some one who gets an exceptional profit, just as they use my own “Eye-Witness ” phrase, “The Servile State,” to mean strict regulation of all civic life–an idea twenty miles away from the proper signification of the term. But my point is that the Free Press must have had already a profound effect for its mere vocabulary to have sunk in thus, and to have spread so widely In the face of the rigid boycott to which it is subjected.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_017.html">
     XVI »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-302">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

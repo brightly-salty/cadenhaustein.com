@@ -26,7 +26,7 @@ I shall divide the matter thus:--
 
 4. wrecked in certain areas of Europe as it approached completion, and had substituted for it, in practice though not in legal theory, a society based upon **Capitalism**.
 
-5. Next, I shall show how Capitalism was of its nature unstable, because its social realities were in conflict with all existing or possible systems of law, and because its effects in denying *sufficiency* and *security* were intolerable to men  how being thus *unstable*, it consequently presented a *problem* which demanded a solution: to wit, the establishment of some stable form of society whose law and social practice should correspond, and whose economic results, by providing *sufficiency* and *security*, should be tolerable to human nature.
+5. Next, I shall show how Capitalism was of its nature unstable, because its social realities were in conflict with all existing or possible systems of law, and because its effects in denying *sufficiency* and *security* were intolerable to men how being thus *unstable*, it consequently presented a *problem* which demanded a solution: to wit, the establishment of some stable form of society whose law and social practice should correspond, and whose economic results, by providing *sufficiency* and *security*, should be tolerable to human nature.
 
 6. I shall next present the only three possible solutions:--
 

@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Servile State - 5. The Capitalist State In Proportion As It Grows Perfect Grows Unstable</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Servile State - 5. The Capitalist State In Proportion As It Grows Perfect Grows Unstable</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Servile State</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Servile State</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Introduction: The Subject of This Book</a></li>
 <li><a href="chapter_001.html#link-2">1. Definitions</a></li>
 <li><a href="chapter_002.html#link-3">2. Our Civilisation Was Originally Servile</a></li>
@@ -93,24 +84,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_004.html">
     « 4. How The Distributive State Failed
   </a>
 </p>
-      <h1 id="link-6"><span class="chapter-header">Section 5</span><br />The Capitalist State In Proportion As It Grows Perfect Grows Unstable</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-192">For the historical digression which I have introduced by way of illustrating my subject in the last two sections I now return to the general discussion of my thesis and to the logical process by which it may be established.</p>
+            <h1 id="link-6"><span class="chapter-header">Section 5</span><br />The Capitalist State In Proportion As It Grows Perfect Grows Unstable</h1><p id="para-192">For the historical digression which I have introduced by way of illustrating my subject in the last two sections I now return to the general discussion of my thesis and to the logical process by which it may be established.</p>
 <p id="para-193">The Capitalist State is unstable, and indeed more properly a transitory phase lying between two permanent and stable states of society.</p>
 <p id="para-194">In order to appreciate why this is so, let us recall the definition of the Capitalist State:–</p>
 <p id="para-195">“A society in which the ownership of the means of production is confined to a body of free citizens, not large enough to make up properly a general character of that society, while the rest are dispossessed of the means of production, and are therefore proletarian, we call <em>Capitalist</em>."</p>
@@ -162,16 +151,14 @@ function readingTime() {
 </table>
 </div>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_006.html">
     6. The Stable Solutions Of This Instability »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-498">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

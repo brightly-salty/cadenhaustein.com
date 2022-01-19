@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Free Press - Dedication</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Free Press - Dedication</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Free Press</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Free Press</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Dedication</a></li>
 <li><a href="chapter_001.html#link-2">Summary</a></li>
 <li><a href="chapter_002.html#link-3">I</a></li>
@@ -104,20 +95,18 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      
-      <h1 id="link-1">Dedication</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-1">Kings Land, Shipley, Horsham. <em>October</em> 14, 1917.</p>
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            
+            <h1 id="link-1">Dedication</h1><p id="para-1">Kings Land, Shipley, Horsham. <em>October</em> 14, 1917.</p>
 <p id="para-2">My Dear Orage,</p>
 <p id="para-3">I dedicate this little essay to you not only because “The New Age” (which is your paper) published it in its original form, but much more because you were, I think, the pioneer, in its modern form at any rate, of the Free Press in this country. I well remember the days when one used to write to “The New Age” simply because one knew it to be the only paper in which the truth with regard to our corrupt politics, or indeed with regard to any powerful evil, could be told. That is now some years ago; but even to-day there is only one other paper in London of which this is true, and that is the “New Witness.” Your paper and that at present edited by Mr. Gilbert Chesterton are the fullest examples of the Free Press we have.</p>
 <p id="para-4">It is significant, I think, that these two papers differ entirely in the philosophies which underlie their conduct and in the social ends at which they aim. In other words, they differ entirely in religion which is the ultimate spring of all political action. There is perhaps no single problem of any importance in private or in public morals which the one would not attempt to solve in a fashion different from, and usually antagonistic to, the other. Yet we discover these two papers with their limited circulation, their lack of advertisement subsidy, their restriction to a comparatively small circle, possessing a power which is not only increasing but has long been quite out of proportion to their numerical status.</p>
@@ -130,16 +119,14 @@ function readingTime() {
 <p id="para-11">I say at the close of these pages that I do not believe the new spirit we have produced will lead to any system of self-government, economic or political. I think the decay has gone too far for that. In this I may be wrong; it is but an opinion with regard to the future. On the other matter I have experience and immediate example before me, and I am certain that the battle for free political discussion is now won. Mere knowledge of our public evils,, economic and political, will henceforward spread; and though we must suffer the external consequences of sO’ prolonged a regime of lying, the lies are now known to be lies. True expression, though it should bear no immediate and practical fruit, is at least now guaranteed a measure of freedom, and the coming evils which the State must still endure will at least not be endured in silence. Therefore it was worth while fighting.</p>
 <p id="para-12">Very sincerely yours, H. Belloc.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_001.html">
     Summary »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-286">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

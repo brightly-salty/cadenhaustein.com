@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="Hilaire Belloc">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>The Servile State - 1. Definitions</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="Hilaire Belloc">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>The Servile State - 1. Definitions</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">The Servile State</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">The Servile State</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Introduction: The Subject of This Book</a></li>
 <li><a href="chapter_001.html#link-2">1. Definitions</a></li>
 <li><a href="chapter_002.html#link-3">2. Our Civilisation Was Originally Servile</a></li>
@@ -93,24 +84,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_000.html">
     « Introduction: The Subject of This Book
   </a>
 </p>
-      <h1 id="link-2"><span class="chapter-header">Section 1</span><br />Definitions</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-25">Man, like every other organism, can only live by the transformation of his environment to his own use. He must transform his environment from a condition where it is less to a condition where it is more subservient to his needs.</p>
+            <h1 id="link-2"><span class="chapter-header">Section 1</span><br />Definitions</h1><p id="para-25">Man, like every other organism, can only live by the transformation of his environment to his own use. He must transform his environment from a condition where it is less to a condition where it is more subservient to his needs.</p>
 <p id="para-26">That special, conscious,and intelligent transformation of his environment which is peculiar to the peculiar intelligence and creative faculty of man we call the <em>Production of Wealth</em>.</p>
 <p id="para-27"><em>Wealth</em> is matter which has been consciously and intelligently transformed from a condition in which it is less to a condition in which it is more serviceable to a human need.</p>
 <p id="para-28">Without <em>Wealth</em> man cannot exist. The production of it is a necessity to him, and though it proceeds from the more to the less necessary, and even to those forms of production which we call luxuries, yet in any given human society there is a certain <em>kind</em> and a certain <em>amount</em> of wealth without which human life cannot be lived: as, for instance, in England to-day, certain forms of cooked and elaborately prepared food, clothing, warmth, and habitation.</p>
@@ -148,7 +137,7 @@ function readingTime() {
 <p id="para-60">Some considerable number must be manual workers by definition, and while they were so defined would be slaves. Here again the composition of the Servile class would fluctuate, but the class would be permanent and large enough to stamp all society. I need not insist upon the practical effect: that such a class, once established, tends to be fixed in the great majority of those which make it up, and that the individuals entering or leaving it tend to become few compared to the whole mass.</p>
 <p id="para-61">There is one last point to be considered in this definition.</p>
 <p id="para-62">It is this:</p>
-<p id="para-63">Since, in the nature of things, a free society must enforce a contract (a free society consisting in nothing else but the enforcement of free contracts), how far can that be called a Servile condition which is the result of contract nominally or really free? In other words, is not a contract to labour, however freely entered into, servile of its nature when enforced by the State ?</p>
+<p id="para-63">Since, in the nature of things, a free society must enforce a contract (a free society consisting in nothing else but the enforcement of free contracts), how far can that be called a Servile condition which is the result of contract nominally or really free? In other words, is not a contract to labour, however freely entered into, servile of its nature when enforced by the State?</p>
 <p id="para-64">For instance, I have no food or clothing, nor do I possess the means of production whereby I can produce any wealth in exchange for such. I am so circumstanced that an owner of the Means of Production will not allow me access to those Means unless I sign a contract to serve him for a week at a wage of bare subsistence. Does the State in enforcing that contract make me for that week a slave?</p>
 <p id="para-65">Obviously not. For the institution of Slavery presupposes a certain attitude of mind in the free man and in the slave, a habit of living in either, and the stamp of both those habits upon society. No such effects are produced by a contract enforceable by the length of one week. The duration of human life is such, and the prospect of posterity, that the fulfilling of such a contract in no way wounds the senses of liberty and of choice.</p>
 <p id="para-66">What of a month, a year, ten years, a lifetime? Suppose an extreme case, and a destitute man to sign a contract binding him and all his children who were minors to work for a bare subsistence until his own death, or the attainment of majority of the children, whichever event might happen latest; would the State in forcing that contract be making the man a slave?</p>
@@ -184,16 +173,14 @@ function readingTime() {
 </table>
 </div>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_002.html">
     2. Our Civilisation Was Originally Servile »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-494">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>

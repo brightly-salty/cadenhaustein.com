@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="crowbook">
-  <meta name="author" content="C. H. Douglas">
-  <meta name="viewport" content="width=device-width">
-  
-  <title>Economic Democracy - 1. Chapter One</title>
-  <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-  <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-  <script> function on(name) {
+    <meta charset="utf-8">
+    <meta name="generator" content="crowbook">
+    <meta name="author" content="C. H. Douglas">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>Economic Democracy - 1. Chapter One</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <script defer async>
+    function on(name) {
     var elements = document.getElementsByClassName(name);
     for (var i = 0; i < elements.length; i++) {
         var elem = elements[i];
@@ -41,23 +42,13 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+    </script>
 
-function readingTime() {
-    const WPM = 200;
-    var string = document.getElementById("page").innerText;
-    const time = (string.replace(/^\s+/, '').replace(/\s+$/, '').replace(new RegExp('<\\w+(\\s+("[^"]*"|\\\'[^\\\']*\'|[^>])+)?>|<\\/\\w+>', 'gi'), '').match(new RegExp('\\w+', 'g')) || []).length / WPM;
-    if (time < 0.5) {
-        document.getElementById('time').innerText = 'less than a minute';
-    } else if (time >= 0.5 && time < 1.5) {
-        document.getElementById('time').innerText = '1 minute';
-    } else {
-        document.getElementById('time').innerText = `${Math.ceil(time)} minutes`
-    }
-} </script>
+
 </head>
 
 <body>
-  
+    
 <script type="application/ld+json">
 {
     "@context": "http://schema.org/",
@@ -76,9 +67,9 @@ function readingTime() {
 
 }
 </script>
-  <nav id="nav">
-    <h2><a href="index.html">Economic Democracy</a></h2>
-    <ul>
+    <nav id="nav">
+        <h2><a href="index.html">Economic Democracy</a></h2>
+        <ul>
 <li><a href="chapter_000.html#link-1">Preface</a></li>
 <li><a href="chapter_001.html#link-2">1. Chapter One</a></li>
 <li><a href="chapter_002.html#link-3">2. Chapter Two</a></li>
@@ -95,24 +86,22 @@ function readingTime() {
 
 </ul>
 
-  </nav>
+    </nav>
 
-  <div id="content">
-    
-    <div id="page">
-      <header>
-        <div id="menu">
-          <img id="menu-button" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
-        </div>
-      </header>
-      <p class="prev_chapter">
+    <div id="content">
+        
+        <div id="page">
+            <header>
+                <div id="menu">
+                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                </div>
+            </header>
+            <p class="prev_chapter">
   <a href="chapter_000.html">
     « Preface
   </a>
 </p>
-      <h1 id="link-2"><span class="chapter-header">Chapter 1</span><br />Chapter One</h1>
-<p style="text-align:right;"><i><span id="time">Calculating...</span></i></p><br />
-<p id="para-6">There has been a very strong tendency, fortunately not now so strong as it was, to regard fidelity to one set of opinions as being something of which to be proud, and consistency in the superficial sense as a test of character.</p>
+            <h1 id="link-2"><span class="chapter-header">Chapter 1</span><br />Chapter One</h1><p id="para-6">There has been a very strong tendency, fortunately not now so strong as it was, to regard fidelity to one set of opinions as being something of which to be proud, and consistency in the superficial sense as a test of character.</p>
 <p id="para-7">The Scottish political constituent who always voted for a Liberal because he was too Conservative to change, has his counterpart in every sphere of human activity, and most particularly so in that of economics, where the tracing back to first principles of the dogmas used for everyday purposes requires, in addition to some little aptitude and research, a laborious effort of thought and logic very foreign to our normal methods.</p>
 <p id="para-8">It thus comes about that modification in the creed of the orthodox is both difficult and conducive to exasperation; since because the form is commonly mistaken for the substance it is not clearly seen why a statement which has embodied a sound principle, may in course of time become a dangerous hindrance to progress.</p>
 <p id="para-9">Of such a character are many of our habits of thought and speech to-day. Because from the commercial policy of the nineteenth century has quite clearly sprung great advance in the domain of science and the mastery of material nature, the commercialist, quite honestly in many cases, would have us turn the land into a counting house and drain the sea to make a factory. On the other hand the Social Reformer, obsessed as well he might be, with the poverty and degradation which shoulder the very doors of the rich, is apt to turn his eyes back to the days antecedent to the Industrial Revolution note, or assume, that the conditions he deplores did not exist then, at any rate, in so desperate a degree; and condemn all business as abominable.</p>
@@ -126,16 +115,14 @@ function readingTime() {
 <p id="para-17">It seems clear that only by a recognition of this necessity can the foundations of society be so laid that no superstructure built upon them can fail, as the superstructure of capitalistic society is most unquestionably failing, because the pediments which should sustain it are honeycombed with decay.</p>
 <p id="para-18">Systems were made for men, and not men for systems, and the interest of man which is self-development, is above all systems, whether theological, political or economic.</p>
 
-      <p class="next_chapter">
+            <p class="next_chapter">
   <a href="chapter_002.html">
     2. Chapter Two »
   </a>
 </p>
+        </div>
+        
     </div>
-    <footer id="footer"><p id="para-261">Site proudly generated by <a href="http://jaspervdj.be/hakyll">Hakyll</a> and <a href="https://lise-henry.github.io/crowbook/book/book.html">Crowbook</a></p>
-</footer>
-  </div>
-  <script> readingTime(); </script>
 </body>
 
 </html>
