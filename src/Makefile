@@ -1,6 +1,6 @@
 %: common.book %/__.book %/*.md
 	-mkdir -p ../books/$@
-	crowbook/target/release/crowbook ../src/$@/__.book
+	../crowbook/target/release/crowbook ../src/$@/__.book
 	ebook-convert ../books/$@.epub ../books/$@.mobi
 	cleancss ../books/$@/stylesheet.css -o ../books/$@/stylesheet.min.css
 	mv ../books/$@/stylesheet.min.css ../books/$@/stylesheet.css
