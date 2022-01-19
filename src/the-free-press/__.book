@@ -1,0 +1,31 @@
+import: ../common.book
+author: Hilaire Belloc
+title: The Free Press
+lang: en
+
+output.html.dir: the-free-press
+output.epub: the-free-press.epub
+output.pdf: the-free-press.pdf
+
+- dedication.md
+! summary.md
+- 01.md
+- 02.md
+- 03.md
+- 04.md
+- 05.md
+- 06.md
+- 07.md
+- 08.md
+- 09.md
+- 10.md
+- 11.md
+- 12.md
+- 13.md
+- 14.md
+- 15.md
+- 16.md
+- 17.md
+- 18.md
+- 19.md
+- 20.md
