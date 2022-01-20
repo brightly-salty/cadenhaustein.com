@@ -35,7 +35,7 @@ A library of books I've found interesting and wanted to host so others can enjoy
 
 | Year |   Book                                          | PDF                         | ePub                          | mobi                          |
 |------|-------------------------------------------------|-----------------------------|-------------------------------|-------------------------------|
-| 1797 | [Agrarian Justice](agrarian-justice.html) | [PDF](agrarian-justice.pdf) | [ePub](agrarian-justice.epub) | [mobi](agrarian-justice.mobi) |
+| 1797 | [Agrarian Justice](agrarian-justice/index.html) | [PDF](agrarian-justice.pdf) | [ePub](agrarian-justice.epub) | [mobi](agrarian-justice.mobi) |
 
 ---
 
