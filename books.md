@@ -37,6 +37,12 @@ A library of books I've found interesting and wanted to host so others can enjoy
 |------|-------------------------------------------------|-----------------------------|-------------------------------|-------------------------------|
 | 1797 | [Agrarian Justice](agrarian-justice/index.html) | [PDF](agrarian-justice.pdf) | [ePub](agrarian-justice.epub) | [mobi](agrarian-justice.mobi) |
 
+## Ralph Borsodi
+
+| Year |   Book                                              | PDF                         | ePub                          | mobi                          |
+|------|-----------------------------------------------------|-----------------------------|-------------------------------|-------------------------------|
+| 1933 | [Flight from the city](flight-from-city/index.html) | [PDF](flight-from-city.pdf) | [ePub](flight-from-city.epub) | [mobi](flight-from-city.mobi) |
+
 ---
 
 Give feedback on the books I host!
@@ -53,6 +59,7 @@ Give feedback on the books I host!
         <option value="3">Arthur Penty</option>
         <option value="4">C. H. Douglas</option>
         <option value="5">Thomas Paine</option>
+        <option value="6">Ralph Borsodi</option>
       </select>
       <br/>
       <label for="topic">2. The topic you like the most</label>
@@ -62,6 +69,7 @@ Give feedback on the books I host!
         <option value="2">Christianity</option>
         <option value="3">Social Credit</option>
         <option value="4">Georgism</option>
+        <option value="4">Agrarianism</option>
         <option value="5">Fiction</option>
       </select>
     </fieldset>
