@@ -11,7 +11,7 @@ import System.FilePath (takeBaseName, takeDirectory, (</>))
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["CNAME", "sitemap.xml", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/*.svg", "books/*/images/*.png", "books/*/print.css", "books/*/stylesheet.css"] $ \f -> match f $ do
+  forM_ ["CNAME", "sitemap.txt", "robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/*.svg", "books/*/images/*.png", "books/*/print.css", "books/*/stylesheet.css"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 

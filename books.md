@@ -11,6 +11,7 @@ A library of books I've found interesting and wanted to host so others can enjoy
 | 1904 | [The Napoleon of Notting Hill](napoleon-notting/index.html) | [PDF](napoleon-notting.pdf) | [ePub](napoleon-notting.epub) | [mobi](napoleon-notting.mobi) |
 | 1908 | [Orthodoxy](orthodoxy/index.html)                           | [PDF](orthodoxy.pdf)        | [ePub](orthodoxy.epub)        | [mobi](orthodoxy.mobi)        |
 | 1917 | [Utopia of Usurers](utopia-usurers/index.html)              | [PDF](utopia-usurers.pdf)   | [ePub](utopia-usurers.epub)   | [mobi](utopia-usurers.mobi)   |
+| 1926 | [Outline of Sanity](outline-sanity/index.html)              | [PDF](outline-sanity.pdf)   | [ePub](outline-sanity.epub)   | [mobi](outline-sanity.mobi)   |
 
 ## Hilaire Belloc
 
