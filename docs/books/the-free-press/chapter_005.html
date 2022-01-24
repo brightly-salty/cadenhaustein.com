@@ -6,30 +6,15 @@
     <meta name="generator" content="crowbook">
     <meta name="author" content="Hilaire Belloc">
     <meta name="viewport" content="width=device-width">
+    <meta name="description" content="'IV' from 'The Free Press' by Hilaire Belloc">
     
-    <title>The Free Press - IV</title>
+    <title>IV</title>
     <link rel="stylesheet" href="stylesheet.css" type="text/css" />
     <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-    <script defer async>
-    function on(name) {
-    var elements = document.getElementsByClassName(name);
-    for (var i = 0; i < elements.length; i++) {
-        var elem = elements[i];
-        elem.style.backgroundColor = "pink";
-    }
-}
+    <script>
+    var display_menu = false;
 
-function off(name) {
-    var elements = document.getElementsByClassName(name);
-    for (var i = 0; i < elements.length; i++) {
-        var elem = elements[i];
-        elem.style.backgroundColor = "white";
-    }
-}
-
-var display_menu = false;
-
-function toggle() {
+function toggleMenu() {
     if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
@@ -69,32 +54,30 @@ function toggle() {
 </script>
     <nav id="nav">
         <h2><a href="index.html">The Free Press</a></h2>
-        <ul>
-<li><a href="chapter_000.html#link-1">Dedication</a></li>
-<li><a href="chapter_001.html#link-2">Summary</a></li>
-<li><a href="chapter_002.html#link-3">I</a></li>
-<li><a href="chapter_003.html#link-4">II</a></li>
-<li><a href="chapter_004.html#link-5">III</a></li>
-<li><a href="chapter_005.html#link-6">IV</a></li>
-<li><a href="chapter_006.html#link-7">V</a></li>
-<li><a href="chapter_007.html#link-8">VI</a></li>
-<li><a href="chapter_008.html#link-9">VII</a></li>
-<li><a href="chapter_009.html#link-10">VIII</a></li>
-<li><a href="chapter_010.html#link-11">IX</a></li>
-<li><a href="chapter_011.html#link-12">X</a></li>
-<li><a href="chapter_012.html#link-13">XI</a></li>
-<li><a href="chapter_013.html#link-17">XII</a></li>
-<li><a href="chapter_014.html#link-23">XIII</a></li>
-<li><a href="chapter_015.html#link-24">XIV</a></li>
-<li><a href="chapter_016.html#link-25">XV</a></li>
-<li><a href="chapter_017.html#link-26">XVI</a></li>
-<li><a href="chapter_018.html#link-27">XVII</a></li>
-<li><a href="chapter_019.html#link-28">XVIII</a></li>
-<li><a href="chapter_020.html#link-29">XIX</a></li>
-<li><a href="chapter_021.html#link-30">XX</a></li>
-
-</ul>
-
+            <ul>
+      <li><a href="chapter_000.html#link-1">Dedication</a></li>
+      <li><a href="chapter_001.html#link-2">Summary</a></li>
+      <li><a href="chapter_002.html#link-3">I</a></li>
+      <li><a href="chapter_003.html#link-4">II</a></li>
+      <li><a href="chapter_004.html#link-5">III</a></li>
+      <li><a href="chapter_005.html#link-6">IV</a></li>
+      <li><a href="chapter_006.html#link-7">V</a></li>
+      <li><a href="chapter_007.html#link-8">VI</a></li>
+      <li><a href="chapter_008.html#link-9">VII</a></li>
+      <li><a href="chapter_009.html#link-10">VIII</a></li>
+      <li><a href="chapter_010.html#link-11">IX</a></li>
+      <li><a href="chapter_011.html#link-12">X</a></li>
+      <li><a href="chapter_012.html#link-13">XI</a></li>
+      <li><a href="chapter_013.html#link-17">XII</a></li>
+      <li><a href="chapter_014.html#link-23">XIII</a></li>
+      <li><a href="chapter_015.html#link-24">XIV</a></li>
+      <li><a href="chapter_016.html#link-25">XV</a></li>
+      <li><a href="chapter_017.html#link-26">XVI</a></li>
+      <li><a href="chapter_018.html#link-27">XVII</a></li>
+      <li><a href="chapter_019.html#link-28">XVIII</a></li>
+      <li><a href="chapter_020.html#link-29">XIX</a></li>
+      <li><a href="chapter_021.html#link-30">XX</a></li>
+    </ul>
     </nav>
 
     <div id="content">
@@ -102,7 +85,7 @@ function toggle() {
         <div id="page">
             <header>
                 <div id="menu">
-                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                    <img id="menu-button" onclick="toggleMenu();" width="40" height="40" src="menu.svg" alt="Table of contents" title="Table of contents" />
                 </div>
             </header>
             <p class="prev_chapter">

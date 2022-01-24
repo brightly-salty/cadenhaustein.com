@@ -6,30 +6,15 @@
     <meta name="generator" content="crowbook">
     <meta name="author" content="Ralph Borsodi">
     <meta name="viewport" content="width=device-width">
+    <meta name="description" content="'7. Education--The School of Living' from 'Flight from the city' by Ralph Borsodi">
     
-    <title>Flight from the city - 7. Education--The School of Living</title>
+    <title>7. Education--The School of Living</title>
     <link rel="stylesheet" href="stylesheet.css" type="text/css" />
     <link rel="stylesheet" href="print.css" type="text/css" media="print" />
-    <script defer async>
-    function on(name) {
-    var elements = document.getElementsByClassName(name);
-    for (var i = 0; i < elements.length; i++) {
-        var elem = elements[i];
-        elem.style.backgroundColor = "pink";
-    }
-}
+    <script>
+    var display_menu = false;
 
-function off(name) {
-    var elements = document.getElementsByClassName(name);
-    for (var i = 0; i < elements.length; i++) {
-        var elem = elements[i];
-        elem.style.backgroundColor = "white";
-    }
-}
-
-var display_menu = false;
-
-function toggle() {
+function toggleMenu() {
     if (display_menu) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
@@ -69,22 +54,20 @@ function toggle() {
 </script>
     <nav id="nav">
         <h2><a href="index.html">Flight from the city</a></h2>
-        <ul>
-<li><a href="chapter_000.html#link-1">Prelude</a></li>
-<li><a href="chapter_001.html#link-2">1. Flight From the City</a></li>
-<li><a href="chapter_002.html#link-3">2. Domestic Production</a></li>
-<li><a href="chapter_003.html#link-4">3. Food, Pure Food, and Fresh Food</a></li>
-<li><a href="chapter_004.html#link-5">4. The Loom and the Sewing-Machine</a></li>
-<li><a href="chapter_005.html#link-6">5. Shelter</a></li>
-<li><a href="chapter_006.html#link-7">6. Water, Hot Water, and Waste Water</a></li>
-<li><a href="chapter_007.html#link-8">7. Education–The School of Living</a></li>
-<li><a href="chapter_008.html#link-9">8. Capital</a></li>
-<li><a href="chapter_009.html#link-10">9. Security versus Insecurity</a></li>
-<li><a href="chapter_010.html#link-11">10. Independence versus Dependence</a></li>
-<li><a href="chapter_011.html#link-12">Postlude</a></li>
-
-</ul>
-
+            <ul>
+      <li><a href="chapter_000.html#link-1">Prelude</a></li>
+      <li><a href="chapter_001.html#link-2">1. Flight From the City</a></li>
+      <li><a href="chapter_002.html#link-3">2. Domestic Production</a></li>
+      <li><a href="chapter_003.html#link-4">3. Food, Pure Food, and Fresh Food</a></li>
+      <li><a href="chapter_004.html#link-5">4. The Loom and the Sewing-Machine</a></li>
+      <li><a href="chapter_005.html#link-6">5. Shelter</a></li>
+      <li><a href="chapter_006.html#link-7">6. Water, Hot Water, and Waste Water</a></li>
+      <li><a href="chapter_007.html#link-8">7. Education–The School of Living</a></li>
+      <li><a href="chapter_008.html#link-9">8. Capital</a></li>
+      <li><a href="chapter_009.html#link-10">9. Security versus Insecurity</a></li>
+      <li><a href="chapter_010.html#link-11">10. Independence versus Dependence</a></li>
+      <li><a href="chapter_011.html#link-12">Postlude</a></li>
+    </ul>
     </nav>
 
     <div id="content">
@@ -92,7 +75,7 @@ function toggle() {
         <div id="page">
             <header>
                 <div id="menu">
-                    <img id="menu-button" width="40" height="40" onclick="toggle();" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                    <img id="menu-button" onclick="toggleMenu();" width="40" height="40" src="menu.svg" alt="Table of contents" title="Table of contents" />
                 </div>
             </header>
             <p class="prev_chapter">
