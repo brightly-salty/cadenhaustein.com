@@ -44,6 +44,12 @@ A library of books I've found interesting and wanted to host so others can enjoy
 |------|-----------------------------------------------------|-----------------------------|-------------------------------|-------------------------------|
 | 1933 | [Flight from the city](flight-from-city/index.html) | [PDF](flight-from-city.pdf) | [ePub](flight-from-city.epub) | [mobi](flight-from-city.mobi) |
 
+## Leo Tolstoy
+
+| Year |   Book                                                           | PDF                                 | ePub                                 | mobi                                 |
+|------|-------------------------------------------------------------------|------------------------------------|--------------------------------------|--------------------------------------|
+| 1894 | [Christianity and Patriotism](christianity-patriotism/index.html) | [PDF](christianity-patriotism.pdf) | [ePub](christianity-patriotism.epub) | [mobi](christianity-patriotism.mobi) |
+
 ---
 
 Give feedback on the books I host!
@@ -61,17 +67,20 @@ Give feedback on the books I host!
         <option value="4">C. H. Douglas</option>
         <option value="5">Thomas Paine</option>
         <option value="6">Ralph Borsodi</option>
+        <option value="7">Leo Tolstoy</option>
       </select>
       <br/>
       <label for="topic">2. The topic you like the most</label>
       <select name="topic" id="topic" required="">
         <option value="" selected="" disabled="">Choose</option>
         <option value="1">Distributism</option>
-        <option value="2">Christianity</option>
-        <option value="3">Social Credit</option>
-        <option value="4">Georgism</option>
+        <option value="2">Social Credit</option>
+        <option value="3">Georgism</option>
         <option value="4">Agrarianism</option>
-        <option value="5">Fiction</option>
+        <option value="5">Christianity</option>
+        <option value="6">Christian Anarchism</option>
+        <option value="7">Christian Pacifism</option>
+        <option value="8">Fiction</option>
       </select>
     </fieldset>
     <label for="message">Additional comments or suggestions:</label>
