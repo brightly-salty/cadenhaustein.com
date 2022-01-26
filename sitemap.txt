@@ -8,6 +8,7 @@ https://cadenhaustein.com/books/guilds-trade/
 https://cadenhaustein.com/books/napoleon-notting/
 https://cadenhaustein.com/books/orthodoxy/
 https://cadenhaustein.com/books/outline-sanity/
+https://cadenhaustein.com/books/restoration-guild/
 https://cadenhaustein.com/books/servile-state/
 https://cadenhaustein.com/books/the-free-press/
 https://cadenhaustein.com/books/utopia-usurers/
@@ -121,6 +122,13 @@ https://cadenhaustein.com/books/outline-sanity/chapter_019
 https://cadenhaustein.com/books/outline-sanity/chapter_020
 https://cadenhaustein.com/books/outline-sanity/chapter_021
 https://cadenhaustein.com/books/outline-sanity/chapter_022
+https://cadenhaustein.com/books/restoration-guild/chapter_000
+https://cadenhaustein.com/books/restoration-guild/chapter_001
+https://cadenhaustein.com/books/restoration-guild/chapter_002
+https://cadenhaustein.com/books/restoration-guild/chapter_003
+https://cadenhaustein.com/books/restoration-guild/chapter_004
+https://cadenhaustein.com/books/restoration-guild/chapter_005
+https://cadenhaustein.com/books/restoration-guild/chapter_006
 https://cadenhaustein.com/books/servile-state/chapter_000
 https://cadenhaustein.com/books/servile-state/chapter_001
 https://cadenhaustein.com/books/servile-state/chapter_002
