@@ -6,11 +6,13 @@
     <meta name="generator" content="crowbook">
     <meta name="author" content="Arthur Penty">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="'5. How the Guilds may be Restored' from 'The Restoration of the Guild System' by Arthur Penty">
+    <meta name="description" content="'5. How the Guilds may be Restored' - 'The Restoration of the Guild System' by Arthur Penty">
     
     <title>5. How the Guilds may be Restored</title>
-    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="../../styles/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../../styles/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="../../styles/kofi-wrapper.css" type="text/css" />
+
     <script>
     var display_menu = false;
 
@@ -53,7 +55,7 @@ function toggleMenu() {
 }
 </script>
     <nav id="nav">
-        <h2><a href="index.html">The Restoration of the Guild System</a></h2>
+        <h1><a href="index.html">The Restoration of the Guild System</a></h1>
             <ul>
       <li><a href="chapter_000.html#link-1">Preface</a></li>
       <li><a href="chapter_001.html#link-2">1. The Collectivist Formula</a></li>
@@ -70,7 +72,7 @@ function toggleMenu() {
         <div id="page">
             <header>
                 <div id="menu">
-                    <img id="menu-button" onclick="toggleMenu();" width="40" height="40" src="menu.svg" alt="Table of contents" title="Table of contents" />
+                    <img id="menu-button" onclick="toggleMenu();" width="40" height="40" src="../../images/menu.svg" alt="Table of contents" title="Table of contents" />
                 </div>
             </header>
             <p class="prev_chapter">
@@ -157,14 +159,39 @@ function toggleMenu() {
         </div>
         
     </div>
-    <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
-    <script>
-        kofiWidgetOverlay.draw('cadenhaustein', {
-            'type': 'floating-chat',
-            'floating-chat.donateButton.text': 'Support me',
-            'floating-chat.donateButton.background-color': '#ffffff',
-            'floating-chat.donateButton.text-color': '#323842'
-        });
+    <div id="kofi">
+        <div class="container-wrapper" style="height: 0px; transition: all 0.3s ease 0s; opacity:0;">
+            <iframe class="container" style="height: 0px; transition: all 0.6s ease 0s; opacity:0;" id="kofi-container" title="Ko-fi Desktop Widget"></iframe>
+        </div>
+        <div class="mobile-container-wrapper" style="height: 0px; transition: all 0.6s ease 0s; opacity:0;">
+            <iframe class="mobile-container" style="height: 0px; transition: all 0.6s ease 0s; opacity:0;" id="kofi-mobile-container" title="Ko-fi Mobile Widget"></iframe>
+        </div>
+        <div id="kofi-popup" class="popup" style="z-index:10000;height: 0px; width:0px; opacity: 0; transition: all 0.6s ease 0s;">
+            <div class="popup-notice"> <a href="https://ko-fi.com/cadenhaustin" target="_blank" class="kfds-text-is-link-dark">ko-fi.com/cadenhaustein</a> </div>
+            <div class="popup-close">
+                <span>
+                    <svg height="0px" width="15px">
+                        <line x1="2" y1="8" x2="13" y2="18" style="stroke:#000; stroke-width:3"></line>
+                        <line x1="13" y1="8" x2="2" y2="18" style="stroke:#000; stroke-width:3"></line>
+                    </svg>
+                </span>
+            </div>
+            <div id="kofi-popup-container" class="popup-container" style="height:100%"></div>
+        </div>
+        <div id="kofi-mobile-popup" class="mobile-popup" style="z-index:10000;height: 0px; width:0px; opacity: 0; transition: all 0.6s ease 0s;">
+            <div class="mobile-popup-notice"> <a href="https://ko-fi.com/cadenhaustin" target="_blank" class="kfds-text-is-link-dark">ko-fi.com/cadenhaustein</a> </div>
+            <div class="mobile-popup-close">
+                <span>
+                    <svg height="0px" width="15px">
+                        <line x1="2" y1="8" x2="13" y2="18" style="stroke:#000; stroke-width:3"></line>
+                        <line x1="13" y1="8" x2="2" y2="18" style="stroke:#000; stroke-width:3"></line>
+                    </svg>
+                </span>
+            </div>
+            <div id="kofi-mobile-popup-container" class="mobile-popup-container" style="height:100%"></div>
+        </div>
+    </div>
+    <script src="../../scripts/kofi.js">
     </script>
 </body>
 

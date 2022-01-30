@@ -1,0 +1,77 @@
+/* nunito-regular - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-regular.svg#Nunito') format('svg');
+    /* Legacy iOS */
+}
+
+/* nunito-800 - vietnamese_latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-800.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../../fonts/nunito-v20-vietnamese_latin-ext_latin_cyrillic-ext_cyrillic-800.svg#Nunito') format('svg');
+    /* Legacy iOS */
+}
+
+.donate {
+    background-color: #00b4f7;
+    border-radius: 100px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    font-family: nunito, quicksand, sans-serif;
+    font-size: 16px;
+    width: max-content;
+    color: #fff;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-weight: 700;
+    cursor: pointer;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    display: flex !important
+}
+
+.kofiimg {
+    width: 39px
+}
+
+@media only screen and (max-device-width: 750px) {
+    .donate {
+        height: 46px;
+        font-size: 16px;
+        justify-content: space-evenly;
+        padding: 0 18px
+    }
+
+    .kofiimg {
+        width: 35px
+    }
+}
