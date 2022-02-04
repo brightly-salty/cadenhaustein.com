@@ -11,7 +11,7 @@ import System.FilePath (takeBaseName, takeDirectory, (</>))
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["_redirects", "CNAME", "sitemap.txt", "robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/menu.svg", "books/*/images/*.png", "books/*/print.css", "books/*/stylesheet.css"] $ \f -> match f $ do
+  forM_ ["_redirects", "CNAME", "sitemap.txt", "robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
@@ -21,7 +21,7 @@ main = hakyllWith config $ do
       getResourceString
         >>= relativizeUrls
 
-  match "css/default.css" $ do
+  match "styles/*" $ do
     route idRoute
     compile compressCssCompiler
 
