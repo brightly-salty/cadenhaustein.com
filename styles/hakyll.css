@@ -51,6 +51,10 @@ article .header {
     text-decoration: none
 }
 
+.copier {
+    background-color: white;
+}
+
 @media (max-width:319px) {
     body {
         width: 90%;

@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>$title$ - Caden Haustein</title>
     <link rel="stylesheet" href="/styles/hakyll.css" />
-    <link rel="stylesheet" href="/styles/kofi-wrapper.css" type="text/css" />
     $if(author)$
     <meta name="author" content="$author$">$endif$
 </head>
@@ -26,40 +25,48 @@
     <main role="main">
         <h1>$title$</h1>
         $body$
+        $if(doBooks)$
+        <script>
+            function copy(id) {
+                var url = new URL(window.location.href);
+                url.hash = id;
+                window.location.href = url.toString();
+                var copyText = document.body.appendChild(document.createElement("input"));
+                copyText.value = window.location.href;
+                copyText.focus();
+                copyText.select();
+                document.execCommand('copy');
+                copyText.parentNode.removeChild(copyText);
+                document.getElementById(id.slice(1)).open = true;
+            }
+        </script>
+        $for(books)$
+        <details id=$tag$>
+            <summary><em>$title$</em> by $author$ ($year$) <button class="copier" onClick="copy('#$tag$')">Copy link</button></summary>
+            <a href="books/$tag$/">Read online</a><br />
+            <a href="books/$tag$.pdf">Download PDF</a><br />
+            <a href="books/$tag$.epub">Download ePub</a><br />
+            <a href="books/$tag$.mobi">Download mobi</a><br />
+            $if(source)$<a href="$source$">View original source</a><br />$endif$
+        </details>
+        $endfor$
+        $endif$
     </main>
-    <div id="kofi">
-        <div class="container-wrapper" style="height: 0px; transition: all 0.3s ease 0s; opacity:0;">
-            <iframe class="container" style="height: 0px; transition: all 0.6s ease 0s; opacity:0;" id="kofi-container" title="Ko-fi Desktop Widget"></iframe>
-        </div>
-        <div class="mobile-container-wrapper" style="height: 0px; transition: all 0.6s ease 0s; opacity:0;">
-            <iframe class="mobile-container" style="height: 0px; transition: all 0.6s ease 0s; opacity:0;" id="kofi-mobile-container" title="Ko-fi Mobile Widget"></iframe>
-        </div>
-        <div id="kofi-popup" class="popup" style="z-index:10000;height: 0px; width:0px; opacity: 0; transition: all 0.6s ease 0s;">
-            <div class="popup-notice"> <a href="https://ko-fi.com/cadenhaustin" target="_blank" class="kfds-text-is-link-dark">ko-fi.com/cadenhaustein</a> </div>
-            <div class="popup-close">
-                <span>
-                    <svg height="0px" width="15px">
-                        <line x1="2" y1="8" x2="13" y2="18" style="stroke:#000; stroke-width:3" />
-                        <line x1="13" y1="8" x2="2" y2="18" style="stroke:#000; stroke-width:3" />
-                    </svg>
-                </span>
-            </div>
-            <div id="kofi-popup-container" class="popup-container" style="height:100%"></div>
-        </div>
-        <div id="kofi-mobile-popup" class="mobile-popup" style="z-index:10000;height: 0px; width:0px; opacity: 0; transition: all 0.6s ease 0s;">
-            <div class="mobile-popup-notice"> <a href="https://ko-fi.com/cadenhaustin" target="_blank" class="kfds-text-is-link-dark">ko-fi.com/cadenhaustein</a> </div>
-            <div class="mobile-popup-close">
-                <span>
-                    <svg height="0px" width="15px">
-                        <line x1="2" y1="8" x2="13" y2="18" style="stroke:#000; stroke-width:3" />
-                        <line x1="13" y1="8" x2="2" y2="18" style="stroke:#000; stroke-width:3" />
-                    </svg>
-                </span>
-            </div>
-            <div id="kofi-mobile-popup-container" class="mobile-popup-container" style="height:100%"></div>
-        </div>
-    </div>
-    <script src="/scripts/kofi.js"></script>
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+        kofiWidgetOverlay.draw('cadenhaustein', {
+            'type': 'floating-chat',
+            'floating-chat.donateButton.text': 'Support me',
+            'floating-chat.donateButton.background-color': '#ffffff',
+            'floating-chat.donateButton.text-color': '#323842'
+        });
+    </script>
+    <script>
+        var url = new URL(window.location.href);
+        if (url.hash !== "") {
+            document.getElementById(url.hash.slice(1)).open = true;
+        }
+    </script>
 </body>
 
 </html>
