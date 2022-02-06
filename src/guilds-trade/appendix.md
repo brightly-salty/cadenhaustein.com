@@ -16,15 +16,15 @@ The evidence, on which rests the arguments of these articles, is found in the Lo
 
 In the case of the United States the par of exchange is $4.8665 to the £; on December 5, 1918, the rate was $4.770; while on November 20, 1920, the rate was $3.470. The rates for the Argentine were 5.040 pesos to the £ (parity), 4.665 (December 5, 1918), and 4.582 (November 20, 1920). For Japan the corresponding figures are 9.800, 8.972 and 6.857 yen to the £.
 
-Thus it will be seen that the rates between London and the two great industrial nations of the East and of the West have moved considerably in a direction adverse to London. In other words, the dollar is now 40.2 per cent., and the yen 42.9 per cen., above their par value.
+Thus it will be seen that the rates between London and the two great industrial nations of the East and of the West have moved considerably in a direction adverse to London. In other words, the dollar is now 40.2%, and the yen 42.9 per cen., above their par value.
 
-In the case of the Argentine, the movement is not so pronounced, and the peso is only 10 per cent, above its par value. Still, this is sufficiently disquieting when one remembers the foodstuffs that we are in the habit of buying from that country.
+In the case of the Argentine, the movement is not so pronounced, and the peso is only 10%, above its par value. Still, this is sufficiently disquieting when one remembers the foodstuffs that we are in the habit of buying from that country.
 
-Returning to Europe, there are only two countries whose London rates of exchange are above par. These are Holland and Switzerland, both small nations that remained neutral while the tide of war swept round them. The Dutch florin on November 11, 1920, was 6.3 per cent, and the Swiss franc 13.7 per cent, above their par values, the actual rates being 11.39 florins and 22.19 francs respectively.
+Returning to Europe, there are only two countries whose London rates of exchange are above par. These are Holland and Switzerland, both small nations that remained neutral while the tide of war swept round them. The Dutch florin on November 11, 1920, was 6.3%, and the Swiss franc 13.7%, above their par values, the actual rates being 11.39 florins and 22.19 francs respectively.
 
-The remaining neutral nations of Europe are now at or below par--Sweden exactly at par, Norway and Denmark 29.7 per cent., Spain 4.5 per cent. But when we consider our late allies, and enemies, we find as we progress eastwards the position getting worse and worse. On November 11th, two years after the Armistice, the franc in Paris was 56.2 per cent, below its par value, the Italian lira 72.6 per cent., the Portuguese escudo 85.8 per cent., the German mark 91.9 per cent., the Bohemian kroner 91.4 per cent., the Austrian kroner 97.9 per cent., and the Polish mark 98.6 per cent.
+The remaining neutral nations of Europe are now at or below par--Sweden exactly at par, Norway and Denmark 29.7%, Spain 4.5%. But when we consider our late allies, and enemies, we find as we progress eastwards the position getting worse and worse. On November 11th, two years after the Armistice, the franc in Paris was 56.2%, below its par value, the Italian lira 72.6%, the Portuguese escudo 85.8%, the German mark 91.9%, the Bohemian kroner 91.4%, the Austrian kroner 97.9%, and the Polish mark 98.6%.
 
-Now let us understand these percentages. Remember that a depreciation of 100 per cent, means that a currency is worth literally nothing for exchange purposes. Then we can see how near the currencies of Europe are approaching to this absolute zero.
+Now let us understand these percentages. Remember that a depreciation of 100%, means that a currency is worth literally nothing for exchange purposes. Then we can see how near the currencies of Europe are approaching to this absolute zero.
 
 Now what is the meaning of this? And how does it affect you and me? And what is the future of Europe? Before we can answer these grave questions we must understand the economic structure of Europe as it existed before the war.
 

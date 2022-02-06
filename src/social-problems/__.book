@@ -30,7 +30,3 @@ output.html.dir: social-problems
 + 20.md 
 + 21.md 
 + 22.md 
-@- app.md
-+ app1.md 
-+ app2.md 
-+ app3.md 
