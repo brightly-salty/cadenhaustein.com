@@ -22,7 +22,7 @@ In the case of the Argentine, the movement is not so pronounced, and the peso is
 
 Returning to Europe, there are only two countries whose London rates of exchange are above par. These are Holland and Switzerland, both small nations that remained neutral while the tide of war swept round them. The Dutch florin on November 11, 1920, was 6.3%, and the Swiss franc 13.7%, above their par values, the actual rates being 11.39 florins and 22.19 francs respectively.
 
-The remaining neutral nations of Europe are now at or below par--Sweden exactly at par, Norway and Denmark 29.7%, Spain 4.5%. But when we consider our late allies, and enemies, we find as we progress eastwards the position getting worse and worse. On November 11th, two years after the Armistice, the franc in Paris was 56.2%, below its par value, the Italian lira 72.6%, the Portuguese escudo 85.8%, the German mark 91.9%, the Bohemian kroner 91.4%, the Austrian kroner 97.9%, and the Polish mark 98.6%.
+The remaining neutral nations of Europe are now at or below par---Sweden exactly at par, Norway and Denmark 29.7%, Spain 4.5%. But when we consider our late allies, and enemies, we find as we progress eastwards the position getting worse and worse. On November 11th, two years after the Armistice, the franc in Paris was 56.2%, below its par value, the Italian lira 72.6%, the Portuguese escudo 85.8%, the German mark 91.9%, the Bohemian kroner 91.4%, the Austrian kroner 97.9%, and the Polish mark 98.6%.
 
 Now let us understand these percentages. Remember that a depreciation of 100%, means that a currency is worth literally nothing for exchange purposes. Then we can see how near the currencies of Europe are approaching to this absolute zero.
 
@@ -36,7 +36,7 @@ The system by which Europe lived in pre-war days may be described very shortly. 
 
 This is a rough outline of the system, but it needs several qualifications. In the first place, the difference in value mentioned above was greater than Europe's actual needs. This difference was invested by Europe either in home or overseas industries. This capital, in turn, helped to create more wealth. Thus the European shareholders received additional payments from abroad in the shape of interest.
 
-Secondly, Europe rendered many services to the rest of the world; her vessels carried American and Japanese goods, her merchants dealt in them, her banks financed the movements of these goods, and her insurance companies protected them. All these services were paid for and the payment, like the interest, came in the form of goods--chiefly food and raw materials.
+Secondly, Europe rendered many services to the rest of the world; her vessels carried American and Japanese goods, her merchants dealt in them, her banks financed the movements of these goods, and her insurance companies protected them. All these services were paid for and the payment, like the interest, came in the form of goods---chiefly food and raw materials.
 
 The essence of this system was exchange. We gave our finished products and our services in exchange for our food and raw materials. And the lever that operated this system was called the Bill of Exchange.
 
@@ -46,7 +46,7 @@ Thus the gold exchange value between sovereigns and dollars can be easily calcul
 
 This method is for him to find a creditor in his own country who will sell him a Bill of Exchange or claim upon a debtor in the country to which he himself owes money, or in other words, an Englishman importing cotton from America has to buy dollars with which to pay for his cotton: for the American exporter, as a rule, needs payment in his own currency.
 
-Similarly an American buying goods from England has to buy sterling, so he gets in touch with the Englishman who wishes to buy dollars, and the transaction is arranged to their mutual advantage. But if England has imported more than she has exported, there will be several Englishmen trying to buy dollars for each American who wishes to sell dollars for sterling. So the price of dollars rises--for the demand exceeds the supply.
+Similarly an American buying goods from England has to buy sterling, so he gets in touch with the Englishman who wishes to buy dollars, and the transaction is arranged to their mutual advantage. But if England has imported more than she has exported, there will be several Englishmen trying to buy dollars for each American who wishes to sell dollars for sterling. So the price of dollars rises---for the demand exceeds the supply.
 
 In other words, the rate of exchange will move against England. Normally this movement will have a limit, for English debtors will find it cheaper to ship gold. But if we have prohibited the export of gold, or if we have a paper currency which can be expanded at will, then, as we see to-day, there is no automatic check to the amount an exchange may depreciate.
 
@@ -76,7 +76,7 @@ Briefly, Europe was swept bare of raw materials, and had no finished products wi
 
 There was very little left with which to re-start the industries on which her very life depended. All she possessed was large quantities of paper money, which were more or less useless for the purpose of replenishing her stocks of raw material.
 
-Even so, the full story has not yet been told. The war's toll in life and suffering must still be reckoned in the account. Even those who returned unharmed found that they had lost their habits of regular work. Again, no account has been taken of the actual destruction that the war was the cause of--the farm-lands of the Somme, and the coal-mines of Lens.
+Even so, the full story has not yet been told. The war's toll in life and suffering must still be reckoned in the account. Even those who returned unharmed found that they had lost their habits of regular work. Again, no account has been taken of the actual destruction that the war was the cause of---the farm-lands of the Somme, and the coal-mines of Lens.
 
 Above all, we must add in the loss caused by the collapse of Russia, which was the granary of Europe. If we total up all these items, we see how great was the danger facing us at the conclusion of the war.
 
@@ -98,13 +98,13 @@ The value that the world attaches to this paper money is shown by the present ra
 
 Thus, in December 1919 our pound was worth 3 dollars 8 1 cents in New York; in November 1920 only 3 dollars 44 cents. In December 1919 our pound would buy 41.03 francs, 49.63 lire, and 181.53 marks (contrast even these rates with the par of exchange). In November 1920 these rates were 57.17 francs, 95.13 lire, and 262.89 marks. This shows the extent to which the dry rot has spread during the year.
 
-The cause of this rot is plain--Europe must buy in order to live, but she has nothing to sell. And unless the cycle of trade is restarted, she will still have nothing to sell.
+The cause of this rot is plain---Europe must buy in order to live, but she has nothing to sell. And unless the cycle of trade is restarted, she will still have nothing to sell.
 
 It may be asked: "What steps have the Governments taken in order to rectify this position?" The answer is that most steps taken by the Governments have resulted in aggravating the position.
 
-There is no need to call attention to the extravagance of the various Governments. The word is on every one's lips, and the pity is that people do not realize the direction in which extravagance is leading us. For every fresh load of debt, every fresh issue of paper money brings the final tragedy nearer--when the machine on which we depend, and which is already tottering under the blows dealt it by the war, will be unable to serve us any longer.
+There is no need to call attention to the extravagance of the various Governments. The word is on every one's lips, and the pity is that people do not realize the direction in which extravagance is leading us. For every fresh load of debt, every fresh issue of paper money brings the final tragedy nearer---when the machine on which we depend, and which is already tottering under the blows dealt it by the war, will be unable to serve us any longer.
 
-It is easy to give examples of the results of this extravagance--Continental inflation and British E.P.D. The first renders it more and more impossible for the Continent to buy, the second renders it difficult for our industries to produce the goods the Continent needs at a price they can pay. But whatever it results in, one thing is clear: This extravagance must cease, if Europe is to be saved.
+It is easy to give examples of the results of this extravagance---Continental inflation and British E.P.D. The first renders it more and more impossible for the Continent to buy, the second renders it difficult for our industries to produce the goods the Continent needs at a price they can pay. But whatever it results in, one thing is clear: This extravagance must cease, if Europe is to be saved.
 
 Among other steps taken, various Governments have attempted to regulate their exchanges. This was done during the war with fair success; but it meant the loss of our overseas securities, and also the raising of foreign loans. But after the war the exchanges had to be left to find their own level, with the result we now see.
 
@@ -150,13 +150,13 @@ Unless the decline on the Continent is stopped, this strangling of our industrie
 
 If Europe can be saved, then gradually things will right themselves, and the first thing to be done is for every Government at home or abroad to reduce its expenditure to the very lowest that is possible, even if this entails the abandonment of desirable social schemes or valuable military positions. We simply cannot afford them.
 
-Every country must not merely increase production, but see that the goods made are exchanged for the things they must have. It is no use filling warehouses with goods which our neighbours cannot buy because their exchanges are so badly depreciated. We in Great Britain must open up new markets, if necessary, by means of barter, particularly with countries other than the United States of America, from which we can get food or raw materials--for example, Poland and Russia.
+Every country must not merely increase production, but see that the goods made are exchanged for the things they must have. It is no use filling warehouses with goods which our neighbours cannot buy because their exchanges are so badly depreciated. We in Great Britain must open up new markets, if necessary, by means of barter, particularly with countries other than the United States of America, from which we can get food or raw materials---for example, Poland and Russia.
 
 But supposing Europe cannot be saved, what will happen? Briefly it will be impossible to transport the excessive millions in Europe overseas. What will happen to them is what has happened in Russia, and to-day is happening in Poland and Austria they will die.
 
 Those who survive will revert to an agricultural race, with but simple industries and no elaborate industrial system. Do not think that this picture is too highly coloured. Five years ago, would you have thought it possible that Russia would have reached the condition she is in to-day? Russia, remember, represents one-quarter of the earth's surface. As we move eastward from the Bay of Biscay to the frontiers of Russia, we find that the exchanges fall consistently. On November 30th France was 57.80 francs to the, Italy 95.50, Germany 250, Austria 1,175, Poland 1,750, Hungary not quoted, Russia ---! And on the frontiers of Poland gather a pack of starving men looking hungrily westward.
 
-What is the alternative to the present system if it does not recover? It is not Bolshevism. That is the last resort of desperate, starving men. It may come when the last agony of dissolution is upon Europe, but it cannot reorganize and feed the present large population. It has already appeared sporadically in Hungary, Germany and Italy. It has been driven underground--perhaps--but only for a time. If you want to prevent Bolshevism see that the people are well fed. That, however, is just what we are unable to do in many parts of Europe. The machine that did is broken by the war, it is still freely rotating, but each month it moves slower and with more difficulty.
+What is the alternative to the present system if it does not recover? It is not Bolshevism. That is the last resort of desperate, starving men. It may come when the last agony of dissolution is upon Europe, but it cannot reorganize and feed the present large population. It has already appeared sporadically in Hungary, Germany and Italy. It has been driven underground---perhaps---but only for a time. If you want to prevent Bolshevism see that the people are well fed. That, however, is just what we are unable to do in many parts of Europe. The machine that did is broken by the war, it is still freely rotating, but each month it moves slower and with more difficulty.
 
 If we cannot save Europe, can we at least save ourselves?
 

@@ -105,9 +105,10 @@ books =
     Book {author = penty, title = "The Restoration of the Guild System", year = 1906, tag = "restoration-guild", source = "https://archive.org/details/restorationofgil00pentrich"},
     Book {author = belloc, title = "The Free Press", year = 1918, tag = "the-free-press", source = "https://archive.org/details/freepress00bellrich"},
     Book {author = belloc, title = "The Servile State", year = 1912, tag = "servile-state", source = "https://archive.org/details/servilestate00belluoft"},
+    Book {author = douglas, title = "The Control and Distribution of Production", year = 1922, tag = "control-distribution", source = "https://archive.org/details/controldistribut00douguoft"},
+    Book {author = douglas, title = "Economic Democracy", year = 1920, tag = "economic-democracy", source = "https://archive.org/details/econdemocracy00dougiala"},
     Book {author = "Leo Tolstoy", title = "Christianity and Patriotism", year = 1894, tag = "christianity-patriotism", source = "https://archive.org/details/completeworksofc20tols/page/381"},
     Book {author = "Ralph Borsodi", title = "Flight from the City", year = 1933, tag = "flight-from-city", source = "https://archive.org/details/flightfromcityan00borsrich"},
-    Book {author = "C. H. Douglas", title = "Economic Democracy", year = 1920, tag = "economic-democracy", source = "https://archive.org/details/econdemocracy00dougiala"},
     Book {author = "Henry George", title = "Social Problems", year = 1883, tag = "social-problems", source = "https://archive.org/details/socialproblems83geor"},
     Book {author = "Thomas Paine", title = "Agrarian Justice", year = 1797, tag = "agrarian-justice", source = "https://archive.org/details/agrarianjusticeo00pain"}
   ]
@@ -115,6 +116,7 @@ books =
     chesterton = "G. K. Chesterton"
     penty = "Arthur Penty"
     belloc = "Hilaire Belloc"
+    douglas = "C. H. Douglas"
 
 booksField :: Context String
 booksField =

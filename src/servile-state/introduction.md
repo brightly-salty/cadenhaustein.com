@@ -40,7 +40,7 @@ I shall divide the matter thus:--
 
     It can easily be shown that this second solution appeals most naturally and easily to a society already Capitalist on account of the difficulty which" such a society has to discover the energy, the will, and the vision requisite for the first solution.
 
-7. I shall next proceed to show how the pursuit of this ideal Collectivist State which is bred of Capitalism leads men acting upon a Capitalist society *not* towards the Collectivist State nor anything like it, but to that third utterly different thing--the *Servile State*.
+7. I shall next proceed to show how the pursuit of this ideal Collectivist State which is bred of Capitalism leads men acting upon a Capitalist society *not* towards the Collectivist State nor anything like it, but to that third utterly different thing---the *Servile State*.
 
     To this eighth section I shall add an appendix showing how the attempt to achieve Collectivism gradually by public purchase is based upon an illusion.
 
