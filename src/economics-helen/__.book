@@ -1,0 +1,31 @@
+import: ../common.book 
+lang: en 
+author: Hilaire Belloc 
+title: Economics for Helen 
+
+output.pdf: economics-helen.pdf 
+output.epub: economics-helen.epub 
+output.html.dir: economics-helen 
+
+@+ 1-0.md 
++ 1-1.md
++ 1-2.md 
++ 1-3.md 
++ 1-4.md 
++ 1-5.md 
++ 1-6.md 
++ 1-7.md 
+@+ 2-00.md 
+- 2-01.md 
+- 2-02.md 
+- 2-03.md 
+- 2-04.md 
+- 2-05.md 
+- 2-06.md 
+- 2-07.md 
+- 2-08.md 
+- 2-09.md 
+- 2-10.md 
+- 2-11.md 
+- 2-12.md 
+- 2-13.md 
