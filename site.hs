@@ -108,9 +108,10 @@ books =
     Book {author = belloc, title = "Economics for Helen", year = 1924, tag = "economics-helen", source = "https://archive.org/details/belloc-hilaire-economics-for-helen-1924"},
     Book {author = douglas, title = "The Control and Distribution of Production", year = 1922, tag = "control-distribution", source = "https://archive.org/details/controldistribut00douguoft"},
     Book {author = douglas, title = "Economic Democracy", year = 1920, tag = "economic-democracy", source = "https://archive.org/details/econdemocracy00dougiala"},
+    Book {author = george, title = "Social Problems", year = 1883, tag = "social-problems", source = "https://archive.org/details/socialproblems83geor"},
+    Book {author = george, title = "The Condition of Labor", year = 1891, tag = "condition-labor", source = "https://archive.org/details/conditionoflabor00georuoft"},
     Book {author = "Leo Tolstoy", title = "Christianity and Patriotism", year = 1894, tag = "christianity-patriotism", source = "https://archive.org/details/completeworksofc20tols/page/381"},
     Book {author = "Ralph Borsodi", title = "Flight from the City", year = 1933, tag = "flight-from-city", source = "https://archive.org/details/flightfromcityan00borsrich"},
-    Book {author = "Henry George", title = "Social Problems", year = 1883, tag = "social-problems", source = "https://archive.org/details/socialproblems83geor"},
     Book {author = "Thomas Paine", title = "Agrarian Justice", year = 1797, tag = "agrarian-justice", source = "https://archive.org/details/agrarianjusticeo00pain"}
   ]
   where
@@ -118,6 +119,7 @@ books =
     penty = "Arthur Penty"
     belloc = "Hilaire Belloc"
     douglas = "C. H. Douglas"
+    george = "Henry George"
 
 booksField :: Context String
 booksField =

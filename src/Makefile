@@ -1,4 +1,4 @@
-all: agrarian-justice christianity-patriotism control-distribution economic-democracy flight-from-city guilds-trade guildsman-history napoleon-notting orthodoxy outline-sanity restoration-guild saw-america servile-state social-problems the-free-press utopia-usurers
+all: agrarian-justice christianity-patriotism condition-labor control-distribution economic-democracy economics-helen flight-from-city guilds-trade guildsman-history napoleon-notting orthodoxy outline-sanity restoration-guild saw-america servile-state social-problems the-free-press utopia-usurers
 
 %: common.book %/__.book %/*.md
 	-mkdir -p ../books/$@

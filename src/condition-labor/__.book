@@ -1,0 +1,17 @@
+import: ../common.book 
+lang: en
+author: Henry George
+title: The Condition of Labor
+subtitle: An Open Letter to Pope Leo XIII
+
+output.epub: condition-labor.epub 
+output.pdf: condition-labor.pdf 
+output.html.dir: condition-labor
+
+- 0.md
+- 1.md 
+- 2.md
+- 3.md
+- 4.md
+- 5.md
+- appendix.md
