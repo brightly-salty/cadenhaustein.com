@@ -14,7 +14,7 @@ import Data.List.Split (splitOn)
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["_redirects", "robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*", "wordle/manifest.json", "wordle/main.js", "wordle/images/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*", "wordle/manifest.json", "wordle/main.js", "wordle/images/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
@@ -36,6 +36,14 @@ main = hakyllWith config $ do
     route idRoute
     compile compressCssCompiler
 
+  match "404.md" $ do
+      route $ customRoute $ const "404.html"
+      compile $
+        pandocCompiler
+          >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> boolField "doBooks" (const False))
+          >>= relativizeUrls
+          >>= cleanIndexUrls
+  
   match "about.md" $ do
     route $ customRoute $ const "about/index.html"
     compile $

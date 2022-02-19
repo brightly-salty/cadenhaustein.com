@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404 Not Found - Caden Haustein</title>
+    <link rel="stylesheet" href="./styles/hakyll.css" />
+    
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="./">Caden Haustein</a>
+        </div>
+        <nav>
+            <a href="./">Home</a>
+            <a href="./about/">About</a>
+        </nav>
+    </header>
+
+    <main role="main">
+        <h1>404 Not Found</h1>
+        <p>I couldn’t find the resource you’re looking for. Perhaps head <a href="./">home</a> or <a href="mailto:caden@cadenhaustein.com">contact me</a> if you think there’s been a mistake.</p>
+        
+    </main>
+    <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
+    <script>
+        kofiWidgetOverlay.draw('cadenhaustein', {
+            'type': 'floating-chat',
+            'floating-chat.donateButton.text': 'Support me',
+            'floating-chat.donateButton.background-color': '#ffffff',
+            'floating-chat.donateButton.text-color': '#323842'
+        });
+    </script>
+    <script>
+        var url = new URL(window.location.href);
+        if (url.hash !== "") {
+            document.getElementById(url.hash.slice(1)).open = true;
+        }
+    </script>
+</body>
+
+</html>
