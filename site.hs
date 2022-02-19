@@ -14,7 +14,7 @@ import Data.List.Split (splitOn)
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["_redirects", "robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*", "wordle/manifest.json", "wordle/main.js", "wordle/images/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*", "wordle/manifest.json", "wordle/main.js", "wordle/images/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
@@ -100,6 +100,7 @@ books =
     Book {author = chesterton, title = "Utopia of Usurers", year = 1917, tag = "utopia-usurers", source = "https://archive.org/details/utopiaofusurerso00ches/page/n16"},
     Book {author = chesterton, title = "Orthodoxy", year = 1908, tag = "orthodoxy", source = "https://archive.org/details/orthodoxy00chesuoft"},
     Book {author = chesterton, title = "The Napoleon of Notting Hill", year = 1904, tag = "napoleon-notting", source = "https://archive.org/details/napoleonofnottin00chesiala"},
+    Book {author = chesterton, title = "Eugenics and Other Evils", year = 1922, tag = "eugenics-evils", source = "https://archive.org/details/eugenics00chesuoft"},
     Book {author = penty, title = "Guilds, Trade, and Agriculture", year = 1921, tag = "guilds-trade", source = "https://archive.org/details/guildstradeagric00pentuoft"},
     Book {author = penty, title = "A Guildsman's Interpretation of History", year = 1920, tag = "guildsman-history", source = "https://archive.org/details/guildsmanhistory00pentuoft"},
     Book {author = penty, title = "The Restoration of the Guild System", year = 1906, tag = "restoration-guild", source = "https://archive.org/details/restorationofgil00pentrich"},
