@@ -14,11 +14,11 @@ import Data.List.Split (splitOn)
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*", "wordle/manifest.json", "wordle/main.js", "wordle/images/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
-  match ("books/*/index.html" .||. "wordle/index.html") $ do
+  match ("books/*/index.html") $ do
     route idRoute
     compile $
       getResourceString
@@ -58,10 +58,6 @@ main = hakyllWith config $ do
       getResourceBody
         >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField <> boolField "doBooks" (const True))
         >>= relativizeUrls
-
-  create ["CNAME"] $ do
-    route idRoute
-    compile $ makeItem domain
 
   create ["sitemap.txt"] $ do 
     route idRoute
