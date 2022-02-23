@@ -114,7 +114,8 @@ books =
     Book {author = douglas, title = "Economic Democracy", year = 1920, tag = "economic-democracy", source = "https://archive.org/details/econdemocracy00dougiala"},
     Book {author = george, title = "Social Problems", year = 1883, tag = "social-problems", source = "https://archive.org/details/socialproblems83geor"},
     Book {author = george, title = "The Condition of Labor", year = 1891, tag = "condition-labor", source = "https://archive.org/details/conditionoflabor00georuoft"},
-    Book {author = "Leo Tolstoy", title = "Christianity and Patriotism", year = 1894, tag = "christianity-patriotism", source = "https://archive.org/details/completeworksofc20tols/page/381"},
+    Book {author = tolstoy, title = "Christianity and Patriotism", year = 1894, tag = "christianity-patriotism", source = "https://archive.org/details/completeworksofc20tols/page/381"},
+    Book {author = tolstoy, title = "The Kingdom of God is Within You", year = 1894, tag = "kingdom-within", source = "https://archive.org/details/completeworksofc20tols/page/n15"},
     Book {author = "Ralph Borsodi", title = "Flight from the City", year = 1933, tag = "flight-from-city", source = "https://archive.org/details/flightfromcityan00borsrich"},
     Book {author = "Thomas Paine", title = "Agrarian Justice", year = 1797, tag = "agrarian-justice", source = "https://archive.org/details/agrarianjusticeo00pain"}
   ]
@@ -124,6 +125,7 @@ books =
     belloc = "Hilaire Belloc"
     douglas = "C. H. Douglas"
     george = "Henry George"
+    tolstoy = "Leo Tolstoy"
 
 booksField :: Context String
 booksField =
