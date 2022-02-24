@@ -100,6 +100,7 @@ data Book = Book {author :: String, title :: String, year :: Int, tag :: String,
 books :: [Book]
 books =
   [ Book {author = chesterton, title = "Outline of Sanity", year = 1926, tag = "outline-sanity", source = ""},
+    Book {author = chesterton, title = "St. Francis of Assisi", year = 1923, tag = "st-francis", source = "https://archive.org/details/stfrancisofassis01ches"},
     Book {author = chesterton, title = "What I Saw in America", year = 1922, tag = "saw-america", source = "https://archive.org/details/whatisawinamer00chesrich"},
     Book {author = chesterton, title = "Utopia of Usurers", year = 1917, tag = "utopia-usurers", source = "https://archive.org/details/utopiaofusurerso00ches/page/n16"},
     Book {author = chesterton, title = "Orthodoxy", year = 1908, tag = "orthodoxy", source = "https://archive.org/details/orthodoxy00chesuoft"},
