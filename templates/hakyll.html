@@ -8,7 +8,8 @@
     <title>$title$ - Caden Haustein</title>
     <link rel="stylesheet" href="/styles/hakyll.css" />
     $if(author)$
-    <meta name="author" content="$author$">$endif$
+    <meta name="author" content="$author$">
+    $endif$
 </head>
 
 <body>
@@ -26,23 +27,9 @@
         <h1>$title$</h1>
         $body$
         $if(doBooks)$
-        <script>
-            function copy(id) {
-                var url = new URL(window.location.href);
-                url.hash = id;
-                window.location.href = url.toString();
-                var copyText = document.body.appendChild(document.createElement("input"));
-                copyText.value = window.location.href;
-                copyText.focus();
-                copyText.select();
-                document.execCommand('copy');
-                copyText.parentNode.removeChild(copyText);
-                document.getElementById(id.slice(1)).open = true;
-            }
-        </script>
         $for(books)$
-        <details id=$tag$>
-            <summary><em>$title$</em> by $author$ ($year$) <button class="copier" onClick="copy('#$tag$')">Copy link</button></summary>
+        <details id=$tag$ class="book-details">
+            <summary><em>$title$</em> by $author$ ($year$)</summary>
             <a href="books/$tag$/">Read online</a><br />
             <a href="books/$tag$.pdf">Download PDF</a><br />
             <a href="books/$tag$.epub">Download ePub</a><br />
@@ -50,6 +37,9 @@
             $if(source)$<a href="$source$">View original source</a><br />$endif$
         </details>
         $endfor$
+        <hr>
+        <iframe name="opinionstage-widget" src="https://www.opinionstage.com/api/v1/widgets/970587/iframe" data-opinionstage-iframe="a4e4c7aa-86a9-494a-8153-444d989823d5" width="100%" height="800" scrolling="auto" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" rereferrerpolicy="no-referrer-when-downgrade"></iframe>
+
         $endif$
     </main>
     <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
@@ -61,12 +51,23 @@
             'floating-chat.donateButton.text-color': '#323842'
         });
     </script>
+    $if(doBooks)$
     <script>
         var url = new URL(window.location.href);
         if (url.hash !== "") {
             document.getElementById(url.hash.slice(1)).open = true;
         }
+        [].forEach.call(document.getElementsByClassName("book-details"), function(book) {
+            book.addEventListener("toggle", _ => {
+                if (book.open) {
+                    var url = new URL(window.location.href);
+                    url.hash = book.id;
+                    window.location.href = url.toString();
+                }
+            });
+        });
     </script>
+    $endif$
 </body>
 
 </html>
