@@ -3,7 +3,7 @@ author: G. K. Chesterton
 title: The Napoleon of Notting Hill
 lang: en
 
-output.html.dir: napoleon-notting
+output.html: napoleon-notting/index.html
 output.epub: napoleon-notting.epub
 output.pdf: napoleon-notting.pdf
 

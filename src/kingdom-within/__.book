@@ -4,7 +4,7 @@ author: Leo Tolstoy
 title: The Kingdom of God is Within You
 subtitle: Or, Christianity Not as a Mystical Teaching but as a New Concept of Life
 
-output.html.dir: kingdom-within 
+output.html: kingdom-within/index.html
 output.pdf: kingdom-within.pdf
 output.epub: kingdom-within.epub
 

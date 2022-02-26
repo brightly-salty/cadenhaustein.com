@@ -3,7 +3,7 @@ author: G. K. Chesterton
 title: Orthodoxy
 lang: en
 
-output.html.dir: orthodoxy
+output.html: orthodoxy/index.html
 output.epub: orthodoxy.epub
 output.pdf: orthodoxy.pdf
 

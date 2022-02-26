@@ -3,7 +3,7 @@ author: G. K. Chesterton
 title: The Outline of Sanity
 lang: en
 
-output.html.dir: outline-sanity
+output.html: outline-sanity/index.html
 output.epub: outline-sanity.epub
 output.pdf: outline-sanity.pdf
 

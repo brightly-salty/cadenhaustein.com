@@ -3,12 +3,14 @@ license: "This work is free of known copyright restrictions."
 input.clean.smart_quotes: true
 input.clean.ligature.dashes: true
 
-rendering.inline_toc: true 
+rendering.inline_toc: false 
 rendering.highlight: "none"
 
 output.base_path: "../books"
 
 html.js: "../templates/crowbook.js"
-html.dir.template: "../templates/crowbook.html"
+html.standalone.js: "../templates/crowbook_standalone.js"
+html.standalone.template: "../templates/crowbook.html"
 html.css: "../templates/crowbook.css"
 html.css.print: "../templates/print.css"
+html.standalone.one_chapter: true

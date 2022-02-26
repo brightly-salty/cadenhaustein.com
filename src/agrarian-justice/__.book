@@ -7,6 +7,4 @@ output.html: agrarian-justice/index.html
 output.epub: agrarian-justice.epub
 output.pdf: agrarian-justice.pdf
 
-rendering.inline_toc: false
-
 ! book.md

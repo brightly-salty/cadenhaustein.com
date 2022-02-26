@@ -3,7 +3,7 @@ lang: en
 title: St. Francis of Assisi
 author: G. K. Chesterton 
 
-output.html.dir: st-francis 
+output.html: st-francis/index.html
 output.epub: st-francis.epub 
 output.pdf: st-francis.pdf 
 

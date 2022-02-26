@@ -3,7 +3,7 @@ lang: en
 title: A Guildsman's Interpretation of History 
 author: Arthur Penty
 
-output.html.dir: guildsman-history
+output.html: guildsman-history/index.html
 output.epub: guildsman-history.epub 
 output.pdf: guildsman-history.pdf 
 

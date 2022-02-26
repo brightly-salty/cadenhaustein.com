@@ -1,10 +1,9 @@
-{-# LANGUAGE BangPatterns #-}
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE OverloadedStrings #-}
 
 import Control.Applicative (Alternative (empty))
 import Data.Aeson
-import Data.Foldable (forM_)
+import Data.Foldable (forM_, foldl')
 import Data.List (intercalate, isSuffixOf, sortBy)
 import Data.List.Split (splitOn)
 import Data.Maybe (fromJust, fromMaybe)
@@ -13,27 +12,22 @@ import Data.String (IsString (..))
 import GHC.Generics
 import Hakyll
 import System.FilePath (takeBaseName, takeDirectory, (</>))
+import Text.HTML.TagSoup (Tag (..))
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "books/*/images/*", "scripts/*", "fonts/*", "images/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "fonts/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
-  match ("books/*/index.html") $ do
+  match "books/*/index.html" $ do
     route idRoute
     compile $
       getResourceString
         >>= relativizeUrls
         >>= cleanIndexUrls
-
-  match ("books/*/*.html" .&&. complement "books/*/index.html") $ do
-    route cleanRoute
-    compile $
-      getResourceString
-        >>= relativizeUrls
-        >>= cleanIndexUrls
+        >>= cleanInlineCSS
 
   match "styles/*" $ do
     route idRoute
@@ -58,11 +52,10 @@ main = hakyllWith config $ do
   match "index.html" $ do
     route idRoute
     dependency <- makePatternDependency "books.json"
-    rulesExtraDependencies [dependency] $ compile $ do
-      body <- getResourceBody
-      Just books <- recompilingUnsafeCompiler $ decodeFileStrict "books.json"
-      newBody <- loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField books <> boolField "doBooks" (const True)) body
-      relativizeUrls newBody
+    rulesExtraDependencies [dependency] $
+      compile $ do
+        Just books <- recompilingUnsafeCompiler $ decodeFileStrict "books.json"
+        getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField books <> boolField "doBooks" (const True)) >>= relativizeUrls 
 
   create ["sitemap.txt"] $ do
     route idRoute
@@ -84,12 +77,18 @@ domain = "cadenhaustein.com"
 root :: String
 root = "https://" <> domain
 
-cleanRoute :: Routes
-cleanRoute = customRoute createIndexRoute
+cleanInlineCSS :: Item String -> Compiler (Item String)
+cleanInlineCSS = withItemBody (pure . withTagList editTags)
   where
-    createIndexRoute ident = takeDirectory p </> takeBaseName p </> "index.html"
-      where
-        p = toFilePath ident
+    editTags :: [Tag String] -> [Tag String]
+    editTags = reverse . snd . foldl' editTag ([], [])
+
+    editTag :: ([Tag String], [Tag String]) -> Tag String -> ([Tag String], [Tag String])
+    editTag ([], done) (TagOpen "style" attrs) = ([TagOpen "style" attrs], done)
+    editTag ([], done) tag = ([], tag : done)
+    editTag (previous, done) (TagClose "style") = ([], TagClose "style" : (reverse previous <> done))
+    editTag (previous, done) (TagText text) = (previous <> [TagText (compressCss text)], done)
+    editTag (previous, done) tag = (previous <> [tag], done)
 
 cleanIndexUrls :: Item String -> Compiler (Item String)
 cleanIndexUrls = pure . fmap (withUrls cleanIndex)

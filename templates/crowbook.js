@@ -1,7 +1,21 @@
-var display_menu = false;
+function on(name) {
+    var elements = document.getElementsByClassName(name);
+    for (var i = 0; i < elements.length; i++) {
+        var elem = elements[i];
+        elem.style.backgroundColor = "pink";
+    }
+}
+function off(name) {
+    var elements = document.getElementsByClassName(name);
+    for (var i = 0; i < elements.length; i++) {
+        var elem = elements[i];
+        elem.style.backgroundColor = "white";
+    }
+}
 
-function toggleMenu() {
-    if (display_menu) {
+var display_menu = false;
+function toggle() {
+    if (display_menu == true) {
         display_menu = false;
         document.getElementById("nav").style.left = "-21%";
         document.getElementById("content").style.marginLeft = "0%";
@@ -13,3 +27,4 @@ function toggleMenu() {
         document.getElementById("menu").style.left = "20%";
     }
 }
+

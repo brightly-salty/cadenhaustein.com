@@ -3,7 +3,7 @@ author: Arthur Penty
 title: Guilds, Trade, and Agriculture
 lang: en
 
-output.html.dir: guilds-trade
+output.html: guilds-trade/index.html
 output.epub: guilds-trade.epub
 output.pdf: guilds-trade.pdf
 

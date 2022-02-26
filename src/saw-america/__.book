@@ -5,7 +5,7 @@ title: What I Saw in America
 
 output.pdf: saw-america.pdf 
 output.epub: saw-america.epub 
-output.html.dir: saw-america 
+output.html: saw-america/index.html
 
 + 01.md 
 + 02.md 
