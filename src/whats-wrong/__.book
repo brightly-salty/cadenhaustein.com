@@ -1,0 +1,65 @@
+import: ../common.book
+lang: en
+author: G. K. Chesterton
+title: What's Wrong with the World
+
+output.html: whats-wrong/index.html 
+output.epub: whats-wrong.epub 
+output.pdf: whats-wrong.mobi 
+
+- 0.md 
+@ The Homelessness of Man 
++ 1-01.md 
++ 1-02.md 
++ 1-03.md 
++ 1-04.md
++ 1-05.md 
++ 1-06.md 
++ 1-07.md 
++ 1-08.md 
++ 1-09.md 
++ 1-10.md 
++ 1-11.md 
+@ Imperialism, or the Mistake about Man 
++ 2-1.md 
++ 2-2.md 
++ 2-3.md 
++ 2-4.md 
+@ Feminism, or the Mistake about Woman 
++ 3-01.md 
++ 3-02.md 
++ 3-03.md 
++ 3-04.md 
++ 3-05.md 
++ 3-06.md 
++ 3-07.md 
++ 3-08.md 
++ 3-09.md 
++ 3-10.md 
++ 3-11.md 
++ 3-12.md 
+@ Education, or the Mistake about the Child 
++ 4-01.md 
++ 4-02.md 
++ 4-03.md 
++ 4-04.md 
++ 4-05.md 
++ 4-06.md 
++ 4-07.md 
++ 4-08.md 
++ 4-09.md 
++ 4-10.md 
++ 4-11.md 
++ 4-12.md 
++ 4-13.md 
++ 4-14.md 
+@ The Home of the Man 
++ 5-1.md 
++ 5-2.md 
++ 5-3.md 
++ 5-4.md 
++ 5-5.md 
+@+ 6-0.md
++ 6-1.md 
++ 6-2.md 
++ 6-3.md 
