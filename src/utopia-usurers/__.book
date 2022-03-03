@@ -3,7 +3,7 @@ author: G. K. Chesterton
 title: Utopia of Usurers
 lang: en
 
-output.html.dir: utopia-usurers
+output.html: utopia-usurers/index.html
 output.epub: utopia-usurers.epub
 output.pdf: utopia-usurers.pdf
 

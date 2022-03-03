@@ -25,189 +25,13 @@
         <h1>Home</h1>
         <h2>Welcome to my digital library!</h2>
 
-According to my research, all of these books are in the public domain in the US. Click on one of the titles below to see viewing options. If you have an author or title you'd like to see made available, <a href="./about/">contact me</a>.
+According to my research, all of these books are in the public domain in the US. Click on one of the titles below to see viewing options.
 
 <hr>
         
-        <script>
-            function copy(id) {
-                var url = new URL(window.location.href);
-                url.hash = id;
-                window.location.href = url.toString();
-                var copyText = document.body.appendChild(document.createElement("input"));
-                copyText.value = window.location.href;
-                copyText.focus();
-                copyText.select();
-                document.execCommand('copy');
-                copyText.parentNode.removeChild(copyText);
-                document.getElementById(id.slice(1)).open = true;
-            }
-        </script>
         
-        <details id="agrarian-justice">
-            <summary><em>Agrarian Justice</em> by Thomas Paine (1797) <button class="copier" onClick="copy('#agrarian-justice')">Copy link</button></summary>
-            <a href="books/agrarian-justice/">Read online</a><br />
-            <a href="books/agrarian-justice.pdf">Download PDF</a><br />
-            <a href="books/agrarian-justice.epub">Download ePub</a><br />
-            <a href="books/agrarian-justice.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/agrarianjusticeo00pain">View original source</a><br />
-        </details>
-        
-        <details id="social-problems">
-            <summary><em>Social Problems</em> by Henry George (1883) <button class="copier" onClick="copy('#social-problems')">Copy link</button></summary>
-            <a href="books/social-problems/">Read online</a><br />
-            <a href="books/social-problems.pdf">Download PDF</a><br />
-            <a href="books/social-problems.epub">Download ePub</a><br />
-            <a href="books/social-problems.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/socialproblems83geor">View original source</a><br />
-        </details>
-        
-        <details id="condition-labor">
-            <summary><em>The Condition of Labor</em> by Henry George (1891) <button class="copier" onClick="copy('#condition-labor')">Copy link</button></summary>
-            <a href="books/condition-labor/">Read online</a><br />
-            <a href="books/condition-labor.pdf">Download PDF</a><br />
-            <a href="books/condition-labor.epub">Download ePub</a><br />
-            <a href="books/condition-labor.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/conditionoflabor00georuoft">View original source</a><br />
-        </details>
-        
-        <details id="christianity-patriotism">
-            <summary><em>Christianity and Patriotism</em> by Leo Tolstoy (1894) <button class="copier" onClick="copy('#christianity-patriotism')">Copy link</button></summary>
-            <a href="books/christianity-patriotism/">Read online</a><br />
-            <a href="books/christianity-patriotism.pdf">Download PDF</a><br />
-            <a href="books/christianity-patriotism.epub">Download ePub</a><br />
-            <a href="books/christianity-patriotism.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/completeworksofc20tols/page/381">View original source</a><br />
-        </details>
-        
-        <details id="napoleon-notting">
-            <summary><em>The Napoleon of Notting Hill</em> by G. K. Chesterton (1904) <button class="copier" onClick="copy('#napoleon-notting')">Copy link</button></summary>
-            <a href="books/napoleon-notting/">Read online</a><br />
-            <a href="books/napoleon-notting.pdf">Download PDF</a><br />
-            <a href="books/napoleon-notting.epub">Download ePub</a><br />
-            <a href="books/napoleon-notting.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/napoleonofnottin00chesiala">View original source</a><br />
-        </details>
-        
-        <details id="restoration-guild">
-            <summary><em>The Restoration of the Guild System</em> by Arthur Penty (1906) <button class="copier" onClick="copy('#restoration-guild')">Copy link</button></summary>
-            <a href="books/restoration-guild/">Read online</a><br />
-            <a href="books/restoration-guild.pdf">Download PDF</a><br />
-            <a href="books/restoration-guild.epub">Download ePub</a><br />
-            <a href="books/restoration-guild.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/restorationofgil00pentrich">View original source</a><br />
-        </details>
-        
-        <details id="orthodoxy">
-            <summary><em>Orthodoxy</em> by G. K. Chesterton (1908) <button class="copier" onClick="copy('#orthodoxy')">Copy link</button></summary>
-            <a href="books/orthodoxy/">Read online</a><br />
-            <a href="books/orthodoxy.pdf">Download PDF</a><br />
-            <a href="books/orthodoxy.epub">Download ePub</a><br />
-            <a href="books/orthodoxy.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/orthodoxy00chesuoft">View original source</a><br />
-        </details>
-        
-        <details id="servile-state">
-            <summary><em>The Servile State</em> by Hilaire Belloc (1912) <button class="copier" onClick="copy('#servile-state')">Copy link</button></summary>
-            <a href="books/servile-state/">Read online</a><br />
-            <a href="books/servile-state.pdf">Download PDF</a><br />
-            <a href="books/servile-state.epub">Download ePub</a><br />
-            <a href="books/servile-state.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/servilestate00belluoft">View original source</a><br />
-        </details>
-        
-        <details id="utopia-usurers">
-            <summary><em>Utopia of Usurers</em> by G. K. Chesterton (1917) <button class="copier" onClick="copy('#utopia-usurers')">Copy link</button></summary>
-            <a href="books/utopia-usurers/">Read online</a><br />
-            <a href="books/utopia-usurers.pdf">Download PDF</a><br />
-            <a href="books/utopia-usurers.epub">Download ePub</a><br />
-            <a href="books/utopia-usurers.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/utopiaofusurerso00ches/page/n16">View original source</a><br />
-        </details>
-        
-        <details id="the-free-press">
-            <summary><em>The Free Press</em> by Hilaire Belloc (1918) <button class="copier" onClick="copy('#the-free-press')">Copy link</button></summary>
-            <a href="books/the-free-press/">Read online</a><br />
-            <a href="books/the-free-press.pdf">Download PDF</a><br />
-            <a href="books/the-free-press.epub">Download ePub</a><br />
-            <a href="books/the-free-press.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/freepress00bellrich">View original source</a><br />
-        </details>
-        
-        <details id="guildsman-history">
-            <summary><em>A Guildsman's Interpretation of History</em> by Arthur Penty (1920) <button class="copier" onClick="copy('#guildsman-history')">Copy link</button></summary>
-            <a href="books/guildsman-history/">Read online</a><br />
-            <a href="books/guildsman-history.pdf">Download PDF</a><br />
-            <a href="books/guildsman-history.epub">Download ePub</a><br />
-            <a href="books/guildsman-history.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/guildsmanhistory00pentuoft">View original source</a><br />
-        </details>
-        
-        <details id="economic-democracy">
-            <summary><em>Economic Democracy</em> by C. H. Douglas (1920) <button class="copier" onClick="copy('#economic-democracy')">Copy link</button></summary>
-            <a href="books/economic-democracy/">Read online</a><br />
-            <a href="books/economic-democracy.pdf">Download PDF</a><br />
-            <a href="books/economic-democracy.epub">Download ePub</a><br />
-            <a href="books/economic-democracy.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/econdemocracy00dougiala">View original source</a><br />
-        </details>
-        
-        <details id="guilds-trade">
-            <summary><em>Guilds, Trade, and Agriculture</em> by Arthur Penty (1921) <button class="copier" onClick="copy('#guilds-trade')">Copy link</button></summary>
-            <a href="books/guilds-trade/">Read online</a><br />
-            <a href="books/guilds-trade.pdf">Download PDF</a><br />
-            <a href="books/guilds-trade.epub">Download ePub</a><br />
-            <a href="books/guilds-trade.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/guildstradeagric00pentuoft">View original source</a><br />
-        </details>
-        
-        <details id="saw-america">
-            <summary><em>What I Saw in America</em> by G. K. Chesterton (1922) <button class="copier" onClick="copy('#saw-america')">Copy link</button></summary>
-            <a href="books/saw-america/">Read online</a><br />
-            <a href="books/saw-america.pdf">Download PDF</a><br />
-            <a href="books/saw-america.epub">Download ePub</a><br />
-            <a href="books/saw-america.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/whatisawinamer00chesrich">View original source</a><br />
-        </details>
-        
-        <details id="eugenics-evils">
-            <summary><em>Eugenics and Other Evils</em> by G. K. Chesterton (1922) <button class="copier" onClick="copy('#eugenics-evils')">Copy link</button></summary>
-            <a href="books/eugenics-evils/">Read online</a><br />
-            <a href="books/eugenics-evils.pdf">Download PDF</a><br />
-            <a href="books/eugenics-evils.epub">Download ePub</a><br />
-            <a href="books/eugenics-evils.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/eugenics00chesuoft">View original source</a><br />
-        </details>
-        
-        <details id="control-distribution">
-            <summary><em>The Control and Distribution of Production</em> by C. H. Douglas (1922) <button class="copier" onClick="copy('#control-distribution')">Copy link</button></summary>
-            <a href="books/control-distribution/">Read online</a><br />
-            <a href="books/control-distribution.pdf">Download PDF</a><br />
-            <a href="books/control-distribution.epub">Download ePub</a><br />
-            <a href="books/control-distribution.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/controldistribut00douguoft">View original source</a><br />
-        </details>
-        
-        <details id="economics-helen">
-            <summary><em>Economics for Helen</em> by Hilaire Belloc (1924) <button class="copier" onClick="copy('#economics-helen')">Copy link</button></summary>
-            <a href="books/economics-helen/">Read online</a><br />
-            <a href="books/economics-helen.pdf">Download PDF</a><br />
-            <a href="books/economics-helen.epub">Download ePub</a><br />
-            <a href="books/economics-helen.mobi">Download mobi</a><br />
-            <a href="https://archive.org/details/belloc-hilaire-economics-for-helen-1924">View original source</a><br />
-        </details>
-        
-        <details id="outline-sanity">
-            <summary><em>Outline of Sanity</em> by G. K. Chesterton (1926) <button class="copier" onClick="copy('#outline-sanity')">Copy link</button></summary>
-            <a href="books/outline-sanity/">Read online</a><br />
-            <a href="books/outline-sanity.pdf">Download PDF</a><br />
-            <a href="books/outline-sanity.epub">Download ePub</a><br />
-            <a href="books/outline-sanity.mobi">Download mobi</a><br />
-            
-        </details>
-        
-        <details id="flight-from-city">
-            <summary><em>Flight from the City</em> by Ralph Borsodi (1933) <button class="copier" onClick="copy('#flight-from-city')">Copy link</button></summary>
+        <details id="flight-from-city" class="book-details">
+            <summary><em>Flight from the City</em> by Ralph Borsodi (1933)</summary>
             <a href="books/flight-from-city/">Read online</a><br />
             <a href="books/flight-from-city.pdf">Download PDF</a><br />
             <a href="books/flight-from-city.epub">Download ePub</a><br />
@@ -215,6 +39,216 @@ According to my research, all of these books are in the public domain in the US.
             <a href="https://archive.org/details/flightfromcityan00borsrich">View original source</a><br />
         </details>
         
+        <details id="outline-sanity" class="book-details">
+            <summary><em>Outline of Sanity</em> by G. K. Chesterton (1926)</summary>
+            <a href="books/outline-sanity/">Read online</a><br />
+            <a href="books/outline-sanity.pdf">Download PDF</a><br />
+            <a href="books/outline-sanity.epub">Download ePub</a><br />
+            <a href="books/outline-sanity.mobi">Download mobi</a><br />
+            
+        </details>
+        
+        <details id="economics-helen" class="book-details">
+            <summary><em>Economics for Helen</em> by Hilaire Belloc (1924)</summary>
+            <a href="books/economics-helen/">Read online</a><br />
+            <a href="books/economics-helen.pdf">Download PDF</a><br />
+            <a href="books/economics-helen.epub">Download ePub</a><br />
+            <a href="books/economics-helen.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/belloc-hilaire-economics-for-helen-1924">View original source</a><br />
+        </details>
+        
+        <details id="garrison-nonresistance" class="book-details">
+            <summary><em>William Lloyd Garrison on Non-Resistance</em> by Fanny Garrison Villard (1924)</summary>
+            <a href="books/garrison-nonresistance/">Read online</a><br />
+            <a href="books/garrison-nonresistance.pdf">Download PDF</a><br />
+            <a href="books/garrison-nonresistance.epub">Download ePub</a><br />
+            <a href="books/garrison-nonresistance.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/williamlloydgarr00vill">View original source</a><br />
+        </details>
+        
+        <details id="st-francis" class="book-details">
+            <summary><em>St. Francis of Assisi</em> by G. K. Chesterton (1923)</summary>
+            <a href="books/st-francis/">Read online</a><br />
+            <a href="books/st-francis.pdf">Download PDF</a><br />
+            <a href="books/st-francis.epub">Download ePub</a><br />
+            <a href="books/st-francis.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/stfrancisofassis01ches">View original source</a><br />
+        </details>
+        
+        <details id="saw-america" class="book-details">
+            <summary><em>What I Saw in America</em> by G. K. Chesterton (1922)</summary>
+            <a href="books/saw-america/">Read online</a><br />
+            <a href="books/saw-america.pdf">Download PDF</a><br />
+            <a href="books/saw-america.epub">Download ePub</a><br />
+            <a href="books/saw-america.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/whatisawinamer00chesrich">View original source</a><br />
+        </details>
+        
+        <details id="control-distribution" class="book-details">
+            <summary><em>The Control and Distribution of Production</em> by C. H. Douglas (1922)</summary>
+            <a href="books/control-distribution/">Read online</a><br />
+            <a href="books/control-distribution.pdf">Download PDF</a><br />
+            <a href="books/control-distribution.epub">Download ePub</a><br />
+            <a href="books/control-distribution.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/controldistribut00douguoft">View original source</a><br />
+        </details>
+        
+        <details id="guilds-trade" class="book-details">
+            <summary><em>Guilds, Trade, and Agriculture</em> by Arthur Penty (1921)</summary>
+            <a href="books/guilds-trade/">Read online</a><br />
+            <a href="books/guilds-trade.pdf">Download PDF</a><br />
+            <a href="books/guilds-trade.epub">Download ePub</a><br />
+            <a href="books/guilds-trade.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/guildstradeagric00pentuoft">View original source</a><br />
+        </details>
+        
+        <details id="acquisitive-society" class="book-details">
+            <summary><em>The Acquisitive Society</em> by R. H. Tawney (1921)</summary>
+            <a href="books/acquisitive-society/">Read online</a><br />
+            <a href="books/acquisitive-society.pdf">Download PDF</a><br />
+            <a href="books/acquisitive-society.epub">Download ePub</a><br />
+            <a href="books/acquisitive-society.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/acquisitivesocie00tawnuoft">View original source</a><br />
+        </details>
+        
+        <details id="guildsman-history" class="book-details">
+            <summary><em>A Guildsman's Interpretation of History</em> by Arthur Penty (1920)</summary>
+            <a href="books/guildsman-history/">Read online</a><br />
+            <a href="books/guildsman-history.pdf">Download PDF</a><br />
+            <a href="books/guildsman-history.epub">Download ePub</a><br />
+            <a href="books/guildsman-history.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/guildsmanhistory00pentuoft">View original source</a><br />
+        </details>
+        
+        <details id="economic-democracy" class="book-details">
+            <summary><em>Economic Democracy</em> by C. H. Douglas (1920)</summary>
+            <a href="books/economic-democracy/">Read online</a><br />
+            <a href="books/economic-democracy.pdf">Download PDF</a><br />
+            <a href="books/economic-democracy.epub">Download ePub</a><br />
+            <a href="books/economic-democracy.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/econdemocracy00dougiala">View original source</a><br />
+        </details>
+        
+        <details id="the-free-press" class="book-details">
+            <summary><em>The Free Press</em> by Hilaire Belloc (1918)</summary>
+            <a href="books/the-free-press/">Read online</a><br />
+            <a href="books/the-free-press.pdf">Download PDF</a><br />
+            <a href="books/the-free-press.epub">Download ePub</a><br />
+            <a href="books/the-free-press.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/freepress00bellrich">View original source</a><br />
+        </details>
+        
+        <details id="utopia-usurers" class="book-details">
+            <summary><em>Utopia of Usurers</em> by G. K. Chesterton (1917)</summary>
+            <a href="books/utopia-usurers/">Read online</a><br />
+            <a href="books/utopia-usurers.pdf">Download PDF</a><br />
+            <a href="books/utopia-usurers.epub">Download ePub</a><br />
+            <a href="books/utopia-usurers.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/utopiaofusurerso00ches/page/n16">View original source</a><br />
+        </details>
+        
+        <details id="servile-state" class="book-details">
+            <summary><em>The Servile State</em> by Hilaire Belloc (1912)</summary>
+            <a href="books/servile-state/">Read online</a><br />
+            <a href="books/servile-state.pdf">Download PDF</a><br />
+            <a href="books/servile-state.epub">Download ePub</a><br />
+            <a href="books/servile-state.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/servilestate00belluoft">View original source</a><br />
+        </details>
+        
+        <details id="whats-wrong" class="book-details">
+            <summary><em>What's Wrong with the World</em> by G. K. Chesterton (1910)</summary>
+            <a href="books/whats-wrong/">Read online</a><br />
+            <a href="books/whats-wrong.pdf">Download PDF</a><br />
+            <a href="books/whats-wrong.epub">Download ePub</a><br />
+            <a href="books/whats-wrong.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/whatswrongwithwo00chesiala">View original source</a><br />
+        </details>
+        
+        <details id="orthodoxy" class="book-details">
+            <summary><em>Orthodoxy</em> by G. K. Chesterton (1908)</summary>
+            <a href="books/orthodoxy/">Read online</a><br />
+            <a href="books/orthodoxy.pdf">Download PDF</a><br />
+            <a href="books/orthodoxy.epub">Download ePub</a><br />
+            <a href="books/orthodoxy.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/orthodoxy00chesuoft">View original source</a><br />
+        </details>
+        
+        <details id="man-thursday" class="book-details">
+            <summary><em>The Man who was Thursday</em> by G. K. Chesterton (1908)</summary>
+            <a href="books/man-thursday/">Read online</a><br />
+            <a href="books/man-thursday.pdf">Download PDF</a><br />
+            <a href="books/man-thursday.epub">Download ePub</a><br />
+            <a href="books/man-thursday.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/manwhowasthursda00chesrich">View original source</a><br />
+        </details>
+        
+        <details id="restoration-guild" class="book-details">
+            <summary><em>The Restoration of the Guild System</em> by Arthur Penty (1906)</summary>
+            <a href="books/restoration-guild/">Read online</a><br />
+            <a href="books/restoration-guild.pdf">Download PDF</a><br />
+            <a href="books/restoration-guild.epub">Download ePub</a><br />
+            <a href="books/restoration-guild.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/restorationofgil00pentrich">View original source</a><br />
+        </details>
+        
+        <details id="napoleon-notting" class="book-details">
+            <summary><em>The Napoleon of Notting Hill</em> by G. K. Chesterton (1904)</summary>
+            <a href="books/napoleon-notting/">Read online</a><br />
+            <a href="books/napoleon-notting.pdf">Download PDF</a><br />
+            <a href="books/napoleon-notting.epub">Download ePub</a><br />
+            <a href="books/napoleon-notting.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/napoleonofnottin00chesiala">View original source</a><br />
+        </details>
+        
+        <details id="christianity-patriotism" class="book-details">
+            <summary><em>Christianity and Patriotism</em> by Leo Tolstoy (1894)</summary>
+            <a href="books/christianity-patriotism/">Read online</a><br />
+            <a href="books/christianity-patriotism.pdf">Download PDF</a><br />
+            <a href="books/christianity-patriotism.epub">Download ePub</a><br />
+            <a href="books/christianity-patriotism.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/completeworksofc20tols/page/381">View original source</a><br />
+        </details>
+        
+        <details id="kingdom-within" class="book-details">
+            <summary><em>The Kingdom of God is Within You</em> by Leo Tolstoy (1894)</summary>
+            <a href="books/kingdom-within/">Read online</a><br />
+            <a href="books/kingdom-within.pdf">Download PDF</a><br />
+            <a href="books/kingdom-within.epub">Download ePub</a><br />
+            <a href="books/kingdom-within.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/completeworksofc20tols/page/n15">View original source</a><br />
+        </details>
+        
+        <details id="condition-labor" class="book-details">
+            <summary><em>The Condition of Labor</em> by Henry George (1891)</summary>
+            <a href="books/condition-labor/">Read online</a><br />
+            <a href="books/condition-labor.pdf">Download PDF</a><br />
+            <a href="books/condition-labor.epub">Download ePub</a><br />
+            <a href="books/condition-labor.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/conditionoflabor00georuoft">View original source</a><br />
+        </details>
+        
+        <details id="social-problems" class="book-details">
+            <summary><em>Social Problems</em> by Henry George (1883)</summary>
+            <a href="books/social-problems/">Read online</a><br />
+            <a href="books/social-problems.pdf">Download PDF</a><br />
+            <a href="books/social-problems.epub">Download ePub</a><br />
+            <a href="books/social-problems.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/socialproblems83geor">View original source</a><br />
+        </details>
+        
+        <details id="agrarian-justice" class="book-details">
+            <summary><em>Agrarian Justice</em> by Thomas Paine (1797)</summary>
+            <a href="books/agrarian-justice/">Read online</a><br />
+            <a href="books/agrarian-justice.pdf">Download PDF</a><br />
+            <a href="books/agrarian-justice.epub">Download ePub</a><br />
+            <a href="books/agrarian-justice.mobi">Download mobi</a><br />
+            <a href="https://archive.org/details/agrarianjusticeo00pain">View original source</a><br />
+        </details>
+        
+        <hr>
+        <iframe name="opinionstage-widget" src="https://www.opinionstage.com/api/v1/widgets/970587/iframe" data-opinionstage-iframe="a4e4c7aa-86a9-494a-8153-444d989823d5" width="100%" height="800" scrolling="auto" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" rereferrerpolicy="no-referrer-when-downgrade"></iframe>
+
         
     </main>
     <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
@@ -226,12 +260,23 @@ According to my research, all of these books are in the public domain in the US.
             'floating-chat.donateButton.text-color': '#323842'
         });
     </script>
+    
     <script>
         var url = new URL(window.location.href);
         if (url.hash !== "") {
             document.getElementById(url.hash.slice(1)).open = true;
         }
+        [].forEach.call(document.getElementsByClassName("book-details"), function(book) {
+            book.addEventListener("toggle", _ => {
+                if (book.open) {
+                    var url = new URL(window.location.href);
+                    url.hash = book.id;
+                    window.location.href = url.toString();
+                }
+            });
+        });
     </script>
+    
 </body>
 
 </html>

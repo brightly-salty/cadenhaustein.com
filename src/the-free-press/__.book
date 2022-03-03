@@ -3,7 +3,7 @@ author: Hilaire Belloc
 title: The Free Press
 lang: en
 
-output.html.dir: the-free-press
+output.html: the-free-press/index.html
 output.epub: the-free-press.epub
 output.pdf: the-free-press.pdf
 

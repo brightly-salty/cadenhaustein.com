@@ -5,7 +5,7 @@ title: Social Problems
 
 output.pdf: social-problems.pdf 
 output.epub: social-problems.epub 
-output.html.dir: social-problems
+output.html: social-problems/index.html
 
 - preface.md
 + 01.md

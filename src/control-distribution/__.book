@@ -5,7 +5,7 @@ author: C. H. Douglas
 
 output.epub: control-distribution.epub 
 output.pdf: control-distribution.pdf 
-output.html.dir: control-distribution
+output.html: control-distribution/index.html
 
 - preface.md 
 + 01.md

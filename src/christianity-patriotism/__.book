@@ -3,7 +3,7 @@ author: Leo Tolstoy
 title: Christianity and Patriotism
 lang: en
 
-output.html.dir: christianity-patriotism
+output.html: christianity-patriotism/index.html
 output.epub: christianity-patriotism.epub
 output.pdf: christianity-patriotism.pdf
 

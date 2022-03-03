@@ -3,7 +3,7 @@ author: Hilaire Belloc
 title: The Servile State
 lang: en
 
-output.html.dir: servile-state
+output.html: servile-state/index.html
 output.epub: servile-state.epub
 output.pdf: servile-state.pdf
 

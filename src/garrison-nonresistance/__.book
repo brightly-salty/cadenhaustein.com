@@ -1,0 +1,16 @@
+import: ../common.book
+lang: en 
+author: Fanny Garrison Villard
+title: William Lloyd Garrison on Non-Resistance
+
+output.html: garrison-nonresistance/index.html 
+output.epub: garrison-nonresistance.epub 
+output.pdf: garrison-nonresistance.pdf 
+
++ 1.md 
++ 2.md 
++ 3.md 
++ 4.md 
++ 5.md 
++ 6.md 
++ 7.md

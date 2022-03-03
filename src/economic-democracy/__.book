@@ -3,7 +3,7 @@ author: C. H. Douglas
 title: Economic Democracy
 lang: en
 
-output.html.dir: economic-democracy
+output.html: economic-democracy/index.html
 output.epub: economic-democracy.epub
 output.pdf: economic-democracy.pdf
 

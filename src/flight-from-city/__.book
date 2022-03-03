@@ -4,7 +4,7 @@ subtitle: an experiment in creative living on the land
 author: Ralph Borsodi
 lang: en 
 
-output.html.dir: flight-from-city 
+output.html: flight-from-city/index.html
 output.epub: flight-from-city.epub 
 output.pdf: flight-from-city.pdf 
 

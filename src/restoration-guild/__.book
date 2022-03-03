@@ -5,7 +5,7 @@ title: The Restoration of the Guild System
 
 output.pdf: restoration-guild.pdf 
 output.epub: restoration-guild.epub 
-output.html.dir: restoration-guild 
+output.html: restoration-guild/index.html
 
 - preface.md 
 + 1.md 

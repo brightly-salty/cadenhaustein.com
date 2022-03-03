@@ -6,7 +6,7 @@ subtitle: An Open Letter to Pope Leo XIII
 
 output.epub: condition-labor.epub 
 output.pdf: condition-labor.pdf 
-output.html.dir: condition-labor
+output.html: condition-labor/index.html
 
 - 0.md
 - 1.md 
