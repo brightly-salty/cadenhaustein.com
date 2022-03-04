@@ -5,7 +5,7 @@ title: Eugenics and Other Evils
 
 output.epub: eugenics-evils.epub 
 output.pdf: eugenics-evils.pdf 
-output.html.dir: eugenics-evils 
+output.html: eugenics-evils/index.html
 
 - preface.md 
 @ The False Theory 
