@@ -1,0 +1,16 @@
+import: ../common.book
+lang: en
+author: Arthur Penty 
+title: Guilds and the Social Crisis 
+
+output.html: guilds-crisis/index.html 
+output.epub: guilds-crisis.epub 
+output.pdf: guilds-crisis.pdf 
+
+- 0.md 
++ 1.md 
++ 2.md 
++ 3.md 
++ 4.md 
++ 5.md 
++ 6.md 
