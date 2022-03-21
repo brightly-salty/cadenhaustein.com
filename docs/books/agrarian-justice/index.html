@@ -1,309 +1,622 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="generator" content="crowbook">
-    <meta name="viewport" content="width=device-width">
-    <meta name="author" content="Thomas Paine">
-    
-    <title>Agrarian Justice</title>
-    <style type="text/css">@font-face{font-family:'Merriweather';font-style:normal;font-weight:400;font-display:swap;src:url('../../fonts/merriweather-v28-latin-regular.eot');src:local(''),url('../../fonts/merriweather-v28-latin-regular.eot?#iefix') format('embedded-opentype'),url('../../fonts/merriweather-v28-latin-regular.woff2') format('woff2'),url('../../fonts/merriweather-v28-latin-regular.woff') format('woff'),url('../../fonts/merriweather-v28-latin-regular.ttf') format('truetype'),url('../../fonts/merriweather-v28-latin-regular.svg#Merriweather') format('svg')}@font-face{font-family:'Merriweather';font-style:italic;font-weight:400;font-display:swap;src:url('../../fonts/merriweather-v28-latin-italic.eot');src:local(''),url('../../fonts/merriweather-v28-latin-italic.eot?#iefix') format('embedded-opentype'),url('../../fonts/merriweather-v28-latin-italic.woff2') format('woff2'),url('../../fonts/merriweather-v28-latin-italic.woff') format('woff'),url('../../fonts/merriweather-v28-latin-italic.ttf') format('truetype'),url('../../fonts/merriweather-v28-latin-italic.svg#Merriweather') format('svg')}@font-face{font-family:'Merriweather';font-style:normal;font-weight:700;font-display:swap;src:url('../../fonts/merriweather-v28-latin-700.eot');src:local(''),url('../../fonts/merriweather-v28-latin-700.eot?#iefix') format('embedded-opentype'),url('../../fonts/merriweather-v28-latin-700.woff2') format('woff2'),url('../../fonts/merriweather-v28-latin-700.woff') format('woff'),url('../../fonts/merriweather-v28-latin-700.ttf') format('truetype'),url('../../fonts/merriweather-v28-latin-700.svg#Merriweather') format('svg')}@font-face{font-family:'Merriweather';font-style:italic;font-weight:700;font-display:swap;src:url('../../fonts/merriweather-v28-latin-700italic.eot');src:local(''),url('../../fonts/merriweather-v28-latin-700italic.eot?#iefix') format('embedded-opentype'),url('../../fonts/merriweather-v28-latin-700italic.woff2') format('woff2'),url('../../fonts/merriweather-v28-latin-700italic.woff') format('woff'),url('../../fonts/merriweather-v28-latin-700italic.ttf') format('truetype'),url('../../fonts/merriweather-v28-latin-700italic.svg#Merriweather') format('svg')}body{font-family:"Merriweather","Linux Libertine","Georgia",serif;text-align:justify;font-size:21px;text-rendering:optimizeLegibility}p{margin:0 0 1.5em 1.5em;hyphens:auto;line-height:calc(1ex/0.32);font-size:100%}li p{margin:0 0 0.5em 0.5em}blockquote{margin:1em;font-style:italic}code{font-size:100%;font-family:"Linux Libertine Mono",monospace;background-color:#F0F0F0}pre{font-family:"Linux Libertine Mono",monospace;margin:1em;padding-top:0;background-color:#F0F0F0;white-space:pre-wrap;word-wrap:break-word}h1,h2,h3,h4,h5,h5{adobe-hyphenate:none;-ms-hyphens:none;-moz-hyphens:none;-webkit-hyphens:none;-epub-hyphens:none;hyphens:none}h1,h2,h3,h4,h5,h6{text-align:left;font-family:Merriweather,Linux Biolinum,sans-serif;font-variant:small-caps}h1.part{font-size:300%;text-align:center}h2.part{font-size:200%;text-align:center}span.chapter-header{font-size:100%}h1.title{text-align:center;font-size:400%}h2.author{text-align:right;font-size:250%}h2.subtitle{text-align:center;font-size:250%}#toc ol,#toc ul{padding:0;margin-left:1em}#toc li{list-style-type:none;margin:0;padding:0}#toc li:before{content:none}#cover img{width:100%;max-height:100%}.image{margin:auto;width:80%}.image img{width:100%;max-height:100%}.rule{text-align:center!important;margin-top:1em;margin-bottom:1em;font-weight:bold;page-break-inside:avoid;break-inside:avoid;page-break-after:avoid;break-after:avoid}.note-number{font-weight:bold;margin-right:1em}td.note-number{vertical-align:top}.sidenote{display:block;float:right;width:30%;border:1px solid black;margin:1em;padding:.5em;margin-right:-1.5em}.sidenote .note-number{float:left}div.notes{text-align:justify;border-top:thin dashed black;margin-top:1em}table.notes{border-collapse:collapse;border-style:hidden}table.notes tr td{margin-left:1em;margin-right:1em}table.notes tr td p{text-indent:0}<div class="table">*/ .table{margin:1em}.table table{width:80%;margin:0 auto;border-style:solid;border-width:thin;border-color:black;border-collapse:collapse}.table table th,.table table td{border-style:solid;border-width:1px;text-align:center}.table table th{font-weight:bold;font-variant:small-caps}span.initial{float:left;font-size:315%;font-weight:bold;margin-right:0.05em;line-height:0.8em}p.first-para{text-indent:0}.nnbsp{word-spacing:-0.13em;margin:0;padding:0}nav{background:#CBBFCC;color:black;border-right-color:black}#nav a:link{color:black}#nav a:visited{color:black}#top{background-color:#444343;color:white}footer{background-color:#444343;color:white}footer a,#top a{color:#fc71ff}footer a:hover,#top a:hover{color:#b743fe}.grammar-error{color:red;text-decoration-line:underline;text-decoration-style:double}p.first-para:first-letter{font-size:350%;float:left;font-weight:bold;margin-right:0.05em;line-height:1em}nav{z-index:2;position:fixed;left:0;top:0;bottom:0;width:20%;overflow-y:auto;font-size:80%;margin-left:0;border-right-width:2px;border-right-style:dashed}#nav code{background-color:transparent}#nav a:link{text-decoration:none}#nav a:visited{text-decoration:none}#nav{text-align:left}#nav h2{text-align:center}#nav li{list-style-type:none;text-indent:-1em}#nav li:before{content:none}#nav ul{padding-right:1em;padding-left:1.5em}#menu{position:fixed;z-index:2;top:0em;left:1em;transition:left 1s}#menu img{opacity:0.5}#menu img:hover{opacity:1.0;cursor:pointer}#menu-button{height:1.5em;padding:0.5em}#book-button{height:1.5em;padding:0.5em;float:left}#nav{left:-21%;transition:left 1s}#content{overflow-y:auto;margin-left:0;margin-right:0;margin-top:0;margin-bottom:0;transition:margin-left 1s}.prev_chapter{text-align:left;text-indent:0;margin-bottom:1em;font-size:160%;font-variant:small-caps;font-weight:bold}.next_chapter{text-align:right;margin-top:1em;margin-bottom:1em;font-size:160%;font-variant:small-caps;font-weight:bold}p,blockquote,li,.image{margin-right:auto;max-width:60ch}blockquote{padding:1em}#content{text-align:center}#page{display:inline-block;text-align:justify;max-width:60ch}#nav-container{top:0;width:100%}#nav-title{top:0}#toolbar{top:0;float:left}#toolbar img{cursor:pointer}footer{margin-top:2em;margin-bottom:0}#top{margin-top:0;margin-bottom:1em}#top p{font-family:"Linux Biolinum";font-weight:bold;font-variant:small-caps}footer,#top{padding-top:.25em;padding-bottom:.25em;margin-left:0;margin-right:0;text-align:center;transition:margin-left 1s}footer a,#top a{text-decoration:none}footer p,#top p{text-indent:0;margin-left:auto;margin-right:auto;margin-bottom:0.5em;margin-top:0.5em}@supports(font-size-adjust:1){#content{font-size-adjust:0.5}}</style>
-    <style type="text/css" media="print">#page{display:block}.chapter{page-break-before:always}#menu{display:none}#nav{display:none}</style>
-    <script>
-    function on(name) {
-    var elements = document.getElementsByClassName(name);
-    for (var i = 0; i < elements.length; i++) {
-        var elem = elements[i];
-        elem.style.backgroundColor = "pink";
-    }
-}
-function off(name) {
-    var elements = document.getElementsByClassName(name);
-    for (var i = 0; i < elements.length; i++) {
-        var elem = elements[i];
-        elem.style.backgroundColor = "white";
-    }
-}
-
-var display_menu = false;
-function toggle() {
-    if (display_menu == true) {
-        display_menu = false;
-        document.getElementById("nav").style.left = "-21%";
-        document.getElementById("content").style.marginLeft = "0%";
-        document.getElementById("menu").style.left = "1em";
-    } else {
-        display_menu = true;
-        document.getElementById("nav").style.left = "0";
-        document.getElementById("content").style.marginLeft = "20%";
-        document.getElementById("menu").style.left = "20%";
-    }
-}
-
-
-
-
-var displayAll;
-
-function showChapter(chap, noreset){
-    if (!displayAll) {
-        var chapters = document.getElementsByClassName("chapter");
-        for (var i = 0; i < chapters.length; i++) {
-            chapters[i].style.display = i == chap ? "block" : "none";
-        }
-        var controls = document.getElementsByClassName("chapterControls");
-        for (var i = 0; i < controls.length; i++){
-            controls[i].style.display = (i >= chap * 2-1 && i <= chap * 2) ? "block" : "none";
-        }
-	    // Hide toc unless we're at first chapter
-	    var toc = document.getElementById("toc");
-	    if (toc) {
-	        toc.style.display = chap == 0 ? "block" : "none";
-	    }
-        if (!noreset) {
-            window.location.hash = "#chapter-"+chap;
-        }
-    } else {
-        window.location.hash = "#chapter-"+chap;
-    }
-}
-
-function getChapter(elem) {
-    if(!elem) {
-        return 0;
-    }
-    if(elem.className == "chapter") {
-        return parseInt(elem.id.substr("chapter-".length));
-    } else {
-        return getChapter(elem.parentElement);
-    }
-}
-
-function switchAll() {
-    if (!displayAll) {
-        displayAll = true;
-        var chapters = document.getElementsByClassName("chapter");
-        for (var i = 0; i < chapters.length; i++) {
-            chapters[i].style.display = "block";
-        }
-        var controls = document.getElementsByClassName("chapterControls");
-        for (var i = 0; i < controls.length; i++){
-            controls[i].style.display = "none";
-        }
-	    var toc = document.getElementById("toc");
-	    if (toc) {
-	        toc.style.display = "block";
-	    }
-        var displayAllSwitcher = document.getElementById("book-button");
-        displayAllSwitcher.src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB3aWR0aD0iMjQiCiAgIGhlaWdodD0iMjQiCiAgIGlkPSJzdmc4MzAyIgogICBzb2RpcG9kaTp2ZXJzaW9uPSIwLjMyIgogICBpbmtzY2FwZTp2ZXJzaW9uPSIwLjQ4LjQgcjk5MzkiCiAgIHZlcnNpb249IjEuMCIKICAgc29kaXBvZGk6ZG9jbmFtZT0icGFnZXMuc3ZnIgogICBpbmtzY2FwZTpvdXRwdXRfZXh0ZW5zaW9uPSJvcmcuaW5rc2NhcGUub3V0cHV0LnN2Zy5pbmtzY2FwZSIKICAgaW5rc2NhcGU6ZXhwb3J0LWZpbGVuYW1lPSIvdmFyL3d3dy9wcm9qZWN0cy9jcm93Ym9vay9pbWcvcGFnZXMucG5nIgogICBpbmtzY2FwZTpleHBvcnQteGRwaT0iOTAiCiAgIGlua3NjYXBlOmV4cG9ydC15ZHBpPSI5MCI+CiAgPGRlZnMKICAgICBpZD0iZGVmczgzMDQiPgogICAgPGlua3NjYXBlOnBlcnNwZWN0aXZlCiAgICAgICBzb2RpcG9kaTp0eXBlPSJpbmtzY2FwZTpwZXJzcDNkIgogICAgICAgaW5rc2NhcGU6dnBfeD0iMCA6IDUyNi4xODEwOSA6IDEiCiAgICAgICBpbmtzY2FwZTp2cF95PSIwIDogMTAwMCA6IDAiCiAgICAgICBpbmtzY2FwZTp2cF96PSI3NDQuMDk0NDggOiA1MjYuMTgxMDkgOiAxIgogICAgICAgaW5rc2NhcGU6cGVyc3AzZC1vcmlnaW49IjM3Mi4wNDcyNCA6IDM1MC43ODczOSA6IDEiCiAgICAgICBpZD0icGVyc3BlY3RpdmU4MzEwIiAvPgogIDwvZGVmcz4KICA8c29kaXBvZGk6bmFtZWR2aWV3CiAgICAgaWQ9ImJhc2UiCiAgICAgcGFnZWNvbG9yPSIjZmZmZmZmIgogICAgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IgogICAgIGJvcmRlcm9wYWNpdHk9IjEuMCIKICAgICBncmlkdG9sZXJhbmNlPSIxMDAwMCIKICAgICBndWlkZXRvbGVyYW5jZT0iMTAiCiAgICAgb2JqZWN0dG9sZXJhbmNlPSIxMCIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6em9vbT0iMTEuMiIKICAgICBpbmtzY2FwZTpjeD0iOC43OTQyNzA4IgogICAgIGlua3NjYXBlOmN5PSI0LjMxODQzMTUiCiAgICAgaW5rc2NhcGU6ZG9jdW1lbnQtdW5pdHM9InB4IgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9ImxheWVyMSIKICAgICBzaG93Z3JpZD0iZmFsc2UiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxNjc4IgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjEwMjQiCiAgICAgaW5rc2NhcGU6d2luZG93LXg9IjE1OTYiCiAgICAgaW5rc2NhcGU6d2luZG93LXk9IjAiCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMCIgLz4KICA8bWV0YWRhdGEKICAgICBpZD0ibWV0YWRhdGE4MzA3Ij4KICAgIDxyZGY6UkRGPgogICAgICA8Y2M6V29yawogICAgICAgICByZGY6YWJvdXQ9IiI+CiAgICAgICAgPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+CiAgICAgICAgPGRjOnR5cGUKICAgICAgICAgICByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPgogICAgICAgIDxkYzp0aXRsZT48L2RjOnRpdGxlPgogICAgICA8L2NjOldvcms+CiAgICA8L3JkZjpSREY+CiAgPC9tZXRhZGF0YT4KICA8ZwogICAgIGlua3NjYXBlOmxhYmVsPSJMYXllciAxIgogICAgIGlua3NjYXBlOmdyb3VwbW9kZT0ibGF5ZXIiCiAgICAgaWQ9ImxheWVyMSIKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLC0yMzIpIj4KICAgIDxnCiAgICAgICBpZD0iZzQzMjkiCiAgICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjMxOTIwMTk5LDAsMCwwLjMxOTIwMTk5LC00LjEwODcyNjEsMjE4LjYzMTkpIj4KICAgICAgPGcKICAgICAgICAgaWQ9Imc0MTYwLTMtMyIKICAgICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTcuMTU1MTc0LC0xNi41OTQwNDUpIj4KICAgICAgICA8ZwogICAgICAgICAgIGlkPSJnMzk5NC0yLTYiCiAgICAgICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4yNjc4NTcxNCwwLjE3ODU3MTQzKSIKICAgICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIj4KICAgICAgICAgIDxyZWN0CiAgICAgICAgICAgICByeT0iMS4wNzE0Mjg1IgogICAgICAgICAgICAgeT0iNjEuNTQ1NjM1IgogICAgICAgICAgICAgeD0iMjIuNDc1ODkzIgogICAgICAgICAgICAgaGVpZ2h0PSI1Mi4yNzUzOTQiCiAgICAgICAgICAgICB3aWR0aD0iMzcuODgwNzIyIgogICAgICAgICAgICAgaWQ9InJlY3QzODYzLTEtMSIKICAgICAgICAgICAgIHN0eWxlPSJjb2xvcjojMDAwMDAwO2ZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MztzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2Utb3BhY2l0eToxO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZTtlbmFibGUtYmFja2dyb3VuZDphY2N1bXVsYXRlIiAvPgogICAgICAgIDwvZz4KICAgICAgICA8dGV4dAogICAgICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgICAgICAgc3R5bGU9ImZvbnQtc2l6ZTo2cHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtsaW5lLWhlaWdodDoxMjUlO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtmb250LWZhbWlseTpEcm9pZCBTYW5zOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246RHJvaWQgU2FucyIKICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgeT0iNjcuNjA3MTQiCiAgICAgICAgICAgaWQ9InRleHQ0MTIwLTUtMSIKICAgICAgICAgICBzb2RpcG9kaTpsaW5lc3BhY2luZz0iMTI1JSI+PHRzcGFuCiAgICAgICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgICAgICAgeD0iMjQuNzMyMTQzIgogICAgICAgICAgICAgeT0iNjcuNjA3MTQiCiAgICAgICAgICAgICBpZD0idHNwYW40MTM4LTMtNiI+w6l0YWl0PC90c3Bhbj48dHNwYW4KICAgICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgICB5PSI3NS4xMDcxNCIKICAgICAgICAgICAgIGlkPSJ0c3BhbjQzNjkiPmRpcmVjdGVtZW50PC90c3Bhbj48dHNwYW4KICAgICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgICB5PSI4Mi42MDcxNCIKICAgICAgICAgICAgIGlkPSJ0c3BhbjQzNzEiPnbDqWN1IHMnZXN0PC90c3Bhbj48dHNwYW4KICAgICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgICB5PSI5MC4xMDcxNCIKICAgICAgICAgICAgIGlkPSJ0c3BhbjQzNzMiPsOpbG9pZ27DqSBkYW5zPC90c3Bhbj48dHNwYW4KICAgICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgICB5PSI5Ny42MDcxNCIKICAgICAgICAgICAgIGlkPSJ0c3BhbjQzNzUiPnVuZTwvdHNwYW4+PHRzcGFuCiAgICAgICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgICAgICAgeD0iMjQuNzMyMTQzIgogICAgICAgICAgICAgeT0iMTA1LjEwNzE0IgogICAgICAgICAgICAgaWQ9InRzcGFuNDM3NyI+cmVwcsOpc2VudGF0aW88L3RzcGFuPjwvdGV4dD4KICAgICAgPC9nPgogICAgPC9nPgogICAgPGcKICAgICAgIGlkPSJnNDMxNyIKICAgICAgIHRyYW5zZm9ybT0ibWF0cml4KDAuMzE5MjAxOTksMCwwLDAuMzE5MjAxOTksLTQuMTA4NzI2MSwyMTguNjMxOSkiPgogICAgICA8ZwogICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIgogICAgICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4Ljg1MTYwMzIsLTguMjAxMTg4MykiCiAgICAgICAgIGlkPSJnMzk5NC0yIj4KICAgICAgICA8cmVjdAogICAgICAgICAgIHN0eWxlPSJjb2xvcjojMDAwMDAwO2ZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MztzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2Utb3BhY2l0eToxO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTttYXJrZXI6bm9uZTt2aXNpYmlsaXR5OnZpc2libGU7ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZTtlbmFibGUtYmFja2dyb3VuZDphY2N1bXVsYXRlIgogICAgICAgICAgIGlkPSJyZWN0Mzg2My0xIgogICAgICAgICAgIHdpZHRoPSIzNy44ODA3MjIiCiAgICAgICAgICAgaGVpZ2h0PSI1Mi4yNzUzOTQiCiAgICAgICAgICAgeD0iMjIuNDc1ODkzIgogICAgICAgICAgIHk9IjYxLjU0NTYzNSIKICAgICAgICAgICByeT0iMS4wNzE0Mjg1IiAvPgogICAgICA8L2c+CiAgICAgIDx0ZXh0CiAgICAgICAgIHNvZGlwb2RpOmxpbmVzcGFjaW5nPSIxMjUlIgogICAgICAgICBpZD0idGV4dDQxMjAtNSIKICAgICAgICAgeT0iNTkuMjI3Mzc5IgogICAgICAgICB4PSIzMy4zMTU4OTEiCiAgICAgICAgIHN0eWxlPSJmb250LXNpemU6NnB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7bGluZS1oZWlnaHQ6MTI1JTtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6RHJvaWQgU2FuczstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOkRyb2lkIFNhbnMiCiAgICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQxMzgtMyIKICAgICAgICAgICB5PSI1OS4yMjczNzkiCiAgICAgICAgICAgeD0iMzMuMzE1ODkxIgogICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiPnByb2R1Y3Rpb248L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQzMDUiCiAgICAgICAgICAgeT0iNjYuNzI3Mzc5IgogICAgICAgICAgIHg9IjMzLjMxNTg5MSIKICAgICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIj5zJ2Fubm9uY2U8L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQzMDciCiAgICAgICAgICAgeT0iNzQuMjI3Mzc5IgogICAgICAgICAgIHg9IjMzLjMxNTg5MSIKICAgICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIj5jb21tZSB1bmU8L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQzMDkiCiAgICAgICAgICAgeT0iODEuNzI3Mzc5IgogICAgICAgICAgIHg9IjMzLjMxNTg5MSIKICAgICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIj5pbW1lbnNlPC90c3Bhbj48dHNwYW4KICAgICAgICAgICBpZD0idHNwYW40MzExIgogICAgICAgICAgIHk9Ijg5LjIyNzM3OSIKICAgICAgICAgICB4PSIzMy4zMTU4OTEiCiAgICAgICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSI+YWNjdW11bGF0aW9uPC90c3Bhbj48dHNwYW4KICAgICAgICAgICBpZD0idHNwYW40MzEzIgogICAgICAgICAgIHk9Ijk2LjcyNzM3OSIKICAgICAgICAgICB4PSIzMy4zMTU4OTEiCiAgICAgICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSI+ZGUgc3BlY3RhY2xlcy48L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQzMTUiCiAgICAgICAgICAgeT0iMTA0LjIyNzM4IgogICAgICAgICAgIHg9IjMzLjMxNTg5MSIKICAgICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIj5Ub3V0IGNlIHF1aTwvdHNwYW4+PC90ZXh0PgogICAgPC9nPgogICAgPGcKICAgICAgIGlkPSJnNDE2MCIKICAgICAgIHRyYW5zZm9ybT0ibWF0cml4KDAuMzE5MjAxOTksMCwwLDAuMzE5MjAxOTksLTQuMTA4NzI2MSwyMTguNjMxOSkiPgogICAgICA8ZwogICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIgogICAgICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjI2Nzg1NzE0LDAuMTc4NTcxNDMpIgogICAgICAgICBpZD0iZzM5OTQiPgogICAgICAgIDxyZWN0CiAgICAgICAgICAgc3R5bGU9ImNvbG9yOiMwMDAwMDA7ZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDozO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1vcGFjaXR5OjE7c3Ryb2tlLWRhc2hhcnJheTpub25lO21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlO2VuYWJsZS1iYWNrZ3JvdW5kOmFjY3VtdWxhdGUiCiAgICAgICAgICAgaWQ9InJlY3QzODYzIgogICAgICAgICAgIHdpZHRoPSIzNy44ODA3MjIiCiAgICAgICAgICAgaGVpZ2h0PSI1Mi4yNzUzOTQiCiAgICAgICAgICAgeD0iMjIuNDc1ODkzIgogICAgICAgICAgIHk9IjYxLjU0NTYzNSIKICAgICAgICAgICByeT0iMS4wNzE0Mjg1IiAvPgogICAgICA8L2c+CiAgICAgIDx0ZXh0CiAgICAgICAgIHNvZGlwb2RpOmxpbmVzcGFjaW5nPSIxMjUlIgogICAgICAgICBpZD0idGV4dDQxMjAiCiAgICAgICAgIHk9IjY3LjYwNzE0IgogICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgIHN0eWxlPSJmb250LXNpemU6NnB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7bGluZS1oZWlnaHQ6MTI1JTtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6RHJvaWQgU2FuczstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOkRyb2lkIFNhbnMiCiAgICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiPjx0c3BhbgogICAgICAgICAgIHk9IjY3LjYwNzE0IgogICAgICAgICAgIHg9IjI0LjczMjE0MyIKICAgICAgICAgICBpZD0idHNwYW40MTIyIgogICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiPlRvdXRlIGxhIHZpZTwvdHNwYW4+PHRzcGFuCiAgICAgICAgICAgaWQ9InRzcGFuNDEyNCIKICAgICAgICAgICB5PSI3NS4xMDcxNCIKICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSI+ZGVzIHNvY2nDqXTDqXM8L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQxMjgiCiAgICAgICAgICAgeT0iODIuNjA3MTQiCiAgICAgICAgICAgeD0iMjQuNzMyMTQzIgogICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiPmRhbnM8L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQxMzIiCiAgICAgICAgICAgeT0iOTAuMTA3MTQiCiAgICAgICAgICAgeD0iMjQuNzMyMTQzIgogICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiPmxlc3F1ZWxsZXM8L3RzcGFuPjx0c3BhbgogICAgICAgICAgIGlkPSJ0c3BhbjQxMzQiCiAgICAgICAgICAgeT0iOTcuNjA3MTQiCiAgICAgICAgICAgeD0iMjQuNzMyMTQzIgogICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiPnLDqGduZXMgbGVzPC90c3Bhbj48dHNwYW4KICAgICAgICAgICBpZD0idHNwYW40MTM2IgogICAgICAgICAgIHk9IjEwNS4xMDcxNCIKICAgICAgICAgICB4PSIyNC43MzIxNDMiCiAgICAgICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSI+Y29uZGl0aW9uczwvdHNwYW4+PHRzcGFuCiAgICAgICAgICAgaWQ9InRzcGFuNDEzOCIKICAgICAgICAgICB5PSIxMTIuNjA3MTQiCiAgICAgICAgICAgeD0iMjQuNzMyMTQzIgogICAgICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiPm1vZGVybmVzIGRlPC90c3Bhbj48L3RleHQ+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4K";
-        displayAllSwitcher.alt="Display one chapter";
-        displayAllSwitcher.title="Display one chapter";
-    } else {
-        displayAll = false;
-        showChapter(0);
-        var displayAllSwitcher = document.getElementById("book-button");
-        displayAllSwitcher.src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB3aWR0aD0iMjQiCiAgIGhlaWdodD0iMjQiCiAgIGlkPSJzdmc4MzAyIgogICBzb2RpcG9kaTp2ZXJzaW9uPSIwLjMyIgogICBpbmtzY2FwZTp2ZXJzaW9uPSIwLjQ4LjQgcjk5MzkiCiAgIHZlcnNpb249IjEuMCIKICAgc29kaXBvZGk6ZG9jbmFtZT0iYm9vay5zdmciCiAgIGlua3NjYXBlOm91dHB1dF9leHRlbnNpb249Im9yZy5pbmtzY2FwZS5vdXRwdXQuc3ZnLmlua3NjYXBlIgogICBpbmtzY2FwZTpleHBvcnQtZmlsZW5hbWU9Ii92YXIvd3d3L3Byb2plY3RzL2Nyb3dib29rL2ltZy9ib29rLnBuZyIKICAgaW5rc2NhcGU6ZXhwb3J0LXhkcGk9IjE4MCIKICAgaW5rc2NhcGU6ZXhwb3J0LXlkcGk9IjE4MCI+CiAgPGRlZnMKICAgICBpZD0iZGVmczgzMDQiPgogICAgPGlua3NjYXBlOnBlcnNwZWN0aXZlCiAgICAgICBzb2RpcG9kaTp0eXBlPSJpbmtzY2FwZTpwZXJzcDNkIgogICAgICAgaW5rc2NhcGU6dnBfeD0iMCA6IDUyNi4xODEwOSA6IDEiCiAgICAgICBpbmtzY2FwZTp2cF95PSIwIDogMTAwMCA6IDAiCiAgICAgICBpbmtzY2FwZTp2cF96PSI3NDQuMDk0NDggOiA1MjYuMTgxMDkgOiAxIgogICAgICAgaW5rc2NhcGU6cGVyc3AzZC1vcmlnaW49IjM3Mi4wNDcyNCA6IDM1MC43ODczOSA6IDEiCiAgICAgICBpZD0icGVyc3BlY3RpdmU4MzEwIiAvPgogIDwvZGVmcz4KICA8c29kaXBvZGk6bmFtZWR2aWV3CiAgICAgaWQ9ImJhc2UiCiAgICAgcGFnZWNvbG9yPSIjZmZmZmZmIgogICAgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IgogICAgIGJvcmRlcm9wYWNpdHk9IjEuMCIKICAgICBncmlkdG9sZXJhbmNlPSIxMDAwMCIKICAgICBndWlkZXRvbGVyYW5jZT0iMTAiCiAgICAgb2JqZWN0dG9sZXJhbmNlPSIxMCIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6em9vbT0iMzEuNjc4Mzg0IgogICAgIGlua3NjYXBlOmN4PSI3LjIwNTMxMjEiCiAgICAgaW5rc2NhcGU6Y3k9IjExLjc2OTEyIgogICAgIGlua3NjYXBlOmRvY3VtZW50LXVuaXRzPSJweCIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJsYXllcjEiCiAgICAgc2hvd2dyaWQ9ImZhbHNlIgogICAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTY3OCIKICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSIxMDI0IgogICAgIGlua3NjYXBlOndpbmRvdy14PSIxNTk2IgogICAgIGlua3NjYXBlOndpbmRvdy15PSIwIgogICAgIGlua3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjAiIC8+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhODMwNyI+CiAgICA8cmRmOlJERj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PgogICAgICAgIDxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz4KICAgICAgPC9jYzpXb3JrPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+CiAgPGcKICAgICBpbmtzY2FwZTpsYWJlbD0iTGF5ZXIgMSIKICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIgogICAgIGlkPSJsYXllcjEiCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwtMjMyKSI+CiAgICA8cmVjdAogICAgICAgc3R5bGU9ImNvbG9yOiMwMDAwMDA7ZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eTowLjk0MTE3NjQ3O2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDozO21hcmtlcjpub25lO3Zpc2liaWxpdHk6dmlzaWJsZTtkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlO2VuYWJsZS1iYWNrZ3JvdW5kOmFjY3VtdWxhdGUiCiAgICAgICBpZD0icmVjdDM3NjUiCiAgICAgICB3aWR0aD0iMTIuMzQyODAxIgogICAgICAgaGVpZ2h0PSI1LjQ5MjcwNDkiCiAgICAgICB4PSI0LjYwODgyMDkiCiAgICAgICB5PSIxNi44MDI2NjQiCiAgICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDIzMikiCiAgICAgICByeD0iMC4wNjAyODg3NSIgLz4KICAgIDxyZWN0CiAgICAgICBzdHlsZT0iY29sb3I6IzAwMDAwMDtmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjM7bWFya2VyOm5vbmU7dmlzaWJpbGl0eTp2aXNpYmxlO2Rpc3BsYXk6aW5saW5lO292ZXJmbG93OnZpc2libGU7ZW5hYmxlLWJhY2tncm91bmQ6YWNjdW11bGF0ZSIKICAgICAgIGlkPSJyZWN0Mzc1OSIKICAgICAgIHdpZHRoPSIxMC43MDEzMDMiCiAgICAgICBoZWlnaHQ9IjE2Ljg4ODQ4NyIKICAgICAgIHg9IjcuNzk3MTE0OCIKICAgICAgIHk9IjIzNi4wODEwNSIKICAgICAgIHJ5PSIwIgogICAgICAgcng9IjAuMDYwMjg4NzUiIC8+CiAgICA8ZwogICAgICAgaWQ9ImcyNTQ0IgogICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMy45NTk1MTE1LDAsMCwtMy4wMDYzNjA5LDE5LjM5MDY4NywyNTQuMTIxNzIpIgogICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MC45NDExNzY0NyI+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Im0gMCwwIC0wLjEyLDAgYyAtMC4wNywwLjA3OSAtMC4wOTYsMC4xNzggLTAuMDc1LDAuMyAwLjAzNSwwLjIwMSAwLjE4LDAuMzY4IDAuMjQ5LDAuMzkyIEwgMC4wNTMsMC42OTQgYyAwLjA5OCwwLjAzNSAwLjE3MSwwLjEyOSAwLjE3MSwwLjI0IGwgMC4wMDUsNS4yNjMgYyAwLDAuMTQxIC0wLjExNSwwLjI1NiAtMC4yNTUsMC4yNTcgMCwwIC0xLjA2NSwwLjAwMSAtMS4zNTcsMC4wMDMgMC4wMDEsMC4yNDggMC4wMDIsMC41ODggMC4wMDIsMC41ODggMCwwLjEwNCAtMC4wNjEsMC4xOTcgLTAuMTU3LDAuMjM3IEMgLTEuNjM0LDcuMzIyIC0xLjc0Myw3LjMgLTEuODE3LDcuMjI4IEwgLTMuNTk5LDUuNDU5IEMgLTMuOTEyLDUuMTQ4IC00LjE1OSw0LjU2IC00LjE2LDQuMTE4IEwgLTQuMTc0LDAuNDM3IGMgLTEwZS00LC0wLjUxNiAwLjQxNywtMC45MzggMC45MzQsLTAuOTQgbCAzLjIzOSwtMC4wMSBjIDAuMTQxLDAgMC4yNTYsMC4xMTUgMC4yNTYsMC4yNTUgbCAwLDAuMDAxIEMgMC4yNTUsLTAuMTE1IDAuMTQyLC0wLjAwMSAwLDAgbSAtMC4yODQsNS45NDIgYyAwLC0wLjQzOSAtMC4wMDQsLTQuMzEyIC0wLjAwNSwtNC43NTIgbCAtMi45MTksMCAxLjgyOCwxLjUzMiAtMC4wMDQsMy4yMjIgYyAwLjE2NiwtMC4wMDEgMC45NDYsLTAuMDAyIDEuMSwtMC4wMDIgTSAtMy42NjIsMC40MzUgYyAwLDAgMTBlLTQsMC4yMTIgMTBlLTQsMC4yNDMgbCAzLjA1NywwIEMgLTAuNjQ4LDAuNTg1IC0wLjY4MywwLjQ4NyAtMC43LDAuMzg4IC0wLjcyNCwwLjI1MSAtMC43MTIsMC4xMjMgLTAuNjgxLDAuMDAyIEwgLTMuMjM4LDAuMDEgYyAtMC4yMzQsMCAtMC40MjQsMC4xOSAtMC40MjQsMC40MjUiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiCiAgICAgICAgIGlkPSJwYXRoMjU0NiIKICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgLz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=";
-        displayAllSwitcher.alt="Display all chapters";
-        displayAllSwitcher.title="Display all chapters";
-    }
-}
-
-window.onhashchange = function() {
-    var hash = document.location.hash;
-    if(!hash) {
-        showChapter(0, true);
-    } else {
-        var element = document.getElementById(hash.slice(1));
-        var chap = getChapter(element);
-        showChapter(chap, true);
-    }
-};
-
-window.onload = function(){
-    displayAll = false;
-    var hash = document.location.hash;
-    if(!hash) {
-        showChapter(0, true);
-    } else {
-        showChapter(getChapter(document.getElementById(hash.slice(1))), true);
-    }
-};
-
-
-
-    </script>
-
-</head>
-
-<body>
-    
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org/",
-    "@type": "Book",
-    "author": "Thomas Paine",
-    "name": "Agrarian Justice",
-    
-    
-    
-    "license": "This work is free of known copyright restrictions.",
-    
-    "inLanguage": "en"
-
-
-
-
-}
-</script>
-
-    <div id="content">
-        
-        <div id="page">
-            <header>
-
-                <div id="menu">
-                </div>
-                <h2 class="author">Thomas Paine</h2>
-                <h1 id="link-0" class="title">Agrarian Justice</h1>
-                            </header>
-
-            <div id="chapter-0" class="chapter">
-  <h1 id="link-1"></h1><p id="para-1">To preserve the benefits of what is called civilized life, and to remedy, at the same time, the evil which it has produced, ought to be considered as one of the first objects of reformed legislation.</p>
-<p id="para-2">Whether that state that is proudly, perhaps erroneously, called civilization, has most promoted or most injured the general happiness of man, is a question that may be strongly contested. On one side, the spectator is dazzled by splendid appearances; on the other, he is shocked by extremes of wretchedness; both of which he has erected. The most affluent and the most miserable of the human race are to be found in the countries that are called civilized.</p>
-<p id="para-3">To understand what the state of society ought to be, it is necessary to have some idea of the natural and primitive state of man; such as it is at this day among the Indians of North America. There is not, in that state, any of those spectacles of human misery which poverty and want present to our eyes, in all the towns and streets of Europe.</p>
-<p id="para-4">Poverty, therefore, is a thing created by that which is called civilized life. It exists not in the natural state. On the other hand, the natural state is without those advantages which flow from agriculture, arts, science, and manufactures.</p>
-<p id="para-5">The life of an Indian is a continual holiday, compared with the poor of Europe; and, on the other hand, it appears to be abject when compared to the rich. Civilization, therefore, or that which is so called, has operated two ways; to make one part of society more affluent, and the other more wretched, than would have been the lot of either in a natural state.</p>
-<p id="para-6">It is always possible to go from the natural to the civilized state, but it is never possible to go from the civilized to the natural state. The reason is, that man, in a natural state, subsisting by hunting, requires ten times the quantity of land to range over, to procure himself sustenance, than would support him in a civilized state, where the earth is cultivated. When, therefore, a country becomes populous by the additional aids of cultivation, arts and science, there is a necessity of preserving things in that state; because without it, there cannot be sustenance for more, perhaps, than a tenth part of its inhabitants. The thing, therefore, now to be done, is, to remedy the evils, and preserve the benefits that have arisen to society, by passing from the natural to that which is called the civilized state.</p>
-<p id="para-7">In taking the matter up on this ground, the first principle of civilization ought to have been, and ought still to be, that the condition of every person born into the world, after a state of civilization commences, ought not to be worse than if he had been born before that period. But the fact is, that the condition of millions, in every country in Europe, is far worse than if they had been born before civilization began, or had been born among the Indians of North America at the present day. I will show how this fact has happened.</p>
-<p id="para-8">It is a position not to be controverted, that the earth, in its natural, uncultivated state, was, and ever would have continued to be, <em>the common property of the human race</em>. In that state every man would have been born to property. He would have been a joint life-proprietor with the rest in the property of the soil, and in all its natural productions, vegetable and animal.</p>
-<p id="para-9">But the earth, in its natural state, as before said, is capable of supporting but a small number of inhabitants compared with what it is capable of doing in a cultivated state. And as it is impossible to separate the improvement made by cultivation, from the earth itself, upon which that improvement is made, the idea of landed property arose from that inseparable connexion; but it is nevertheless true, that it is the value of the improvement only, and not the earth itself, that is individual property. Every proprietor therefore, of cultivated land, owes to the community, a <em>ground-rent</em>; for I know of no better term to express the idea by, for the land which he holds: and it is from this ground-rent that the fund proposed in this plan is to issue.</p>
-<p id="para-10">It is deducible, as well from the nature of the thing, as from all the histories transmitted to us, that the idea of landed property commenced with cultivation, and that there was no such thing as landed property before that time. It could not exist in the first state of man, that of hunters. It did not exist in the second state, that of shepherds: neither Abraham, Isaac, Jacob, nor Job, so far as the history of the Bible may be credited in probable things, were owners of land. Their property consisted, as is always enumerated, in flocks and herds, and they travelled with them from place to place. The frequent contentions, at that time, about the use of a well in the dry country of Arabia, where those people lived, show also that there was no landed property. It was not admitted that land could be claimed as property.</p>
-<p id="para-11">There could be no such thing as landed property originally. Man did not make the earth, and, though he had a natural right to <em>occupy</em> it, he had no right to <em>locate</em> as his <em>property</em> in perpetuity any part of it: neither did the Creator of the earth open a land-office, from whence the first title-deeds should issue. Whence, then, arose the idea of landed property? I answer as before, that when cultivation began, the idea of landed property began with it, from the impossibility of separating the improvement made by cultivation from the earth itself, upon which that improvement was made. The value of the improvement so far exceeded the value of the natural earth, at that time, as to absorb it; till, in the end, the common right of all became confounded into the cultivated right of the individual. But they are, nevertheless, distinct species of rights, and will continue to be so long as the earth endures.</p>
-<p id="para-12">It is only by tracing things to their origin that we can gain rightful ideas of them, and it is by gaining such ideas that we discover the boundary that divides right from wrong, and which teaches every man to know his own. I have entitled this tract Agrarian Justice, to distinguish it from Agrarian Law. Nothing could be more unjust than Agrarian Law in a country improved by cultivation; for though every man, as an inhabitant of the earth, is a joint proprietor of it in its natural state, it does not follow that he is a joint proprietor of cultivated earth. The additional value made by cultivation, after the system was admitted, became the property of those who did it, or who inherited it from them, or who purchased it. It had originally no owner. Whilst, therefore, I advocate the right, and interest myself in the hard case of all those who have been thrown out of their natural inheritance by the introduction of the system of landed property, I equally defend the right of the possessor to the part which is his.</p>
-<p id="para-13">Cultivation is, at least, one of the greatest natural improvements ever made by human invention. It has given to created earth a tenfold value. But the landed monopoly that began with it, has produced the greatest evil. It has dispossessed more than half the inhabitants of every nation of their natural inheritance, without providing for them, as ought to have been done, an indemnification for that loss, and has thereby created a species of poverty and wretchedness that did not exist before.</p>
-<p id="para-14">In advocating the case of the persons thus dispossessed, it is a right and not a charity that I am pleading for. But it is that kind of right, which, being neglected at first, could not be brought forward afterwards, till heaven had opened the way by a revolution in the system of government. Let us then do honor to revolutions by justice, and give currency to their principles by blessings.</p>
-<p id="para-15">Having thus, in a few words, opened the merits of the ease, I shall now proceed to the plan I have to propose, which is,</p>
-<p id="para-16">To create a national fund, out of which there shall be paid to every person, when arrived at the age of twenty-one years, the sum of fifteen pounds sterling, as a compensation in part, for the loss of his or her natural inheritance, by the introduction of the system of landed property.</p>
-<p id="para-17">And also, the sum of ten pounds per annum, during life, to every person now living, of the age of fifty years, and to all others as they shall arrive at that age.</p>
-<h2 id="link-2">Means by which the fund is to be created</h2>
-<p id="para-18">I have already established the principle, namely, that the earth, in its natural, uncultivated state, was, and ever would have continued to be, the <em>common property of the human race</em>; that in that state, every person would have been born to property; and that the system of landed property, by its inseparable connexion with cultivation, and with what is called civilized life, has absorbed the property of all those whom it dispossessed, without providing, as ought to have been done, an indemnification for that loss.</p>
-<p id="para-19">The fault, however, is not in the present possessors.—No complaint is intended, or ought to be alleged against them, unless they adopt the crime by opposing justice. The fault is in the system, and it has stolen imperceptibly upon the world, aided afterwards by the Agrarian law of the sword. But the fault can be made to reform itself by successive generations, without diminishing or deranging the property of any of the present possessors, and yet the operation of the fund can commence, and be in full activity, the first year of its establishment, or soon after, as I shall show.</p>
-<p id="para-20">It is proposed that the payments, as already stated, be made to every person, rich or poor. It is best to make it so, to prevent invidious distinctions. It is also right it should be so, because it is in lieu of the natural inheritance, which, as a right, belongs to every man. over and above the property he may have created or inherited from those who did. Such persons as do not choose to receive it, can throw it into the common fund.</p>
-<p id="para-21">Taking it then for granted, that no person ought to be in a worse condition when born under what is called a state of civilization, than he would have been, had he been born in a state of nature, and that civilization ought to have made, and ought still to make, provision for that purpose, it can only be done by subtracting from property, a portion equal in value to the natural inheritance it has absorbed.</p>
-<p id="para-22">Various methods may be proposed for this purpose, but that which appears to be the best, not only because it will operate without deranging any present possessors, or without interfering with the collection of taxes, or <em>emprunts</em> necessary for the purposes of government and the revolution, but because it will be the least troublesome and the most effectual, and also because the subtraction will be made at a time that best admits it, which is, at the moment that property is passing by the death of one person to the possession of another. In this case, the bequeather gives nothing; the receiver pays nothing* The only matter to him is, that the monopoly of natural inheritance, to which there never was a right, begins to cease in his person. A generous man would not wish it to continue, and a just man will rejoice to see it abolished.</p>
-<p id="para-23">My state of health prevents my making sufficient inquiries with respect to the doctrine of probabilities, whereon to found calculations with such degrees of certainty as they are capable of. What, therefore, I offer on this head is more the result of observation and reflection, than of received information; but I believe it will be found to agree sufficiently enough with fact.</p>
-<p id="para-24">In the first place, taking twenty-one years as the epoch of maturity, all the property of a nation, real and personal, is always in the possession of persons above that age. It is then necessary to know as a datum of calculation, the average of years which persons above that age will live. I take this average to be about thirty years, for though many persons will live forty, fifty, or sixty years after the age of twenty-one years, others will die much sooner, and some in every year of that time.</p>
-<p id="para-25">Taking, then, thirty years as the average of time, it will give, without any material variation, one way or other, the average of time in which the whole property or capital of a nation, or a sum equal thereto, will have passed through one entire revolution in descent, that is, will have gone by deaths to new possessors; for though, in many instances, some parts of this capital will remain forty, fifty, or sixty years in the possession of one person, other parts will have revolved two or three times before those thirty years expire, which will bring it to that average; for were one half the capital of a nation to revolve twice in thirty years, it would produce the same fund as if the whole revolved once.</p>
-<p id="para-26">Taking, then, thirty years as the average of time in which the whole capital of a nation, or a sum equal thereto, will revolve once, the thirtieth part thereof will be the sum that will revolve every year, that is, will go by deaths to new possessors; and this last sum being thus known, and the ratio percent, to be subtracted from it being determined, will give the annual amount or income of the proposed fund, to be applied as already mentioned.</p>
-<p id="para-27">In looking over the discourse of the English minister, Pitt, in his opening of what is called in England, the budget, (the scheme of finance for the year 1796,) I find an estimate of the national capital of that country. As this estimate of a national capital is prepared ready to my hand, I take it as a datum to act upon. When a calculation is made upon the known capital of any nation, combined with its population, it will serve as a scale for any other nation, in proportion as its capital and population be more or less. I am the more disposed to take this estimate of Mr. Pitt, for the purpose of showing to that minister, upon his own calculation, how much better money may be employed, than in wasting it, as he has done, on the wild project of setting up Bourbon kings. What, in the name of heaven, are Bourbon kings to the people of England? It is better that the people have bread.</p>
-<p id="para-28">Mr. Pitt states the national capital of England, real and personal, to be one thousand three hundred millions sterling, which is about one-fourth part of the national capital of France, including Belgium. The event of the last harvest in each country proves that the soil of France is more productive than that of England, and that it can better support twenty-four or twenty-five millions of inhabitants than that of England can seven, or seven and an half.</p>
-<p id="para-29">The thirtieth part of this capital of 1,300,000,000<em>l</em>. is 43,333,333<em>l</em>. which is the part that will revolve every year by deaths in that country to new possessors; and the sum that will annually revolve in France in the proportion of four to one, will be about one hundred and seventy-three millions sterling. From this sum of 43,333,333<em>l</em>. annually revolving, is to be subtracted the value of the natural inheritance absorbed in it, which perhaps, in fair justice, cannot be taken at less, and ought not to be taken for more, than a tenth part.</p>
-<p id="para-30">It will always happen, that of the property thus revolving by deaths every year, part will descend in a direct line to sons and daughters, and the other part collaterally, and the proportion will be found to be about three to one; that is, about thirty millions of the above sum will descend to direct heirs, and the remaining sum of 13,333.333<em>l</em>. to more distant relations, and part to strangers.</p>
-<p id="para-31">Considering, then, that man is always related to society, that relationship will become comparatively greater in proportion as the next of kin is more distant, it is therefore consistent with civilization to say, that where there are no direct heirs, society shall be heir to a part over and above the tenth part <em>due</em> to society. If this additional part be from 5-10 or 12%, in proportion as the next of kin be nearer or more remote, so as to average with the escheats that may fall, which ought always to go to society and not to the government, an addition of 10%, more; the produce from the annual sum of 43,333,333<em>l</em>. will be,</p>
-<div class="table">
-    <table>
-<tr>
-<th>Fund</th><th>Payout</th></tr>
-<tr>
-<td>From 30,000,000<em>l</em>. at 10%</td><td>3,000,000<em>l</em>.</td></tr>
-<tr>
-<td>From 13,333,333<em>l</em>. at 10% with the addition of 10% more</td><td>2,666,666</td></tr>
-<tr>
-<td>43,333,333<em>l</em>.</td><td>5,666,666<em>l</em>.</td></tr>
-
-    </table>
-</div>
-<p id="para-32">Having thus arrived at the annual amount of the proposed fund, I come, in the next place, to speak of the population proportioned to this fund, and to compare it with the uses to which the fund is to be applied.</p>
-<p id="para-33">The population (I mean that of England) does not exceed seven millions and an half, and the number of persons above the age of fifty will in that case be about four hundred thousand. There would not, however, be more than that number that would accept the proposed ten pounds sterling per annum, though they would be entitled to it. I have no idea it would be accepted by many persons who had a yearly income of two or three hundred pounds sterling. But as we often see instances of rich people falling into sudden poverty, even at the age of sixty, they would always have the right of drawing all the arrears due to them. Four millions, therefore, of the above annual sum of 5,666,666<em>l</em>. will be required for four hundred thousand aged persons, at ten pounds sterling each.</p>
-<p id="para-34">I come now to speak of the persons annually arriving at twenty-one years of age. If all the persons who died were above the age of twenty-one years, the number of persons annually arriving at that age, must be equal to the annual number of deaths, to keep the population stationary. But the greater part die under the age of twenty-one, and therefore the number of persons annually arriving at twenty-one, will be less than half the number of deaths. The whole number of deaths upon a population of seven millions and an half, will be about 220,000 annually. The number arriving at twenty-one years of age will be about 100,000. The whole number of these will not receive the proposed fifteen pounds, for the reasons already mentioned, though, as in the former case, they would be entitled to it. Admitting then that a tenth part declined receiving it, the amount would stand thus:</p>
-<p id="para-35">Fund annually: 5,666,666<em>l</em>.</p>
-<p id="para-36">To 400,000 aged persons at 10<em>l</em>. each: 4,000,000<em>l</em>.</p>
-<p id="para-37">To 90,000 persons of 21 years, 15<em>l</em>. ster. ea.: 1,350,000</p>
-<p id="para-38">5,350,000; remains 316,666<em>l</em>.</p>
-<p id="para-39">There are in every country a number of blind and lame persons, totally incapable of earning a livelihood. But as it will always happen that the greater number of blind persons will be among those who are above the age of fifty years, they will be provided for in that class. The remaining sum of 316,666<em>l</em>. will provide for the lame and blind under that age, at the same rate of 10<em>l</em>. annually for each person.</p>
-<p id="para-40">Having now gone through all the necessary calculations, and stated the particulars of the plan, 1 shall conclude with some observations.</p>
-<p id="para-41">It is not charity but a right; not bounty but justice, that I am pleading for. The contrast of affluence and wretchedness continually meeting and offending the rye, is like dead and living bodies chained together. Though I care as little about riches as any man, I am a friend to riches because they are capable of good. I care not how affluent some may be, provided that none be miserable in consequence of it. But it is impossible to enjoy affluence with the felicity it is capable of being enjoyed, whilst so much misery is mingled in the scene. The sight of the misery, and the unpleasant sensations it suggests, which, though they may be suffocated, cannot be extinguished, are a greater drawback upon the felicity of affluence than the proposed 10%, upon property is worth. He that would not give the one to get rid of the other, has no charity, even for himself.</p>
-<p id="para-42">There are, in every country, some magnificent charities established by individuals. It is, however, but little that any individual can do, when the whole extent of the misery to be relieved is considered. He may satisfy his conscience, but not his heart. He may give all that he has, and that all will relieve but little. It is only by organizing civilization upon such principles as to act like a system of pullies, that the whole weight of misery can be removed.</p>
-<p id="para-43">The plan here proposed will reach the whole. It will immediately relieve and take out of view three classes of wretchedness. The blind, the lame, and the aged poor; and it will furnish the rising generation with means to prevent their becoming poor; and it will do this, without deranging or interfering with any national measures. To show that this will be the case, it is sufficient to observe, that the operation and effect of the plan will, in all cases, be the same, as if every individual were <em>voluntarily</em> to make his will, and dispose of his property, in the manner here proposed.</p>
-<p id="para-44">But it is justice and not charity, that is the principle of the plan. In all great cases it is necessary to have a principle more universally active than charity; and with respect to justice, it ought not to be left to the choice of detached individuals, whether they will do justice or not.—Considering, then, the plan on the ground of justice, it ought to be the act of the whole, growing spontaneously out of the principles of the revolution, and the reputation of it ought to be national and not individual.</p>
-<p id="para-45">A plan upon this principle would benefit the revolution, by the energy that springs from the consciousness of justice. It would multiply also the national resources; for property, like vegetation, increases by offsets. When a young couple begin the world, the difference is exceedingly great, whether they begin with nothing or with fifteen pounds apiece. With this aid they could buy a cow, and implements to cultivate a few acres of land; and instead of becoming burdens upon society, which is always the case, where children are produced faster than they can be fed, would be put in the way of becoming useful and profitable citizens. The national domains also would sell the better if pecuniary aids were provided to cultivate them in small lots.</p>
-<p id="para-46">It is the practice of what has unjustly obtained the name of civilization (and the practice merits not to be called either charity or policy) to make some provision for persons becoming poor and wretched, only at the time they become so. Would it not, even as a matter of economy, be far better, to devise means to prevent their becoming poor. This can best be done, by making every person, when arrived at the age of twenty-one years, an inheritor of something to begin with. The rugged face of society, chequered with the extremes of affluence and of want, proves that some extraordinary violence has been committed upon it, and calls on justice for redress. The great mass of the poor, in all countries, are become an hereditary race, and it is next to impossible for them to get out of that state of themselves. It ought also to be observed, that this mass increases in all countries that are called civilized. More persons fall annually into it, than get out of it.</p>
-<p id="para-47">Though in a plan, in which justice and humanity are the foundation-principles, interest ought not to be admitted into the calculation, yet it is always of advantage to the establishment of any plan, to show that it is beneficial as a matter of interest. The success of any proposed plan submitted to public consideration, must finally depend on the numbers interested in supporting it, united with the justice of its principles.</p>
-<p id="para-48">The plan here proposed will benefit all, without injuring any. It will consolidate the interest of the republic with that of the individual. To the numerous class dispossessed of their natural inheritance by the system of landed property, it will be an act of national justice. To persons dying possessed of moderate fortunes, it will operate as a tontine to their children, more beneficial than the sum of money paid into the fund: and it will give to the accumulation of riches a degree of security, that none of the old governments of Europe, now tottering on their foundations, can give.</p>
-<p id="para-49">I do not suppose that more than one family in ten, in any of the countries of Europe, has, when the head of the family dies, a clear property left of five hundred pounds sterling. To all such, the plan is advantageous. That property would pay fifty pounds into the fund, and if there were only two’ children under age, they would receive fifteen pounds each, (thirty pounds) on coming of age, and be entitled to ten pounds a year after fifty. It is from the overgrown acquisition of property that the fund will support itself; and I know that the possessors of such property in England, though they would eventually be benefited by the protection of nine-tenths of it, will exclaim against the plan. But, without entering into any inquiry how they came by that property, let them recollect that they have been the advocates of this war, and that Mr. Pitt has already laid on more new taxes to be raised annually upon the people of England, and that for supporting the despotism of Austria and the Bourbons, against the liberties of France, than would pay annually all the sums proposed in this plan.</p>
-<p id="para-50">I have made the calculations, stated in this plan, upon what is called personal, as well as upon landed property. The reason for making it upon land is already explained; and the reason for taking personal property into the calculation, is equally well founded, though on a different principle. Land, as before said, is the free gift of the Creator in common to the human race. Personal property is the <em>effect of society</em>; and it is as impossible for an individual to acquire personal property without the aid of society, as it is for him to make land originally. Separate an individual from society, and give him an island or a continent to possess, and he cannot acquire personal property. He cannot become rich. So inseparably are the means connected with the end, in all cases, that where the former do not exist, the latter cannot be obtained. All accumulation, therefore, of personal property, beyond what a man’s own hands produce, is derived to him by living in society; and he owes, on every principle of justice, of gratitude, and of civilization, a part of that accumulation back again to society from whence the whole came. This is putting the matter on a general principle, and perhaps it is best to do so; for if we examine the case minutely, it will be found, that the accumulation of personal property is, in many instances, the effect of paying too little for the labor that produced it; the consequence of which is, that the working hand perishes in old age, and the employer abounds in affluence. It is, perhaps, impossible to proportion exactly the price of labor to the profits it produces; and it will also be said, as an apology for the injustice, that were a workman to receive an increase of wages daily, he would not save it against old age, nor be much better for it in the interim. Make, then, society the treasurer, to guard it for him in a common fund; for it is no reason, that because he might not make a good use of it for himself, that another should take it.</p>
-<p id="para-51">The state of civilization that has prevailed throughout Europe, is as unjust in its principle, as it is horrid in its effects; and it is the consciousness of this, and the apprehension that such a state cannot continue, when once investigation begins in any country, that makes the possessors of property dread every idea of a revolution. It is the hazard and not the principles of a revolution that retards their progress. This being the case, it is necessary as well for the protection of property, as for the sake of justice and humanity, to form a system, that whilst it preserves one part of society from wretchedness, shall secure the other from depredation.</p>
-<p id="para-52">The superstitious awe, the enslaving reverence, that formerly surrounded affluence, is passing away in all countries, and leaving the possessor of property to the convulsion of accidents. When wealth and splendor, instead of fascinating the multitude, excite emotions of disgust; when, instead of drawing forth admiration, it is beheld as an insult upon wretchedness; when the ostentatious appearance it makes, serves to call the right of it in question, the case of property becomes critical, and it is only in a system of justice that the possessor can contemplate security.</p>
-<p id="para-53">To remove the danger, it is necessary to remove the antipathies, and this can only be done by making property productive of a national blessing, extending to every individual. When the riches of one man above another shall increase the national fund in the same proportion; when it shall be seen that the prosperity of that fund depends on the prosperity of individuals; when the more riches a man. acquires, the better it shall be for the general mass; it is then that antipathies will cease, and property be placed on the permanent basis of national interest and protection.</p>
-<p id="para-54">I have no property in France to become subject to the plan 1 propose. What I have, which is not much, is in the United States of America. But I will pay one hundred pounds sterling towards this fund in France, the instant it shall be established; and I will pay the same sum in England, whenever a similar establishment shall take place in that country.</p>
-<p id="para-55">A revolution in the state of civilization, is the necessary companion of revolutions in the system of government. If a revolution in any country be from bad to good, or from good to bad, the state of what is called civilization in that country, must be made conformable thereto, to give that revolution effect. Despotic government supports itself by abject civilization, in which debasement of the human mind, and wretchedness in the mass of the people, are the chief criterions. Such governments consider man merely as an animal; that the exercise of intellectual faculty is not his privilege; <em>that he has nothing to do with the laws, but to obey them;</em><a href="#note-dest-2"><sup id="note-source-2">[2]</sup></a> and they politically depend more upon breaking the spirit of the people by poverty, than they fear enraging it by desperation.</p>
-<p id="para-56">It is a revolution in the state of civilization, that will give perfection to the revolution of France. Already the conviction that government, by representation, is the true system of government, is spreading itself fast in the world. The reasonableness of it can be seen by all. The justness of it makes itself felt even by its opposers. But when a system of civilization, growing out of that system of government, shall be so organized, that not a man or woman born in the republic, but shall inherit some means of beginning the world, and see before them the certainty of escaping the miseries that under other governments accompany old age, the revolution of France will have an advocate and an ally in the hearts of all nations.</p>
-<p id="para-57">An army of principles will penetrate where an army of soldiers cannot; it will succeed where diplomatic management would fail; it is neither the Rhine, the Channel, nor the Ocean, that can arrest its progress; it will march on the horizon of the world, and it will conquer.</p>
-<h2 id="link-3">Means for carrying the proposed plan into execution, and to render it at the same time conducive to the public interest</h2>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<meta name="generator" content="HTML Tidy for HTML5 for Apple macOS version 5.8.0" />
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="author" content="Thomas Paine" />
+<title>Agrarian Justice</title>
+<style>html{line-height:1.5;font-family:Georgia,serif;font-size:20px;color:#1a1a1a;background-color:#fdfdfd}body{margin:0 auto;max-width:36em;padding-left:50px;padding-right:50px;padding-top:50px;padding-bottom:50px;hyphens:auto;overflow-wrap:break-word;text-rendering:optimizeLegibility;font-kerning:normal}@media (max-width:600px){body{font-size:0.9em;padding:1em}h1{font-size:1.8em}}@media print{body{background-color:transparent;color:black;font-size:12pt}p,h2,h3{orphans:3;widows:3}h2,h3,h4{page-break-after:avoid}}p{margin:1em 0}a{color:#1a1a1a}a:visited{color:#1a1a1a}img{max-width:100%}h1,h2,h3,h4,h5,h6{margin-top:1.4em}h5,h6{font-size:1em;font-style:italic}h6{font-weight:normal}ol,ul{padding-left:1.7em;margin-top:1em}li>ol,li>ul{margin-top:0}blockquote{margin:1em 0 1em 1.7em;padding-left:1em;border-left:2px solid #e6e6e6;color:#606060}code{font-family:Menlo,Monaco,'Lucida Console',Consolas,monospace;font-size:85%;margin:0}pre{margin:1em 0;overflow:auto}pre code{padding:0;overflow:visible;overflow-wrap:normal}.sourceCode{background-color:transparent;overflow:visible}hr{background-color:#1a1a1a;border:none;height:1px;margin:1em 0}table{margin:1em 0;border-collapse:collapse;width:100%;overflow-x:auto;display:block;font-variant-numeric:lining-nums tabular-nums}table caption{margin-bottom:0.75em}tbody{margin-top:0.5em;border-top:1px solid #1a1a1a;border-bottom:1px solid #1a1a1a}th{border-top:1px solid #1a1a1a;padding:0.25em 0.5em 0.25em 0.5em}td{padding:0.125em 0.5em 0.25em 0.5em}header{margin-bottom:4em;text-align:center}#TOC li{list-style:none}#TOC ul{padding-left:1.3em}#TOC>ul{padding-left:0}#TOC a:not(:hover){text-decoration:none}code{white-space:pre-wrap}span.smallcaps{font-variant:small-caps}span.underline{text-decoration:underline}div.column{display:inline-block;vertical-align:top;width:50%}div.hanging-indent{margin-left:1.5em;text-indent:-1.5em}ul.task-list{list-style:none}.display.math{display:block;text-align:center;margin:0.5rem auto}</style>
+<!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<header id="title-block-header">
+<h1 class="title">Agrarian Justice</h1>
+<p class="author">Thomas Paine</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#chapter-0"></a>
+<ul>
+<li><a href="#means-by-which-the-fund-is-to-be-created">Means by
+which the fund is to be created</a>
+<li><a href="#means-for-carrying-the-proposed-plan-into-execution-and-to-render-it-at-the-same-time-conducive-to-the-public-interest">
+Means for carrying the proposed plan into execution, and to render
+it at the same time conducive to the public
+interest</a></ul></ul></nav>
+<main>
+<div class="center">
+<p><span><br /></span></div>
+<div class="center">
+<hr />
+<hr />
+<p><br />
+<span><span class="smallcaps"><br /></span></span>
+<hr />
+<hr />
+<p><br /></div>
+<div class="center">
+<p><span>, © .<br /></span> <span>This work is free of known
+copyright restrictions.<br /></span></div>
+<h1 class="unnumbered" id="chapter-0"></h1>
+<p>To preserve the benefits of what is called civilized life, and
+to remedy, at the same time, the evil which it has produced, ought
+to be considered as one of the first objects of reformed
+legislation.
+<p>Whether that state that is proudly, perhaps erroneously, called
+civilization, has most promoted or most injured the general
+happiness of man, is a question that may be strongly contested. On
+one side, the spectator is dazzled by splendid appearances; on the
+other, he is shocked by extremes of wretchedness; both of which he
+has erected. The most affluent and the most miserable of the human
+race are to be found in the countries that are called civilized.
+<p>To understand what the state of society ought to be, it is
+necessary to have some idea of the natural and primitive state of
+man; such as it is at this day among the Indians of North America.
+There is not, in that state, any of those spectacles of human
+misery which poverty and want present to our eyes, in all the towns
+and streets of Europe.
+<p>Poverty, therefore, is a thing created by that which is called
+civilized life. It exists not in the natural state. On the other
+hand, the natural state is without those advantages which flow from
+agriculture, arts, science, and manufactures.
+<p>The life of an Indian is a continual holiday, compared with the
+poor of Europe; and, on the other hand, it appears to be abject
+when compared to the rich. Civilization, therefore, or that which
+is so called, has operated two ways; to make one part of society
+more affluent, and the other more wretched, than would have been
+the lot of either in a natural state.
+<p>It is always possible to go from the natural to the civilized
+state, but it is never possible to go from the civilized to the
+natural state. The reason is, that man, in a natural state,
+subsisting by hunting, requires ten times the quantity of land to
+range over, to procure himself sustenance, than would support him
+in a civilized state, where the earth is cultivated. When,
+therefore, a country becomes populous by the additional aids of
+cultivation, arts and science, there is a necessity of preserving
+things in that state; because without it, there cannot be
+sustenance for more, perhaps, than a tenth part of its inhabitants.
+The thing, therefore, now to be done, is, to remedy the evils, and
+preserve the benefits that have arisen to society, by passing from
+the natural to that which is called the civilized state.
+<p>In taking the matter up on this ground, the first principle of
+civilization ought to have been, and ought still to be, that the
+condition of every person born into the world, after a state of
+civilization commences, ought not to be worse than if he had been
+born before that period. But the fact is, that the condition of
+millions, in every country in Europe, is far worse than if they had
+been born before civilization began, or had been born among the
+Indians of North America at the present day. I will show how this
+fact has happened.
+<p>It is a position not to be controverted, that the earth, in its
+natural, uncultivated state, was, and ever would have continued to
+be, <em>the common property of the human race</em>. In that state
+every man would have been born to property. He would have been a
+joint life-proprietor with the rest in the property of the soil,
+and in all its natural productions, vegetable and animal.
+<p>But the earth, in its natural state, as before said, is capable
+of supporting but a small number of inhabitants compared with what
+it is capable of doing in a cultivated state. And as it is
+impossible to separate the improvement made by cultivation, from
+the earth itself, upon which that improvement is made, the idea of
+landed property arose from that inseparable connexion; but it is
+nevertheless true, that it is the value of the improvement only,
+and not the earth itself, that is individual property. Every
+proprietor therefore, of cultivated land, owes to the community, a
+<em>ground-rent</em>; for I know of no better term to express the
+idea by, for the land which he holds: and it is from this
+ground-rent that the fund proposed in this plan is to issue.
+<p>It is deducible, as well from the nature of the thing, as from
+all the histories transmitted to us, that the idea of landed
+property commenced with cultivation, and that there was no such
+thing as landed property before that time. It could not exist in
+the first state of man, that of hunters. It did not exist in the
+second state, that of shepherds: neither Abraham, Isaac, Jacob, nor
+Job, so far as the history of the Bible may be credited in probable
+things, were owners of land. Their property consisted, as is always
+enumerated, in flocks and herds, and they travelled with them from
+place to place. The frequent contentions, at that time, about the
+use of a well in the dry country of Arabia, where those people
+lived, show also that there was no landed property. It was not
+admitted that land could be claimed as property.
+<p>There could be no such thing as landed property originally. Man
+did not make the earth, and, though he had a natural right to
+<em>occupy</em> it, he had no right to <em>locate</em> as his
+<em>property</em> in perpetuity any part of it: neither did the
+Creator of the earth open a land-office, from whence the first
+title-deeds should issue. Whence, then, arose the idea of landed
+property? I answer as before, that when cultivation began, the idea
+of landed property began with it, from the impossibility of
+separating the improvement made by cultivation from the earth
+itself, upon which that improvement was made. The value of the
+improvement so far exceeded the value of the natural earth, at that
+time, as to absorb it; till, in the end, the common right of all
+became confounded into the cultivated right of the individual. But
+they are, nevertheless, distinct species of rights, and will
+continue to be so long as the earth endures.
+<p>It is only by tracing things to their origin that we can gain
+rightful ideas of them, and it is by gaining such ideas that we
+discover the boundary that divides right from wrong, and which
+teaches every man to know his own. I have entitled this tract
+Agrarian Justice, to distinguish it from Agrarian Law. Nothing
+could be more unjust than Agrarian Law in a country improved by
+cultivation; for though every man, as an inhabitant of the earth,
+is a joint proprietor of it in its natural state, it does not
+follow that he is a joint proprietor of cultivated earth. The
+additional value made by cultivation, after the system was
+admitted, became the property of those who did it, or who inherited
+it from them, or who purchased it. It had originally no owner.
+Whilst, therefore, I advocate the right, and interest myself in the
+hard case of all those who have been thrown out of their natural
+inheritance by the introduction of the system of landed property, I
+equally defend the right of the possessor to the part which is his.
+<p>Cultivation is, at least, one of the greatest natural
+improvements ever made by human invention. It has given to created
+earth a tenfold value. But the landed monopoly that began with it,
+has produced the greatest evil. It has dispossessed more than half
+the inhabitants of every nation of their natural inheritance,
+without providing for them, as ought to have been done, an
+indemnification for that loss, and has thereby created a species of
+poverty and wretchedness that did not exist before.
+<p>In advocating the case of the persons thus dispossessed, it is a
+right and not a charity that I am pleading for. But it is that kind
+of right, which, being neglected at first, could not be brought
+forward afterwards, till heaven had opened the way by a revolution
+in the system of government. Let us then do honour to revolutions
+by justice, and give currency to their principles by blessings.
+<p>Having thus, in a few words, opened the merits of the ease, I
+shall now proceed to the plan I have to propose, which is,
+<p>To create a national fund, out of which there shall be paid to
+every person, when arrived at the age of twenty-one years, the sum
+of fifteen pounds sterling, as a compensation in part, for the loss
+of his or her natural inheritance, by the introduction of the
+system of landed property.
+<p>And also, the sum of ten pounds per annum, during life, to every
+person now living, of the age of fifty years, and to all others as
+they shall arrive at that age.
+<h2 class="unnumbered" id="means-by-which-the-fund-is-to-be-created">Means by which the fund
+is to be created</h2>
+<p>I have already established the principle, namely, that the
+earth, in its natural, uncultivated state, was, and ever would have
+continued to be, the <em>common property of the human race</em>;
+that in that state, every person would have been born to property;
+and that the system of landed property, by its inseparable
+connexion with cultivation, and with what is called civilized life,
+has absorbed the property of all those whom it dispossessed,
+without providing, as ought to have been done, an indemnification
+for that loss.
+<p>The fault, however, is not in the present possessors.—No
+complaint is intended, or ought to be alleged against them, unless
+they adopt the crime by opposing justice. The fault is in the
+system, and it has stolen imperceptibly upon the world, aided
+afterwards by the Agrarian law of the sword. But the fault can be
+made to reform itself by successive generations, without
+diminishing or deranging the property of any of the present
+possessors, and yet the operation of the fund can commence, and be
+in full activity, the first year of its establishment, or soon
+after, as I shall show.
+<p>It is proposed that the payments, as already stated, be made to
+every person, rich or poor. It is best to make it so, to prevent
+invidious distinctions. It is also right it should be so, because
+it is in lieu of the natural inheritance, which, as a right,
+belongs to every man. over and above the property he may have
+created or inherited from those who did. Such persons as do not
+choose to receive it, can throw it into the common fund.
+<p>Taking it then for granted, that no person ought to be in a
+worse condition when born under what is called a state of
+civilization, than he would have been, had he been born in a state
+of nature, and that civilization ought to have made, and ought
+still to make, provision for that purpose, it can only be done by
+subtracting from property, a portion equal in value to the natural
+inheritance it has absorbed.
+<p>Various methods may be proposed for this purpose, but that which
+appears to be the best, not only because it will operate without
+deranging any present possessors, or without interfering with the
+collection of taxes, or <em>emprunts</em> necessary for the
+purposes of government and the revolution, but because it will be
+the least troublesome and the most effectual, and also because the
+subtraction will be made at a time that best admits it, which is,
+at the moment that property is passing by the death of one person
+to the possession of another. In this case, the bequeather gives
+nothing; the receiver pays nothing* The only matter to him is, that
+the monopoly of natural inheritance, to which there never was a
+right, begins to cease in his person. A generous man would not wish
+it to continue, and a just man will rejoice to see it abolished.
+<p>My state of health prevents my making sufficient inquiries with
+respect to the doctrine of probabilities, whereon to found
+calculations with such degrees of certainty as they are capable of.
+What, therefore, I offer on this head is more the result of
+observation and reflection, than of received information; but I
+believe it will be found to agree sufficiently enough with fact.
+<p>In the first place, taking twenty-one years as the epoch of
+maturity, all the property of a nation, real and personal, is
+always in the possession of persons above that age. It is then
+necessary to know as a datum of calculation, the average of years
+which persons above that age will live. I take this average to be
+about thirty years, for though many persons will live forty, fifty,
+or sixty years after the age of twenty-one years, others will die
+much sooner, and some in every year of that time.
+<p>Taking, then, thirty years as the average of time, it will give,
+without any material variation, one way or other, the average of
+time in which the whole property or capital of a nation, or a sum
+equal thereto, will have passed through one entire revolution in
+descent, that is, will have gone by deaths to new possessors; for
+though, in many instances, some parts of this capital will remain
+forty, fifty, or sixty years in the possession of one person, other
+parts will have revolved two or three times before those thirty
+years expire, which will bring it to that average; for were one
+half the capital of a nation to revolve twice in thirty years, it
+would produce the same fund as if the whole revolved once.
+<p>Taking, then, thirty years as the average of time in which the
+whole capital of a nation, or a sum equal thereto, will revolve
+once, the thirtieth part thereof will be the sum that will revolve
+every year, that is, will go by deaths to new possessors; and this
+last sum being thus known, and the ratio percent, to be subtracted
+from it being determined, will give the annual amount or income of
+the proposed fund, to be applied as already mentioned.
+<p>In looking over the discourse of the English minister, Pitt, in
+his opening of what is called in England, the budget, (the scheme
+of finance for the year 1796,) I find an estimate of the national
+capital of that country. As this estimate of a national capital is
+prepared ready to my hand, I take it as a datum to act upon. When a
+calculation is made upon the known capital of any nation, combined
+with its population, it will serve as a scale for any other nation,
+in proportion as its capital and population be more or less. I am
+the more disposed to take this estimate of Mr. Pitt, for the
+purpose of showing to that minister, upon his own calculation, how
+much better money may be employed, than in wasting it, as he has
+done, on the wild project of setting up Bourbon kings. What, in the
+name of heaven, are Bourbon kings to the people of England? It is
+better that the people have bread.
+<p>Mr. Pitt states the national capital of England, real and
+personal, to be one thousand three hundred millions sterling, which
+is about one-fourth part of the national capital of France,
+including Belgium. The event of the last harvest in each country
+proves that the soil of France is more productive than that of
+England, and that it can better support twenty-four or twenty-five
+millions of inhabitants than that of England can seven, or seven
+and an half.
+<p>The thirtieth part of this capital of 1,300,000,000<em>l</em>.
+is 43,333,333<em>l</em>. which is the part that will revolve every
+year by deaths in that country to new possessors; and the sum that
+will annually revolve in France in the proportion of four to one,
+will be about one hundred and seventy-three millions sterling. From
+this sum of 43,333,333<em>l</em>. annually revolving, is to be
+subtracted the value of the natural inheritance absorbed in it,
+which perhaps, in fair justice, cannot be taken at less, and ought
+not to be taken for more, than a tenth part.
+<p>It will always happen, that of the property thus revolving by
+deaths every year, part will descend in a direct line to sons and
+daughters, and the other part collaterally, and the proportion will
+be found to be about three to one; that is, about thirty millions
+of the above sum will descend to direct heirs, and the remaining
+sum of 13,333.333<em>l</em>. to more distant relations, and part to
+strangers.
+<p>Considering, then, that man is always related to society, that
+relationship will become comparatively greater in proportion as the
+next of kin is more distant, it is therefore consistent with
+civilization to say, that where there are no direct heirs, society
+shall be heir to a part over and above the tenth part <em>due</em>
+to society. If this additional part be from 5-10 or 12%, in
+proportion as the next of kin be nearer or more remote, so as to
+average with the escheats that may fall, which ought always to go
+to society and not to the government, an addition of 10%, more; the
+produce from the annual sum of 43,333,333<em>l</em>. will be,
+<p>Fund &amp; Payout<br />
+From 30,000,000<em>l</em>. at 10% &amp; 3,000,000<em>l</em>.<br />
+From 13,333,333<em>l</em>. at 10% with the addition of 10% more
+&amp; 2,666,666<br />
+43,333,333<em>l</em>. &amp; 5,666,666<em>l</em>.<br />
+<p>Having thus arrived at the annual amount of the proposed fund, I
+come, in the next place, to speak of the population proportioned to
+this fund, and to compare it with the uses to which the fund is to
+be applied.
+<p>The population (I mean that of England) does not exceed seven
+millions and an half, and the number of persons above the age of
+fifty will in that case be about four hundred thousand. There would
+not, however, be more than that number that would accept the
+proposed ten pounds sterling per annum, though they would be
+entitled to it. I have no idea it would be accepted by many persons
+who had a yearly income of two or three hundred pounds sterling.
+But as we often see instances of rich people falling into sudden
+poverty, even at the age of sixty, they would always have the right
+of drawing all the arrears due to them. Four millions, therefore,
+of the above annual sum of 5,666,666<em>l</em>. will be required
+for four hundred thousand aged persons, at ten pounds sterling
+each.
+<p>I come now to speak of the persons annually arriving at
+twenty-one years of age. If all the persons who died were above the
+age of twenty-one years, the number of persons annually arriving at
+that age, must be equal to the annual number of deaths, to keep the
+population stationary. But the greater part die under the age of
+twenty-one, and therefore the number of persons annually arriving
+at twenty-one, will be less than half the number of deaths. The
+whole number of deaths upon a population of seven millions and an
+half, will be about 220,000 annually. The number arriving at
+twenty-one years of age will be about 100,000. The whole number of
+these will not receive the proposed fifteen pounds, for the reasons
+already mentioned, though, as in the former case, they would be
+entitled to it. Admitting then that a tenth part declined receiving
+it, the amount would stand thus:
+<p>Fund annually: 5,666,666<em>l</em>.
+<p>To 400,000 aged persons at 10<em>l</em>. each:
+4,000,000<em>l</em>.
+<p>To 90,000 persons of 21 years, 15<em>l</em>. ster. ea.:
+1,350,000
+<p>5,350,000; remains 316,666<em>l</em>.
+<p>There are in every country a number of blind and lame persons,
+totally incapable of earning a livelihood. But as it will always
+happen that the greater number of blind persons will be among those
+who are above the age of fifty years, they will be provided for in
+that class. The remaining sum of 316,666<em>l</em>. will provide
+for the lame and blind under that age, at the same rate of
+10<em>l</em>. annually for each person.
+<p>Having now gone through all the necessary calculations, and
+stated the particulars of the plan, 1 shall conclude with some
+observations.
+<p>It is not charity but a right; not bounty but justice, that I am
+pleading for. The contrast of affluence and wretchedness
+continually meeting and offending the rye, is like dead and living
+bodies chained together. Though I care as little about riches as
+any man, I am a friend to riches because they are capable of good.
+I care not how affluent some may be, provided that none be
+miserable in consequence of it. But it is impossible to enjoy
+affluence with the felicity it is capable of being enjoyed, whilst
+so much misery is mingled in the scene. The sight of the misery,
+and the unpleasant sensations it suggests, which, though they may
+be suffocated, cannot be extinguished, are a greater drawback upon
+the felicity of affluence than the proposed 10%, upon property is
+worth. He that would not give the one to get rid of the other, has
+no charity, even for himself.
+<p>There are, in every country, some magnificent charities
+established by individuals. It is, however, but little that any
+individual can do, when the whole extent of the misery to be
+relieved is considered. He may satisfy his conscience, but not his
+heart. He may give all that he has, and that all will relieve but
+little. It is only by organizing civilization upon such principles
+as to act like a system of pullies, that the whole weight of misery
+can be removed.
+<p>The plan here proposed will reach the whole. It will immediately
+relieve and take out of view three classes of wretchedness. The
+blind, the lame, and the aged poor; and it will furnish the rising
+generation with means to prevent their becoming poor; and it will
+do this, without deranging or interfering with any national
+measures. To show that this will be the case, it is sufficient to
+observe, that the operation and effect of the plan will, in all
+cases, be the same, as if every individual were
+<em>voluntarily</em> to make his will, and dispose of his property,
+in the manner here proposed.
+<p>But it is justice and not charity, that is the principle of the
+plan. In all great cases it is necessary to have a principle more
+universally active than charity; and with respect to justice, it
+ought not to be left to the choice of detached individuals, whether
+they will do justice or not.—Considering, then, the plan on the
+ground of justice, it ought to be the act of the whole, growing
+spontaneously out of the principles of the revolution, and the
+reputation of it ought to be national and not individual.
+<p>A plan upon this principle would benefit the revolution, by the
+energy that springs from the consciousness of justice. It would
+multiply also the national resources; for property, like
+vegetation, increases by offsets. When a young couple begin the
+world, the difference is exceedingly great, whether they begin with
+nothing or with fifteen pounds apiece. With this aid they could buy
+a cow, and implements to cultivate a few acres of land; and instead
+of becoming burdens upon society, which is always the case, where
+children are produced faster than they can be fed, would be put in
+the way of becoming useful and profitable citizens. The national
+domains also would sell the better if pecuniary aids were provided
+to cultivate them in small lots.
+<p>It is the practice of what has unjustly obtained the name of
+civilization (and the practice merits not to be called either
+charity or policy) to make some provision for persons becoming poor
+and wretched, only at the time they become so. Would it not, even
+as a matter of economy, be far better, to devise means to prevent
+their becoming poor. This can best be done, by making every person,
+when arrived at the age of twenty-one years, an inheritor of
+something to begin with. The rugged face of society, chequered with
+the extremes of affluence and of want, proves that some
+extraordinary violence has been committed upon it, and calls on
+justice for redress. The great mass of the poor, in all countries,
+are become an hereditary race, and it is next to impossible for
+them to get out of that state of themselves. It ought also to be
+observed, that this mass increases in all countries that are called
+civilized. More persons fall annually into it, than get out of it.
+<p>Though in a plan, in which justice and humanity are the
+foundation-principles, interest ought not to be admitted into the
+calculation, yet it is always of advantage to the establishment of
+any plan, to show that it is beneficial as a matter of interest.
+The success of any proposed plan submitted to public consideration,
+must finally depend on the numbers interested in supporting it,
+united with the justice of its principles.
+<p>The plan here proposed will benefit all, without injuring any.
+It will consolidate the interest of the republic with that of the
+individual. To the numerous class dispossessed of their natural
+inheritance by the system of landed property, it will be an act of
+national justice. To persons dying possessed of moderate fortunes,
+it will operate as a tontine to their children, more beneficial
+than the sum of money paid into the fund: and it will give to the
+accumulation of riches a degree of security, that none of the old
+governments of Europe, now tottering on their foundations, can
+give.
+<p>I do not suppose that more than one family in ten, in any of the
+countries of Europe, has, when the head of the family dies, a clear
+property left of five hundred pounds sterling. To all such, the
+plan is advantageous. That property would pay fifty pounds into the
+fund, and if there were only two’ children under age, they would
+receive fifteen pounds each, (thirty pounds) on coming of age, and
+be entitled to ten pounds a year after fifty. It is from the
+overgrown acquisition of property that the fund will support
+itself; and I know that the possessors of such property in England,
+though they would eventually be benefited by the protection of
+nine-tenths of it, will exclaim against the plan. But, without
+entering into any inquiry how they came by that property, let them
+recollect that they have been the advocates of this war, and that
+Mr. Pitt has already laid on more new taxes to be raised annually
+upon the people of England, and that for supporting the despotism
+of Austria and the Bourbons, against the liberties of France, than
+would pay annually all the sums proposed in this plan.
+<p>I have made the calculations, stated in this plan, upon what is
+called personal, as well as upon landed property. The reason for
+making it upon land is already explained; and the reason for taking
+personal property into the calculation, is equally well founded,
+though on a different principle. Land, as before said, is the free
+gift of the Creator in common to the human race. Personal property
+is the <em>effect of society</em>; and it is as impossible for an
+individual to acquire personal property without the aid of society,
+as it is for him to make land originally. Separate an individual
+from society, and give him an island or a continent to possess, and
+he cannot acquire personal property. He cannot become rich. So
+inseparably are the means connected with the end, in all cases,
+that where the former do not exist, the latter cannot be obtained.
+All accumulation, therefore, of personal property, beyond what a
+man’s own hands produce, is derived to him by living in society;
+and he owes, on every principle of justice, of gratitude, and of
+civilization, a part of that accumulation back again to society
+from whence the whole came. This is putting the matter on a general
+principle, and perhaps it is best to do so; for if we examine the
+case minutely, it will be found, that the accumulation of personal
+property is, in many instances, the effect of paying too little for
+the labour that produced it; the consequence of which is, that the
+working hand perishes in old age, and the employer abounds in
+affluence. It is, perhaps, impossible to proportion exactly the
+price of labour to the profits it produces; and it will also be
+said, as an apology for the injustice, that were a workman to
+receive an increase of wages daily, he would not save it against
+old age, nor be much better for it in the interim. Make, then,
+society the treasurer, to guard it for him in a common fund; for it
+is no reason, that because he might not make a good use of it for
+himself, that another should take it.
+<p>The state of civilization that has prevailed throughout Europe,
+is as unjust in its principle, as it is horrid in its effects; and
+it is the consciousness of this, and the apprehension that such a
+state cannot continue, when once investigation begins in any
+country, that makes the possessors of property dread every idea of
+a revolution. It is the hazard and not the principles of a
+revolution that retards their progress. This being the case, it is
+necessary as well for the protection of property, as for the sake
+of justice and humanity, to form a system, that whilst it preserves
+one part of society from wretchedness, shall secure the other from
+depredation.
+<p>The superstitious awe, the enslaving reverence, that formerly
+surrounded affluence, is passing away in all countries, and leaving
+the possessor of property to the convulsion of accidents. When
+wealth and splendour, instead of fascinating the multitude, excite
+emotions of disgust; when, instead of drawing forth admiration, it
+is beheld as an insult upon wretchedness; when the ostentatious
+appearance it makes, serves to call the right of it in question,
+the case of property becomes critical, and it is only in a system
+of justice that the possessor can contemplate security.
+<p>To remove the danger, it is necessary to remove the antipathies,
+and this can only be done by making property productive of a
+national blessing, extending to every individual. When the riches
+of one man above another shall increase the national fund in the
+same proportion; when it shall be seen that the prosperity of that
+fund depends on the prosperity of individuals; when the more riches
+a man. acquires, the better it shall be for the general mass; it is
+then that antipathies will cease, and property be placed on the
+permanent basis of national interest and protection.
+<p>I have no property in France to become subject to the plan 1
+propose. What I have, which is not much, is in the United States of
+America. But I will pay one hundred pounds sterling towards this
+fund in France, the instant it shall be established; and I will pay
+the same sum in England, whenever a similar establishment shall
+take place in that country.
+<p>A revolution in the state of civilization, is the necessary
+companion of revolutions in the system of government. If a
+revolution in any country be from bad to good, or from good to bad,
+the state of what is called civilization in that country, must be
+made conformable thereto, to give that revolution effect. Despotic
+government supports itself by abject civilization, in which
+debasement of the human mind, and wretchedness in the mass of the
+people, are the chief criterions. Such governments consider man
+merely as an animal; that the exercise of intellectual faculty is
+not his privilege; <em>that he has nothing to do with the laws, but
+to obey them;</em>and they politically depend more upon breaking
+the spirit of the people by poverty, than they fear enraging it by
+desperation.
+<p>It is a revolution in the state of civilization, that will give
+perfection to the revolution of France. Already the conviction that
+government, by representation, is the true system of government, is
+spreading itself fast in the world. The reasonableness of it can be
+seen by all. The justness of it makes itself felt even by its
+opposers. But when a system of civilization, growing out of that
+system of government, shall be so organized, that not a man or
+woman born in the republic, but shall inherit some means of
+beginning the world, and see before them the certainty of escaping
+the miseries that under other governments accompany old age, the
+revolution of France will have an advocate and an ally in the
+hearts of all nations.
+<p>An army of principles will penetrate where an army of soldiers
+cannot; it will succeed where diplomatic management would fail; it
+is neither the Rhine, the Channel, nor the Ocean, that can arrest
+its progress; it will march on the horizon of the world, and it
+will conquer.
+<h2 class="unnumbered" id="means-for-carrying-the-proposed-plan-into-execution-and-to-render-it-at-the-same-time-conducive-to-the-public-interest">
+Means for carrying the proposed plan into execution, and to render
+it at the same time conducive to the public interest</h2>
 <ol>
-<li><p id="para-58">Each canton shall elect in its primary assemblies, three persons, as commissioners for that canton, who shall take cognizance, and keep a register of all matters happening in that canton, conformable to the charter that shall be established by law, for carrying this plan into execution.</p>
-</li>
-<li><p id="para-59">The law shall fix the manner in which the property of deceased persons shall be ascertained.</p>
-</li>
-<li><p id="para-60">When the amount of the property of any deceased person shall be ascertained, the principal heir to that property, or the eldest of the co-heirs, if of lawful age, or if under age, the person authorized by the will of the deceased to represent him or them, shall give bond to the commissioners of the canton, to pay the said tenth part thereof within the space of one year, in four equal quarterly payments, or sooner, at the choice of the payers. One half of the whole property shall remain as security until the bond be paid off.</p>
-</li>
-<li><p id="para-61">The bond shall be registered in the office of the commissioners of the canton, and the original bonds shall be deposited in the national bank at Paris. The bank shall publish every quarter of a year the amount of the bonds in its possession, and also the bonds that shall have been paid off, or what parts thereof, since the last quarterly publication.</p>
-</li>
-<li><p id="para-62">The national bank shall issue bank notes upon the security of the bonds in its possession. The notes so issued, shall be applied to pay the pensions of aged persons, and the compensations to persons arriving at twenty-one years of age. It is both reasonable and generous to suppose, that persons not under immediate necessity, will suspend their right of drawing on the fund, until it acquire, as it will do. a greater degree of ability. In this case, it is proposed, than an honorary register be kept in each canton, of the names of the persons thus suspending that right, at least during the present war.</p>
-</li>
-<li><p id="para-63">As the inheritors of property must always take up their bonds in four quarterly payments, or sooner if they choose, there will always be numeraire arriving at the bank after the expiration of the first quarter, to exchange for the bank notes that shall be brought in.</p>
-</li>
-<li><p id="para-64">The bank notes being thus put in circulation, upon the best of all possible security, that of actual property, to more than four times the amount of the bonds upon which the notes are issued, and with <em>numeraire</em> continually arriving at the bank to exchange or pay them off whenever they shall be presented for that purpose, they will acquire a permanent value in all parts of the republic. They can therefore be received in payment of taxes or <em>emprunts</em> equal to <em>numeraire</em>, because the government can always receive <em>numeraire</em> for them at the bank.</p>
-</li>
-<li><p id="para-65">It will be necessary that the payments of the 10%, be made in numeraire, for the first year, from the establishment of the plan. But after the expiration of the first year, the inheritors of property may pay ten percent, either in bank notes issued upon the fund, or in <em>numeraire</em>. If the payments be in <em>numeraire</em>, it will lie as a deposit at the bank, to be exchanged for a quantity of notes equal to that amount; and if in notes issued upon the fund, it will cause a demand upon the fund equal thereto; and thus the operation of the plan will create means to carry itself into execution.</p>
-</li>
-</ol>
-<p id="para-66"><b>Thomas Paine.</b></p>
-<div class="notes">
- <h2 class="notes">Notes</h2>
-<table class="notes">
-<tr class="notes">
- <td class="note-number">
-  <p class="note-number">
-  <a href="#note-source-1">[1]</a>
-</p>
-
- </td>
- <td class="note">
-  <aside id="note-dest-1"><p id="para-67">The occasion of the publication of the following piece, was a Sermon preached by Watson, bishop of Landaff, entitled “The wisdom and goodness of God, in having made both <em>rich</em> and <em>poor:</em> with an appendix, containing reflections on the present state of England and France." The error contained in the title of this Sermon, determined me to publish my Agrarian Justice. It is wrong to say that God made <em>rich</em> and <em>poor</em>; he made only <em>male</em> and <em>female</em>, and he gave them the earth for their inherit? ace.</p>
-</aside>
-  </td>
-</tr>
-<tr class="notes">
- <td class="note-number">
-  <p class="note-number">
-  <a href="#note-source-2">[2]</a>
-</p>
-
- </td>
- <td class="note">
-  <aside id="note-dest-2"><p id="para-68">Expression of Horsley, an English bishop, in the English parliament.</p>
-</aside>
-  </td>
-</tr>
-</table>
-</div>
-
-</div>
-
-        </div>
-        
-    </div>
-    <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
-    <script>
-        kofiWidgetOverlay.draw('cadenhaustein', {
-            'type': 'floating-chat',
-            'floating-chat.donateButton.text': 'Support me',
-            'floating-chat.donateButton.background-color': '#ffffff',
-            'floating-chat.donateButton.text-color': '#323842'
-        });
-    </script>
-</body>
-
-</html>
+<li>
+<p>Each canton shall elect in its primary assemblies, three
+persons, as commissioners for that canton, who shall take
+cognizance, and keep a register of all matters happening in that
+canton, conformable to the charter that shall be established by
+law, for carrying this plan into execution.
+<li>
+<p>The law shall fix the manner in which the property of deceased
+persons shall be ascertained.
+<li>
+<p>When the amount of the property of any deceased person shall be
+ascertained, the principal heir to that property, or the eldest of
+the co-heirs, if of lawful age, or if under age, the person
+authorized by the will of the deceased to represent him or them,
+shall give bond to the commissioners of the canton, to pay the said
+tenth part thereof within the space of one year, in four equal
+quarterly payments, or sooner, at the choice of the payers. One
+half of the whole property shall remain as security until the bond
+be paid off.
+<li>
+<p>The bond shall be registered in the office of the commissioners
+of the canton, and the original bonds shall be deposited in the
+national bank at Paris. The bank shall publish every quarter of a
+year the amount of the bonds in its possession, and also the bonds
+that shall have been paid off, or what parts thereof, since the
+last quarterly publication.
+<li>
+<p>The national bank shall issue bank notes upon the security of
+the bonds in its possession. The notes so issued, shall be applied
+to pay the pensions of aged persons, and the compensations to
+persons arriving at twenty-one years of age. It is both reasonable
+and generous to suppose, that persons not under immediate
+necessity, will suspend their right of drawing on the fund, until
+it acquire, as it will do. a greater degree of ability. In this
+case, it is proposed, than an honorary register be kept in each
+canton, of the names of the persons thus suspending that right, at
+least during the present war.
+<li>
+<p>As the inheritors of property must always take up their bonds in
+four quarterly payments, or sooner if they choose, there will
+always be numeraire arriving at the bank after the expiration of
+the first quarter, to exchange for the bank notes that shall be
+brought in.
+<li>
+<p>The bank notes being thus put in circulation, upon the best of
+all possible security, that of actual property, to more than four
+times the amount of the bonds upon which the notes are issued, and
+with <em>numeraire</em> continually arriving at the bank to
+exchange or pay them off whenever they shall be presented for that
+purpose, they will acquire a permanent value in all parts of the
+republic. They can therefore be received in payment of taxes or
+<em>emprunts</em> equal to <em>numeraire</em>, because the
+government can always receive <em>numeraire</em> for them at the
+bank.
+<li>
+<p>It will be necessary that the payments of the 10%, be made in
+numeraire, for the first year, from the establishment of the plan.
+But after the expiration of the first year, the inheritors of
+property may pay ten percent, either in bank notes issued upon the
+fund, or in <em>numeraire</em>. If the payments be in
+<em>numeraire</em>, it will lie as a deposit at the bank, to be
+exchanged for a quantity of notes equal to that amount; and if in
+notes issued upon the fund, it will cause a demand upon the fund
+equal thereto; and thus the operation of the plan will create means
+to carry itself into execution.</ol>
+<p><strong>Thomas Paine.</strong></main>
