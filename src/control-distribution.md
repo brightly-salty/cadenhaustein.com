@@ -1,0 +1,2874 @@
+# Preface
+
+Certain of the chapters in this volume were first delivered as lectures
+before the Sociological Society, the Ruskin College at Oxford and the
+National Guilds League; whilst the others appeared in the pages of *The
+New Age* and *The English Review*, for which full acknowledgment for
+permission to reprint them here is made to their respective Editors.
+
+# The Mechanism of Consumer Control
+
+No doubt to some members and guests of this Society much of the subject
+with which we are concerned to-night will be elementary, even if the
+method of approach to it is somewhat novel; but to others to whom the
+subject of Finance, which is an important component of it, is a
+mysterious and incomprehensible jungle, through which they feel they
+could never hope to find a way, I would make the following suggestions.
+
+Money is only a mechanism by means of which we deal with things---it has
+no properties except those we choose to give to it. A phrase such as
+"There is no money in the country with which to do such and so" means
+simply nothing, unless we are also saying "The goods and services
+required to do this thing do not exist and cannot be produced, therefore
+it is useless to create the money equivalent of them." For instance, it
+is simply childish to say that a country has no money for social
+betterment, or for any other purpose, when it has the skill, the men and
+the material and plant to create that betterment. The banks or the
+Treasury can create the money in five minutes, and are doing it every
+day, and have been doing it for centuries.
+
+Secondly, you will hear a good deal to-night about credit, and I would
+ask you to bear most consistently in mind the two following
+definitions:----
+
+*Real credit* is a correct estimate of the rate, or dynamic capacity, at
+which a community can deliver goods and services as demanded.
+
+*Financial credit* is ostensibly a device by which this capacity can be
+drawn upon. It is, however, actually a measure of the rate at which an
+organisation or individual can deliver money. The money may or may not
+represent goods and services.
+
+I would also ask you to realise that the validity of the criticisms
+passed on the existing financial system does not rest to any
+considerable extent on the personal character, or the good or bad
+motives, of financiers. The motives of both sides of the Irish question,
+for example, may be of the most lofty, for all that I know to the
+contrary, and no one would suggest that there are not charming men on
+both sides; but one can hardly say that the result of their policy is
+happy, and that either side can be allowed to pursue a policy having
+such results, indefinitely, and the same line of reasoning can be
+applied to the existing financial system.
+
+Before dealing with the subject described by the title of this address,
+I would therefore beg your indulgence for a short space of time in order
+to review briefly certain premises fundamental to the subject; because
+it has been found that even people very familiar with these matters are
+apt to raise vigorous objections which are really based on other and
+inconsistent premises unless they are placed in the limelight at once,
+and, as far as possible, simultaneously. If you disagree with these
+premises, you will of course disagree with our conclusions, but if you
+agree, and still dislike the conclusions, I hope you will tell us where
+the hiatus occurs and suggest another solution based on them.
+
+Categorically, they are as follows:----
+
+1\. Modern co-operative industry (all modern industry is co-operative)
+serves two purposes: it makes goods, and distributes purchasing power by
+means of which they are distributed.
+
+2\. The primary object of the overwhelming majority of persons who
+co-operate in industry is to get *goods* with a minimum of discomfort,
+both of the right description, "right" being a matter of individual
+taste, and in the right quantity. It is not "employment," and it is only
+"money" in so far as money is a means to these things.
+
+If the system fails to achieve this end, it fails in its primary object
+and will break up, from the failure of the majority to co-operate.
+
+3\. If we insist that the distribution of the goods is entirely
+(Marxist) or chiefly (Capitalistic) dependent on the doing of work in
+connection with the production of them, then it follows that either (a)
+it takes all the available labour to provide the requisite amount of
+goods, or (6) an increasing number of persons cannot get the goods, or
+(c) goods or labour must be misapplied or wasted, purely for the purpose
+of distributing purchasing power.
+
+We know that (a) is not true. If it were, the whole of modern progress
+would be a mere mockery. But, on the contrary, it is quite indisputable
+that, apart from many other factors making for real progress, production
+is practically proportionate to the dynamic energy applied to it, and
+the means developed during the past century by which solar dynamic
+energy (steam, water, oil-power, etc.) has been made available to the
+extent of thousands of times that due to human muscular energy (which
+yet, previous to this development, was able to secure for humanity a
+standard of life in many ways more tolerable than that existing to-day)
+is sufficient basis for such an assertion. Speaking as a technical man,
+I have no hesitation in saying that it is the programme of production
+and not the productive process which is chiefly at fault, and that where
+the productive process is working badly it is because of the inclusion
+of unnecessary labour in it.
+
+\(b\) and (c) are true, as matters of both common and expert
+observation.
+
+4\. The system under which the whole of the world, not excluding Russia,
+carries on the production and distribution of goods and services is
+commonly called the Capitalistic system, which system, contrary to
+general opinion, has nothing, directly, to do with the relations of
+employers and employed, which are administrative relations. The
+fundamental premises of the Capitalistic system are, first, that all
+costs (purchasing power distributed to individuals during the productive
+process) should be added together, and recovered from the public, the
+consumer, in prices; and, second, that over and above that the price of
+an article is what it will fetch.
+
+If you will give the foregoing premises your careful consideration, you
+will see that the existing economic system is breaking up, not so much
+from the attacks on it, which, on the whole, are neither very
+intelligent, nor very well directed, but because of the inherent
+incompatibility of its premises with the objective of industry and
+modern scientific progress as a whole.
+
+The latter, taking the objective of industry as it finds it, endeavours,
+and fundamentally succeeds, in obtaining that objective with an
+ever-decreasing amount of human energy, by shifting the burden of
+civilisation from the backs of men on to the backs of machines; a
+process which, if unimpeded, must clearly result in freeing the human
+spirit for conquests at the moment beyond our wildest dreams.
+
+The existing economic system, on the contrary, ably backed by the
+Marxian Socialist, takes as its motto that saying which I cannot help
+thinking proceeded rather from Saul of Tarsus than from the Apostle of
+Freedom--"if a man will not work, neither shall he eat"--and defining
+work as something the price of which can be included in costs and
+recovered in price.
+
+It completely denies all recognition to the social nature of the
+heritage of civilisation, and by its refusal of purchasing power, except
+on terms, arrogates to a few persons selected by the system and not by
+humanity, the right to disinherit the indubitable heirs, the individuals
+who compose society.
+
+May I emphasise this fact before passing on to more concrete
+arguments?--if wages and salaries, forming a portion of costs, and
+reappearing in prices, are to form the major portion of the purchasing
+power of Society, then modern scientific progress is the deadly enemy of
+Society, since it aims at replacing the persons who now obtain their
+living in this way, by machines and processes.
+
+The prevalent assumption that human work is the foundation of purchasing
+power has more implications than it is possible to emphasise to-night;
+it is the root assumption of a world---philosophy which may yet bring
+civilisation to its death-grapple; but one result of it is that a man
+and a machine are, in the eyes of a cost-accountant, identical to the
+extent that both are an expense, a cost which must reappear in price,
+the man, however, being at this disadvantage as compared with a machine,
+that he has to bear his own maintenance and depreciation charges. Costs
+are a dispensation of purchasing power; and whether you are disciples of
+the "Cost" theory of prices, or of the "Supply and Demand" theory, you
+must admit that Capitalistic prices cannot be less than cost, over any
+considerable period of time.
+
+If, therefore, a portion of the "costs" of production are allocated to
+machines, and yet reappear in ultimate prices, it is obvious that the
+costs (purchasing power) in individual hands are not sufficient to pay
+these prices.
+
+I do not wish to pursue at great length this aspect of the subject
+to-night, because it has been elaborated in considerable detail in print
+and does not lend itself to platform discussion. But one consideration
+must be mentioned---the effect on the prices of ultimate
+products---those consumed by individuals---of the production of
+intermediate products---tools, factories, raw materials, etc. While, as
+has just been suggested, the flow of purchasing power to individuals
+through the media of wages, salaries, and, it may be added, dividends,
+is not sufficient to buy the total price-values created in the same
+time, it must be remembered that a great and increasing quantity of the
+total production of the world is not bought by individuals at all---it
+is bought and paid for by organisations, national or otherwise, and is
+of no use to individuals.
+
+Now the costs of this production represent effective demand to
+individuals; and the second postulate of the present economic system is
+that `average price = effective demand / goods in demand`.
+
+Consequently, the more of these intermediate products we produce, under
+the present system, the higher rise the prices of goods for individual
+consumption; which is the reason why the cry for indiscriminate
+super-production is both inane and mischievous. You will see at once
+that if the above formula for price, under the so-called law of supply
+and demand, is correct, which I suppose is not disputed, then it is
+really immaterial whether more or less goods are made, and more or less
+money distributed---any quantity of goods *less than sufficient* will
+absorb all the money available. And because the Capitalistic incentive
+to production is money, production stops when there is no more money.
+
+You will see that, firstly, the existing system does not distribute the
+control of intermediate production to individuals at all; and, secondly,
+gives them no say whatever as to the quantity, quality or variety of
+ultimate products.
+
+The distribution of purchasing power through the agency of the present
+volume of wages, salaries and dividends thus fails to distribute the
+product; and since when distribution stops production stops, the system
+would appear quite unworkable.
+
+But we know, as a matter of observation, that, although the grinding and
+groaning of the machine is plainly audible evidence that it *is* working
+very badly, it is working, and there must be something to account for
+the fact that distribution of a sort does take place. There are two
+things: export credit and loan credit.
+
+Now I may say at once that I do not see how it is possible to conceive
+of an economic system capable of dealing with the modern productive
+system in which this credit factor in the total sum of purchasing power
+does not play a preponderating and increasing part. It is far better to
+arrive at conclusions of this sort inductively rather than deductively,
+and I will simply direct your attention to the present trade position in
+this country and in America. There is the plant; there is the raw
+material; there is labour; and there is real, though not effective,
+demand; but production is decreasing along a very steep curve.
+
+Why? I do not suppose anyone here to-night is guileless enough to
+believe that it is all the fault of Labour. It would do the Labour
+extremists all the good in the world, and might modify their policy, if
+they could be brought to realise that Labour, while a necessary factor
+in production, is less and less a determining factor. The success of the
+various dilution measures carried through under the stress of war is
+quite convincing proof of that fact.
+
+Nor is it Capital, in the ordinary sense of the word. A man who has sunk
+large sums of money in a manufacturing plant wants to manufacture, if
+lie can, because otherwise his plant is a dead loss to him.
+
+There is no doubt whatever, and I do not suppose that anyone at all
+familiar with the subject would dispute the statement for a moment, that
+the present trade depression is directly and consciously caused by the
+concerted action of the banks in restricting credit facilities, and that
+such credit facilities as are granted have very little relation to
+public need; that, whatever else might have happened had this policy not
+been pursued, there would have been no trade depression at this time,
+any more than there was during the war; and that the banks, through
+their control of credit facilities, hold the volume of production at all
+times in the hollow of their hands. You will, of course, understand that
+no personal accusation is involved in this statement; the banks act
+quite automatically according to the rules of the game, and if the
+public is so foolish as to sanction these rules I do not see why it
+should complain.
+
+I should like, however, to emphasise this point: if the civilised world
+continues to permit this centralised, irresponsible, anti-public control
+of the life-blood of production to continue, and at the same time the
+possibly well-meaning but ill-informed and dogmatic Syndicalist makes
+good what is in essence exactly the same claim in the administrative
+field, then the world, in no considerable time, will be faced with a
+tyranny besides which the crude efforts of the Spanish Inquisition may
+well retire into insignificance.
+
+Let me repeat---the only true, sane origin of production is the real
+need or desire of the individual consumer. If we are to continue to have
+co-operative production, then that productive system must be subject to
+one condition only---that it delivers the goods where they are demanded.
+If any men, or body of men, by reason of their fortuitous position in
+that system, attempt to dictate the terms on which they will deliver the
+goods (not, be it noted, the terms on which they will work), then that
+is a tyranny, and the world has never tolerated a tyranny for very long.
+
+There is, I think, a widespread idea that if agitators would only stop
+agitating, and reformers stop trying to reform, the world would settle
+down. For myself, I am quite convinced that both agitation and reformism
+are merely symptoms of a grave and quite possibly fatal disease in our
+social and economic system, and that unless an adequate remedy is
+administered there will be an irreparable breakdown. I am emphasising
+this lest anyone should imagine that mere *laissez-faire* or, on the
+other hand, a vigorous suppression of symptoms is all that is necessary
+to cause things to "come right."
+
+The roots of this disease, then, are as follows:
+
+1.  Wages, salaries, and dividends will not purchase total production.
+    This difficulty is cumulative.
+
+2.  The only sources of the purchasing power necessary to make up the
+    difference are loan and export credits.
+
+3.  All industrial nations are competing for export credits. The end of
+    that is war.
+
+4.  The major distribution of purchasing power to individuals is through
+    the media of wages and salaries. The preponderating factor in
+    production is improving process and the utilisation of solar energy.
+
+5.  This latter tends to displace wages and salaries and the consequent
+    distribution of the product to individuals. The credit factor in
+    purchasing power thus increases in importance and dominates
+    production.
+
+6.  This production is consequently of a character demanded by those in
+    control of credit and is capital production.
+
+7.  The fundamental derivation of credit is from the community of
+    individuals, and because individuals are ceasing to benefit by its
+    use it is breaking down.
+
+If you have followed me so far you will see that there are two main and
+increasing defects in the present system---it makes the wrong things and
+so is colossally wasteful, and it does not satisfactorily distribute
+what it does make. The key to both of these is the control of credit.
+
+I should like to direct your attention to the meaning which can be
+attached to the word "control." We talk about the "public" control of
+this, that or the other. Is there any person in this room who has ever
+met the public, or knows in any clear-cut, tangible fashion, this
+alleged entity, the public, or really---if he or she is honest in the
+use of words---cares a broken rush about the public? Is it the public
+which wants better houses, better food, a wider life? I think not. When
+there is "unemployment" it is John Smith, Jane Smith and the Little
+Smiths who experiment with rationing. When there is a war it is Private,
+Lieutenant or Colonel Smith who loses an arm or whose wife places a
+wreath on the Cenotaph. I have not noticed that the name of the Public
+appears in the casualty lists of any of the nations engaged in the late
+war.
+
+I do not suggest for a moment that there is not a real
+group-consciousness---I think that there is such a consciousness. But
+the ills from which we are suffering do not take effect on that plane of
+consciousness, they take effect on individuals; and if, as I have tried
+to indicate, the key to the solution of those ills is to be found in a
+modified control of credit, then that modification must be in favour of
+individuals. We can, I think, safely leave the group-consciousness to
+look after itself.
+
+The problem, then, is to give to individuals such personal control of
+credit as will enable each of them, for himself or herself, to get from
+the machine of civilisation those things, now lacking, to the extent
+that the machine is capable of meeting the demand, and the answer is
+almost childishly simple---it is contained in the proposition that he
+ought to be able to buy those things with the money at his disposal, and
+that if he does not want to buy them, then he should not be made to pay
+for them.
+
+If you will consider this matter in the light of everyday conditions in
+the world of business, you will find that the practical steps necessary
+to embody these principles in a practical mechanism resolve themselves
+into two groups---the control in the interest of the consumer of the
+credit issued to manufacturers, in order that those things shall be made
+which the ultimate consumer wants made---because the ultimate consumer
+should be the sole arbiter of the *policy* of production, though not
+concerned with the processes by which his policy is materialised; and,
+secondly, that the credit, or purchasing power, in the hands of the
+consumer shall be adequate to enable him, if necessary, to draw on the
+maximum resources of the productive organisation; otherwise, it is
+clear, a part of those resources is ineffective.
+
+As we have previously noticed, individuals in the modern world obtain
+their purchasing power through three sources---wages, salaries and
+dividends. This purchasing power is taken away from them through the
+medium of what we call prices, and it will be quite obvious to you that
+the first thing necessary is to make total purchasing power equal to
+total prices, a proposition which has no other known solution than by
+the addition of a credit issue to purchasing power. That is to say, *we
+must give the consumer purchasing power which does not appear in
+prices*.
+
+Please remember that prices contain not only production costs, but
+capital costs, and these latter are the increasing factor in both costs
+and prices. If we take them out of prices and distribute them as
+purchasing power, then prices bear the same relation to costs as does
+consumption to production. You will see that this is so if you remember
+that capital charges represent sums based on the credit value of tools,
+etc.
+
+But, of course, this results in speedy bankruptcy to the producer who is
+selling under cost, unless we go a good deal further.
+
+It must be borne in mind that, though we find that we require to
+eliminate these credit-capital charges from prices, the credit-capital
+is a real if intangible thing, and can be drawn upon, because tools,
+processes, solar power, etc., represent a real capacity to deliver goods
+and services. Therefore there must be something somewhere which stands
+in the position of trustee for the collective credit, and should
+administer it in the interests of the individuals. There is such an
+organ---it is the Treasury.
+
+But the Treasury does not in normal times deal with manufacturers, it
+deals with the banks, and the banks are so-called private institutions
+which administer this collective credit for their own ends, and those
+ends are by no means similar to the ends of the community of individuals
+from whom the credit takes its rise.
+
+If, therefore, we wish to solve the first half of the problem, that of
+the control, in the interest of the consumer, of the credit issued to
+manufacturers, we have to put control of the policy of the banks at the
+disposal of the consumer interest.
+
+If, at the same time, we wish to ensure that the goods, when they *are*
+produced, are distributed amongst the individuals in whose interest, *ex
+hypothesi*, they were made, we have to get the credit purchasing power
+which attends the capacity to make and deliver them into the hands of
+those individuals. We can deal with this latter problem in two possible
+ways---either by a gift of Treasury "money" obtained by a creation of
+credit, or by reducing prices below cost to the individual consumer, and
+then making up this difference between price and cost by a Treasury
+issue to the producer. I hope you realise that the only basis for such a
+credit issue is the difference between what the productive organisation
+is called upon to deliver and what it could deliver if its capacity were
+stretched to the utmost.
+
+The latter of the two foregoing alternatives is, I think, by far the
+more practicable, because it not only delivers the purchasing power at
+the moment that it is wanted---at the moment of purchase---but it is
+also far better adapted to the psychology of the present time. It is the
+method which has been embodied in the suggestions which Mr A. R. Orage
+and I have been endeavouring to bring to the notice of the public in the
+Draft Scheme for the Mining Industry.
+
+This scheme has been fairly widely discussed, both here and in America,
+but there is one feature of it which will perhaps bear a little
+elaboration---the obvious traversing of all accepted Socialist policy in
+the provision not only for the continuance of dividends to present
+shareholders, but the wide extension of those dividends to still more
+shareholders. I will not take up your time with the philosophic basis of
+the proposal, although it has such a basis; but would merely draw your
+attention once again to the quite undeniable fact that there is simply
+not room in *economic* industry---by which I mean industry financed from
+public credit---for more than a small and decreasing fraction of the
+available labour. The attempt to cram all this human energy into a
+function of society which has no need of it is neither more nor less
+than lunacy. But we have to recognise, as a matter of common sense, that
+to throw a large and inexperienced section of the population out of its
+usual pursuits suddenly, and without preparation, and with more spending
+power than it has the training to use, might have a number of unpleasant
+consequences. I do not believe for one moment in all the nonsense talked
+about work and drink being the only alternatives of the British
+working-man---it is a gross calumny; but a smooth and rapid transition
+stage is desirable, and that is provided in the scheme by the increasing
+substitution of wages by dividends. When this process had proceeded far
+enough we should have defeated also one of the worst features of the
+present system, which is unable to distribute goods made and stored,
+without making more goods, whether these are required or not, merely for
+the purpose of distributing purchasing power. You will no doubt ask what
+are the prospects of such a scheme as we are considering.
+
+Well, in the first place, it has to be observed that the uncoordinated
+parts of it are coming into being with tremendous rapidity and, to those
+who have eyes to see, with irresistible momentum. In this country it is
+quite obvious that not only cannot the public debt (all issues of
+securities, whether to so-called private companies, local authorities or
+Governmental bodies, are public debt fundamentally) be reduced, but the
+business of the country cannot be carried on for a month without a
+continuous increase in it. The immediate effect of an attempt to
+restrict the flow is a slump in trade and an avalanche of business
+crises, which is only just beginning, but which will, unless I am very
+much mistaken, or war provides an alternative, proceed to lengths quite
+sufficient to establish the principle.
+
+The mechanism is being forged. The Brotherhood of Locomotive Engineers
+in America has, on the first of this month, opened the doors of the
+first of a series of banks whose credit rests fundamentally on the
+railway services of the American continent, not on the cash in the
+vaults of the bank. The Confederation General de Travail is about to
+inaugurate a bank with a nominal capital of 25,000,000 francs on the
+same lines. These are the beginnings of the shifting of control.
+
+The operations of these organisations will, in the first place, assist
+in raising prices---in fact, by enormously enhancing the economic power
+of Labour, will tend to raise them considerably. But as the toothache is
+the only agency which will drive the majority of people to a dentist,
+there will be posed thereby a plain issue---and to that issue I do not
+know any other reply than that I have endeavoured, so far as time has
+allowed, to put before you.
+
+# The Control of Policy in Industry
+
+Your Principal has been flattering enough to suggest that you might be
+interested to listen for a short time to-night to certain ideas on the
+subject of the industrial problems which have been made public, for the
+most part, through the columns of *The New Age*. Before proceeding to
+the concrete proposals, I should like, with your permission, to go over
+the philosophy of them very briefly.
+
+In any undertaking in which men engage, to paraphrase the ever-green Sir
+W. S. Gilbert, there are always at least two fundamental aspects which
+demand recognition before success can possibly be expected to accrue to
+those engaged in it. These are that there must first be a clear,
+well-defined policy, which means that every person who has any right to
+be heard in the matter in hand shall agree as to the *results* which he
+is willing to further with his support. And there must be somewhere
+resident in the venture some person or persons with expert knowledge as
+to the technical processes by which those results can be achieved with
+the materials (using the word in its broader sense) at the disposal of
+those associated together, and this person must have the confidence of
+the remainder.
+
+I should like you to observe particularly that certain very
+important---in fact, quite fundamental---relationships proceed from
+these simple premises. The genesis of such an association is agreement
+that a certain result is desirable and a general belief that it can be
+attained---it is not at all necessary that all of those associated shall
+know how to attain the result, but it is vital that they shall be
+satisfied with it. We may imagine this association to be the community.
+Secondly, the person or persons who "know how," who collectively we may
+call the producers, who will be empowered by the community to
+materialise the results of the agreed policy, stand fundamentally and
+unalterably on a basis of Service---it is their business to deliver the
+goods to order, not to make terms about them, because it is the basis of
+the whole arrangement that the general interest is best served by this
+relationship. (This applies, of course, to their simple function of
+producers, not to their comprehensive, all-embracing r61e of
+individuals.) Subject to this fundamental provision that they deliver
+the goods to order, it is no business of the controllers of policy, the
+community, how the producers deliver them---that is a matter for
+agreement amongst the producers.
+
+The goods having been delivered to order, it is the business of the
+community, to whose order they were made, to dispose of them---not the
+business of the producers, who would never have been able to function
+without the consent of society.
+
+Now in the present dissatisfaction with the productive system which is
+the outstanding feature of the present time there is a remarkable
+misdirection of attack---the battle front is aligned as between employer
+and employed, the so-called Capitalist and Labour, whereas the real
+cleavage is between "producer-distributor" (both controlled by the
+financier) and consumer---employers and employed forming the
+producer-distributor army, and the whole community, which includes the
+producers, forming the opposition. If anyone doubts this, a
+consideration of the facility with which Labour obtains increases of
+pay, just so long as these increases can be recovered from the public in
+the form of increased prices, will surely dispel the doubt. The
+position, therefore, is one of civil war of the gravest
+character---gravest because the "victory" of either side means the
+destruction of both.
+
+Before proceeding to the consideration of the means available to meet
+this situation, it is necessary to be clear on the matter of policy.
+
+There is no possible definition of a policy which is all-embracing in
+its acceptance other than the word "Freedom." People only unite in
+wanting what they want. We shall never get one inch farther along the
+road to a final settlement of world problems until we make up our minds
+for good and all whether a man is in the largest sense more benefited by
+learning, through trial and error, what is good for him, or, on the
+other hand, whether he should be ruled in the way he should go by
+Authority.
+
+Personally I am convinced that the former conclusion is inevitable. The
+dictatorship of the proletariat or any other *comprehensive*
+dictatorship is intolerable and impracticable. Please note that I am
+referring to man as an individual---not as a producer. The technique of
+production is a matter of Law, not of Emotion and Desire, and I believe
+that a much more exacting discipline will be expected of those of all
+ranks who are privileged to serve the community in any capacity, and
+that the penalty of failure to live up to that discipline will be the
+loss of that privilege, which will be a much greater loss when no
+economic question enters into it.
+
+It used to be a very common argument that the spur of economic necessity
+was ennobling to the character. Frankly, I don't believe it. If you
+will, and I am sure you will, look at the question from a detached point
+of view, I think you will agree that the man who is engaged in "making
+money" is neither so pleasant or so broad-minded to deal with, nor so
+fundamentally efficient, as the man who, while yet exerting his capacity
+for useful effort to the utmost, is by fortune lifted above the
+necessity of considering his own economic advantage. The struggle to
+overcome difficulties is most unquestionably ennobling, but we have, I
+think, reached a stage when our attention may with advantage be diverted
+from the somewhat sordid struggle for mere existence.
+
+We want, therefore, to put more and finally all people in this position,
+not to remove from it those who are already there, always assuming that
+the alternative exists; and to do that we want so to organise the
+machinery of production that it serves the single end of forming the
+most perfect instrument possible with which to carry out the policy of
+the community; and so to empower the community that individuals will
+submit themselves voluntarily to the discipline of the productive
+process, because in the first place they know that it is operated for
+production and so gains their primary ends with a minimum of exertion,
+and in the second place because of the interest and satisfaction of
+cooperative, coordinated effort. You will understand that the physical
+facts of production are such that, operated in this way, only a small
+proportion of the world's population, working short hours, could find
+employment directly in the industrial process---a condition of affairs
+which is cumulative and reduces to an anachronism the complaint of the
+early Victorian Socialist against the idle rich, and to an absurdity the
+super-Industrialist cry for greater production at a cost of harder work.
+To anyone to whom this aspect of the case is unfamiliar, I would commend
+the works of Mr Thorstein Veblen on Capitalist Sabotage, or the more
+specialised conclusions of the late H. M. Gantt and his partner, Mr
+Walter Polakov. The present preoccupation of the financial system is to
+hide the enormous capacity for output which modern methods have placed
+at our disposal; and it is fairly successful in its efforts, so far.
+
+So much for the philosophy of the subject. If you agree with it you
+will. see at once that the problem with which society has to grapple
+falls naturally and inevitably into certain lines. The *primary* object
+of the whole industrial system should be the delivery to individuals,
+associated together as the public, or society, of the material goods and
+services they individually require. This demand of individuals, be it
+emphasised, is the absolute origin of all activity. Since men co-operate
+to satisfy this demand, which is complex in its nature, it is necessary
+to also combine the demand, and this combined demand of society is the
+policy, so far as it is economic, of society as a whole. The first part
+of the problem, then, consists in finding a mechanism which will impose
+this policy on the co-operating producers with the maximum
+effectiveness, which always means with the minimum of friction.
+
+Now, if I have made my meaning clear, you will begin to see (willingly
+or otherwise!) that this has nothing to do with "workshop control by the
+workers"--in fact is in one sense the antithesis of it. It involves the
+assumption that the plant of civilisation belongs to the community, not
+to the operators, and the community can, or should, be able to appoint
+or dismiss anyone who in its discretion fails to use that plant to the
+best advantage. So far you might say this is pure State Socialism, but I
+think you will agree, if I make myself clear, that it is nothing like
+what is commonly so called. In this connection the following paragraph
+from *The Threefold State*, by Dr Rudolf Steiner, a book which is
+attracting attention on the Continent, may be of interest:----
+
+"Modern socialism is absolutely justified 1 in demanding that the
+present-day methods, under which production is carried on for individual
+profit, should be replaced by others, under which production will be
+carried on for the sake of the common consumption. But it is just the
+person who most thoroughly recognises the justice of this demand who
+will find himself unable to concur in the conclusion which modern
+socialism deduces: That, therefore, the means of production must be
+transferred from private to communal ownership. Rather he will be forced
+to a conclusion that is quite different, namely: That whatever is
+privately produced by means of individual energies and talents must find
+its way to the community through the right channels."
+
+The radical difference---and I would commend it to your most serious
+consideration---is that State Socialism is based on the premise that,
+firstly, the control of policy is resident in administration, and,
+secondly, that it is possible to "socially" control administration, and,
+thirdly, that the State should be able to supply economic pressure to
+the individual; whereas I suggest to you that the control of policy is
+resident in credit (fundamentally, in the belief in the beneficial
+outcome of any line or action) and its financial derivations, of which
+money is one, while administration is a technical and expert matter not
+susceptible of being socialised, and, lastly, that the only possible
+method by which the highest civilisation can be reached is to make it
+impossible for either the State or any other body to apply economic
+pressure to any individual.
+
+Any attempt either to socialise administration or to govern by economic
+coercion quite inevitably leads to centralised organisation and
+centralised credit, resulting in all the well-known phenomena of
+inefficiency inseparable from the attempted subordination of the human
+ego to the necessities of a non-human system. The difference is the
+recognition of the difference between beneficial ownership and
+administrative ownership. The managing director of the White Star Line
+was in beneficial ownership of the *Titanic*, he controlled the credit
+of it; but his attempt to interfere in its administration destroyed the
+&.
+
+We can, then, for the moment leave the question of administration where
+it stands, the more so if you will consider that, however certain
+enthusiasts may endeavour to persuade you to the contrary, it is a
+well-recognised fact that it is impossible, in this country at any rate,
+to promote a strike of any magnitude on any basis but that of
+distribution---i.e. wages or prices---which only shows the general good
+sense of the British public.
+
+It is not suggested that administration is faultless, but by deferring
+the consideration of it---for it is essentially a technical matter---we
+are free to concentrate on the primary requisite---the transfer of the
+control of the *policy* of production into the hands of those for whom
+the whole productive process exists---the individuals who collectively
+form the public.
+
+As has been stated, the control of policy is resident in credit---a word
+which is quite sufficient, I have no doubt, to excite your worst
+forebodings, but I assure you that in itself the matter is very simple.
+A credit instrument is something which will enable you to get what you
+want. If you are stranded without food on an island overrun with
+rabbits, a shot-cartridge is in all probability the most effective
+credit instrument with which to deal with the situation, but in more
+highly organised communities the instrument in most general use, and
+which typifies the rest, is what we call money. It differs from a
+cartridge chiefly in disappearing less noisily.
+
+It is absolutely vital to realise that the essential part of money is
+the belief that through its agency you can satisfy your demands. Once
+this is agreed you will see that the control of the issue of something
+which embodies this belief is equivalent to the control of the policy of
+society. The belief, if well founded, is real credit, and its vehicle,
+financial credit, convertible into money.
+
+There exists in civilised society in all countries to-day an institution
+whose business it is to issue money. This institution is called a bank.
+The banking business is in many respects the exact opposite of the
+Social Reform business---it is immensely powerful, talks very little,
+acts quickly, knows what it wants, chooses its employees wisely in its
+own interests.
+
+When a bank allows a manufacturer an overdraft for the purpose of
+carrying out a contract or a production programme, it performs an
+absolutely vital function, without which production would stop. If you
+doubt this, consider for a moment the result of a rise in the bank rate
+of interest on loans and you will see that the power to choke off
+producers by taxing them at will is essentially similar to that
+exercised by governments on consumers by orthodox taxation, with the
+vital difference that in the first case a purely sectional interest is
+operating uncontrolled by society, whereas in the second case the power
+undoubtedly exists, though ineffective because misunderstood, to control
+it in the general interest.
+
+Now the vital thing done by a bank in its financing aspect is to
+mobilise effective demand.
+
+*The effective demand is that of the public, based on the money of the
+public, and the willingness of producers to respond to economic orders;
+but the paramount policy which directs the mobilisation is anti-public,
+because it aims at depriving, with the greatest possible rapidity, the
+public of the means to make its demands effective; through the agency of
+prices.*
+
+I would particularly ask you to note that there is no suggestion that
+*bankers*, as human beings, are in the main actuated by any such
+anti-social policy---the system is such that they simply cannot help the
+result.
+
+In order, then, to acquire public control of economic policy, we have to
+control the whole mechanism of effective demand---the rate at which its
+vehicle, financial credit, is issued, the conditions on which it is
+issued, and take such measures as will ensure that the public, from whom
+it arises, are penalised by withdrawal of the vehicle to the minimum
+possible extent. It must be obvious that the real limit of the rate at
+which something representing purchasing-power could be issued to the
+*public* is equal to the maximum rate at which goods can be produced,
+whereas the "taking back" through prices of this purchasing-power should
+be the equivalent of the fraction of this potential production which
+*is* delivered.
+
+Let us imagine that wages, salaries and dividends, added together, were
+issued via the productive industries at a *rate* representing the
+maximum possible production of ultimate products, and actual consumption
+was only one quarter of potential production. Then, clearly, the
+community would only have exercised one quarter of its potential demand.
+But the whole of the *costs* of production---the issues of
+purchasing-power through the agencies of wages, salaries and
+dividends---would have to be allocated to the *actual* production as at
+present, and if we charge the public with the whole cost of production
+their total effective demand is taken from them. But if we apply to the
+ascertained cost of production a fractional multiplier equal to the
+ratio of actual consumption to potential production, then we take back
+in prices that portion of the total purchasing-power which represents
+the actual energy draft on the productive resources of the community,
+and the price to the actual consumer would be, in the case above
+mentioned, 75%, less than commercial cost.
+
+If I have made myself clear you will see that credit-issue and
+price-making are the positive and negative aspects of the same thing,
+and we can only control the economic situation by controlling both of
+them---not one at a time, but both together, and in order to do this it
+is necessary to transfer the basis of the credit-system entirely away
+from *currency*, on which it now rests, to *useful productive capacity*.
+The issue of credit instruments will then not result in an expansion of
+money for the same or a diminishing amount of goods, which is inflation,
+but in an expansion of goods for the same or a diminishing amount of
+money, which is deflation.
+
+I may perhaps be permitted to end on a graver note. The present
+maladministration of credit results in increasingly embittered struggles
+for markets. Unless it is remedied, war is inevitable---and the next,
+great war will destroy this civilisation.
+
+# The Control of Production
+
+It has frequently and rightly been emphasised that the essence of any
+real progress towards a better condition of society resides in the
+acquisition of control of its functions by those who are affected by its
+structure; and it is well if somewhat vaguely recognised by the worker
+of all classes that this control is at present not resident in, but is
+external to, society itself, and that in consequence men and women,
+instead of rising to an ever superior control of circumstance, remain
+the slaves of a system they did not make and have not so far been able
+to alter in its fundamentals.
+
+This system is assailed under the name of Capitalism; but of the
+millions who are convinced that by the destruction of Capitalism the
+Millennium will be achieved, not very many have yet awakened to the fact
+that Capitalism died an unhallowed death seventy-five years ago, more or
+less, and that the driving force of the system which, more than any
+other single cause, has produced the tangle of misery and unrest in
+which the world now welters is Creditism.
+
+Credit is a real thing; it is the correct estimate of capacity to
+achieve, and the function and immense importance for good or evil of
+this real credit will be impressed on mankind with cumulative insistence
+in the difficult times ahead. But for the moment it is desirable to
+consider a narrower use of the word; one conveying, however, a sense
+with which it is more commonly associated---financial credit.
+
+Financial credit is simply an estimate of the capacity to pay
+money---any sort of money which is legal or customary tender; it is not,
+for instance, an estimate of capital possessed; and its use as a
+driving-force through the creation of loan-credit is directly consequent
+on this definition. The British banking system has, since the Banking
+Act of 1844, based its operations on the ultimate liability to pay gold,
+but in actual fact the community, as a whole, has dethroned gold, and
+bases its acceptance of cheques and bills on its estimate of the bank
+credit of the individual or corporation issuing the document, and for
+practical purposes not at all on the likelihood that the bank will meet
+the document with gold. This bank credit simply consists of certain
+figures in a ledger combined with the willingness of the bank to
+manipulate those figures and at call to convert them into legal tender.
+What, then, is likely to induce a bank to increase the credit by the
+creation of loans, etc., of an applicant for that favour? The answer is
+contained in the definition: the capacity to pay money; and the credit
+will be extended absolutely and solely as the officials concerned are
+satisfied that this condition will be met. It is quite immaterial
+whether the judgment is based on existing "securities" or contemplated
+operations; the basis of bank credit to-day is simply and solely the
+capacity within an agreed time-limit, which may be long or short, to pay
+money.
+
+Now apply the consideration of this to such a problem as control of the
+provision of decent housing for the miners at rents not exceeding 10%,
+of the miners' earnings. There are a number of idealists, who cannot be
+labelled otherwise than half-baked, who will say that it is a "sound
+business proposition" to house the miners properly at low rents. There
+are also a number of people by no means half-baked who are prepared to
+lose a little on housing to retain control of industry. That it is in
+the highest sense sound is unquestionable; but as to being a business
+proposition we suggest to those well-meaning people of the first class
+whose minds are above detail, that they go to the banks unsupported by
+security, and endeavour to borrow money for such a project.
+
+We see, then, that it is purely a question of the financial effect
+likely to accrue from an enterprise which will induce the banks to back
+it with credit, and the use-value or inherent desirability of doing
+certain work is a by-product. But the deduction to be made from this is
+of transcendent importance---it is that to control industry in the
+interest of use-values you must back use-values with credit. And that
+means the control of credit. And in order to control credit the base on
+which it rests must be altered to meet the changed aspirations of
+society. The economic power of Labour is a potential power. By
+withholding it, Labour (using the term in its widest sense) can break
+down civilisation; but it cannot build it up again by any agency that
+the mind of man has yet conceived which does not involve the use of
+credit in some form or other. The community creates all the credit there
+is; there is nothing whatever to prevent the community entering into its
+own and dwelling therein except it shall be by sheer demonstrated
+inability to seize the opportunity which at this very moment lies open
+to it; an opportunity which if seized and used aright would within ten
+years reduce class-war to an absurdity and politics to the status of a
+disease.
+
+# A Mechanical View of Economics
+
+Elsewhere an attempt has been made to show the dangerously false
+premises on which the New Unionist party bases all its hopes of
+Reconstruction. The keynote of the symphony we are to play under the
+conduct of Mr Lloyd George and the industrial federations behind him is
+production, production, yet more production; and by this simple remedy
+we are to change from a nation with a C3 population and many grievances
+into a band of busy B's (or is it A1's?) healthy, wealthy, happy and
+wise.
+
+It is a simple little remedy---one wonders why we never thought of it
+before. You seize any unconsidered trifle of matter which may be lying
+about, preferably on your neighbour's territory, and you make it into
+something else quite unspecified. You assert by a process of
+arithmetical legerdemain known as cost accounting that the value of the
+original matter which we may call `a` is now `a + (b + c) + (d + e)`,
+`b` being labour, `c` overhead charges, `d` selling charges and `e`
+profit, and that the "wealth" of the country is increased by this
+operation in respect of a sum equal to `(b + c + d + e)`. With the aid
+of your banking system you now create credits which show that `a` *is*
+`a + etc. - (x + y)` (where `x` is loss in trading, etc., and `y` is
+depreciation) and there you are---A1.
+
+The chief objection to this otherwise fascinating idea is that despite a
+large body of most respectable and even highly paid accountants and
+bankers who will produce quantities of figures to prove that `a` has now
+become `(a + b, etc.)` and that the wealth of the country has been
+increased, etc., etc., the facts do not, unfortunately, confirm their
+statements.
+
+The power used in doing work on `a` has been dissipated in heat and
+otherwise; the tools have been worn, the workmen have consumed food and
+clothes and have occupied houses, and *what you have actually got is `a`
+minus any 'portion of `a` lost in conversion*; `b`, `c`, `d`, `e`, etc.,
+are the price paid by the *community* for the increased adaptability of
+`a` to the needs of the community, which price must in the last event be
+paid for in energy. The question of the gain in adaptability depends on
+what you produce; but payment is inevitable.
+
+Under the existing conditions probably no body of men has done more to
+crystallise the data on which we carry on the business of the world than
+has the accounting profession; but the utter confusion of thought which
+has undoubtedly arisen from the calm assumption of the book-keeper and
+the accountant that he and he alone was in a position to assign positive
+or negative values to the quantities represented by his figures is one
+of the outstanding curiosities of the industrial system; and the attempt
+to mould the activities of a great empire on such a basis is surely the
+final condemnation of an out-worn method.
+
+While the effect of the concrete sum distributed as profit is overrated
+in the attacks made on the capitalistic system, and is far and
+increasingly less important than the overhead charges added to the value
+of the product in computing its factory cost, it is the dominant factor
+in the political aspect of the situation, because the equation of
+production is stated by the capitalist in a form which requires it to be
+solved in terms of selling price, while `e`, the profit, is always a
+plus quantity.
+
+Now the prime necessity of the situation, which is world-wide at this
+time, is to realise that in economics we are dealing with facts and not
+figures; and mechanical facts at that. The conversion of a bar of iron
+into a nut and bolt and its change in price from 2d. or 3d. to, say, Is.
+means absolutely nothing at all beyond the fact that we have transformed
+a certain amount of potential energy into work in the process of
+changing the bar of iron into a nut and bolt, and that an arbitrary and
+totally empirical measure of this potential energy in various forms is
+contained in the figures of cost. The factor which gives real character
+to the operation is the "inducement to produce."
+
+If the object of this use of material and energy is simply finance, we
+shall get a financial result of some sort---but two real things result
+in any case. First we have definitely decreased the energy potentially
+available for all other purposes, and, secondly, we have obtained simply
+a nut and bolt in return for a bar of iron and a definite amount of
+energy dissipated.
+
+If by wealth is meant the original meaning attached to the
+word--"well-being"--the value in well-being to be attached to our bolt
+and nut depends entirely on its use for the promotion of well-being
+(unless we admire bolts and nuts as ornaments), and bears no relation
+whatever to the empirical process of giving values to `a`, `b` and `c`,
+etc.
+
+Let us particularise: The immediate necessity as to which all political
+parties are agreed is improved housing. The financier says; "Yes, you
+shall have money for housing as the result of building gunboats for
+Chile," thereby implying that there is a chain of causation between
+gunboats for Chile and houses for Camberwell. Not only is there no such
+real chain of causation, but the building of gun-boats for Chile, or
+elsewhere, decreases the energy available to build those houses, and
+when the total available energy is utilised, as has been approximately
+the case during the war, and may easily be so again, not all the
+gunboats ever sold, no matter what the accounting figures attached to
+the transaction may indicate in added wealth to this country, will
+produce one house at Camberwell, or anywhere else. What is, of course,
+common to the two is the "inducement to produce," but that may or may
+not be a sound inducement.
+
+The matter is really very serious. The economic effect of charging all
+the waste in industry to the consumer so curtails his purchasing power
+that an increasing percentage of the product of industry must be
+exported. The effect of this on the worker is that he has to do many
+times the amount of work which should be necessary to keep him in the
+highest standard of living, as a result of an artificial inducement to
+produce things he does not want, which he cannot buy, and which are of
+no use to the attainment of his internal standard of well-being. "While
+the mechanism of the process is possibly too technical for his general
+comprehension, he has grasped the drift of the situation and shows every
+sign of a determination to make things interesting. On the other hand,
+we see a good sound reason for the capitalist's hatred for
+internationalism; failing interplanetary commerce, he will have nowhere
+to export to, and will be faced with the horrible prospect of dividing
+up the world's production amongst the individuals who live here. In
+which case a larger number of people than at present will agree that it
+is possible to overproduce gun-boats. Given this situation, what will be
+the result of a"strong" Coalition Government?
+
+# Production and Prices
+
+It is admitted by almost everyone not utterly blind to the trend of
+public events that there is something seriously wrong in the world
+to-day. Hardly yet have the hospitals discharged the casualties of the
+first World War, yet the shadow of an even greater catastrophe is plain
+to those with eyes to see. Instead of the world for heroes to live in,
+one strike follows another to an inconclusive settlement; an apathetic
+public regards the conflict between "Capital" and "Labour" with a
+lack-lustre eye, repeating the while the *clichés* of its particular
+brand of millionaire-owned newspaper.
+
+Amongst the experts, various prescriptions for the disease of Society
+are propounded. These are:
+
+1.  The Super-productionists, the "Capitalist" party, M\^ho refuse to
+    admit any fault in the social system. The keynote of their remedy is
+    harder work and more of it.
+
+2.  What may be called the ecclesiastical party; the keynote of their
+    policy is "a change of heart." Their attention is concentrated in
+    hierarchical problems, administration, etc. The legal, military,
+    bureaucratic mind is essentially of this type, and the Whitley
+    Council, the Sankey Report, and the various committee schemes of the
+    Fabian Society in this country, the Plumb scheme in America, etc.,
+    are examples of it. All these schemes are *deductive* in character;
+    they start with a theory of a different sort of society to the one
+    we know, and assume that the problem is to change the world into
+    that form. In consequence, all the solutions demand centralisation
+    of administration; they involve a machinery by which individuals can
+    be forced to do something---work, fight, etc.; the machine must be
+    stronger than the man.
+
+Practically all socialist schemes, as well as Trust, Capitalist,
+Militarist, etc., schemes, are of this character--*e.g.* the League of
+Nations, which is essentially ecclesiastical in origin, is probably the
+final instance of this.
+
+It may be observed, however, that in the world in which things are
+actually done, not talked about, where bridges are built, engines are
+made, armies fight, we do not work that way. We do not sit down in
+London and say the Forth Bridge ought to be 500 yards long and 50 ft.
+high, and then make such a bridge and narrow down the Firth of Forth by
+about 75%, and cut off the masts of every steamer 45 ft. above sea-level
+in order to make them pass under it. We measure the Firth, observe the
+ships, and make our structure fit our facts. Successful generals do not
+say, "The proper place to fight the battle is at X, I am not interested
+in what the other fellow is doing, I shall move all my troops there."
+
+The attempt to deal with one of the industrial and social difficulties
+existing at this time, which is embodied in these remarks, starts from
+this position therefore.
+
+It does not attempt to suggest what people ought to want, but rather
+what they do want, and is arrived at not so much from any theory of
+political economy as from a fairly close acquaintance with what is
+actually happening in those spheres where production takes place and
+prices are fixed.
+
+If we look at the problem of production from this point of view, the
+first thing we ask ourselves is, Why do we produce now? The answer to
+this is vital---it is to make money. Why do we want to make money? The
+answer is twofold. First, to get goods and services afterwards, to give
+expression, often perverted, to the creative instinct through power.
+Please note that these two are quite separate---whether a man has any
+recognisable creative instinct or not, he absolutely requires goods and
+services of some sort. We then have our problem stated; we have to
+inquire whether our present mechanism satisfies it, and if not, why not,
+and how can it be altered so that it does satisfy it.
+
+Emphasising the fact that it is only half the problem, the only half I
+propose to deal with to-night, let us inquire to what extent we succeed
+in our primary object---that of obtaining goods and services when we
+produce for money under the existing economic system.
+
+Production only takes place at present when at least two conditions are
+met, when the article produced meets with an effective demand---that is
+to say, when people with the means to pay are willing to buy, and when
+the price at which they are willing to buy is one at which the producers
+are willing to sell.
+
+Now under the private capitalistic system the price at which the
+producer is willing to sell is the sum of all the expenses to which he
+has been put plus all the remuneration he can get called profit. *The
+essential point to notice, however, is not the profit, hut that he
+cannot and will not produce unless his expenses on the average are more
+than covered.* These expenses may be of various descriptions, but they
+can all be resolved ultimately into labour charges of some sort (a fact
+which incidentally is responsible for the fallacy that labour, by which
+is meant the labour of the present population of the world, produces all
+wealth). Consider what this means. All past labour, represented by money
+charges, goes into cost and so into price. But a great part of the
+product of this labour---that part which represents consumption and
+depreciation---has become useless, and disappeared. Its money equivalent
+has also disappeared from the hand of the general public---a fact which
+is easily verifiable by comparing the wages paid in Industry with the
+sums deposited in the Savings Banks and elsewhere---but it still remains
+in price. So that if everyone had equal remuneration and equal
+purchasing power, and there were no other elements\^ the position would
+be one of absolute stagnation---it would be impossible to buy at any
+price at which it is possible to produce, and there would be no
+production. I may say that in spite of enormously modifying
+circumstances I believe that to be very much the case at present.
+
+But there is a profound modifying factor, the factor of credit. Basing
+their operations fundamentally on faith---that faith which in sober
+truth moves mountains---the banks manufacture purchasing power by
+allowing overdrafts, and by other devices, to the entrepreneur class: in
+common phrase, the Capitalist. Now consider the position of this person.
+He has large purchasing power, but his personal consuming power is like
+that of any other human being: he requires food, clothes, lodging, etc.
+
+If, as is increasingly the case, the personal Capitalist is replaced by
+a Trust, there is a somewhat larger personal consuming power,
+represented by the stockholders, but it is still incomparably below the
+purchasing power represented by credit. What happens? After exhausting
+the possibilities of luxuries, the organisation itself exercises the
+purchasing power and buys the goods and services which it itself
+consumes---machinery, raw material, etc. In consequence, the production
+which is stimulated---the production which we are asked to increase---is
+that which is required by the industrial machine, intermediate products
+or semi-manufactures, not that required by humanity. It is perfectly
+true that money is distributed in this process, but the ratio of this
+money to the price-value of human necessities---ultimate products---is
+constantly decreasing for the reasons shown, and the cost of living is
+therefore constantly rising.
+
+Before turning to the examination of the remedy built upon this
+diagnosis it is necessary to emphasise a feature of our economic system
+which is vital to the condition in which we find ourselves--*i.e.* that
+the wages, etc., system distributes goods and services through the same
+agency by which it produces goods and services---the productive system.
+In other words, it is quite immaterial how many commodities there are in
+the world, the general public cannot touch them without doing more work
+and producing more commodities. It is my own opinion, not lightly
+arrived at, that that is the condition of affairs in the world
+to-day---that there is little if any real shortage, but that production
+is hampered by prices, and the capitalists cannot drop prices without
+losing control. However that may be, this feature, in conjunction with
+those previously examined, has many far-reaching consequences---amongst
+others the feverish struggle for markets, which in turn has an
+overwhelmingly important bearing on Foreign Policy. To sum the whole
+matter up, the existing economic arrangements--
+
+1.  Make credit the most important factor in effective demand;
+
+2.  Base credit on the pursuit of a financial objective, and centralise
+    it;
+
+3.  This involves constantly expanding production;
+
+4.  This must find an effective demand, which means export and more
+    credit;
+
+5.  Makes price a linear function of cost, and so limits distribution,
+    largely to those with large credits;
+
+6.  Therefore directs production into channels desired by those with the
+    largest credits.
+
+A careful consideration of these factors will lead to the conclusion
+that loan-credit is the form of effective demand most suitable for
+stimulating semi-manufactures, plant, intermediate products, etc., and
+that "cash"-credit is required for ultimate products for real personal
+consumption. The control of production, therefore, is a problem of the
+control of loan-credit, while the distribution of ultimate products is a
+problem of the adjustment of prices to cash-credits. It is only with
+this latter that we are at present concerned.
+
+We have already seen that the cash-credit provided by the whole of the
+money distributed by the industrial system, so far as it concerns the
+wage-earner, is only sufficient to provide a small surplus over the cost
+of the present standard of living, and that only by conditions of
+employment which the workers repudiate, and rightly repudiate. We cannot
+create a greater surplus by increasing wages, because the increase is
+reflected in a compound rise in prices. Keeping, for the moment, wages
+constant, we have to inquire what prices ought to be to ensure proper
+distribution.
+
+Now the *core of this problem is the fact that money which is
+distributed in respect of articles which do not come into the buying
+range of the persons to whom the money is distributed is not real
+money*--it is simply inflation of currency so far as those persons are
+concerned. The public does not buy machinery, industrial buildings,
+etc., for personal consumption at all. So that, as we have to distribute
+wages in respect of all these things, and we want to make these wages
+real money, we have to establish a relation between total production,
+represented by total wages, salaries, etc., and total ultimate
+consumption, so that whatever money a man receives, it is real
+purchasing power. This relation is the ratio which total production of
+all descriptions bears to *total* consumption and depreciation.
+
+The total money distributed represents total production. If prices are
+arranged as at present, so that this total will only buy a portion of
+the supply of ultimate products, then all intermediate products must be
+paid for in some other way. They are; they are paid for by internal and
+external (export) loan-credit.
+
+If prices are arranged so that they bear the same relation to cost that
+consumption does to production, then every man's money will buy him his
+average share of the total consumption, leaving him with a balance which
+represents his credit in respect of his share in---the production of
+intermediate products (semi-manufactures)--a share to which he is
+entitled, but which is now almost entirely controlled by the financier
+in partnership with the industrial price-fixer.
+
+It is a little difficult to state with any accuracy what proportion of
+cost prices ought to be because of the distorting effect of waste,
+sabotage and aimless luxury.
+
+I am making some rather tedious investigations into this, and I can only
+say that I am convinced that even now prices are five times too high,
+and that with proper direction of production this figure would be
+greatly exceeded.
+
+# What is Capitalism?
+
+When two opposing forces of sufficient magnitude push transversely at
+either end of a plank---or a problem---it revolves: there is Revolution.
+When the forces are exhausted the revolution subsides, and the plank or
+problem remains in much the same position in space which it occupied
+before the forces acted on it. It is possible to conceive its molecules
+as being somewhat worn and giddy as a result of their rapid
+reorientation, but their environment is otherwise unchanged. If,
+however, the forces act through the centre of resistance, actual motion
+results; the object is shifted bodily by the greater force, without
+revolution.
+
+In the first portion of this metaphor is to be found the explanation of
+the devastating inconclusiveness which dogs the steps of the constant
+and increasingly embittered controversy between the forces of what is
+called Capitalism and its antagonist Labour, and for a recent instance
+of the phenomenon it is not necessary to go further than the Coal
+Commission. During the earlier part of the inquiry it was made
+abundantly plain that an intolerable state of affairs existed in the
+coal industry. Mr Smillie's attack was so well delivered, the evidence
+marshalled was so damning, that had the case been closed at that point
+the position of the miners, and with them Labour generally, would have
+been inconceivably strengthened. But, unfortunately in the general
+interest, the case was not closed there. The ground was immediately
+shifted to a discussion of the merits of private, as opposed to
+nationalised, administration.
+
+Now I suppose it is a thankless task to say it, but the second question
+has about the same relation to the subject matter of the attack as has
+the strategy of a general to the pay of his troops. In consequence the
+issue now before the public is not whether the economic contract between
+the miners as members of the community, on the one hand, and the mining
+industry controlled by the colliery proprietors as producers for the
+community, on the other, is a bad and inequitable contract, but whether,
+under what is in essence the same contract, the miners' scheme of
+organisation is a better scheme than the employers'. Personally I very
+much doubt it.
+
+This is a matter which affects the general public quite as much as the
+miners themselves. It is fairly obvious that, recognising that Labour is
+determined to attack Capitalism, and having themselves no delusions
+about the real issue, the admirable brains behind the Capitalist
+organisation have decided, while providing just so much opposition as is
+necessary to register a protest, to allow an experiment on lines already
+discredited to be made at the expense of the consumer, in order that its
+stultification, which can be insured, will strengthen Finance elsewhere.
+Brer Rabbit, being in some danger, is betraying a special and
+exaggerated fear of the briar bush.
+
+This is, of course, all very adroit: it shifts the opposing forces to
+the opposite ends of the plank. The question for the molecules---the
+general public---however, is whether they care about the resultant
+revolution. If not, then their concern is to bring the opposing forces
+into line---to see that Labour is attacking what Finance is really
+concerned to defend.
+
+The general public is more likely to do this if it can be brought to
+realise that it is really as members of the community, not as artisans,
+that the attack is operating.
+
+The whole tendency of Trade Unionist, just as much as Capitalistic,
+propaganda is to obscure this fact, and by so doing split the offensive,
+but the most superficial consideration of the root idea of the existing
+economic system will establish it.
+
+*"Capitalism" is not a system of administration at all; it is a system
+of fixing prices in relation to costs.* This is not to say, of course,
+that the personnel and methods of administration would not be profoundly
+affected and improved by a valid and radical modification of the
+"capitalistic"--*i.e.* financial-system, but such changes would be
+effects and not causes.
+
+The root problem of civilisation---not the only problem, but that which
+has to be disposed of before any other---is the problem of the provision
+of bed, board and clothes, and this affects the ordinary man in terms of
+effort. If he has to work hard and long hours to obtain a precarious
+existence, then for him civilisation fails. As the miner demonstrably
+had to work longer for a lower standard of life, measured in terms of
+purchasing power, than existed in the fourteenth century in England,
+then for him progress was not operative. But the reason he has to do
+these things is not at all that the coal mines are badly worked,
+although it is quite possible that they might be better worked, just as
+it is possible and excusable that the miners' own efficiency is not so
+high as it might be under better conditions. The plain, simple English
+of the reason is that his wages will not buy him the things he wants.
+His own common-sense has consequently consistently been applied to the
+problem of raising his wages, but has for the most part stopped for want
+of technical knowledge at the recognition of the effect of this on
+prices.
+
+In the December 1918 number of *The English Review* it was pointed out
+in a short article entitled "The Delusion of Super-Production" that the
+sum of the wages, salaries and dividends distributed in respect of the
+world's production was diminishingly able to buy that production *at the
+prices which the capitalist is by his system forced to charge*.
+"Profiteering," in the sense of charging exorbitant sums in excess of
+cost, is a mere excrescence on the system. If the producer could be
+imagined as making no profit at all, the difficulty would still exist,
+quite possibly in an exaggerated form. That is why the policy of more
+and yet more production at prices fixed on a basis of cost and profit is
+a mere aggravation of the prevailing difficulty. Because the available
+purchasing power would absorb a decreasing proportion of this production
+it must be either exported or wasted, and both of these lead straight to
+war, the supreme waster.
+
+Now habits of thought are so powerful in their influence that at first
+sight a statement that the correct *price* of an article may be a low
+percentage of its *cost* is apt to induce both disbelief and ridicule.
+But if the matter be attacked from the other end, if it be realised that
+an article cannot be sold, nor can its exchange through export be sold,
+unless its average price is considerably less than cost; that if it
+cannot be sold the effort expended in making it is wasted; that if it is
+exported competitively every economic force is driving the community
+irresistibly towards war; it may then be agreed that it is worth while
+to consider whether the accepted principles of price making are so
+sacred that a world must be brought to ashes rather than that they
+should be analysed and revised.
+
+The analysis has been made; and although the methods by which the
+results are arrived at are too technical for description in an article
+of this character, it may be said that the purchasing power of effort at
+this time should be certainly not less than five times its present
+return, and most probably very much more. In other words, with wages at
+their present level the cost of living ought to be one-fifth or less of
+what it is. The essential facts on which this statement is based are
+that production is overwhelmingly dependent on tool power and process;
+that tool power and process are a cultural inheritance belonging not to
+individuals but to the community, being largely the result of work done
+by persons now dead; and that in consequence the *equitable* return for
+effort includes a dividend on this inheritance which is immeasurably
+larger than the direct payment. Just as the time-rate of production has
+diverged from that possible to a community without tools, processes or
+education, so to a corresponding degree has the present economic system
+become inequitable and unsound.
+
+It is a matter of simple fact that men do not in the mass act together
+for ethical conceptions. That is why a strike can always be settled for
+the time on a money basis; and the only demand which will not be so
+disposed of is one which promises more purchasing power by its success
+than its opponents can in the nature of things dispose of, because such
+a demand will utterly divide them. But any demand which savours of the
+perpetuation and extension of a bureaucracy which is already highly
+unpopular will alienate not only the general public but the organised
+worker.
+
+# The Question of Exports
+
+I have received two letters which seem to indicate some confusion of
+thought as to the bearing of a modified credit system on export trade.
+Both these letters quote statistics of wheat production and consumption
+with a view to throwing some doubt on our capacity to grow our own food.
+Now, ultimately, statistics are indispensable to sound practical
+politics, but to the writers of these letters, as well as to others who
+may be tempted to attack the problem on the basis of official
+statistics, it may be emphasised that it is nearly irrelevant to the
+primary issues whether this country can feed its population off its own
+acreage or not. It is quite arguable that it can; and it is also
+arguable that it would be bad business for it to try. These issues are:
+
+1.  Are there inducements operating towards the best use of the land we
+    have?
+
+2.  If we export services (*i.e.* the energy element of production) do
+    we get the best real price for them?
+
+In regard to 1, and leaving out of the argument, for the moment, the
+indisputable fact that the acreage under wheat is steadily decreasing
+decade by decade, consider the position of the farmer. He, like everyone
+else at present, is in business to make money, not to deliver goods. It
+is quite true that he makes money by selling things, but he can easily
+make more money by selling less goods at a higher price than *vice
+versa*.
+
+Now wheat is one of a fairly small group of commodities over the price
+of which the individual producer has practically no control whatever. It
+is a graded homogeneous product bought in bulk by experts who have a
+strictly finite demand for it, and the price paid is under existing
+conditions purely fixed by financial supply and demand, whether
+un-fettered or artificially stimulated by rings, and is not directly
+based on cost. Normally, a given amount of foreign wheat is contracted
+for in this country---bought on "futures" by grain brokers whose price
+fixes a datum line for home-grown wheat. So long as wheat is in short
+supply as compared with the demand, the price rises, and everyone
+engaged in the grain trade, either as producer or dealer, may benefit,
+although no doubt most of the benefit goes to the dealer. The relation
+of the farmer to this situation must surely be plain. The one situation
+he must avoid at all costs is that produced by throwing grain on the
+market in any quantity which will bring down prices---that is to say,
+slacken the demand or competition to buy. His criterion of a
+satisfactory output, therefore, bears no relation to what amount of
+wheat the public requires, or what amount the land wiU produce, but
+rests fundamentally on, firstly, the operations of the grain brokers
+and, secondly, an estimate of what margin of profit can be extracted
+from the market by keeping it short of wheat without causing a secondary
+movement of grain from other markets. As transportation facilities
+improve, the proposition becomes less and less attractive to the farmer,
+who is driven more and more to the production of perishable goods, such
+as eggs, butter and milk, whose nature enables him to control the local
+market, or to the raising of stock on which the transportation charges
+and risks are heavy. The first prime question can therefore be answered
+quite confidently in the negative. In regard to the second point, let us
+assume that the magnitude, at any rate of our imports of foodstuffs, is
+a reasonable subject of discussion and policy. It is evident that there
+is a point at which it is debatable whether we should grow the last few
+million quarters of wheat required on land which may not be of the most
+suitable description, or whether it is sound business management to
+obtain this wheat by the exchange for it of manufactured goods---that is
+to say, by an export of economic energy. It does not take much
+consideration to see that the answer to this is purely quantitative: how
+much wheat are we to get for a given energy export?
+
+Consider the present situation. It is true enough, as our
+super-industrialists and orthodox economists are always telling us, that
+imports are paid for by exports, but on the whole, they are content to
+leave it at that. They do not explain, for instance, how a population
+which most certainly cannot, and does not, buy its own total production
+for cash (if it could, there would be no necessity either for home or
+export credits, and no "unemployment" problem), can become able to buy
+the imports which are exchanged for the unpurchasable surplus. They do
+not, again, explain how a textile worker, paid wages for converting a
+bale of raw cotton worth, say, £20 into goods worth, say, £60 can
+benefit if in return for these manufactured goods two more bales of raw
+cotton at £40 are received---a condition common to trade booms. Nor do
+they generally publish the fact that English machinery is often sold to
+export agents abroad at far lower prices than those at which the same
+machinery can be obtained at home, or that it is possible to buy, in the
+bazaars of Bombay, a shirt made in Lancashire for a quarter the price at
+which the same shirt can be bought retail in Manchester.
+
+The simple facts are that, under existing arrangements, our principal
+preoccupation is the provision of employment---the making of work. On
+this simple canon hangs the law and the profits. When, therefore, a
+locomotive is required for the Argentine, and assuming for the moment
+that it is in any sense sold in the open market, there is a competition,
+open to the industrial nations of the world, to *sell* locomotives and
+to *buy* wheat, with the usual and logical result that wheat appreciates
+in price in terms of locomotives, the industrial exporting country
+continually gives more, and the exporting agricultural country
+continually less, economic energy in every bargain.
+
+That is the proposition in a nutshell. In order to make a bargain which
+is just--*i.e.* judicious---the industrial nation must be restored to
+the position of a free, not a forced, seller, just as to restore social
+equilibrium inside the nation the individual must be put in the position
+of a free, not a forced, worker. The arrangements which would fulfil
+these desiderata are already sufficiently familiar in principle.
+
+# Unemployment and Waste
+
+While it is necessary to bear in mind that the object of industry should
+not be employment, but rather the delivery of goods with a minimum
+expenditure of energy on their production, it is yet true that *at the
+moment* unemployment does form a practical problem demanding alleviating
+treatment. The word is generally used to indicate labour unemployment,
+but it is practically impossible to have any considerable volume of
+labour unemployment without a capital unemployment representing many
+times the production value of the idle labour.
+
+To the extent that private capitalism in the old sense can be said to
+exist, this is just as great an evil to the capitalist as to the manual
+worker, although its incidence may not be so personal or so immediately
+tragic. It penalises his initiative, depletes his reserves, and finally
+bankrupts him; and the whole of the process is eventually an injury
+distributed over the community in general, resulting in a deterioration
+of moral, as well as in the more material evil of a rise in prices.
+
+It is particularly important to notice the wastefulness of the system. A
+demand backed by money arises in the community for a particular class of
+goods; an enterprising manufacturer puts down a plant "at his own
+expense," as the misleading phrase goes (it is impossible for anyone to
+put down modern plant at the expense of other than the general
+consumer), and supplies the goods. This man is a public benefactor; he
+gives the public what it wants, and he gives it much quicker than it
+would be possible to get it by any other system, because one man can
+make a decision quicker than a dozen men, to say nothing of a Government
+Department. A trade slump comes; unemployment grows like a snowball,
+since every man thrown out of work is one man less receiving money, and
+therefore one man less in the market to buy goods; our manufacturer,
+though still willing and able to make his product, cannot sell it, and
+if this state of affairs continues for any length of time he is ruined.
+His business organisation is probably excellent, but it is broken up and
+bis plant dispersed, and when the trade revival comes a new plant and a
+new organisation has again to be constructed at the expense of the
+consumer.
+
+Both the employer and the employed are so familiar with this cycle that
+both take steps which they imagine will protect them against its
+effects, but which in fact only make confusion worse confounded. During
+times of brisk trade the employer charges the highest price he can
+obtain, or, in other words, delivers the minimum of goods for the
+maximum of money, and embodies his large profits in invisible reserves,
+with the result that the consumer is left without any effective demand
+(demand backed by money) as soon as his wages cease. The worker, sensing
+this, does in his sphere precisely the same thing---he uses his trade
+combinations to obtain the maximum amount of money for the minimum
+amount of production, not realising that this money simply goes into the
+cost of the product, which has to be paid by the community of which he
+forms so large a part. Since, superficially, it seems vital to the
+interest of both of them to keep the process moving as long as possible,
+the manufacturer is driven to sell, by advertisement or otherwise,
+useless or inferior and quickly worn-out articles where he cannot make a
+handsome profit on durable and well-finished production, the life and
+usefulness of which operate in the truest sense towards labour-saving.
+
+Consider, then, the position at the present time. It is certain that
+both employers and employed are willing and able to work *on terms*; it
+is demonstrable without difficulty that the productive capacity of
+industry, with its labour, plant and organisation, greatly exceeds the
+consuming capacity of the nation, unless that consuming capacity is
+enormously and viciously inflated by waste, and especially the
+culminating waste of war; and yet it is patent that the needs of the
+individuals who comprise the community (whose collective needs are the
+only reason and justification for the existence of industry at all) are
+far, and even increasingly far, from being met. There is one possible
+explanation for this anomaly---the financial system, which ought to be
+an effective distributive mechanism for the whole possible production of
+society, is defective---it does not so arrange the prices of articles
+produced as to enable the extant purchasing power to acquire them.
+
+Now without, for the moment, discussing the methods by which this defect
+can be remedied, let us imagine the remedy to be applied and consider
+its *immediate* effect on the unemployment problem. There are still
+millions of persons wanting goods; the productive system can make these
+goods; the persons who want them can buy them, and those who make them
+can be paid for them.
+
+It seems obvious that an enormous stimulation to production would be
+provided---a stimulation which no mere propaganda on its desirability
+has ever succeeded in evoking; and that the immediate effect of this
+would be a radical diminution of unemployment.
+
+Consider now the policy actually being pursued at this moment by the
+Government and the financial powers to deal with the problem. They can
+be summarised in one sentence---the reduction of costs, and more
+especially labour costs. But labour costs are wages and form by far the
+most important item in the total purchasing power *inside the country*
+available for the distribution of goods. Even supposing that retail
+prices were reduced in exact ratio to wage reductions, which is highly
+improbable or even impossible, how is the distribution of goods *to
+people in this country*, which is the true object of British industry,
+thereby advantaged? As the prices fall by this method, so the amount of
+money to purchase also falls, and we are as badly off as before, with
+the added complication of the discontent evoked by the reduction of
+wages.
+
+It would seem, then, that although a reduction of prices *in relation to
+purchasing power* is not only vital in connection with the more
+fundamental problems of industry and society, but is the only effective
+method of dealing with the immediate problem of unemployment, we are not
+as a nation pursuing this policy, but rather one which, if not
+diametrically opposed to it, is yet wholly inapplicable to the
+situation. Is it impossible to obtain adequate recognition of
+fundamental remedies, and equally impossible to rouse the general public
+to a sense of the catastrophe towards which its passivity in the matter
+is hurrying it so swiftly?
+
+# A Commentary on World Politics (I)
+
+Mr Balfour, in supporting the project of the League of Nations, stated
+with great impressiveness, and to an enthusiastic audience, that the
+League must come; there is no alternative. Now Mr Balfour is a
+statesman; a little *passé* perhaps, but still a statesman as distinct
+from a politician. It is highly probable that we differ from him in
+nearly every fundamental conception of what society ought to be and
+could be, and in the means that can profitably be employed to induce
+such changes as are necessary. But we have no doubt whatever that Mr
+Balfour has a personal code from which he will not depart, and that
+included in that code is a refusal to state clearly and definitely as a
+fact that which he knows or even suspects to be false. We emphasise this
+point because it is necessary to a grasp of the difficulties and dangers
+with which this country in particular and the world in general is beset
+at this time. Mr Balfour, then, a representative of the best type of the
+old-fashioned statesman, puts forward a plea in support of a project
+involving the most tremendous consequences, and separating Great Britain
+from every fundamental canon of procedure not only of the past, but of
+the "platform" on which the war was fought (if we except empty phrases),
+and this course is recommended to his hearers, not by any reasoned or
+inductive process of argument or demonstration, but by the council of
+despair that, lacking any idea of the right thing to do, we must do
+this. It would be incredible, if it were not so clear that every
+statesman of every country in the world has either succumbed to panic,
+or retreated behind a barrier of phrases without concrete meaning or
+application to the course of events. Stripped of its verbiage and the
+mass of pious sentiment with which it is surrounded, what *is* the
+League of Nations, as projected on the basis of existing social,
+political and economic systems? Its major premise is the avoidance of
+war, by the settlement of disputes at a centralised headquarters, backed
+ultimately by the logic of a position which centralises the final
+argument of force under an elected committee, operating by means of
+permanent officials. The first permanent officials have been appointed,
+and may broadly be said to represent the Ultramontane, or Temporal
+Power, section of Roman Catholic politics (said to be the only barrier
+between Europe and "anarchy"), by accommodation and in accordance with
+at least one section of High Finance. Consider this proposition,
+stripped of its sentiment, in the light of actual knowledge and
+observation of the working of such an organisation (quite apart from any
+question of personnel at all). The Post Office, for instance, is such an
+organisation. It is in theory a Department ruled over by a Political
+Minister responsible to an elected body, the House of Commons. Does
+anyone in their senses imagine that the Postmaster-General could carry
+any point of internal policy in the Post Office against the settled
+procedure of the Permanent Officials? Or that any attack by an
+individual from *inside* the Post Office on a *system* (as distinct from
+a person) which may press hardly on him has any chance of success? But,
+it may be argued, we are going to change all that. We are going to have
+democratically elected committees to deal with all such questions. Very
+well, let us consider the actual working of such a committee. A
+grievance comes before it and a decision is given which may quite
+reasonably not give satisfaction, and the committee is attacked for it.
+It is an honest decision honestly given, and the committee combines to
+resist the attack. Immediately a position is created in which the
+committee represents a vested interest, and acts not as a body of
+elected representatives, but as an Institution whose power must be
+consolidated, and whose dignity must be upheld. Anyone with practical
+knowledge of committees knows that this is what happens. It may be said
+that all this is simply an argument for anarchy (and it is *the*
+argument for anarchy), but that is a mistaken view, as we hope to show.
+
+Having got it firmly fixed in our minds that no conceivable change of
+heart has any bearing on the results of the arrangement we are
+discussing (we should imagine that from top to bottom, for instance, the
+Post Office is staffed with average kindly human beings), it is clearly
+vital to get some idea of where the difficulty does lie, since no
+difficulty is finally insuperable; and we have no hesitation in saying
+that the difficulty lies in the common confusion between organisation
+and administration. Organisation is a pure, if at present empirical,
+science; its relation to administration is the relation between the
+Theory of Structures and the Strength of Materials. No personality
+enters into sound principles of organisation at all; administration, on
+the other hand, which is an art, is wholly concerned with the
+satisfactory adjustment of individuality to organisation. The
+distinction is vital. Let us apply it to the projected League of
+Nations, which is first of all an organisation of some sort, and an
+organisation presupposes some objective. We have seen that *the very
+core of the League of Nations' idea is power, final and absolute; it is,
+therefore, an organisation expressly designed to eliminate
+administration by suppressing individuality*; to make the Machine
+finally supreme over the Man. And the alternative? Let us return to our
+*corpus vile*, the Post Office.
+
+Imagine the Post Office to be organised exactly as it is organised
+(though it is highly probable that its organisation could be improved).
+Its *administration* admittedly is bad, for reasons, in our opinion,
+fundamentally unconnected with personnel. Leaving, we say, everything
+else exactly as it is for the moment, let us suppose a Regulation to be
+added to the few thousands which are now the chief exercise for the
+ingenuity of its staff, to the effect that all Post Office servants are
+at liberty to retire at will on a pension equal to their full salary. We
+admit that the traffic in St Martin's-le-Grand would be congested for
+some time, but supposing this initial period to have been surmounted by
+a reasonably well thought-out transition policy, we have no doubt
+whatever that a staff would be found at work, having realised that
+creative activity is a luxury, if not a necessity, of existence. Our
+hypothetical arbitration committees, however, are now confronted with a
+new situation---they have to find a solution of problems submitted to
+them *which will keep the complainant at work by preference, if it is to
+the advantage of the Post Office Service that he should he kept at
+work*. If he is a pure crank, the Post Office will be better without
+him; but if his ideas are sound---i.e. *in the general interest of all
+concerned*--he will be in a position both to defy economic pressure and
+to apply collective interest to the solution of his difficulties. The
+illustration is crude, but it may serve. The conclusion of the matter is
+that association for the attainment of an objective inevitably becomes a
+tyranny (*i.e.* an attack on individual initiative) unless it can be
+broken at any time, without incurring any penalty other than the loss of
+association itself.
+
+Before, therefore, the League of Nations can be constituted as that
+League in the interest of Free Persons, which it pretends to be, but is
+not, we have to place the Machine at the disposal of the Man. Given that
+essential, we can design or alter the Machine with the single object
+that it shall be the best Machine with which to attain a result having
+the full approval of the individuals without whose co-operation it
+cannot work, and this will involve not one organisation but many
+organisations in which the relation of the individual to the
+organisation is not dissimilar to that of a man who is a director of
+several and possibly widely differing companies. If he does not approve
+of them he resigns, and if a sufficient number of persons resign and are
+not replaced, then the activities of that concern are clearly not
+desirable, and it goes out of existence. Now the project at present
+known as the League of Nations can be seen to be the converse of all
+this; if the individual or the nation does not approve of the objective
+of the League (which rests on a purely abstract and improbable
+assumption that its personnel not only represents the highest wisdom but
+an unearthly disinterestedness), then that individual or that nation is
+eliminated, so that in theory no effective will remains save that which
+reaches its highest expression in the apex of the perfect Pyramid of
+Power, which is its object. We repeat, therefore, that in this project
+is the greatest and probably the final attempt to enslave the world, an
+attempt which is exactly similar, and probably proceeds from exactly the
+same International source, as the attempt so recently failed, in which
+the German people were tools, blameworthy just to the extent that they
+allowed themselves to become tools; and we believe that while it must
+finally fail, the measure of the misery in which its trial would plunge
+the world is such as to dwarf the horrors of the years so recently
+endured. We do not, therefore, agree with Mr Balfour, either that the
+League of Nations must come, or that there is no alternative to it, and
+we trust that the community in whose hands may lie the power will not be
+so blinded by the fine words in which its description is enveloped as to
+miss the meaning of the thing which is behind them.
+
+The most important report, issued by the United States Council of
+National Defence, entitled *An Analysis of the High Cost of Living
+Problem*, is a document (we are sorry to say), as might be expected,
+incomparably in advance of any similar official pronouncement which has
+appeared in this country. After pointing out that the problem is so
+interrelated with others that its consideration opens up the entire
+field of reconstruction, it goes on to remark that it is neither a new
+problem nor (under existing circumstances) transitory in character.
+Proceeding, it explains, in an excellently concise manner, the form of
+currency inflation which is produced by the lavish distribution of money
+unrepresented by ultimate products in *personal* demand (which is
+exactly the situation our super-producers are striving to foster,
+whether by ignorance or otherwise is immaterial), and remarks "with
+dismay on the general flood of misinformation, half complete information
+and undiluted ignorance which\... pervades the land regarding our
+current economic situation." We agree entirely with all this, and while
+the conclusions which the report draws as to the steps to be taken to
+deal with the situation are not so impressive (quite possibly for
+reasons over which the individuals who framed the report had little
+control), there is none of the glib claptrap about them which we are
+doomed to suffer in similar circumstances in this country. Compare all
+this with the solemn pronouncements of our only Mr G. H. Roberts. After
+admitting that food is, on the whole, abundant, and that its alleged
+scarcity has little to do with high prices (a piece of information he
+might have derived from us about a year ago), he admits sadly that "it
+is undoubtedly true that at the present time the increase in supply has
+not brought about the decline that was expected by many\... in fact
+prices, so far from declining, have remained high, or shown some
+tendency to increase."
+
+After numbing his hearers with a mass of statistics to prove that we
+ought to be thankful that we are not worse off---most of which, when
+exchange is considered, prove exactly that we *are* worse off than our
+neighbours---he goes on to make the original suggestion that the cure is
+more production for export. Let us paraphrase Mr Roberts, and explain
+him to himself, as he clearly requires explaining. He admits that there
+is a sufficiency of goods. He even allows it to be gathered that supply
+is being restricted by artificial means. He knows that the world is
+complaining of high prices. He knows, if he will keep quite quiet, and
+think for a few minutes, that prices ultimately represent work,
+man-hours of labour. As a remedy for a complaint that prices
+representing work are too high, although he is being asked to distribute
+goods which already exist in sufficient quantity, he recommends more
+work, much more work, to be applied to the making of unspecified
+articles, in order to export the result out of the community which has
+performed that work. Mr Roberts concludes by assuring the Conference
+that they may be confident that the Ministry of Food is doing everything
+in its power to keep down prices, and that the power of the Government
+is strictly limited in this respect.
+
+We have no doubt Mr Roberts is entirely honest in making these latter
+statements, and, moreover, that, as distinct from his earlier remarks,
+he is entirely correct. Both the Ministry of Food and the ostensible
+Government, as a whole, are mere tools in the hands of the *real*
+Governments, and Mr Roberts has probably found out by now, if he did not
+suspect it when he accepted office, that he is paid to do as he is told.
+If he really knew anything about the cause of high prices, and were
+determined to use his knowledge for the benefit of the country, he would
+not remain in office for ten days. But consider what he says. The
+Government--*i.e.* the Ministers of the Crown---represent in theory the
+collective interest of the nation. They are always saying so, so it must
+be true. Is there any collective interest of the nation which is more
+immediate and more vital than that of food prices? If the Government has
+no power over prices--*i.e.* if knowing that there is a sufficiency of
+the articles required, in existence, they cannot get those articles
+distributed without making an immense quantity of goods for other
+countries which are not asking for them, and whose population, in any
+event, these Ministers do not represent, if, in other words, they cannot
+affect or modify the most elementary functions of society---then who can
+modify them? And, if the real rulers of society are not in the
+Government, but behind the Government, who elected them, what interest
+do they represent, and what is the good of, say, Mr Roberts? We feel
+sure that Mr Roberts is convinced that it would be much better not to
+inquire too deeply into these matters, but at the same time he must
+recognise that he is certain to be asked about them sooner or later. We
+suggest, therefore, that the sooner the Hidden Governments of the world
+are brought out into the open, and a decision is obtained on points
+which really matter, the sooner we shall know what sort of a
+New-World-for-heroes we are likely to get. At the moment it requires
+heroism for any but Cabinet Ministers to live in it.
+
+# A Commentary on World Politics (II)
+
+Readers of these pages who are also readers of *The Daily Telegraph*
+will not have failed to notice the columns in the issue of that
+estimable journal signed by Sir Oswald Stoll. He asks in parenthesis,
+"Who can deny that we are on the verge of a great financial and economic
+crisis?" and goes on to say, "Hundreds of enterprises are held up by
+costs too high to admit of sane capitalisation! Thousands of enterprises
+necessary to keep the economic wheel revolving are on the brink of
+failure *because they cannot buy cheaply or sell dearly enough*.\" (Our
+italics.) After observing that \" Financiers' finance, with its
+checkmates by rival groups, is ruining the country,\" and that"the aim
+of National Finance should be some prosperity for all Nationals, not all
+prosperity for some Internationals," he points out the solution "\...a
+true conception of National Finance and National Credit." This is all
+very gratifying to our prescience, if not to our humanitarianism. We
+have been saying much the same sort of thing publicly for four and a
+half years, and we think it highly probable that the "sane Labour
+leaders" who preside at Eccleston Square and elsewhere will hear from
+the brainy fellows who comprise their official and unofficial general
+staff that Sir Oswald Stoll is in league with us, or *vice versa*. But
+they will, if only on this occasion, be wrong---not only has that happy
+consummation still to be reached, but, in the meantime, while agreeing
+absolutely with all the quotations cited above, and many others which
+space forbids us to include, we disagree totally with the conclusion
+drawn from them---that "Production on the great scale will save us."
+Now, some months ago, there appeared in the pages of *Credit Power and
+Democracy* this statement: "In spite of the apparent lack of enthusiasm
+with which any attempt to examine the subject of credit and price
+control is apt to be received in the immediate present, there is no
+doubt whatever that its paramount importance will within a very short
+time be recognised, although perhaps not so quickly by British Labour as
+elsewhere. *The real struggle is going to take place not as to the
+necessity of these controls, hut as to whether they shall he in the
+hands of the producer or the consumer.*\" That is just exactly the point
+at which we join issue with Sir Oswald StoU, and the
+super-Productionists. The practical implication of their policy is a
+continuous rise in the level of prices of necessaries; we look to a
+continuous fall in such prices.
+
+We believe it is no longer necessary to labour the point that whoever
+controls credit controls economic policy; and it follows as a simple
+syllogism that just to the extent that control of food, clothes and
+housing is control of society, so producer-control of credit means the
+enslavement of society to Industrialism; whereas the whole world now
+rocks to its social base in an effort to subdue the dragon of the
+industrial machine in order that men may be free. Any housewife who
+ordered from her tradesmen "as much as you can send me of everything"
+would be deserving of, and would receive, reprobation, even in a time of
+scarcity; but where the real capacity for supply is far in excess of any
+real demand, such an individual would be in danger of certification as
+insane. The public is the housewife, and its business is to order the
+right quantities of the right things in the right order, and to see that
+it gets them; not simply "More." The productive system is easily capable
+of giving the public what it wants, if only producers can be salved from
+the unlimited task of giving the public what it doesn't want--*e.g.*
+"employment." The existing financial system exists by seeing that the
+public never gets quite enough of any one thing it wants; by constantly
+diverting the productive organisation before it has time to finish any
+one task; or else "sabotaging" the output; and while we require for this
+reason at the moment "more" of the fundamental necessaries of life, we
+do not require an indefinite amount even of these. As has so often been
+emphasised in the foregoing pages,; the whole problem fundamentally
+resolves itself into providing an organisation to get first: things
+first, with the minimum of trouble to everyone.
+
+One of the vital means to that end is to throw overboard the
+superstition that "employment" is the inevitable condition antecedent to
+"pay," and for this reason we welcome the support given by the numerous
+local Trades and Labour Councils to the resolution put forward by the
+Minimum Income League on the agenda of the Annual Labour Party
+Conference recently held at Scarborough. To students of the psychology
+alike of industrial and of world movements (which is, in essence,
+identical) it requires an effort to avoid cynicism at the similarity in
+the real aims of orthodox Socialism and ultra-Capitalism. The idolater
+of the State says: "I will make it impossible for you to live except you
+conform to my standard of conduct." Lord Leverhulme, amongst others,
+says very little, but, being more capable, obtains world control of
+essential products, and lays down a policy both for his employees and
+those who must have his goods. Bismarck understood the situation
+perfectly when, in speaking of the German Socialist Party, he observed:
+"We march separately, but we conquer together." The will-to-govern is
+identical in each case. Against this essentially insolent tyranny, the
+*idea* underlying, *inter alia*, the Minimum Income proposal, is the
+only defence, and we therefore congratulate its authors on the
+excellence of their achievement in planting it in somewhat difficult
+soil. But having said so much, we are bound to point out the
+ineffectiveness of the suggested *mechanism*, which is based on the
+error, made in company with others such as Professor Bowley, who, we
+think, ought to know better, that the national income equals the sum of
+the price-values of the national production.
+
+*This would he true if all wages, salaries and dividends charged to
+production were used, at the instant they were earned, to buy the
+production in respect of which they are earned.* But they are not so
+used, and on this gap between production and delivery, which the
+complexity of modern co-operative production is widening, a mass of
+credit purchasing power is erected which never appears as income at all,
+and which is completely ignored by such proposals as that which we are
+considering. If A ordered a house off B, and B, having built it, lived
+in it for ten years and then insisted on charging his rent to A in a
+lump-sum addition to the price, A would probably complain; but when B
+put his overhead charges, the rent of his control of production, into
+the price of bricks for A's garage, A seems to regard it as an act of
+God, or, alternatively, of the King's enemies. Possibly he is right in
+both cases, but that does not alter the fact that A is being asked to
+pay, in prices, for something---viz. a period of use-value, past, and
+therefore destroyed and non-existent---of which the *effective*
+purchasing power never was distributed either as wages, salaries, or
+dividends--*i.e.* income---therefore income will not buy it. What may
+remain is the credit-value of this period of use, its assistance to
+future production, which may form a solid basis for a distribution of
+purchasing power possibly much in excess of the use-value charged in
+prices; but A gets none of this.
+
+We admit the elusiveness of the argument; it is one of those conceptions
+which, like the differential co-efficient in mathematics, to which it
+has a strong family resemblance, comes suddenly rather than by
+intellectual explanation. But it is, without any doubt whatever, of the
+essence of the contract, and failing provision to deal with it, we are
+bound to agree with the dictum of an opponent of the scheme in the
+correspondence columns of *The Times* who characterised the proposal (to
+pool 20%, of every income, dividing the pool equally over the whole
+population) as being the heaviest direct tax on the poor ever invented.
+The Minimum Income League has a great cause to fight for, and we are
+confident that its progenitors, if they will concentrate on the problem,
+can so modify their proposals as to still further assist in gaining a
+great victory; and in any event we wish them luck. The fundamental point
+at issue will be still further brought into prominence by the next move
+in the strategy of the hard-shell Capitalists, which will be to concede
+unemployment maintenance to wage-earners in consideration of the removal
+of all restrictions upon output and the acceptance of payment by
+results---an arrangement which really means the formation of
+comprehensive low salary lists, plus a percentage commission on output.
+We are not so much concerned to point out that this arrangement makes
+men "slaves" to an imposed industrial policy, because a large number of
+human beings are slaves already and quite a number of them like it; but
+it is quite certainly a most ingenious device to keep them slaves,
+whether they like it or not, and we are sorry to see that the Building
+Guilds, which have been started in London as well as in Manchester, do
+not seem to grasp that fact, in their rather naive satisfaction at
+having incorporated the same principle in their constitution. The
+important point is not whether John Pushemup, of Messrs Cubitts, for
+example, builds houses or Mr James Articraft, of the London Building
+Guild, builds them---without knowing anything of the executive capacity
+of either, we do not know which is the right man for the job. But we do
+know that it makes very little difference to the result, after an
+initial short period, which organisation makes the rules, if either of
+them is in a position to lay down conditions to the public as to the use
+of the houses after they are built. That is exactly what this
+maintenance pay idea amounts to---that we shall all be nicely fed,
+watered, groomed and stabled if we will leave policy to the productive
+organisations; and the pity of it all is that it won't work.
+
+Some years ago one of the largest State-owned industrial organisations
+in this country imported from a commercial firm the idea of the
+suggestion box, into which any employee of any grade from the highest to
+the lowest was invited to place any proposal either for the smoother and
+more efficient running of the organisation or for improvement in the
+processes of manufacture. An elected Committee was set up to deal with
+the matter, and a fund, for which a Government grant was obtained,
+provided a source from which rewards, varying from a few shillings to
+several hundred pounds, could be paid. On the whole, the scheme was a
+failure. During the first year of its life a flood of suggestions, good,
+bad and indifferent, from the Selection Committee's point of view, were
+submitted, many of them were paid for and some of them were acted upon.
+The second year showed a great falling off both in number and quality,
+and in subsequent years a mere trickle of, in general, impracticable
+proposals, usually emanating from new-comers, was the only output, and
+what was probably worse, the general run of workmen in the undertaking
+openly derided the plan as a scheme to "suck their brains." (This in a
+"Nationalised" undertaking!) As a consequence of considerable
+familiarity with this and similar devices, we have no hesitation
+whatever in saying that the main cause of failure was not inadequacy of
+reward, or even dissatisfaction with the decisions of the Selection
+Committee, although both of these were alleged; but was rather a
+subconscious irritation at the complete impotence of the authors of the
+suggestions to superintend the process of giving their ideas a run. Now,
+each of these suggestions, where they were original, betrayed nascent
+initiative, and it is out of personal initiative that all progress of
+any description must come. In the case we have just instanced, it was
+possible to watch the strangling of initiative taking place; and the
+explanation was also obvious----that the great mass of individuals will
+not risk economic disaster---the loss of their job---for the sake of an
+idea. But it is highly probable that many most valuable additions to the
+knowledge of industrial organisation and processes were thereby lost to
+the community and are daily so being lost; and only the grant of
+economic independence and the consequent freeing of personal initiative
+will stop this immensely important channel of social waste.
+
+That estimable journal *The Spectator* recently started a sort of
+symposium on the subject of "the Jewish Peril," both the book which has
+recently been published under that name and the hypothetical thing
+itself. Most people are no doubt familiar with the general legend, if
+legend it be; it was the core of the Dreyfus case, which convulsed
+France some years ago, and is constantly reappearing in the guise of the
+Hidden Hand stories of various descriptions which crop up at any time of
+national crisis.
+
+It presupposes the existence of great secret organisations bent on the
+acquisition of world-empire and the overthrow of their "enemies," and
+directed by immensely wise men with all the power which an almost
+superhuman knowledge of psychology can bestow. Such an organisation
+would be capable of using Governments as its tools and the lives of men
+as the raw material for the fashioning of its projects. Like *The
+Spectator*, we have no means of knowing how much of this idea is pure
+moonshine, or even whether the whole matter is a malignant stimulus to
+anti-Semitism; but, with that journal, we can understand that it *might*
+have some foundation in fact, and that, as it puts the matter, we have a
+good many more Jews in important positions in this country than we
+deserve. And not only in this country, but in every country, certain
+ideas which are the gravest possible menace to humanity---ideas which
+can be traced through the propaganda of Collectivism to the idea of the
+Supreme, impersonal State, to which every individual must bow---seem to
+derive a good deal of their most active, intelligent support from Jewish
+sources, while at the same time a grim struggle is proceeding in the
+great international financial groups, many of which are purely Jewish,
+for the acquisition of key positions from which to control the
+World-State when formed. We are anxious not to be misunderstood. We do
+not believe for a single instant that the average British Jew would
+countenance such schemes for a single moment, but in view of the
+curiously circumstantial evidence which is put forward to support such
+theories, and the immense importance of the issues involved, we agree
+that it is very much better that as much daylight should be allowed to
+play on the matter as may be necessary to clear it up. The alternative
+will be an outbreak of popular fury in which the innocent will suffer
+with the guilty, if there be any such.
+
+It is always difficult to know how much weight to attach to Press
+expressions of public opinion in the United States, and that difficulty
+is greatly enhanced at this time both by the immanence of the
+Presidential elections, and the selective censorship which our own Press
+exercises in its quotations. But there seems no reason to doubt the
+general truth of the impression which is conveyed both by them and by a
+perusal of the American political reviews, that anti-British feeling is
+steadily gaining ground, not only, and not even so much, in the eastern
+cities such as New York, Boston and Philadelphia, but in the Middle West
+and on the Pacific coast. Because of the constant flow of passenger
+traffic between Europe and the Eastern States, and the consequent
+tendency of European newspapers to quote American journals with which
+they are familiar, there is an impression prevalent that the centre of
+gravity of American action is resident along the Atlantic seaboard. Such
+an idea is probably far more mistaken than to imagine, for instance,
+that London opinion is British opinion. All through the Middle West,
+including such considerable cities as Chicago and Milwaukee, there is an
+actual numerical preponderance of people of definitely anti-British
+extraction---Milwaukee, in particular, is overwhelmingly German, while
+Chicago is politically in the hands of Irish emigrants largely of a
+generation having much greater and more solid grounds for hatred of
+British Governments than any which exist to-day. This population has on
+the whole not done well out of the war; it is hit by high prices, and
+irritated by all sorts of hindrances to peaceful progress, ranging from
+Labour troubles to a moribund railway system and a Negro problem. Such a
+soil is the perfect matrix of an international hatred, and the seed of
+such a hatred, already dormant, is being cultivated with a skill and
+assiduity which should command our attention, if not our admiration. AH
+sorts of misrepresentation both of fact and of policy, particularly in
+respect of Ireland, Egypt and India, are circulated with an utter
+disregard either of essential truth or contingent circumstances. On the
+Pacific Coast, where Japanese expansion is an obsession, our alliance
+with that country is a special reason for dislike, and is exploited to
+the utmost. This is not the place to examine at length the motives
+behind the persistent efforts to embitter the relations between Great
+Britain and the North American Republic---we have referred to some of
+them in previous issues---but to anyone who realises, as we do, the
+appalling horrors to which their success must lead, the situation is one
+to excite the gravest concern.
+
+# A Commentary on World Politics (III)
+
+Sir Oswald Stoll returns to his attack on the system of credit-control
+by financial groups, and although, as we said in a previous comment, we
+are quite assured that the proposals he adumbrates in his campaign are
+*by themselves* worse than useless as a cure for the present situation,
+we welcome the attention he cannot fail to attract to the problem as a
+whole. His text, in this case, is a quotation from a speech by the
+Chancellor of the Exchequer, in which the financiers are openly
+implored, as the controllers of the situation, to conserve "Capital" by
+which, from the context, it is obvious that the Chancellor means credit.
+It is a remarkable speech, and Sir Oswald is probably correct in stating
+that never before did a Chancellor of the Exchequer acknowledge in set
+terms the absolute control of the Government and the country by the
+financial community. Just think what it means. Two or three great groups
+of banks and issuing houses controlled by men, in many cases alien, and
+even anti-British alien, by birth and tradition, international in their
+interests and quite definitely anti-public in their policy, not elected
+and not subject to dismissal, able to set at naught the plans of
+governments; producing nothing, and yet controlling all production. We
+do not believe that there is a single considerable commercial
+organisation in this country or America, however apparently prosperous,
+which could live for two years against the active hostility of
+half-a-dozen of these men. To such. Ministers of the Crown are servants
+appointed to take orders, and dismissed if they are negligent in the
+execution of them; wars, famine and desolation are simply mechanisms by
+the aid of which their control is conserved. Consider the railway
+systems of America: twenty years ago giving promise of forming a model
+transportation system; to-day, looted, sacked and exhausted by one
+financial raid after another, they are almost *in extremis*, and only
+maintain a service which is a mockery to technical capacity, by means of
+a grant from the public purse of a sum substantially equal to the
+original cost of their construction. Every one of the groups which were
+directly responsible for this result is represented in the city of
+London, and is included in the Chancellor's reference, just as they are
+represented in Paris and Berlin, and probably Moscow. Meanwhile, Dean
+Inge deplores the failure of democracy, and the Labour Party agrees that
+what we really want is more production, and the building trade gets on
+with building more---factories.
+
+We have always held that in America, where irresponsible financial
+control has been most blatant, and the results of it, taking natural
+resources into consideration, more obviously disastrous than even in
+Europe, there would come the first clear-cut and dangerous challenge to
+the system; and the modest little announcement which has crept into the
+London Press that representatives of a new party opposing the Democrats
+and Republicans alike, and not in sympathy with the Socialists, will
+meet at Chicago to nominate a Presidential candidate, is, if we mistake
+not, a justification of this opinion. The power behind this new movement
+is a composite one, involving the Non-Partisan League (which is
+definitely in possession of the machinery of government in North Dakota;
+is said to control Minnesota, and is steadily gaining ground in several
+other of the States of the Middle West), and a number of the Labour
+unions, including the Railroad Brotherhoods, who have revolted from the
+leadership of the egregious Mr Samuel Gompers, the latter individual
+undoubtedly one of the most valuable assets the trusts possess. "With
+these bodies are associated the Co-operative movement, the Consumers'
+League, and several quasi-religious organisations for social service,
+the whole making up a body of opinion which, if time permits, is
+definitely powerful enough to carry the policy it
+represents---essentially that of the public control of credit and
+price-making---against any other single party of the Republic.
+
+Mr Gompers, who is no mean politician, and is fully alive to the fact
+that his popularity is waning, has himself raised the credit issue with
+a demand for producer-control, coupling his platform with a political
+strategy which, consists in urging his followers to support any
+candidate, either Democrat or Republican, who will pledge himself to
+assist in obtaining it, thus forming, in intention, a coalition against
+the new party of Economic Democracy. How far American trade unionists
+will thus allow themselves to be spoofed only time can tell, but the
+result of this alignment should be a matter of most absorbing interest,
+not only in the United States, but in this country, for it is not too
+much to say that the peace of the world and the future of civilisation
+may be involved in the outcome of the struggle.
+
+A deputation from the League to Abolish War, consisting, amongst others,
+of Mr G. N. Barnes, M.P., and Mr Frank Hodges, of the Miners'
+Federation, waited on the Prime Minister in June 1920 for the purpose of
+urging upon him the necessity of an International Police Force to do the
+bidding of the League of Nations. It is, at first sight, a little
+difficult to understand the mentality of Labour representatives who,
+while professing to be profoundly dissatisfied with the existing state
+of society, and constantly concerned to accuse the Governments of all
+countries outside, perhaps, Russia, of acting in the interests of the
+Capitalist system which they condemn (an accusation which is probably
+justified), and of using the police and other armed forces for the
+purpose of buttressing their power, yet propose to set up a mechanism
+expressly designed to make revolt against such Government impossible.
+
+We are not, for the moment, criticising the proposal itself; we are
+merely considering the support of it by official representatives of a
+party openly pledged to revolutionise society. Now, assuming, as we are
+quite willing to assume, that both Mr Barnes and Mr Hodges are perfectly
+honest both in their desire for a better state of society and for the
+abolition of war, and that not being merely irresponsible lunatics, they
+have some reasons for figuring on such a deputation, it becomes of
+interest to see how they reconcile the fact that revolutionary Labour is
+notoriously unable to capture existing police forces, with a desire to
+build up a police force which is *ex hypothesi* incorruptible. We
+believe the reason to be twofold. In the first place, Mr Barnes and Mr
+Hodges no doubt believe that they represent a Labour Party which is
+coming into political power all the world over, and that therefore they
+will control this police force; and secondly, they confuse a remedial,
+if appalling, symptom, war, for the disease which causes it, much as one
+might ignorantly say that spots on the skin constitute measles.
+
+Both of these reasons are demonstrably unsound; we will endeavour to
+show why. A modern Trade Union represents, not a body of individuals,
+but a monopoly more or less complete of an essential factor in
+production--*i.e.* Labour---differing in no respect in principle from a
+trust monopoly of, say, sugar, and Mr Barnes and Mr Hodges, in so far as
+they represent or have represented trade unions, represent this
+functional monopoly just as truly as the chairman or secretary of the
+sugar trust represents a sugar monopoly, and the object of both is
+identical---viz. to exploit the public, the consumer. There is not
+anyone else to exploit; the employer is utterly incapable of carrying a
+25%, rise in wages for a month if lie does not recover it from the
+public, and, conversely, will joyously grant any percentage of wage
+increase if he is assured that prices will recoup him. The party, if it
+can be so called, which is undoubtedly coming into power in the next few
+years all over the world, therefore, is not the "Labour" Party which Mr
+Barnes and Mr Hodges represent, but a Public Party which will replace
+exploitation by co-operation and in consequence will deal just as
+faithfully with the abuse of a "Labour" monopoly as with any other
+trust, and which will represent the men and women who now form the
+constituents of the Labour Party, not as monopolists of a commodity, but
+as human beings anxious to gain their legitimate ends by the most
+convenient and comfortable methods. In an economic system constituted as
+is ours to-day, we do not in the very least blame any monopolists,
+organised Labour included, for exploiting their advantage to the utmost:
+that is the way the game is played, and that is the sure and certain
+method which will break up society as we know it, though it contains no
+promise of constructing a system to replace the ruins. But nothing is
+gained by idealising the process; and the Labour Party and its officials
+are just as much a part of the capitalistic system as, say, the
+Federation of British Industries, and *qua* their representation of a
+monopoly, just as pernicious.
+
+The second misconception, while one may have every sympathy with it, is
+none the less fatal to any effective remedial action. War, appalling
+orgy of waste and misery as every sane person must admit it to be, is
+not the greatest of all evils, although it may quite conceivably be a
+great enough evil to destroy this civilisation. A greater evil would be
+the unchecked operation in a helpless world of those causes of which war
+is an effect. That is exactly where what is commonly called pacifism
+makes its cardinal error---it is so concerned with the "rash" on the
+patient that it will go to any length to suppress it. Not that way lies
+a cure. The disease lies much deeper than the skin---is concerned with
+the vital processes of the body politic; and to avoid substituting a
+more lingering horror for the sharp fever of war, it is necessary to
+restore these vital processes to health and balanced functioning. Now
+although we have insisted that the financial organism is the region
+demanding the most instant attention, it is not the whole of the
+problem, although the successful reconstruction of it would probably
+render easy the solution of the remainder. That lust for domination
+which may perhaps be said to lie at the root of the major evils of
+anti-public finance also operates, by the substitution of the motive of
+fear for the motive of gain, through the mechanism of bureaucracy. The
+business man assists in an unsound policy through the lure of reward and
+through cupidity---the bureaucrat winks at intrigue because of a fear,
+born of experience, that his knuckles will be severely rapped if he
+doesn't. Merely to substitute cupidity (which, after all, as its name
+suggests, is only perverted *affection*) by fear would be a sorry
+exchange. The problem is essentially a practical one, and we have no
+doubt whatever that the real inceptors of the deputation to which we
+refer (and who we feel positive do not comprise either Mr Barnes or Mr
+Frank Hodges) are actuated by motives which, whatever else they may not
+be, are almost luridly practical.
+
+The proposition which has been aired during 1920 to increase railway
+rates another 40 per cent., making 90 per cent, permanent increase over
+pre-war rates, raises, in an interesting form, the question of the
+applicability to this particular case of what is known as the law of
+diminishing return. It is probably quite familiar to readers of these
+pages---it postulates that there is a certain maximum "load" which any
+mechanism, economic or otherwise, will carry: below and above this load
+the output drops away, finally reaching minima. Now it has long been an
+axiom with ) railway managers that it was impossible to base railway
+rates on cost; the only principle on which a railway system as a whole
+could be made to pay was to charge each separate class of traffic "what
+it would bear"--*i.e.* the most, it would pay without revolt. The rich
+industry ' thus subsidised the less prosperous and the railway averaged
+their prosperity. This system had reached perfection before the war, and
+it is quite probable that in this country 5 per cent, increase in any
+one rate would have raised a storm. It is now proposed that rates shall
+rise not 5 per cent, but 90%, and that at a time when there are not
+wanting interested persons (with whom we totally disagree) who would
+contend that the day of the railway is done and that road transport and
+aviation will carry the traffic of the immediate future. We say we
+disagree with such persons; but we do not mean by that to suggest that
+it is not possible by means of crazy finance to ruin a magnificent
+asset, in order that a few international credit-mongers may acquire
+control of national transport. The bearing on this of the law to which
+we refer will be plain: if the rates on British railways before the war
+were as high as could be borne, and they were, then any further rise
+means a decreasing return and the speedy bankruptcy of the whole railway
+system due to the use of alternative, though not fundamentally better,
+means of transport.
+
+Just as it is quite erroneously said that threatened men live long, so
+there is a tendency as perverse as it is general to assume that it is
+only necessary to predict disaster of any description to form thereby a
+solid basis for optimism. For twenty years hundreds of men and women in
+this country, and thousands on the European continent, knew that, given
+the continuance of certain economic and political factors, war with
+Germany was just as inevitable as a chemical reaction. Certain social
+factors combined will produce certain social results, just as certainly
+as the combination by the aid of a spark of a mixture of oxygen and
+hydrogen will result in water. In 1900 the writer was told by an
+official of the German Foreign Office that there was not room in the
+world for a powerful Britain and a progressive Germany, and the reasons
+given, which required the major portion of a long and dull sea voyage
+for their discussion, were quite conclusive if the premises of the
+financial system were admitted. In spite of the organised efforts of
+Lord Roberts and others to drive the facts of the situation home to
+those persons most vitally affected, the members of the British public,
+it is quite certain that not 5 per cent, of the population of these
+islands regarded the question as anything but a political "stunt" run by
+a mixture of interested scaremongers and cranks with bees in their
+bonnets. Viewing the situation dispassionately in the light of events,
+it seems probable that the control of the organs of public information,
+and the general psychology of the peoples who were to be the victims of
+the coming disaster, were already so grouped as to make the late war,
+humanly speaking, inevitable; that any radical preventive propaganda, to
+have a reasonable prospect of success, must have been launched not much
+later than 1875, and must have taken effective steps, amongst other
+things, to deal with the capture and syndication of the public Press
+which marked the closing years of the nineteenth century. But the
+situation in regard to the disasters which threaten us now is profoundly
+altered, and we believe that it is a practical proposition to expect to
+bring such forces to bear on the situation as will suffice to avoid at
+any rate the full force of the blow which might otherwise destroy us.
+Amongst the differences on which legitimate optimism may be based is the
+increasing cynicism, common in every rank of society, in regard to the
+expression of beautiful sentiments unsupported by a live practical
+policy amenable to all the checks men apply to everyday affairs. The
+sob-stuff is losing its grip. By their fruits ye shall know them.
+Perhaps in some queer, perverted way President Wilson was indeed the
+saviour of the world, as he is said to have believed himself to be, when
+he heralded the entry of the United States into world politics by a
+series of speeches couched in the most silver eloquence, and embodying
+sentiments calculated to take the thoughts of men clean away from the
+facts of life; and then, in company with his fellow-conjurers, hatched
+out a treaty and a League of Nations expressly designed to reduce every
+one of these beautiful sentiments to a grinning mockery. "Open covenants
+openly arrived at"; Mr Lloyd George goes down to Lympne to discuss
+policy with Sir Philip Sassoon prior to reshuffling the destinies of
+peoples with M. Millerand; "self-determination"--and admittedly the
+ordinary everyday liberty of the subject fell during Mr Wilson's
+administration of the United States Government to a lower level than
+that of Russia under the Tsar. The practical effect of this
+disillusionment is seen daily in operation; not so very long ago a
+rhetorical appeal for backing for the anti-Bolshevists was met by an
+unmistakably dry negative even from quarters which have no love for
+Lenin and Trotsky; the somewhat New-Jerusalemic tone of The Daily Herald
+is barely offset in its effect on its popularity by the realistic and
+detailed descriptions of the current prize-fights which form a feature
+of its otherwise pacifist pages. The general result of all this is to
+make it increasingly difficult to sweep a nation off its feet by a mere
+gust of emotion, and even if the change has not yet proceeded very far
+it is a most hopeful sign that it has begun.
+
+The Food Controller's monthly report issued in June 1920showing a
+further serious rise in the price of food since January, was a grim
+comment on the attempt made to inaugurate what the French have
+christened *la vague de baisse*, by the simple process of saying that it
+has arrived. So far from a wave of falling prices having reached either
+us or them, the level of prices steadily rose, and reached in this
+country 265 per cent, of the prices ruling for foodstuffs in July 1914,
+and there is every prospect that, with a possible temporary decline, it
+will continue to rise. The real cause can be stated in half-a-dozen
+words---the breakdown of credit; the disbelief in the reality of "money"
+as a good exchange for either goods or services; and there is nothing in
+the line being taken either by the Government or the large industrial
+combines; to show that they have either the will or the j understanding
+necessary to close the rapidly j widening gap between financial credit
+and real credit. It is now being allowed to transpire that the big
+manufacturers of the Midlands and the North are finding the way very
+hard indeed, their costs are such as to make their prices definitely
+non-commercial; and dark hints of the necessity of shutting down their
+plants for the purpose of bringing labour to its senses--*i.e.* starving
+it into submission---are appearing in the columns of the Press. It is of
+course an open secret that this latter plan was concocted and agreed to
+by a ring of manufacturers in 1917 as being the inevitable result of
+concessions extracted from them during the war, but it was intended that
+it should be put into operation much earlier, and we very much doubt
+whether it may not now have results quite other than those expected by
+its inventors. What about the necessity for greater production as a cure
+for all evils? Surely if it is only production *per se* that we want it
+is very reprehensible for the employer to consider for a single instant
+a policy which is not merely designed to limit production, but to stop
+it completely, when for so long we have been told that only greater
+production will save us. Can it be possible that the only production it
+is desired to increase is the production of money, and that if more
+money can be produced by making less goods we shall get less goods? The
+next few months should furnish an answer to that question.
+
+# A Commentary on World Politics (IV)
+
+If Macaulay's New Zealander, after musing on the more material remains
+of our social system as exemplified in the Houses of Parliament and the
+secretariats of Whitehall, should be driven to investigate the concepts
+of national organisation symbolised by them, it is fairly certain that
+nothing will astonish him more than the evidences he will find on every
+hand of the persistent and touching faith of this queer old people in
+what they call "representation." He will find that this curious
+superstition (dating back to the earliest days of their history, when
+priests made a corner in deals with God and the dispensing of personal
+salvation became a close trust) persisted on even through the First
+World War when millions of persons who disliked war and held it in
+contempt as a moral and material anachronism allowed their
+representatives not merely to lead them into a war which had become
+inevitable but, almost without a protest, to throw away any poor
+consolation which might be derived from a real "war to end war." He
+would note that at irregular and inappropriate intervals queer
+ceremonies called elections took place at which persons for the most
+part personally unknown to the electors were "returned" for the
+ostensible purpose of carrying out "reforms" which most of the electors
+neither understood nor cared about one fig. And he would further observe
+that these elected ones, once safely through the ceremony, at once
+became very superior persons, full of dignity and importance, and for
+the most part concerned with very intricate relations between the State
+and Borioboola-Gha. It seemed clear that these same electors never
+derived any benefit from these negotiations, or in fact and on the whole
+from more than the very minutest fraction of the activities of their
+representatives, while further it was quite plain that a small number of
+very opulent gentry of international sympathies, who were not elected,
+and represented no one but themselves, did in fact sway the whole
+deliberations of the elected assembly. Still this touching faith that
+some day they would elect the right men and all would be well seemed to
+sustain the people through a series of disappointments which would have
+daunted a less stubborn race. The New Zealander, who we must suppose to
+be an intelligent man, would, we think, conclude that this was a matter
+outside logic and reason, and only comparable to collective hypnotism.
+And he would be right.
+
+In certain things this country in particular is under a spell. At the
+time of the Armistice there was not only not an unemployed man in this
+country, but there was hardly an unemployed woman or child over fourteen
+and under eighty. The wheat cultivation was increasing at a rate unknown
+for generations, shipbuilding was proceeding at such a rate that the
+destruction of war has been more than made good in two years,
+manufacturers were becoming rich, workmen were becoming manufacturers.
+Even the despised professional classes were for the most part able to
+eke out a precarious existence in either the fighting services, or if
+age or health precluded that, in ministering to the wants or patching
+the digestions of those who did well out of---a long way out of---the
+war. Production, which Mr Clynes will tell us is all we need to make us
+prosperous, reached heights far in excess of anything ever touched in
+history, even outstripping such destruction as Dante never dreamed of.
+Then peace, with the wings of a dove, burst upon us. Hardly had the last
+stretcher-case reached a casualty clearing station in a grim and haunted
+silence than a bleat of real anguish rose from these sheltered
+shores---not from the battered wrecks in hospital blue, the sad-eyed
+women in black, or even from the new poor, but from Lord Inchcape and
+other bankers. We were a poor nation---no homes for heroes for us.
+Perhaps, if we all worked harder than ever, and lived the simple life
+for twenty years or so, we might aspire to a few Nissen huts. As a
+preliminary to all of us working harder prices rose 50 per cent., and
+the unemployment figures rose from nil to the present figure of about
+three million. But further than that, the earnings, as apart from the
+wage rates of those still employed, fell also. On every hoarding may be
+seen auctioneers' advertisements of eligible modern factories equipped
+with the finest tools to be sold at break-up prices, and manufacturers
+are beginning to compete with generals for eligible if undistinguished
+posts under the Holborn Borough Council. It is hardly to be wondered at
+that our warnings of a greater and more terrible war leave numbers of
+persons very cold, since only destruction on the largest scale, it seems
+to them, can provide a decent living for the survivors. Side by side
+with these happenings, which are plain for all to see, it cannot have
+escaped notice that every bank composing the charmed Circle of Five has
+pulled down its barns to build larger. The London City and Midland, to
+take one instance only, now has fifteen hundred branches, of which, at a
+guess, at least one half have been opened since 1914 in buildings of a
+solid magnificence appropriate to the temples of a great faith. Perhaps
+one of our readers with a taste for statistics will compile a table
+showing the percentage of corner sites occupied by banks as compared
+with those occupied by other undertakings. Has anyone during this time
+of industrial depression and labour distress noticed any bank premises
+for sale? Is there any possible room for doubt, not merely who did best
+out of the war, but is doing well out of the peace?
+
+It might be noted from his article in *The Daily Herald* of 24th March
+1921, entitled "The Coal Crisis and the Nation's Credit," that Mr Frank
+Hodges "has been propounding up and down the country a scheme which is
+the only internal scheme calculated to help the mining industry out of
+its difficulties and consequently other industries out of theirs." We
+wish Mr Hodges every success in his efforts, which aim at the use of
+national credit to enable coal to be sold below the cost of production,
+and we would offer him every assistance, technical and otherwise, to
+enable him to carry properly designed proposals of this character to a
+successful issue. His article in *The Daily Herald* was, we think,
+admirable for the purpose for which it was intended, but we would
+suggest to him that a combination of his propaganda with a new and more
+effective form of "Direct Action" would be very---desirable at this
+time. He suggests that "the British Government" should either propose
+something better or put his scheme to the test of practice. We can
+assure Mr Hodges that the British Government, or that essential part of
+it which counts in matters of this sort, has no intention or desire to
+propose anything better---on the contrary, it has said in so many words
+that it is unalterably opposed to any proposition which involves the
+granting of a subsidy, and it is prepared to go to any amount of trouble
+and expense to prevent Mr Hodges making clear to any considerable number
+of persons how this proposal differs from one involving a subsidy. But
+if Mr Hodges will abandon the idea, so natural to ingenuous minds---we
+have had it ourselves---that the Government is struggling with a problem
+it does not understand and cannot solve, and ceasing his endeavours to
+enlighten it, will use the position entrusted to him to assist his
+constituents to dispense with Government acquiescence with his plan
+(and, of course, he must know that that is possible) we feel sure that
+he will be astonished at the quickened apprehension of Westminster.
+
+At the time of writing (1921) the miners' strike or lock-out, whichever
+it should be termed, has commenced, and according to the popular Press a
+number of pits are already irretrievably flooded. Lest the public should
+be in any doubt as to who pays for these little wrangles between the
+Coal Trust and the Labour Trust, the price of coal has been put up Is.
+per ton at once just to "larn us to be a twoad." Our sympathies as
+between the two combatants are wholly with the Labour trust, because it
+contains more human beings, but they are a good deal more with the
+public than with either party, and we think we are not alone in the
+matter. It is quite time, we think, that the great trade unions should
+understand that the plea of the under dog, fighting against unfair odds
+of education and resources and injuring the bystander only because
+engaged in a life-and-death struggle, will not wash. The resources of,
+say, the Triple Alliance, are ample to put them in possession of every
+weapon in the hands of their antagonists---are, in fact, potentially far
+superior; and the fact that they are quite obviously incapable of
+striking a blow which the vile body of the public does not receive
+instead of the "Capitalists," at whom it is aimed, might quite
+reasonably, and will, be adduced as a good sound reason that they are a
+public nuisance. That would be a superficial judgment, but we do suggest
+that clumsiness and ineptitude are now as inexcusable as real vice, and
+that the great causes of which the Trade Union and Labour movement
+claims to be the protagonist, and of which it is, in fact, the natural
+champion, should not be allowed much longer to be so compromised by
+mismanagement as has most unquestionably been the case during the past
+three years. We have said elsewhere that the British Labour Party in
+particular had an opportunity during the years 1914-1918 such as
+probably never before presented itself to any political party. That
+opportunity was missed thoroughly and completely, and the credit and
+power of the Labour Party is so damaged that it is quite possible that
+it may never recover. "The moving finger writes, and having writ moves
+on," and not often, if ever, is a second innings vouchsafed to any side
+in a game of this magnitude. We see only one hope for the Labour Party;
+that it may, by a miraculous up-rush of leadership, renounce its absurd
+arrogance of all the virtues, and by truly representing the community,
+rather than a mere sectional interest, draw again to its aid---all those
+men of good-will in whatever station they may be found whose good
+offices it now seems so anxious to repel. If it will not do this, and do
+it soon, it will sink to the importance of the British Bolshevik Party,
+which is negligible except as a useful bogey, by the aid of which Mr
+Lloyd George can frighten old women of both sexes into voting for the
+Sassoon-Cassel-Zaharofi coalition.
+
+# A Commentary on World Politics (V)
+
+If anyone is disposed to doubt our native genius for organisation we
+would direct his attention to the team-work of the Press on the subject
+of Mr Frank Hodges' timid suggestion of a credit appropriation for the
+solution of the coal difficulty. In many keys, yet in perfect harmony, a
+shriek of horror has risen from organs professing all shades of
+political opinion yet united by the approach of a common danger to their
+financial masters. It is true that most of them, as newspapers, have no
+more knowledge of the processes of finance than is necessary to enable
+them to draw or cash a cheque, but, aided by some mysterious sense, none
+of them has failed to translate the proposal by exactly the same word
+"Subsidy." And the concern of them for the poor taxpayer! Was there ever
+anything so touching? Happy the nation which has a Press so active and
+sensitive to the interests of its constituents. But there is more still
+to be done, and, without for the moment quibbling over the confusion
+involved in the misuse of words, we would direct the attention of Fleet
+Street to the great activity---supported from Downing Street and the
+city which is taking place in regard to various schemes for Export
+"Subsidies," such as the Ter Meulen and Sir Edward Mountain proposals.
+Mr Hodges admits that a sum of £100,000,000 might be required for his
+purposes, but it is hardly denied that this sum would be represented by
+an increased distribution of coal in this country, since the increased
+purchasing power would not be reflected in an increased price for coal.
+That is to say, the "subsidy" would be represented by goods in this
+country. But the various Export "Subsidy" schemes contemplate the use of
+sums at least five times as large as that for which Mr Hodges is asking,
+and still taking Fleet Street's word that a subsidy and a credit are the
+same thing, the distracted British tax-payer would be fleeced to ten
+times the extent to which Mr Hodges would subject him; he would not only
+have, *ex hypothesi*, to find five hundred millions in taxation, but
+would be mulcted by a rise in the general level of prices due to the
+distribution of five hundred millions of money unrepresented by any
+increase of goods in this country. May we hope that, the point having
+been indicated, Sir Edward Mountain's Export Subsidy Scheme will now
+receive the same candid and uniform treatment as that accorded to poor
+Mr Hodges?
+
+Where Mr Hodges and the miners fail in strategy is that they do not seem
+to realise the fundamental weakness of their case as miners, and the
+immense strength of it as members of the public. We thoroughly recognise
+that the very worst and blackest aspect is put on their demands, but the
+elementary fact is that even as put by themselves there is nothing about
+them to compensate the public at large for the expense and inconvenience
+to which it is put by a strike. Outside the war profiteers, who, after
+all, are the merest tithe of the population and are congenitally
+selfish, there are very few classes in this country who are not far
+worse off financially than they were in 1914, and the classes who have
+lost most are those who, while saying least, think the more and exercise
+by far the most vital influence on affairs in a time of crisis. If
+instead of continually trumpeting their determination to raise their own
+standard of living, no matter who suffers in the process, the Triple
+Alliance would say, "We intend that the general standard of living in
+this country shall rise, and we mean to proceed, not by attacking
+anyone, but by assisting everyone---by first demanding a conference of
+all parties for the purpose of exploring every avenue which might lead
+to lowering the cost of living without lowering the income of anyone,"
+they would be invincible and would carry their own ends by a side wind.
+No altruism is required or is desirable---if every rich man in this
+country sold all that he hath and gave to the poor, the poor would only
+notice it for about three months, and after that would, under the
+conditions which the Labour movement has not so far challenged, starve
+to death through unemployment and tte failure of production, just as
+happened in Russia. As it is, a conviction is hardening in the country
+that, bad as things are, they would be simply intolerable if the Labour
+Party ever got into power. That psychology is disastrous, and when over
+some such issue as the present the Prime Minister decides to appeal to
+the country, it will result in his being returned with a majority which
+will be acclaimed as a mandate to put Labour exactly where Sir Alfred
+Mond and his confreres wish to see it.
+
+Mr Hughes' note to the Allied Powers, which may be considered as the
+first official pronouncement on Foreign Policy issued by the Harding
+Administration, is a sufficiently disquieting document. In the details
+of its comments on the Yap controversy and its demand for a share in the
+loot of Mesopotamia there is, of course, nothing new. The noteworthy
+content of the dispatch is the considered enunciation of a new Monroe
+doctrine embracing the whole world, and the intimation in effect that
+the other World Powers have been wasting their time in disposing (so far
+as they have disposed) of the problems contingent on the Peace
+Treaty---that nothing can be done without the acquiescence of the United
+States, and that as the United States has not acquiesced in what has
+been done, it is all null and void. Passing over the nice judicial point
+as to whether a nation which has been invited and has refused to take
+part in the deliberations which have led to the allotment of mandates
+and other little spoils of war is justified in objecting to the results
+when they are a more or less accomplished fact (because the only real
+sanction behind such an attitude is the will and the power to impose
+acceptance of it by force of arms), we may profitably consider exactly
+what is the position created by such a claim. If Washington is alone in
+making it, it is clear that the United States is claiming the position
+of the super-State, the ultimate arbiter of all things mundane. But if,
+on the other hand, she is only claiming a right which she is prepared to
+allow to others, then once again we are brought up against the question
+of sanctions. Suppose Montenegro should object to the future course of
+events in Mexico? Will Washington agree that all action in Mexico must
+be held up until Montenegro is placated? It requires some optimism to
+believe it.
+
+The curious point about the old Monroe doctrine, which is not without
+interest in considering the new variant, is that probably more than
+anything else it has consistently handicapped the United States in her
+relations with South America to which it chiefly referred. While not
+above invoking it when occasion served, the peoples of the Latin
+republics derided it in conversation as a piece of unsolicited
+impertinence, and visited their resentment on the head of the
+unfortunate "Norte Americano," both by trade discrimination against him
+and by direct personal dislike, with the result that, at any rate prior
+to 1914, he was easily the most unpopular national south of Panama. In
+itself there is, of course, no doubt that the Monroe doctrine was in the
+best interests of South America, and incidentally of this country, which
+always consistently supported it, but it is, nevertheless, incontestable
+that things being as they are, it was one of the ulterior forces
+concerned in the late war. Germany had acquired predominating commercial
+interests in Brazil, and only the Monroe doctrine and the British fleet
+stood between her and the annexation of a dominion larger than the
+United States and rich beyond the dreams of avarice---a country only
+held back by the incompetence and laziness of the Portuguese settlers.
+Presumably, although we have no information on the point, German
+interests in Brazil have suffered eclipse; it is certain that the United
+States have been making the most strenuous efforts to replace her not
+only in Brazil, but in the Argentine, where she was obtaining large
+financial power through her banking system; but the resentment of
+overlordship excited by the rather crude tactics of Washington is so
+strong that we may hazard a guess that our exporters are not doing very
+badly.
+
+When a man is entirely destitute of knowledge and ideas in regard to the
+industrial situation, one of two pronouncements may safely be expected
+of him in regard to it. If he is of the traditional type of beef-eating
+Briton chiefly met with in country districts, who will endure anything
+if only he is not asked to think, he will probably bark out "Labour?
+D---d scoundrels! put 'em up against a wall and shoot 'em!" No one with
+a sense of humour ought to dislike this hearty ruffian, even if driven
+by uncontrollable impulse to throw a bucket of water over him. In the
+first place, he is no more responsible for his opinion than a terrier
+howling at Beethoven, and in the second place, however silly his method,
+his instinct is healthy---he wants a solution. The other person is in a
+different and, to us, much more contemptible category---he feels sure
+that all would be well if "both sides" would only show a little
+good-will. This man may not know it, but he is blasphemous. One of the
+most amazing features of the present situation is the steady bias
+towards good-will and reason met with everywhere---the prevalence of a
+subconscious feeling that an effort is being made to get honest men to
+fall out in order that thieves may break through and steal. It is
+particularly noticeable on the railways, where every grade seems anxious
+to discount the inconvenience it anticipates being forced to inflict on
+the public. The writer has been privileged to address various meetings
+up and down the country on Credit Reform proposals, at most of which
+have been present one or two unhappy-looking individuals whose ideals
+evidently did not agree with their digestions, or, perhaps, proceeded
+from them; but no one could mistake the isolation of their position.
+Most of these audiences either of so-called "masters" or "men" consisted
+of individuals actually grappling with the facts of industry, knowing
+the virtues, failings and common humanity of their neighbours, and well
+disposed to agree that a third party, Finance, understood by neither of
+them, might be the agency which for ever seemed to make agreement
+impossible. That there are small bodies of irreconcilables we agree; but
+if the main body of citizens had a sound lead we do not think that these
+warriors would count for very much.
+
+There may be various opinions about Mr Lloyd George (known for obvious
+reasons, in political circles, as "The Goat") as a Prime Minister, but
+it is impossible to deny him the very highest honours both as a
+strategist and as a political acrobat. His method of testing the
+electioneering temperature by calling out the reserves and imploring all
+loyal citizens to enlist in the Volunteer Defence Force during the late
+coal strike is very expensive to the tax-payer and very bad for the
+moral of the country, but gives him quite a fair idea of the votes he
+would get in the election he is doubtless considering. Having tested the
+temper of the country in this way, we may confidently expect him to go
+to the country at an early date and be returned to power with a
+substantial, even if slightly diminished, majority. In the unlikely
+event of his deciding that an election would be inopportune he will no
+doubt pose as the saviour of the country from the civil war we haven't
+noticed. Either way, it all seems clear gain to Mr Lloyd George, and it
+is very, very clever. "Whether a little wisdom would not be worth more
+to the country, and to Mr Lloyd George himself, than all this agility
+is, of course, a matter on which one may hold strong opinions. It has
+always been incomprehensible to us that anyone could imagine that a body
+of men of the magnitude of, say, the Triple Alliance, beaten by
+starvation or force into accepting terms, distasteful to them, could
+fail to renew the struggle at the earliest possible moment; and we can
+only conclude that the International Financial Groups who precipitate
+these struggles do not really care how frequent they are---the cost of
+them is simply passed on to the public in prices, and the real authors
+of them not merely go completely untouched by the repeated tragedies,
+but from villas on the Riviera or elsewhere"glut" their love of power by
+contemplating the writhings of the world they have enslaved.
+
+Dr Leighton Parkes, Rector of St Bartholomew's Episcopal Church, New
+York, stirred up a hornets' nest by stating that "he Roman Catholic
+Hierarchy in this country \[United States\] desires nothing more than to
+bring about a war with England, not only on account of the ancient
+grudge, but because England is the great Protestant country of Europe as
+we are in the Western Hemisphere." We think Dr Leighton Parkes is to be
+congratulated on his plain speaking. It is quite certain that the
+fundamental difference between political Roman Catholicism and political
+Protestantism (all religions are the basis of political systems) is that
+the first is essentially authoritarian and the second is
+individualistic. There are thousands of English Roman Catholics who are
+such because they are attracted by the beauty and dignity of its ritual
+and the artistic impact of its code of life. But the simple fact remains
+that when stripped to its essentials the Roman claim is a claim for the
+surrender of individual judgment and, in any important crisis, of
+individual action. That is one reason why Roman Catholics are so
+successful in the army, and it is the great reason why the Hierarchy of
+Rome, as apart from the many delightful personages to be found in it, is
+a danger to peace, freedom and development, wherever it is entrenched.
+
+# "The Moving Finger Writes\..."
+
+It is now nearly three years since the first publication of the credit
+theory which has become, it is hoped, more familiar than seemed likely
+at that time. When that theory first saw the light of publicity the
+world, panting and enfeebled from the first world war, was threatened
+with social upheaval and torn with conflicting idealisms on the one
+hand, and a prey to the megalomaniacs of industry and finance on the
+other. "All power to the Soldiers and Workers Councils!" yelled the
+Left. "Increased production," murmured Lord Inchcape, as he passed the
+plans for a few hundred new branch banks.
+
+Well, they have all had their way. The greatest undivided unit of the
+world's surface, a national territory which could accommodate
+comfortably the United States and the whole of non-Russian Europe within
+its boundaries and still have vast expanses unoccupied; an area which is
+probably far richer in potential resources than any other under one
+control, has been nominally ruled for more than four years by the first
+Workers Republic. In that short space of time millions of the class in
+whose interests it is alleged that the Soviet Republic was created have
+been reduced to a state of famine and misery far in excess of anything
+experienced under the corrupt and inefficient regime of the Tsar. The
+control of the individual worker over his life and destiny, so far from
+having increased, has become a mere mockery, and the only tolerable
+portions of Russia appear to be those in which the writ of the
+centralised despotism of Moscow does not run. A new era is opening;
+enter Herr Stinnes and Mr Hoover.
+
+In Great Britain and America the working out of the dominant policy has
+been equally instructive if only less immediately disastrous. Following
+on the gigantic expansion of plant which took place during the war, the
+year 1919 and the early half of 1920 saw still more factory and real
+capital production, accompanied, for reasons explained many times in
+these pages, by a continuous rise in prices. Lord Inchcape has got his
+branch banks. Homes for heroes are still under strength.
+
+In May 1920 the financial powers considered that the process had gone
+far enough and withheld further facilities, and in a period of less than
+eighteen months, of the many ambitious enterprises floated at the
+expense of the public in the immediate post-war period, probably 95 per
+cent, have come into the complete control of the Joint Stock Banks, and
+not one of the remainder can carry on for a year except with their
+permission. The banker, busily engaged just now in sorting out from his
+catch those specimens worth, from a banker's point of view,
+preservation, condoles with the manufacturer and trader, who doesn't
+quite know what has hit him. "Ah, my dear fellow," you can hear him say,
+"if only those damned lazy scoundrels of yours had worked harder and
+consumed less! Wait a bit: sell your car and live quietly for a few
+months and we may be able to put you back into your own works as
+manager, and then you can teach the blighters what's what. In fact we'll
+take care that you do, if you want to hold your job. Good-morning, my
+*dear* fellow.\"
+
+(It will be noticed that while prices of retail or ultimate commodities
+rose during the period of credit inflation almost directly in proportion
+to that inflation, the stringency has failed signally to produce a
+corresponding fall: a result which confirms the credit theory that while
+prices can rise to any height under the stress of financial or effective
+demand, they cannot fall below costs, which include all credit issues,
+without bankruptcy of any entrepreneur who has not access to the general
+credit.)
+
+Meanwhile the Labour Movement in this country and in America has met its
+Waterloo. Headed very vigorously and firmly away from one or two timid
+approaches to a consumers' policy, such as the demand for a trifling
+reduction in the price of coal, and bound hand and foot to an economic
+theory identical with the capitalism it professes to attack, it is now
+firmly established in the public estimation as an anti-public interest.
+Endowed by the circumstances of the war with such an opportunity as no
+one political party ever had before or probably ever will have again,
+the Labour Party both in Parliament and out of it has proved to
+demonstration that because its structure is fundamentally identical with
+that of other political parties it moves more or less slowly along
+similar lines to those of its competitors, depending as to pace on the
+qualities of its personnel. They can change the pace but they cannot
+change the direction. That direction is merely to centralise or focus
+whatever power is resident in the interest for which the party stands,
+and it is patent that labour, simply as a component of the productive
+process, is fundamentally a dying interest.
+
+Had the miners' strike, or lock-out, occurred twenty-five years ago it
+would have paralysed this country and convulsed the world. How much of a
+ripple did it produce in 1921? If economic power precedes political
+power, as it does, how much influence will a purely Labour Party
+exercise in politics?
+
+The factor most destructive of progress to the Labour Party and most
+useful to the forces opposed to its legitimate aspirations is its
+incorrigible abstraction from reality---an abstraction which is quite
+probably the result, amongst other things, of generations of "religious"
+instruction specifically directed to the preaching of "other
+worldliness," and to that extent also an instance of the direction of
+Labour thought by financial influences. It is rampant in every sphere of
+Labour political action, from the lionising of Mr George Lansbury, an
+honest citizen who would like to apply his conception of the Sermon on
+the Mount to the game of cut-throat poker, to the instantaneous success
+of Mr Tawney's title for his book, *The Sickness of an Acquisitive
+Society*. I have not read that book, which is doubtless excellent, but
+its title suggests that the average man ought to work with the specific
+object of not getting what he works for---goods; a precisely parallel
+line of argument to that of the orthodox capitalist who insists that the
+major object of industry is to send goods away from those who made them,
+by export, or otherwise, so that "employment" may never fail. Put
+shortly, the psychology of the Labour Party is a psychology of failure.
+To be poor is to be virtuous; to be well off is to be wicked; and the
+objective of all action is to replace the wicked by the virtuous. As a
+result, the official Labour Party is almost irrevocably committed to a
+policy of attack, of levelling down, and is bound to be opposed, sooner
+or later, by everyone with any conception of the possibility of
+levelling up, as well as by those who have anything to lose.
+
+It is no pleasant thing to have to criticise that party. There was a
+period when organised Labour appeared to be the hope of the world, but
+that hope is now very dim; not only from the causes just outlined, but
+because the power given to it by the circumstances of war has been
+dissipated. Not a single proposition of the capitalist system has been
+even challenged by it; every strike has been a fight for position in the
+system, a claim either that the office boy ought to be General Manager,
+or at any rate ought to control the General Manager, combined with lurid
+threats to the firm's customers that, in the happy days to come, Labour
+would "larn" them what it was like to be an office boy. A very alluring
+programme. *R.I.P.*
+
+While the Labour Party has for all practical purposes devoted its
+attention to a mechanical and unreasoning claim to power on the grounds
+of virtue, the financiers have not been so immobile. So long as it was
+possible to keep the subject of credit away from public discussion it
+was done, and done well. But merely negative opposition, in the nature
+of things, being bound to fail, a positive line of action has been
+elaborated and is now well under way---the exploitation of public credit
+for export purposes. Apart from the Ter Meulen and Mountain schemes, the
+Government (*i.e.* Zaharoff-Sassoon) proposals for dealing with
+"unemployment" are based fundamentally on an export credit scheme
+buttressed by relief works at home, the latter to be financed out of
+taxation.
+
+Now it is our contention that the use and control of credit is
+absolutely the vital issue of the present era. It is a force and can be
+used like other forces to destroy or to build, and it is quite possible
+that in this Government proposal we are faced with a real crisis in the
+history of civilisation. If it is put into force, we are committed to a
+line of action diametrically opposed to that urged in the pages of this
+book, and it is therefore vital that it should be understood.
+
+The proposal involves the pledging of public credit to the extent of (at
+first), say, £26,000,000. It should be particularly noted that Mr Lloyd
+George explicitly says: "It is not consumable goods of which the world
+stands in the most urgent need. What it stands mostly in need of is
+equipment to start its trade---machinery, transport; and short credits
+are of no use when you are dealing with heavy goods of that kind. We
+have come to the conclusion \... it is desirable that we should extend
+credit for five or even six years (*Hear, hear!*)\"--*Times* report,
+20th October.
+
+That is to say, although the productive capacity of the industrial
+nations was so enormous that it overtook the wastage of a four and a
+half years' war in eighteen months, so that two and a half millions are
+unemployed in this country, and probably six millions in America, the
+energies of the nation are to be employed, not in obtaining the maximum
+benefit from its existing plant, but in producing still more plant to be
+exported in competition with countries similarly situated.
+
+This £25,000,000, then, will be paid out in this country as wages,
+salaries and dividends, entirely unrepresented by any goods for which
+the general public has any demand whatever. The money so paid out,
+therefore, represents pure inflation, and, being unaccompanied by any
+method of dealing with prices, means the inevitable result of pure
+inflation---a rise in prices. In other words, the goods exported under
+these conditions are paid for by the general public through the agency
+of a general rise in prices, but not delivered to them, but the credits,
+if ever repaid, are repaid not to the general public, but to the banks
+who will finance these credits. And as at the same time these exports
+will be in fierce competition with similar goods from, say, America,
+preparations for the coming war will naturally be accelerated.

@@ -28,42 +28,11 @@
         $body$
         $if(doBooks)$
         $for(books)$
-        <details id=$tag$ class="book-details">
-            <summary><em>$title$</em> by $author$ ($year$)</summary>
-            <a href="books/$tag$/">Read online</a><br />
-            <a href="books/$tag$.pdf">Download PDF</a><br />
-            <a href="books/$tag$.epub">Download ePub</a><br />
-            <a href="books/$tag$.mobi">Download mobi</a><br />
-            $if(source)$<a href="$source$">View original source</a><br />$endif$
-        </details>
+        <p><a href="/books/$tag$"><em>$title$</em> by $author$ ($year$)</a></p>
         $endfor$
         $endif$
     </main>
-    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-    <script>
-        kofiWidgetOverlay.draw('cadenhaustein', {
-            'type': 'floating-chat',
-            'floating-chat.donateButton.text': 'Support me',
-            'floating-chat.donateButton.background-color': '#ffffff',
-            'floating-chat.donateButton.text-color': '#323842'
-        });
-    </script>
     $if(doBooks)$
-    <script>
-        var url = new URL(window.location.href);
-        if (url.hash !== "") {
-            document.getElementById(url.hash.slice(1)).open = true;
-        }
-        [].forEach.call(document.getElementsByClassName("book-details"), function(book) {
-            book.addEventListener("toggle", _ => {
-                if (book.open) {
-                    var url = new URL(window.location.href);
-                    url.hash = book.id;
-                    window.location.href = url.toString();
-                }
-            });
-        });
-    </script>
     $endif$
 </body>
 

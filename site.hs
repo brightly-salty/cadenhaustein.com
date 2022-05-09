@@ -21,13 +21,21 @@ main = hakyllWith config $ do
     route idRoute
     compile copyFileCompiler
 
-  match "books/*/index.html" $ do
+  match "books/*/read/index.html" $ do
     route idRoute
     compile $
       getResourceString
         >>= relativizeUrls
         >>= cleanIndexUrls
         >>= cleanInlineCSS
+
+  match "books/*/index.html" $ do
+      route idRoute
+      compile $
+        getResourceString
+          >>= relativizeUrls
+          >>= cleanIndexUrls
+          >>= cleanInlineCSS
 
   match "styles/*" $ do
     route idRoute
@@ -37,7 +45,7 @@ main = hakyllWith config $ do
     route $ customRoute $ const "404.html"
     compile $
       pandocCompiler
-        >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> boolField "doBooks" (const False))
+        >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> dontDoBooks)
         >>= relativizeUrls
         >>= cleanIndexUrls
 
@@ -45,7 +53,7 @@ main = hakyllWith config $ do
     route $ customRoute $ const "about/index.html"
     compile $
       pandocCompiler
-        >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> boolField "doBooks" (const False))
+        >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> dontDoBooks)
         >>= relativizeUrls
         >>= cleanIndexUrls
 
@@ -60,7 +68,7 @@ main = hakyllWith config $ do
   create ["sitemap.txt"] $ do
     route idRoute
     compile $ do
-      pages <- loadAll ("books/*/*.html" .||. fromList ["about.md", "index.html"])
+      pages <- loadAll ("books/*/index.html" .||. "books/*/read/index.html" .||. fromList ["about.md", "index.html"])
       let sitemapCtx = listField "pages" (constField "root" root <> defaultContext) (pure pages) <> constField "root" root
       makeItem "" >>= loadAndApplyTemplate "templates/sitemap.txt" sitemapCtx
 
@@ -70,6 +78,9 @@ config :: Configuration
 config = defaultConfiguration {destinationDirectory = "docs"}
 
 --------------------------------------------------------------------------------
+
+dontDoBooks :: Context a
+dontDoBooks = boolField "doBooks" (const False)
 
 domain :: String
 domain = "cadenhaustein.com"
