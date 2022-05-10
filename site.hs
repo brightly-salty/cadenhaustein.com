@@ -17,7 +17,7 @@ import Text.HTML.TagSoup (Tag (..))
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["robots.txt", "favicon.ico", "books/*.epub", "books/*.pdf", "books/*.mobi", "fonts/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "books/*/*.epub", "books/*/*.pdf", "books/*/*.mobi", "fonts/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
@@ -40,6 +40,15 @@ main = hakyllWith config $ do
   match "styles/*" $ do
     route idRoute
     compile compressCssCompiler
+
+  match "blog/*.md" $ do
+    route $ gsubRoute ".md" (const "/index.html") 
+    compile $
+      pandocCompiler
+        >>= loadAndApplyTemplate "templates/post.html" postCtx
+        >>= loadAndApplyTemplate "templates/hakyll.html" (postCtx <> dontDoBooks)
+        >>= relativizeUrls
+        >>= cleanIndexUrls
 
   match "404.md" $ do
     route $ customRoute $ const "404.html"
@@ -65,19 +74,35 @@ main = hakyllWith config $ do
         Just books <- recompilingUnsafeCompiler $ decodeFileStrict "books.json"
         getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField books <> boolField "doBooks" (const True)) >>= relativizeUrls 
 
+  create ["blog/index.html"] $ do
+    route idRoute
+    compile $ do
+      posts <- loadAll "blog/*.md"
+      let ctx = listField "posts" postCtx (pure posts) <> constField "title" "Blog" <> dontDoBooks <> defaultContext
+      makeItem ""
+        >>= loadAndApplyTemplate "templates/blog.html" ctx
+        >>= loadAndApplyTemplate "templates/hakyll.html" ctx
+        >>= relativizeUrls
+        >>= cleanIndexUrls
+
   create ["sitemap.txt"] $ do
     route idRoute
     compile $ do
-      pages <- loadAll ("books/*/index.html" .||. "books/*/read/index.html" .||. fromList ["about.md", "index.html"])
+      pages <- loadAll ("books/*/index.html" .||. "books/*/read/index.html" .||. "blog/*.md" .||. fromList ["about.md", "index.html", "blog/index.html"])
       let sitemapCtx = listField "pages" (constField "root" root <> defaultContext) (pure pages) <> constField "root" root
       makeItem "" >>= loadAndApplyTemplate "templates/sitemap.txt" sitemapCtx
 
-  match ("templates/hakyll.html" .||. "templates/sitemap.txt") $ compile templateBodyCompiler
+  match ("templates/hakyll.html" .||. "templates/sitemap.txt" .||. "templates/post.html" .||. "templates/post-list.html" .||. "templates/blog.html") $ compile templateBodyCompiler
 
 config :: Configuration
 config = defaultConfiguration {destinationDirectory = "docs"}
 
 --------------------------------------------------------------------------------
+
+postCtx :: Context String
+postCtx =
+    dateField "date" "%B %e, %Y" `mappend`
+    defaultContext
 
 dontDoBooks :: Context a
 dontDoBooks = boolField "doBooks" (const False)

@@ -36,8 +36,8 @@ ebook-convert "$output_dir/$epub_file" "$output_dir/$mobi_file" > /dev/null
 echo "Creating index file..."
 index_file="$output_dir/index.html"
 {
-  echo "<!doctype html><head><meta charset='utf-8'><meta http-equiv='x-ua-compatibleo content='ie=edge'><meta name='viewport' content='width=device-width, initial-scale=1'><link rel='stylesheet' href='../styles/hakyll.css'/><title>$TITLE</title><meta name='author' content='$AUTHOR'></head>"
-  echo "<body><header><div class='logo'><a href='/'>Caden Haustein</a></div><nav><a href='/'>Home</a><a href='/about/'>About</a></nav></header>"
+  echo "<!doctype html><head><meta charset='utf-8'><meta http-equiv='x-ua-compatibleo content='ie=edge'><meta name='viewport' content='width=device-width, initial-scale=1'><link rel='stylesheet' href='../../styles/hakyll.css'/><title>$TITLE</title><meta name='author' content='$AUTHOR'></head>"
+  echo "<body><header><div class='logo'><a href='/'>Caden Haustein</a></div><nav><a href='/'>Home</a><a href='/about/'>About</a><a href='/blog/'>Blog</a></nav></header>"
   echo "<main role='main'><h1>$TITLE</h1>"
   echo "<p>Written by $AUTHOR in $YEAR</p>"
   echo "<p><a href=\"$TAG/$html_dir/$html_file\">Read it online</a></p>"
