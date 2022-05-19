@@ -155,7 +155,7 @@ the way he suggested a mob. But it must be plain, even to
 those who agree with the more official policy, that for Mr.
 Havelock Wilson the principal question was Mr. Havelock
 Wilson; and that Mr. Sexton was mainly considering the
-dignity and fine feelings of Mr. Sexton. You may say they
+dignity and fine feelings of Mr. Sexton. You may say they
 were as sensitive as aristocrats, or as sulky as babies; the
 point is that the feeling was personal. But Larkin, like
 Danton, not only talks like ten thousand men talking, but he
@@ -459,7 +459,7 @@ centuries.
 
 All the words dedicated to places of eating and drinking are
 pure and poetic words. Even the word "hotel" is the word
-hospital. And St. Julien, whose claret I drank this
+hospital. And St. Julien, whose claret I drank this
 Christmas, was the patron saint of innkeepers, because (as
 far as I can make out) he was hospitable to lepers. Now I do
 not say that the ordinary hotel-keeper in Piccadilly or the
@@ -1056,7 +1056,7 @@ that some of these are paid like any professional; only
 their pay is called their expenses. This system might run
 side by side with a theory of equal wages, as absolute as
 that once laid down by Mr. Bernard Shaw. By the theory of
-the State, Mr. Herbert Samuel and Mr. Lloyd George might be
+the State, Mr. Herbert Samuel and Mr. Lloyd George might be
 humble citizens, drudging for their four-pence a day; and no
 better off than porters and coal-heavers. If there were
 presented to our mere senses what appeared to be the form of

@@ -371,7 +371,7 @@ wrong; I think they are more pious than they will admit.
 Theology is not (as some suppose) expunged as an error. It
 is merely concealed, like a sin. Dr. Clifford really wants a
 theological atmosphere as much as Lord Halifax; only it is a
-different one. If Dr. Clifford would ask plainly for
+different one. If Dr. Clifford would ask plainly for
 Puritanism and Lord Halifax ask plainly for Catholicism,
 something might be done for them. We are all, one hopes,
 imaginative enough to recognize the dignity and distinctness
@@ -1501,7 +1501,7 @@ for me to know that a man might have gone to sleep some
 thirty years ago over the day's newspaper and woke up last
 week over the later newspaper, and fancied he was reading
 about the same people. In one paper he would have found a
-Lord Robert Cecil, a Mr. Gladstone, a Mr. Lyttleton, a
+Lord Robert Cecil, a Mr. Gladstone, a Mr. Lyttleton, a
 Churchill, a Chamberlain, a Trevelyan, an Acland. In the
 other paper he would find a Lord Robert Cecil, a Mr.
 Gladstone, a Mr. Lyttleton, a Churchill, a Chamberlain, a
@@ -1815,7 +1815,7 @@ They are mostly Cockneys who have lost their last music of
 real things by getting out of the sound of Bow Bells.
 Mr. Rudyard Kipling, a man of real though decadent genius,
 threw a theoretic glamour over them which is already fading.
-Mr. Kipling is, in a precise and rather startling sense, the
+Mr. Kipling is, in a precise and rather startling sense, the
 exception that proves the rule. For he has imagination, of
 an oriental and cruel kind, but he has it, not because he
 grew up in a new country, but precisely because he grew up
@@ -2858,7 +2858,7 @@ a small career to tell one's own children about the
 universe? How can it be broad to be the same thing to
 everyone, and narrow to be everything to someone? No; a
 woman's function is laborious, but because it is gigantic,
-not because it is minute. I will pity Mrs. Jones for the
+not because it is minute. I will pity Mrs. Jones for the
 hugeness of her task; I will never pity her for its
 smallness.
 
@@ -4686,7 +4686,7 @@ will, a narrow question whether your child shall be brought
 up by vicar or the minister or the popish priest. You have
 still to face that larger, more liberal, more highly
 civilized question, of whether he shall be brought up by
-Harmsworth or by Pearson, by Mr. Eustace Miles with his
+Harmsworth or by Pearson, by Mr. Eustace Miles with his
 Simple Life or Mr. Peter Keary with his Strenuous Life;
 whether he shall most eagerly read Miss Annie S. Swan or
 Mr. Bart Kennedy; in short, whether he shall end up in the

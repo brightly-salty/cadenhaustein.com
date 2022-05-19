@@ -21,42 +21,43 @@ period of years, but for many years prior to 1930, the
 "prosperity," the movement has completely reversed itself,
 as is shown by the table on the following page.
 
-  ---------------------------------------------------------------
-  During year   Total farm    Persons     Persons     Net
-                population on leaving     arriving at movement
-                January 1st   farms for   farms from  from farms
-                of each year  cities      cities      to cities
-  ------------- ------------- ----------- ----------- -----------
-                32,976,969    ---         ---         ---
+  ------------------------------------------------------------
+  During year Total farm   Persons     Persons     Net
+              population   leaving     arriving at movement
+              on January   farms for   farms from  from farms
+              1st of each  cities      cities      to cities
+              year                                 
+  ----------- ------------ ----------- ----------- -----------
+              32,976,969   ---         ---         ---
 
-  1920          31,614,269    896,000     560,000     336,000
+  1920        31,614,269   896,000     560,000     336,000
 
-  1921          31,703,000    1,323,000   759,000     564,000
+  1921        31,703,000   1,323,000   759,000     564,000
 
-  1922          31,768,000    2,252,000   1,115,000   1,137,000
+  1922        31,768,000   2,252,000   1,115,000   1,137,000
 
-  1923          31,290,000    2,162,000   1,355,000   807,000
+  1923        31,290,000   2,162,000   1,355,000   807,000
 
-  1924          31,056,000    2,068,000   1,581,000   487,000
+  1924        31,056,000   2,068,000   1,581,000   487,000
 
-  1925          31,064,000    2,038,000   1,336,000   702,000
+  1925        31,064,000   2,038,000   1,336,000   702,000
 
-  1926          30,784,000    2,334,000   1,427,000   907,000
+  1926        30,784,000   2,334,000   1,427,000   907,000
 
-  1927          30,281,000    2,162,000   1,705,000   457,000
+  1927        30,281,000   2,162,000   1,705,000   457,000
 
-  1928          30,275,000    2,120,000   1,698,000   422,000
+  1928        30,275,000   2,120,000   1,698,000   422,000
 
-  1929          30,257,000    2,081,000   1,604,000   477,000
+  1929        30,257,000   2,081,000   1,604,000   477,000
 
-  1930          30,169,000    1,723,000   1,740,000   *17,000*
+  1930        30,169,000   1,723,000   1,740,000   *17,000*
 
-  1931          30,585,000    1,469,000   1,683,000   *214,000*
+  1931        30,585,000   1,469,000   1,683,000   *214,000*
 
-  1932          31,241,000    1,011,000   1,544,000   *533,000*
+  1932        31,241,000   1,011,000   1,544,000   *533,000*
 
-  1933          32,242,000    ---         ---         ---
-  ---------------------------------------------------------------
+  1933        32,242,000   ---         ---         ---
+  ------------------------------------------------------------
 
 **Note:** Births and deaths not taken into account in
 estimates of the movement.
@@ -427,7 +428,7 @@ distinctly the pride with which she showed me, on my return
 from the city one evening, the first jars of tomatoes which
 she had canned. But with my incurable bent for economics,
 the question "Does it really pay?" instantly popped into my
-head. Mrs. Borsodi had rather unusual equipment for doing
+head. Mrs. Borsodi had rather unusual equipment for doing
 the work efficiently. She cooked on an electric range; she
 used a steam-pressure cooker; she had most of the latest
 gadgets for reducing the labor to a minimum. I looked around
@@ -512,7 +513,7 @@ was round.
 
 Slowly I evolved an explanation of the paradox. First I
 sought for it in advertising. I wrote a whole book,
-*National Advertising vs. Prosperity*, about my excursions
+*National Advertising vs. Prosperity*, about my excursions
 into, the much-neglected field of advertising economics.
 Advertising, however, furnished only a partial answer to the
 question. While I did come to the conclusion that certain
@@ -2463,7 +2464,7 @@ schools. Should we risk what would happen to them in one of
 the "little red schoolhouses" which still abounded in 1920
 in New York State? If we were confronted by such an
 emergency, would we prove equal to teaching them at home? We
-decided we would. When I compared Mrs. Borsodi to the
+decided we would. When I compared Mrs. Borsodi to the
 average school-teacher in the public schools, I saw no
 reason why she could not teach the children just as well, if
 not better, at home. She might lack the technique for
@@ -3843,7 +3844,7 @@ opposed to them on three grounds.
 First, because they are evasions of the problem of the
 unemployed. They are not solutions of their problem. The
 public gives for relief, and the public pays taxes for
-relief, and the public hopes, just like Mr. Micawber, that
+relief, and the public hopes, just like Mr. Micawber, that
 "something will turn up" to end the depression and that the
 problem will then vanish.
 
@@ -4366,7 +4367,7 @@ Division of the Council of Social Agencies; Mr. Arch Mandel,
 Executive Secretary of the Dayton Bureau of Community
 Service; Mr. E. V. Stoecklein, Director of Public Welfare of
 the city; Mr. S. H. Thai, of S. H. Thai, Inc., Chairman of
-the Homestead Committee; and Mr. Walter Locke, editor of
+the Homestead Committee; and Mr. Walter Locke, editor of
 *The Dayton News*. Other members of the Unit Committee of
 the Council of Social Agencies, as the group sponsoring the
 movement is called, are the Rev. Charles Lyon Seasholes,

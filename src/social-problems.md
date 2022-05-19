@@ -729,7 +729,7 @@ Our people emigrate more readily than those of Europe, and
 increasing as European immigration is, it is yet becoming a
 less and less important factor of our growth, as compared
 with the natural increase of our population. At Chicago and
-St. Paul, Omaha and Kansas City, the volume of the westward
+St. Paul, Omaha and Kansas City, the volume of the westward
 moving current has increased, not diminished. From what, so
 short a time ago, was the new West of unbroken prairie and
 native forest, goes on, as children grow up, a constant
@@ -4894,7 +4894,7 @@ population of the lower part of the island, the vacant
 spaces at the upper. But they have not added to the earnings
 of labor, nor made it easier for the mere laborer to live.
 Some portion of the gain has been intercepted by Mr. Cyrus
-Field, Mr. Samuel J. Tilden, Mr. Jay Gould, and other
+Field, Mr. Samuel J. Tilden, Mr. Jay Gould, and other
 managers and manipulators. Over and above this, the
 advantage has gone to the owners of land. The reduction in
 the time and cost of transportation has made much vacant
@@ -5320,7 +5320,7 @@ disappeared.
 
 We have abolished negro slavery in the United States. But
 how small is the real benefit to the slave. George M.
-Jackson writes me from St. Louis, under date of August 15,
+Jackson writes me from St. Louis, under date of August 15,
 1883:
 
 > During the war I served in a Kentucky regiment in the

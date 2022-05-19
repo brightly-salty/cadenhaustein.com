@@ -1263,7 +1263,7 @@ mystery around which this life moved was religion. This fact
 is the last one the modernists are willing to admit. They
 may be fascinated by the glamour and romance of the Middle
 Ages, by its wonderful architecture and its social
-organization. But it may be said of them what Mr. Chesterton
+organization. But it may be said of them what Mr. Chesterton
 said of Ruskin, "that he wanted all parts of the cathedral
 except the altar."
 
@@ -1667,7 +1667,7 @@ central article of faith is the class war Though Guild
 Socialism has arisen in opposition to Collectivism, and
 though, I believe, when has reached its final form, it will
 be found to be farther removed from Collectivism than
-Neo-Marxism itself, nevertheless, Mr. Walton Newboldtells us
+Neo-Marxism itself, nevertheless, Mr. Walton Newboldtells us
 that the Neo-Marxists firmly and honestly believe it to be a
 bureaucratic variation of Collectivism intended to
 perpetuate the authority of the middle class.
@@ -1821,7 +1821,7 @@ affirm that under Socialism all men would be officials. The
 announcement was received in dead silence as something
 altogether incredible. It was clear even then that Fabians
 did not altogether relish the idea of society being
-organized on a bureaucratic basis. Mr. Webb got his own way,
+organized on a bureaucratic basis. Mr. Webb got his own way,
 not because the feeling of the meeting was with him, but
 because his critics could not at the time offer any
 alternative. The triumph of Mr. Webb in the Socialist

@@ -50,14 +50,6 @@ main = hakyllWith config $ do
         >>= relativizeUrls
         >>= cleanIndexUrls
 
-  match "404.md" $ do
-    route $ customRoute $ const "404.html"
-    compile $
-      pandocCompiler
-        >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> dontDoBooks)
-        >>= relativizeUrls
-        >>= cleanIndexUrls
-
   match "about.md" $ do
     route $ customRoute $ const "about/index.html"
     compile $

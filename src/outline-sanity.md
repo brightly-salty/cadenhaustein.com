@@ -903,7 +903,7 @@ their own mills are already idle and grinding nothing at
 all---like ruined mills in some watery Early Victorian
 landscape suitable to their watery Early Victorian
 quotation. They are always telling us that we are fighting
-against the tide of time, as Mrs. Partington with a mop
+against the tide of time, as Mrs. Partington with a mop
 fought against the tide of the sea. And they cannot even see
 that time itself has made Mrs. Partington as antiquated a
 figure as Mother Shipton. They are always telling us that in
@@ -2783,7 +2783,7 @@ What about the ardent amateur detective about whom all of us
 have read and some of us (alas!) have written. Is there no
 inspired sleuth to succeed where all the police have failed;
 and prove conclusively from a greasy spot on the tablecloth
-that Mr. Rockefeller is interested in oil? Is there no
+that Mr. Rockefeller is interested in oil? Is there no
 keen-faced man to infer from the late Lord Leverhulme buying
 up a crowd of soap-businesses that he was interested in
 soap? I feel inclined to write a new series of detective
@@ -4794,7 +4794,7 @@ always have one feeling, which finds expression in a little
 test of my own. I shall begin to take seriously those
 classifications of superiority and inferiority, when I find
 a man classifying himself as inferior. It will be noted that
-Mr. Ford does not say that he is only fitted to mind
+Mr. Ford does not say that he is only fitted to mind
 machines; he confesses frankly that he is too fine and free
 and fastidious a being for such tasks. I shall believe the
 doctrine when I hear somebody say: "I have only got the wits
@@ -4835,7 +4835,7 @@ a hundred men who can work a motor and only one man who can
 design a motor. But of the hundred men who could work a
 motor, it is very probable that one could design a garden,
 another design a charade, another design a practical joke or
-a derisive picture of Mr. Ford. I do not mean, of course, in
+a derisive picture of Mr. Ford. I do not mean, of course, in
 anything I say here, to deny differences of intelligence, or
 to suggest that equality (a thing wholly religious) depends
 on any such impossible denial. But I do mean that men are
@@ -4940,7 +4940,7 @@ vitality because there is some reaction towards health
 whenever disease is removed. The man who has used his car to
 find his farm will be more interested in the farm than in
 the car; certainly more interested than in the shop where he
-once bought the car. Nor will Mr. Ford always woo him back
+once bought the car. Nor will Mr. Ford always woo him back
 to that shop, even by telling him tenderly that he is not
 fitted to be a lord of land, a rider of horses, or a ruler
 of cattle; since his deficient intellect and degraded
@@ -5123,7 +5123,7 @@ unfamiliarity and of that narrowness which is neither
 national nor international, but only imperial.
 
 I should very much like to be present at a conversation
-between Mr. Saklatvala and Dean Inge. I have a great deal of
+between Mr. Saklatvala and Dean Inge. I have a great deal of
 respect for the real sincerity of the Dean of St. Paul's,
 but his subconscious prejudices are of a strange sort. I
 cannot help having a feeling that he might have a certain
@@ -5203,7 +5203,7 @@ and the extension of the natural ownership of land. But for
 the moment it is important to make the point clear about the
 nature of that narrowness. And that is why some light might
 be thrown on it in that tender, that intimate, that
-heart-to-heart talk between Mr. Saklatvala and the Dean of
+heart-to-heart talk between Mr. Saklatvala and the Dean of
 St. Paul's. Mr. Saklatvala is a sort of parody or extreme
 and extravagant exhibition of the point; that we really know
 nothing at all about the moral and philosophical elements

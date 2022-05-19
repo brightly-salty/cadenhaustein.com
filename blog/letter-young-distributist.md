@@ -30,7 +30,7 @@ Evidence that these policies would work already exists. Although the full rental
 
 ## Anti-Monopoly
 
-> The problem with capitalism is not that there are too many capitalists but too few. - G. K. Chesterton, [The Superstition of Divorce](https://www.gutenberg.org/ebooks/62680)
+> The problem with capitalism is not that there are too many capitalists but too few. - G. K. Chesterton, [The Superstition of Divorce](https://cadenhaustein.com/books/superstition-divorce)
 
 The second principle of distributism---removal of monopolistic businesses---is less controversial and supported by thinkers on all sides of the political economy debate, excepting the owners and beneficiaries of monopolies themselves. Everyone can see the need to break up and regulate large corporations which accumulate the power to obtain wealth and productive property at the expense of the small businesses and everyday people. When large businesses and corporations are broken up, small, local, and family businesses have room to compete and better serve their communities.
 
@@ -52,7 +52,7 @@ While Georgism does not have a philosophy of governance, it can easily be harmon
 
 ## Family Policy
 
-> This triangle of truisms, of father, mother and child, cannot be destroyed; it can only destroy those civilisations which disregard it. - G. K. Chesterton,  [The Superstition of Divorce](https://www.gutenberg.org/ebooks/62680)
+> This triangle of truisms, of father, mother and child, cannot be destroyed; it can only destroy those civilisations which disregard it. - G. K. Chesterton,  [The Superstition of Divorce](https://cadenhaustein.com/books/superstition-divorce)
 
 The fourth principle of distributism - the family as the primary unit of society - is the least mentioned and least elaborated upon of all of distributist thought. This principle states that in economics, a child cannot be divided from their family, nor a mother from hers, nor a father from his. Distributism asserts that each individual obtains its essential economic meaning within the family community that they participate in.
 

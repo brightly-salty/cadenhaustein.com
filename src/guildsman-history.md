@@ -1480,7 +1480,7 @@ being in the nature of things. The experience of history
 teaches us that all organizations need readjustment from
 time to time: the growth of population alone is sufficient
 to cause thh. Moreover, every social organization tends to
-develop little oligarchies within itself. Mr. Chesterton has
+develop little oligarchies within itself. Mr. Chesterton has
 well said that "there happen to be some sins that go with
 power and prosperity, while it is certain that whoever holds
 power will have some motive for abusing it." From this point
@@ -4666,7 +4666,7 @@ without piers in the interior, and which are found all over
 Italy, testify to the large crowds to which they were
 accustomed to preach. But with the success which followed
 them there came a perversion of their original idea. Poverty
-as taught by St. Francis was a means to an end. It was
+as taught by St. Francis was a means to an end. It was
 recommended to his followers in order that they might be of
 service to the poor. But after a time this original idea
 tended to recede into the background, and in time poverty
@@ -4723,7 +4723,7 @@ monks of the Benedictine and Cistercian Orders.
 We saw there was a reaction against the rule of St. Francis
 within the Franciscan Order. There was now to come a
 reaction from without, and the immediate form it took was a
-reassertion of those very things which St. Francis forbade
+reassertion of those very things which St. Francis forbade
 his followers scholarship and the world. An insistence upon
 the value of these is the keynote of the Humanists whose
 labours inaugurated the Renaissance. The men of the Early
@@ -5193,7 +5193,7 @@ business connected with his monastic order, and was deeply
 moved at the irreligion and corruption of the Papal Court.
 Seven years after this visit he took up a stand against the
 sale of Indulgences, by which at the time Leo X was seeking
-to raise money for the completion of St. Peter's at Rome, in
+to raise money for the completion of St. Peter's at Rome, in
 the belief that the abuses attending their sale were the
 main source of corruption. On the 1st of November, 1517, he
 nailed to the doors of the Castle Church at Wittenberg his
@@ -6958,7 +6958,7 @@ to govern England in the interests of the people rather than
 in that of the landlords and capitalists; and, moreover,
 that it was because he made this valiant attempt that he
 eventually came to grief. So much we are willing to grant.
-But Mr. Ludovici goes further, and seeks to make of his
+But Mr. Ludovici goes further, and seeks to make of his
 example a case for the revival of aristocracy, forgetting,
 apparently, that the evil influences against which Charles
 fought in vain were largely the creation of another
@@ -11264,7 +11264,7 @@ to-day in his conscious intelligence will subscribe to
 modernism in some degree, but his instinctive actions are
 always in the direction of a return to Mediaevalism. This
 fact is illustrated by the arrival of the Trade Union
-Movement, which was well described by Mr. Chesterton as "a
+Movement, which was well described by Mr. Chesterton as "a
 return to the past by men ignorant of the past, like the
 subconscious action of some man who has lost his memory."
 The circumstance that the Guild propaganda finds such ready

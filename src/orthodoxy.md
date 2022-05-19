@@ -9,7 +9,7 @@ may mention specially Mr. G. S. Street) said that it was all
 very well for me to tell everybody to affirm his cosmic
 theory, but that I had carefully avoided supporting my
 precepts with example. "I will begin to worry about my
-philosophy," said Mr. Street, "when Mr. Chesterton has given
+philosophy," said Mr. Street, "when Mr. Chesterton has given
 us his." It was perhaps an incautious suggestion to make to
 a person only too ready to write books upon the feeblest
 provocation. But after all, though Mr. Street has inspired
@@ -571,7 +571,7 @@ simplicity. It has just the quality of the madman's
 argument; we have at once the sense of it covering
 everything and the sense of it leaving everything out.
 Contemplate some able and sincere materialist, as, for
-instance, Mr. McCabe, and you will have exactly this unique
+instance, Mr. McCabe, and you will have exactly this unique
 sensation. He understands everything, and everything does
 not seem worth understanding. His cosmos may be complete in
 every rivet and cog-wheel, but still his cosmos is smaller
@@ -621,7 +621,7 @@ atheist is restricted. He cannot think Christianity false
 and continue to be a Christian; and the atheist cannot think
 atheism false and continue to be an atheist. But as it
 happens, there is a very special sense in which materialism
-has more restrictions than spiritualism. Mr. McCabe thinks
+has more restrictions than spiritualism. Mr. McCabe thinks
 me a slave because I am not allowed to believe in
 determinism. I think Mr. McCabe a slave because he is not
 allowed to believe in fairies. But if we examine the two
@@ -882,7 +882,7 @@ because they have been isolated from each other and are
 wandering alone. Thus some scientists care for truth; and
 their truth is pitiless. Thus some humanitarians only care
 for pity; and their pity (I am sorry to say) is often
-untruthful. For example, Mr. Blatchford attacks Christianity
+untruthful. For example, Mr. Blatchford attacks Christianity
 because he is mad on one Christian virtue: the merely
 mystical and almost irrational virtue of charity. He has a
 strange idea that he will make it easier to forgive sins by
@@ -1217,7 +1217,7 @@ in war. To preach egoism is to practise altruism. But
 however it began, the view is common enough in current
 literature. The main defence of these thinkers is that they
 are not thinkers; they are makers. They say that choice is
-itself the divine thing. Thus Mr. Bernard Shaw has attacked
+itself the divine thing. Thus Mr. Bernard Shaw has attacked
 the old idea that men's acts are to be judged by the
 standard of the desire of happiness. He says that a man does
 not act for his happiness, but from his will. He does not
@@ -4141,7 +4141,7 @@ or extreme. But, again, it is exactly true of the men in the
 streets around us. It is true that the Negro slave, being a
 debased barbarian, will probably have either a human
 affection of loyalty, or a human affection for liberty. But
-the man we see every day---the worker in Mr. Gradgrind's
+the man we see every day---the worker in Mr. Gradgrind's
 factory, the little clerk in Mr. Gradgrind's office---he is
 too mentally worried to believe in freedom. He is kept quiet
 with revolutionary literature. He is calmed and kept in his

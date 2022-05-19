@@ -5361,7 +5361,7 @@ Temple, and Stamford Hill Congregational Church for the use
 of those buildings for public services; (*e*) a letter of
 thanks to Her Majesty for permission to visit Windsor
 Castle; (*f*) and also a resolution of thanks to the Lord
-Mayor and Lady Mayoress, to Mr. Passmore Edwards, and other
+Mayor and Lady Mayoress, to Mr. Passmore Edwards, and other
 friends, who had extended their hospitality to the members
 of the Congress.
 
@@ -10851,7 +10851,7 @@ hundred thousand roubles per year, was to receive another
 three thousand roubles, for a forest which he had in a
 rascally manner taken away from a whole society of hungry
 and cold peasants, and be able to spend this money in two or
-three weeks in the restaurants of Moscow, St. Petersburg, or
+three weeks in the restaurants of Moscow, St. Petersburg, or
 Paris. It was to do such a deed that the men whom I met were
 travelling.
 

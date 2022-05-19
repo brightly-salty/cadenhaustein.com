@@ -473,7 +473,7 @@ provinces and had not heard the latest news about the town.
 I shall record later some of those arresting realities which
 the traveller does not expect; and which, in some cases I
 fear, he actually does not see because he does not expect. I
-shall try to do justice to the psychology of what Mr. Belloc
+shall try to do justice to the psychology of what Mr. Belloc
 has called 'Eye-Openers in Travel.' But there are some
 things about America that a man ought to see even with his
 eyes shut. One is that a state that came into existence
@@ -1307,7 +1307,7 @@ preference for popular Catholicism; which still has statues
 that can be wreathed in flowers. I wish our national feast
 of fireworks revolved round something positive and popular.
 I wish the beauty of a Catherine Wheel were displayed to the
-glory of St. Catherine. I should not especially complain if
+glory of St. Catherine. I should not especially complain if
 Roman candles were really Roman candles. But this negative
 character does not destroy the national character; which
 began at least in disinterested faith and has ended at least
@@ -3945,7 +3945,7 @@ become very dim. If I had been an American twenty years ago,
 in the time of the great Free Silver campaign, I should
 certainly never have hesitated for an instant about my
 sympathies or my side. My feelings would have been exactly
-those that are nobly expressed by Mr. Vachell Lindsay, in a
+those that are nobly expressed by Mr. Vachell Lindsay, in a
 poem bearing the characteristic title of 'Bryan, Bryan,
 Bryan, Bryan.' And, by the way, nobody can begin to
 sympathise with America whose soul does not to some extent
@@ -5028,7 +5028,7 @@ reconciliation of all nationalists.
 It is very difficult to see how humour can be translated at
 all. When Sam Weller is in the Fleet Prison and Mrs. Weller
 and Mr. Stiggins sit on each side of the fireplace and weep
-and groan with sympathy, old Mr. Weller observes, 'Vell,
+and groan with sympathy, old Mr. Weller observes, 'Vell,
 Samivel, I hope you ll find your spirits rose by this ere
 wisit.' I have never looked up this pas sage in the popular
 and successful French version of *Pickwick*; but I confess I
@@ -6206,7 +6206,7 @@ the old-world atmosphere of the new world.
 
 But I do not, as a fact, feel that the cathedral is a ruin;
 I doubt if I should feel it even if I wished to lay it in
-ruins. I doubt if Mr. McCabe really thinks that Catholicism
+ruins. I doubt if Mr. McCabe really thinks that Catholicism
 is dying, though he might deceive himself into saying so.
 Nobody could be naturally moved to say that the crowded
 cathedral of St. Patrick in New York was a ruin, or even
@@ -7346,7 +7346,7 @@ President of the United States.
 
 But to admire the United States as the United States is one
 thing. To admire them as the World State is quite another.
-The attempt of Mr. Wells to make America a sort of model for
+The attempt of Mr. Wells to make America a sort of model for
 the federation of all the free nations of the earth, though
 it is international in intention, is really as narrowly
 national, in the bad sense, as the desire of Mr. Kipling to
@@ -7848,7 +7848,7 @@ shoddy not to say shady a financial politician as Blaine,
 Blaine strode down the hall of Congress, and flung his spear
 full and true at the shield of every enemy of his country
 and every traducer of his fair name.' Compared with that,
-the passage about bears and buffaloes, which Mr. Pogram
+the passage about bears and buffaloes, which Mr. Pogram
 delivered in defense of the defaulting post-master, is
 really a very reasonably and appropriate statement. For
 bears and buffaloes are wild and rough and in that sense
@@ -8135,7 +8135,7 @@ lecture.
 If I were asked for a single symbolic figure summing up the
 whole of what seems eccentric and interesting about America
 to an Englishman, I should be satisfied to select that one
-lady who complained of Mrs. Asquith's lecture and wanted her
+lady who complained of Mrs. Asquith's lecture and wanted her
 money back. I do not mean that she was typically American in
 complaining; far from it. I, for one, have a great and
 guilty knowledge of all that amiable American audiences will
@@ -9204,7 +9204,7 @@ servants, that they are disappointing the sentiments of
 Thomas Jefferson, or disregarding a creed composed in the
 eighteenth century, will be about as effective as telling
 them that they are not observing the creed of St. Athanasius
-or keeping the rule of St. Benedict.
+or keeping the rule of St. Benedict.
 
 The world cannot keep its own ideals. The secular order
 cannot make secure any one of its own noble and natural

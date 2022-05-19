@@ -316,7 +316,7 @@ great celebration in Music Hall, Boston, of that happy
 event, the signing of the Proclamation of Emancipation by
 Abraham Lincoln in June, 1864. When my father saw Lincoln in
 Washington after attending the National Convention for the
-nomination of President and Vice-President, Mr. Lincoln told
+nomination of President and Vice-President, Mr. Lincoln told
 him that he never could have written the Proclamation of
 Emancipation had Mr. Garrison and his coadjutors not made
 the public sentiment upon which he, Lincoln, had to rely for
@@ -407,14 +407,14 @@ After arriving in London my father received an invitation to
 take breakfast with Sir Fowell Buxton which he gladly
 accepted and reached the house at the appointed time. When
 his name was announced Mr. Buxton inquired somewhat
-dubiously: "Have I the pleasure of addressing Mr. Garrison
+dubiously: "Have I the pleasure of addressing Mr. Garrison
 of Boston in the United States ?" The latter replied "Yes,
 Sir, I am he, and I am here in accordance with your
 invitation." Lifting up his hands Sir Fowell exclaimed:
 "Why, my dear sir, I thought that you were a black man!"
 Referring to this episode my father said that that was the
 only compliment that he cared to remember or to tell, for
-Mr. Buxton somehow or other supposed that no white American
+Mr. Buxton somehow or other supposed that no white American
 could plead for those in bondage as he had done, therefore
 he must be black.
 
@@ -914,7 +914,7 @@ parties---God knows that my heart must be with the oppressed
 and always against the oppressor."
 
 Many questions that are asked Non-Resistants today were put
-to Mr. Garrison at the time of the Civil War. When thus
+to Mr. Garrison at the time of the Civil War. When thus
 interrogated in regard to his peace views he replied: "This
 question is exultingly put to the friends of peace and
 Non-Resistance by those whose military ardor is now at a
@@ -1025,7 +1025,7 @@ together with Mr. Garrison, who stated, however, at the end
 of *The Non-Resistant*'s existence, that he had not spent
 half a day during the whole period of the paper's life in
 preparing editorial matter for it. The bulk of the work was,
-therefore, done by Mrs. Chapman and Mr. Quincy, assisted by
+therefore, done by Mrs. Chapman and Mr. Quincy, assisted by
 Charles K. Whipple, the Treasurer of the Non-Resistant
 Society, and by Henry C. Wright, one of Mr. Garrison's
 closest friends and associates. He was the sole missionary
@@ -1501,7 +1501,7 @@ But it was what the hour called for; with all its
 ponderousness, with all its Biblical allusions and
 quotations, it was clear, wonderfully telling and still more
 wonderfully suited to the sturdy middle-class audience and
-the time to which it appealed. Mr. Chapman realizes this,
+the time to which it appealed. Mr. Chapman realizes this,
 for side by side with his criticism he writes:
 
 >  "Garrison was not a man of this kind. His mission was
@@ -1669,7 +1669,7 @@ Tremlett & Co., 1879.
 
 The Garrison Mob in Boston, October 21, 1835. By Ellis Ames.
 (Proceedings of the Massachusetts Historical Society.
-February, 1881, p. 340-344.)
+February, 1881, p. 340-344.)
 
 Garrison, the Non-Resistant. By Ernest Howard Crosby.
 Chicago, The Public Publishing Co., 1905.
@@ -1838,7 +1838,7 @@ the United States. Boston: R. F. Wallcut. 1852.
 
 Letters relative to the So-Called Southern Policy of
 President Hayes. By William E. Chandler, together with a
-Letter to Mr. Chandler of Mr. William Lloyd Garrison.
+Letter to Mr. Chandler of Mr. William Lloyd Garrison.
 Concord, N. H., Monitor & Statesman Office. 1878.
 
 The Loyalty and Devotion of the Colored Americans in the

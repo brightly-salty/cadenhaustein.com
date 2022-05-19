@@ -105,7 +105,7 @@ basis, which is common to all, and a scheme of social
 application which varies a good deal. For the moral basis,
 it is obvious that man's ethical responsibility varies with
 his knowledge of consequences. If I were in charge of a baby
-(like Dr. Johnson in that tower of vision), and if the baby
+(like Dr. Johnson in that tower of vision), and if the baby
 was ill through having eaten the soap, I might possibly send
 for a doctor. I might be calling him away from much more
 serious cases, from the bedsides of babies whose diet had
@@ -1012,7 +1012,7 @@ lucidity and impropriety), "Sir, I perceive you have a
 confused mind and an unphilosophic theory about other
 people's love affairs. Such are the hereditary delusions
 bred by a Syrian doctor marrying a Quaker lady from York."
-Suppose Dr. Karl Pearson had said to Shelley, "From what I
+Suppose Dr. Karl Pearson had said to Shelley, "From what I
 see of your temperament, you are running great risks in
 forming a connection with the daughter of a fanatic and
 eccentric like Godwin." Shelley would be employing the
@@ -1769,7 +1769,7 @@ we know not, in what proportion we know not, and we cannot
 know.
 
 Now it is just here that the decent difference of function
-between Dr. Saleeby's trade and mine comes in. It is his
+between Dr. Saleeby's trade and mine comes in. It is his
 business to study human health and sickness as a whole, in a
 spirit of more or less enlightened guesswork; and it is
 perfectly natural that he should allow for heredity here,
@@ -1801,7 +1801,7 @@ believes in respectability; just as (*si parva licet* etc.)
 they will talk of my own paradoxes, when I pass my life in
 preaching that the truisms are true; so an enormous number
 of newspaper readers seem to have it fixed firmly in their
-heads that Mr. H. G. Wells is a harsh and horrible Eugenist
+heads that Mr. H. G. Wells is a harsh and horrible Eugenist
 in great goblin spectacles, who wants to put us all into
 metallic microscopes and dissect us with metallic tools. As
 a matter of fact, of course, Mr. Wells, so far from being
@@ -2459,7 +2459,7 @@ horrible. Our mistakes have become our secrets. Editors and
 journalists tear up with a guilty air all that reminds them
 of the party promises unfulfilled, or the party ideals
 reproaching them. It is true of our statesmen (much more
-than of our bishops, of whom Mr. Wells said it), that
+than of our bishops, of whom Mr. Wells said it), that
 socially in evidence they are intellectually in hiding. The
 society is heavy with unconfessed sins; its mind is sore and
 silent with painful subjects; it has a constipation of

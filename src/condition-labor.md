@@ -1935,7 +1935,7 @@ which men can conceive. Nor do we say that it cannot be
 possible for mankind to attain it, since among the early
 Christians and among the religious orders of the Catholic
 church we have examples of communistic societies on a small
-scale. St. Peter and St. Paul, St. Thomas Aquinas and Fra
+scale. St. Peter and St. Paul, St. Thomas Aquinas and Fra
 Angelico, the illustrious orders of the Carmelites and
 Franciscans, the Jesuits, whose heroism carried the cross
 among the most savage tribes of American forests, the

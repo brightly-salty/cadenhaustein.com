@@ -61,7 +61,7 @@ Thus, for instance, there were Mr. H. G. Wells and others,
 who thought that science would take charge of the future;
 and just as the motor-car was quicker than the coach, so
 some lovely thing would be quicker than the motor-car; and
-so on for ever. And there arose from their ashes Dr. Quilp,
+so on for ever. And there arose from their ashes Dr. Quilp,
 who said that a man could be sent on his machine so fast
 round the world that he could keep up a long chatty
 conversation in some old-world village by saying a word of a
@@ -373,7 +373,7 @@ in his rooms? It's like being inside an amethyst. And he
 moves about in all that and talks like---like a turnip."
 
 "Well, damn all books. Your blue books as well," said the
-ingenuous Mr. Lambert, with a friendly simplicity. "You
+ingenuous Mr. Lambert, with a friendly simplicity. "You
 ought to understand such things. What do you make of him?"
 
 "He's beyond me," returned Barker. "But if you asked me for
@@ -1761,7 +1761,7 @@ sense it was popular enough. In many happy homes that
 remarkable legal document was read aloud on winter evenings
 amid uproarious appreciation, when everything had been
 learnt by heart from that quaint but immortal old classic,
-Mr. W. W. Jacobs. But when it was discovered that the King
+Mr. W. W. Jacobs. But when it was discovered that the King
 had every intention of seriously requiring the provisions to
 be carried out, of insisting that the grotesque cities, with
 their tocsins and city guards, should really come into
@@ -1812,7 +1812,7 @@ blood and a flush to the cheek of all the speculative
 builders and house agents from Shepherd's Bush to the Marble
 Arch, and from Westbourne Grove to High Street, Kensington.
 I refer to the great affair of the improvements in Notting
-Hill. The scheme was conducted chiefly by Mr. Buck, the
+Hill. The scheme was conducted chiefly by Mr. Buck, the
 abrupt North Kensington magnate, and by Mr. Wilson, the
 Provost of Bayswater. A great thoroughfare was to be driven
 through three boroughs, through West Kensington, North
@@ -4823,7 +4823,7 @@ politeness, took no notice whatever of the King's maddening
 geniality.
 
 "I took the liberty, your Majesty," he said shortly, "of
-asking Mr. Barker to come here also."
+asking Mr. Barker to come here also."
 
 As he spoke, indeed, Barker came swinging into the office,
 with his usual air of hurry.
@@ -5938,7 +5938,7 @@ himself. "To inflame every one so much that he is lost
 himself in the blaze. Is this his victory, that he, my
 incomparable Wayne, is now only one in a world of Waynes?
 Has he conquered and become by conquest commonplace? Must
-Mr. Mead, the grocer, talk as high as he? Lord! what a
+Mr. Mead, the grocer, talk as high as he? Lord! what a
 strange world in which a man cannot remain unique even by
 taking the trouble to go mad."
 

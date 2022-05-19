@@ -2759,7 +2759,7 @@ who went a crooked mile." He really looked as if he had been
 twisted out of shape by the tortuous streets he had been
 threading. He came nearer and nearer, the lamplight shining
 on his lifted spectacles, his lifted, patient face. Syme
-waited for him as St. George waited for the dragon, as a man
+waited for him as St. George waited for the dragon, as a man
 waits for a final explanation or for death. And the old
 Professor came right up to him and passed him like a total
 stranger, without even a blink of his mournful eyelids.
@@ -4286,7 +4286,7 @@ from disabling him for at least twenty minutes. In twenty
 minutes the Paris train would have gone by.
 
 "To a man of the well-known skill and valour of Monsieur de
-St. Eustache," said the Professor solemnly, "it must be a
+St. Eustache," said the Professor solemnly, "it must be a
 matter of indifference which method is adopted, and our
 principal has strong reasons for demanding the longer
 encounter, reasons the delicacy of which prevent me from
@@ -5482,7 +5482,7 @@ through his hat.
 now?"
 
 "I think," said Dr. Bull with precision, "that I am lying in
-bed at No. 217 Peabody Buildings, and that I shall soon wake
+bed at No. 217 Peabody Buildings, and that I shall soon wake
 up with a jump; or, if that's not it, I think that I am
 sitting in a small cushioned cell in Hanwell, and that the
 doctor can't make much of my case. But if you want to know

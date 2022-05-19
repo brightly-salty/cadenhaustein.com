@@ -15,7 +15,7 @@ sympathetic in the modern mood; the love of nature; the love
 of animals; the sense of social compassion; the sense of the
 spiritual dangers of prosperity and even of property. All
 those things that nobody understood before Wordsworth were
-familiar to St. Francis. All those things that were first
+familiar to St. Francis. All those things that were first
 discovered by Tolstoy had been taken for granted by
 St. Francis. He could be presented, not only as a human but
 a humanitarian hero; indeed as the first hero of humanism.
@@ -26,7 +26,7 @@ contemporary accident, which was fortunately not a fatal
 accident. His religion can be regarded as a superstition,
 but an inevitable superstition, from which not even genius
 could wholly free itself; in the consideration of which it
-would be unjust to condemn St. Francis for his self-denial
+would be unjust to condemn St. Francis for his self-denial
 or unduly chide him for his chastity. It is quite true that
 even from so detached a standpoint his stature would still
 appear heroic. There would still be a great deal to be said
@@ -182,7 +182,7 @@ their being. He will not go without food in the name of
 something, not ourselves, that makes for righteousness. He
 will do things like this, or pretty nearly like this, under
 quite a different impulse. He will do these things when he
-is in love. The first fact to realise about St. Francis is
+is in love. The first fact to realise about St. Francis is
 involved in the first fact with which his story starts; that
 when he said from the first that he was a Troubadour, and
 said later that he was a Troubadour of a newer and nobler
@@ -395,7 +395,7 @@ unintelligible, just as St. Dominic is unintelligible,
 unless we do understand something of what the thirteenth
 century meant by heresy and a crusade. But for the moment I
 use it as a lesser example for a much larger purpose. It is
-to point out that to begin the story of St. Francis with the
+to point out that to begin the story of St. Francis with the
 birth of St. Francis would be to miss the whole point of the
 story, or rather not to tell the story at all. And it is to
 suggest that the modern tail-foremost type of journalistic
@@ -1025,7 +1025,7 @@ dizzy and even crazy; but it was founded on this high
 table-land of human equality.
 
 I have taken this the first among a hundred tales of the
-youth of St. Francis, and dwelt on its significance a
+youth of St. Francis, and dwelt on its significance a
 little, because until we have learned to look for the
 significance there will often seem to be little but a sort
 of light sentiment in telling the story. St. Francis is not
@@ -1531,7 +1531,7 @@ It was a sort of *sors virgiliana* applied to the Bible; a
 practice not unknown among Protestants though open to their
 criticism, one would think, as being rather a superstition
 of pagans. Anyhow it seems almost the opposite of searching
-the Scriptures to open them at random; but St. Francis
+the Scriptures to open them at random; but St. Francis
 certainly opened them at random. According to one story, he
 merely made the sign of the cross over the volume of the
 Gospel and opened it at three places reading three texts.
@@ -1766,7 +1766,7 @@ like the Tumblers of Our Lord.
 
 Somewhere in that transition from the ambition of the
 Troubadour to the antics of the Tumbler is hidden, as under
-a parable, the truth of St. Francis. Of the two minstrels or
+a parable, the truth of St. Francis. Of the two minstrels or
 entertainers, the jester was presumably the servant or at
 least the secondary figure. St. Francis really meant what he
 said when he said he had found the secret of life in being
@@ -1816,7 +1816,7 @@ parable. Our Lady's Tumbler did not stand on his head *in
 order* to see flowers and trees as a clearer or quainter
 vision. He did not do so; and it would never have occurred
 to him to do so. Our Lady's Tumbler stood on his head to
-please Our Lady. If St. Francis had done the same thing, as
+please Our Lady. If St. Francis had done the same thing, as
 he was quite capable of doing, it would originally have been
 from the same motive; a motive of a purely supernatural
 thought. It would be *after* this that his enthusiasm would
@@ -2125,7 +2125,7 @@ not demanded that it was done. But whether or no any such
 lesser things will throw a light on the greater, it is
 utterly useless to study a great thing like the Franciscan
 movement while remaining in the modern mood that murmurs
-against gloomy asceticism. The whole point about St. Francis
+against gloomy asceticism. The whole point about St. Francis
 of Assisi is that he certainly was ascetical and he
 certainly was not gloomy. As soon as ever he had been
 unhorsed by the glorious humiliation of his vision of
@@ -2955,7 +2955,7 @@ said, the whole population of a town, men, women and
 children, turned out, leaving their work and wealth and
 homes exactly as they stood and begging to be taken into the
 army of God on the spot. According to the story, it was on
-this occasion that St. Francis first foreshadowed his idea
+this occasion that St. Francis first foreshadowed his idea
 of the Third Order which enabled men to share in the
 movement without leaving the homes and habits of normal
 humanity. For the moment it is most important to regard this
@@ -2970,7 +2970,7 @@ This rough outline can only be rounded off here with some
 description of the Second and Third Orders, though they were
 founded later and at separate times. The former was an order
 for women and owed its existence, of course, to the
-beautiful friendship of St. Francis and St. Clare. There is
+beautiful friendship of St. Francis and St. Clare. There is
 no story about which even the most sympathetic critics of
 another creed have been more bewildered and misleading. For
 there is no story that more clearly turns on that simple
@@ -3048,7 +3048,7 @@ found by the felicity of popular legend, which says that one
 night the people of Assisi thought the trees and the holy
 house were on fire, and rushed up to extinguish the
 conflagration. But they found all quiet within, where
-St. Francis broke bread with St. Clare at one of their rare
+St. Francis broke bread with St. Clare at one of their rare
 meetings, and talked of the love of God. It would be hard to
 find a more imaginative image, for some sort of utterly pure
 and disembodied passion, than that red halo round the
@@ -3130,7 +3130,7 @@ tempted by a sacrament.
 No man who has been given the freedom of the Faith is likely
 to fall into those hole-and-corner extravagances in which
 later degenerate Franciscans, or rather Fraticelli, sought
-to concentrate entirely on St. Francis as a second Christ,
+to concentrate entirely on St. Francis as a second Christ,
 the creator of a new gospel. In fact any such notion makes
 nonsense of every motive in the man's life; for no man would
 reverently magnify what he was meant to rival, or only
@@ -3169,7 +3169,7 @@ religious sentiment might well be shocked at the end of the
 sentence; but nobody could object to it except the logician
 who said that Caesar and Pompey were very much alike,
 especially Pompey. It may give a much milder shock if I say
-here, what most of us have forgotten, that if St. Francis
+here, what most of us have forgotten, that if St. Francis
 was like Christ, Christ was to that extent like St. Francis.
 And my present point is that it is really very enlightening
 to realise that Christ was like St. Francis. What I mean is
@@ -3254,7 +3254,7 @@ brigand to recover his shoes, he ought to pursue him to make
 him a present of his stockings. We may like or not the
 atmosphere these things imply; but we know what atmosphere
 they do imply. We recognise a certain note as natural and
-clear as the note of a bird; the note of St. Francis. There
+clear as the note of a bird; the note of St. Francis. There
 is in it something of gentle mockery of the very idea of
 possessions; something of a hope of disarming the enemy by
 generosity; something of a humorous sense of bewildering the
@@ -3322,7 +3322,7 @@ superiority may be superciliousness.
 But the saint is never supercilious, for he is always by
 hypothesis in the presence of a superior. The objection to
 an aristocracy is that it is a priesthood without a god. But
-in any case the service to which St. Francis had committed
+in any case the service to which St. Francis had committed
 himself was one which, about this time, he conceived more
 and more in terms of sacrifice and crucifixion. He was full
 of the sentiment that he had not suffered enough to be
@@ -3582,7 +3582,7 @@ whether the winged figure was itself crucified or in the
 posture of crucifixion, or whether it merely enclosed in its
 frame of wings some colossal crucifix. But it seems clear
 that there was some question of the former impression; for
-St. Bonaventura distinctly says that St. Francis doubted how
+St. Bonaventura distinctly says that St. Francis doubted how
 a seraph could be crucified, since those awful and ancient
 principalities were without the infirmity of the Passion.
 St. Bonaventura suggests that the seeming contradiction may
@@ -3715,7 +3715,7 @@ tell us of a wild story that St. Francis flung himself into
 the camp of the ferocious Moslems and returned safe? I only
 ask for information; for I do not see the rationale of the
 thing myself. I will undertake to say there was not a word
-written of St. Francis by any contemporary who was himself
+written of St. Francis by any contemporary who was himself
 incapable of believing and telling a miraculous story.
 Perhaps it is all monkish fables and there never was any
 St. Francis or any St. Thomas Becket or any Joan of Arc.
@@ -3737,11 +3737,11 @@ should not exactly take an affidavit that the balloon was
 blue any more than that the moon was green. And the really
 logical conclusion from throwing doubts on all tales like
 the miracles of St. Francis was to throw doubts on the
-existence of men like St. Francis. And there really was a
+existence of men like St. Francis. And there really was a
 modern moment, a sort of high-water mark of insane
 scepticism, when this sort of thing was really said or done.
 People used to go about saying that there was no such person
-as St. Patrick; which is every bit as much of a human and
+as St. Patrick; which is every bit as much of a human and
 historical howler as saying there was no such person as
 St. Francis. There was a time, for instance, when the
 madness of mythological explanation had dissolved a large
@@ -3842,7 +3842,7 @@ in a straightforward way, miracles and all, as the original
 historians told it. And to this sane and simple course the
 new historians will probably have to return. But it must be
 remembered that this book is avowedly only an introduction
-to St. Francis or the study of St. Francis. Those who need
+to St. Francis or the study of St. Francis. Those who need
 an introduction are in their nature strangers. With them the
 object is to get them to listen to St. Francis at all; and
 in doing so it is perfectly legitimate so to arrange the
@@ -3907,7 +3907,7 @@ necessary to suggest that it was a conspiracy; indeed there
 has been some disposition to put the fraud upon the
 unfortunate Elias, whom so many parties have been disposed
 to treat as a useful universal villain. It has been said,
-indeed, that these early biographers, St. Bonaventura and
+indeed, that these early biographers, St. Bonaventura and
 Celano and the Three Companions, though they declare that
 St. Francis received the mystical wounds, do not say that
 they themselves saw those wounds. I do not think this
@@ -4223,7 +4223,7 @@ the first foreshadowing the Faith. It is well to have the
 Sybil as well as David in the Dies Irae. That St. Francis
 would have burned all the leaves of all the books of the
 Sybil, in exchange for one fresh leaf from the nearest tree,
-is perfectly true; and perfectly proper to St. Francis. But
+is perfectly true; and perfectly proper to St. Francis. But
 it is good to have the Dies Irae as well as the Canticle of
 the Sun.
 
@@ -4322,7 +4322,7 @@ recognise in them a taste and tang of audacity and
 simplicity, and know them for the sons of St. Francis.
 
 For that is the full and final spirit in which we should
-turn to St. Francis; in the spirit of thanks for what he has
+turn to St. Francis; in the spirit of thanks for what he has
 done. He was above all things a great giver; and he cared
 chiefly for the best kind of giving which is called
 thanksgiving. If another great man wrote a grammar of
@@ -4342,7 +4342,7 @@ awakening of the world and a dawn in which all shapes and
 colours could be seen anew. The mighty men of genius who
 made the Christian civilisation that we know appear in
 history almost as his servants and imitators. Before Dante
-was, he had given poetry to Italy; before St. Louis ruled,
+was, he had given poetry to Italy; before St. Louis ruled,
 he had risen as the tribune of the poor; and before Giotto
 had painted the pictures, he had enacted the scenes. That
 great painter who began the whole human inspiration of

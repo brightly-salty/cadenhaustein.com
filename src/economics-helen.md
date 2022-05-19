@@ -3923,7 +3923,7 @@ handful of cattle hardly count.
 
 Here, then, we have a wealth of £30,000,000 in manufactured
 iron goods, of which £10,000,000 goes to Island No. A and
-£19,000,000 to Island No. B, and £1 million to whoever
+£19,000,000 to Island No. B, and £1 million to whoever
 carries the ore in ships. If you were estimating the wealth
 of the whole realm made up of the three islands, A, B and C,
 you would say: "The wealth of these people consists in
@@ -3969,7 +3969,7 @@ adding £4,000,000 extra to the cost of getting the raw
 material. *But the total combined wealth of B and C, even if
 they pay foreign ships to bring the ore, is now greater than
 it used to be under the old Free Trade.* No. B has
-£15,000,000; No. C has £10,000,000---the total is
+£15,000,000; No. C has £10,000,000---the total is
 £25,000,000. If they pay their own sailors to bring the ore
 it is £30,000,000. Under the old conditions the total of B
 and C alone was only £19,000,000. Island A is ruined and the
@@ -4314,7 +4314,7 @@ get the actual cash from my banker, Mr. Smith, but simply
 gave in the cheque, endorsed by him, to Mr. Brown, *his*
 banker, and said: "Get this from Mr. Smith, the other
 banker, and add it to the sum which I have banked with you,
-Mr. Brown." The banker Brown did this, and the cheque which
+Mr. Brown." The banker Brown did this, and the cheque which
 I had originally signed in favour of John Jones, having gone
 the rounds, was sent back to me to prove that the
 transaction was complete.
