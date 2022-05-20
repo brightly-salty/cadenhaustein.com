@@ -7073,7 +7073,7 @@ end is peace. It is to harmonize the discords of human
 society, by relating its activities to the spiritual purpose
 from which they derive their significance.
 
->  Frate, la nostra volontà quieta
+> Frate, la nostra volontà quieta
 >
 > Virtu di carità, che fa volerne
 >
@@ -7085,12 +7085,12 @@ from which they derive their significance.
 >
 > Foran discordi gli nostri disiri
 >
-> Dal volar di colui che qui ne cerne. ... Anzi e form ale
-> ad esto beato esse
+> Dal volar di colui che qui ne cerne... Anzi e form ale ad
+> esto beato esse
 >
 > Tenersi dentro alia divina voglia.
 >
-> Per ch'una fansi nostre voglie stesse ... Chiaro mi fu
+> Per ch'una fansi nostre voglie stesse... Chiaro mi fu
 > allor com' ogni dove
 >
 > In Cielo e paradiso, e si la grazia
