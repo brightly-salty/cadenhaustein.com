@@ -84,25 +84,25 @@ public, 'Long live the Tsar! Long live Russia!' These
 exclamations blended into one mighty sound, which drowned
 the music and the salvos from the guns.
 
-"Eye-witnesses declare that at this moment the enthusiasm of
-the innumerable mass of people reached its highest limits,
-and that it is impossible to express in words with what
-sensations the hearts of all those present were filled.
+"Eye-witnesses declare that at this moment the enthusiasm
+of the innumerable mass of people reached its highest
+limits, and that it is impossible to express in words with
+what sensations the hearts of all those present were filled.
 Admiral Avelan, with bared head, and accompanied by Russian
 and French officers, directed his steps to the building of
 the Marine Office, where the French minister of marine was
 waiting for him.
 
-"In receiving the admiral, the minister said: 'Kronstadt and
-Toulon are two places which bear witness to the sympathy
+"In receiving the admiral, the minister said: 'Kronstadt
+and Toulon are two places which bear witness to the sympathy
 between the Russian and the French nations; you will
 everywhere be met as dear friends. The government and all of
 France welcome you upon your arrival and that of your
 companions, who represent a great and noble nation.'
 
-"The admiral replied that he was not able to express all his
-gratitude. The Russian squadron and all of Russia,' he said,
-'will remember the reception you have given us.'
+"The admiral replied that he was not able to express all
+his gratitude. The Russian squadron and all of Russia,' he
+said, 'will remember the reception you have given us.'
 
 "After a short conversation, the admiral, saying goodbye to
 the minister, a second time thanked him for the reception,
@@ -685,8 +685,8 @@ persons present that he has not the slightest intention of
 knocking out anybody's teeth, smashing eyes, or breaking
 arms, but means only to pass a peaceable evening. "But
 nobody has any doubts about that," one feels like saying to
-him. " But if you have such base intentions, at least do not
-dare speak of them to us."
+him. " But if you have such base intentions, at least do
+not dare speak of them to us."
 
 In many articles, which were written about these
 celebrations, there is even a direct and naive expression of

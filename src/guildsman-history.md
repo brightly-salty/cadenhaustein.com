@@ -2664,14 +2664,15 @@ tenements."This was the thin end of the wedge. Like all the
 law on the subject, it is delightfully and intentionally
 vague, in order that the lawyers might twist and twine its
 meaning, and the lords bully their dependents as best suited
-their ends. The question, of course, arises how much is
-"sufficient pasture." This is obviously a matter of opinion,
-and as the burden of proof lay upon the tenant, who, if he
-objected to enclosures, had to prove that he could not find
-sufficient pasture, the statute in effect granted the lords
-the right to enclose the common lands to their hearts
-content, and allowed the peasantry no redress against
-injustice, as the courts were in conspiracy against them.
+their ends. The question, of course, arises how much
+is"sufficient pasture." This is obviously a matter of
+opinion, and as the burden of proof lay upon the tenant,
+who, if he objected to enclosures, had to prove that he
+could not find sufficient pasture, the statute in effect
+granted the lords the right to enclose the common lands to
+their hearts content, and allowed the peasantry no redress
+against injustice, as the courts were in conspiracy against
+them.
 
 Before the lawyers came along with their Roman Law,
 Feudalism was a defensible if not an ideal form of
@@ -2789,8 +2790,8 @@ office is to interpret law, and not to make law or give
 law." And so he viewed with alarm the growing influence of
 Parliament, as it implied the growing influence of lawyers.
 "Without the lawyers," he said, the country gentlemen would
-be leaderless." He had no objection to Parliament so long as
-they did not attempt to control the Government, but he
+be leaderless." He had no objection to Parliament so long
+as they did not attempt to control the Government, but he
 clearly foresaw the paralysis that would overtake State
 policy if ever the lawyers got the upper hand. For though
 later the Revolution taught men that lawyers prefer some
@@ -3794,8 +3795,8 @@ been the connecting link by which Greek science and
 philosophy were transmitted from the conquered to the
 conquerors, and it came about this way:
 
-"When the Caliphate was usurped by the Umayyad, the fugitive
-Abbasid princes, Abbas and Ali, sojourned among the
+"When the Caliphate was usurped by the Umayyad, the
+fugitive Abbasid princes, Abbas and Ali, sojourned among the
 Nestorians of Arabia, Mesopotamia and Western Persia and
 from them acquired a knowledge and a love of Greek Science
 and philosophy. Upon the accession of the Abbasid dynasty to
@@ -6029,8 +6030,8 @@ off than he was before he confiscated a single convent.
 "When complaining to Cromwell of the rapacity of the
 applicants for grants he exclaimed:"By Our Lady! the
 cormorants, when they have got the garbage, will devour the
-dish." Cromwell reminded him that there was much more yet to
-come. "Tut, man," said the King, my whole realm would not
+dish." Cromwell reminded him that there was much more yet
+to come. "Tut, man," said the King, my whole realm would not
 staunch their maws."And thus it was that from confiscating
 the property of the smaller monasteries he went on to seize
 that of the larger ones, for there was no stopping half-way
@@ -8681,40 +8682,40 @@ husbandman. But when we consider his labours in the harvest,
 which is the end of his endeavours, we shall find the worth
 and plentiful increase of his actions."
 
-The sub-title of the treatise declares that " the balance of
-our foreign trade is the rule of Treasury," and the object
-is declared to be to exhibit the means by which a kingdom
-may be enriched. "The ordinary means to increase our wealth
-and treasure is by foreign trade, wherein we must ever
-observe this rule---to sell more to strangers yearly than we
-consume of theirs in value. For that part of our stock which
-is not returned to us in wares must necessarily be brought
-home in treasure." Every effort must therefore be devoted to
-increase our exports and to decrease our consumption of
-foreign commodities. Waste land should be used to grow hemp,
-flax and other articles which are now imported. We might
-also diminish our imports if we would lessen our demand for
-foreign wares in diet and raiment. The vagaries and excesses
-of fashion might be corrected by adopting sumptuary laws
-prevailing in other countries. "If in our raiment we will be
-prodigal, let this be done by our own manufactures, where
-the success of the rich may be the employment of the poor,
-whose labours, notwithstanding, would be more profitable if
-they were done to the use of strangers." We may charge a
-high price for articles which our neighbours need and which
-no other country can supply; but those of which we do not
-possess the monopoly must be sold as cheap as possible.
-Foreign materials worked up in England for export should be
-duty free. Our exports should be carried in our own ships,
-and our fisheries should be developed. Writing as a Director
-of the East India Company, Mun pronounced our trade with the
-East Indies the most profitable of our commercial
-activities, not only because we obtain its products cheaply
-for ourselves, but because we sell the surplus at a high
-price to our neighbours. This " may well stir up our utmost
-endeavours to maintain and enlarge this great and noble
-business, so much importing the public wealth, strength and
-happiness."
+The sub-title of the treatise declares that " the balance
+of our foreign trade is the rule of Treasury," and the
+object is declared to be to exhibit the means by which a
+kingdom may be enriched. "The ordinary means to increase our
+wealth and treasure is by foreign trade, wherein we must
+ever observe this rule---to sell more to strangers yearly
+than we consume of theirs in value. For that part of our
+stock which is not returned to us in wares must necessarily
+be brought home in treasure." Every effort must therefore be
+devoted to increase our exports and to decrease our
+consumption of foreign commodities. Waste land should be
+used to grow hemp, flax and other articles which are now
+imported. We might also diminish our imports if we would
+lessen our demand for foreign wares in diet and raiment. The
+vagaries and excesses of fashion might be corrected by
+adopting sumptuary laws prevailing in other countries. "If
+in our raiment we will be prodigal, let this be done by our
+own manufactures, where the success of the rich may be the
+employment of the poor, whose labours, notwithstanding,
+would be more profitable if they were done to the use of
+strangers." We may charge a high price for articles which
+our neighbours need and which no other country can supply;
+but those of which we do not possess the monopoly must be
+sold as cheap as possible. Foreign materials worked up in
+England for export should be duty free. Our exports should
+be carried in our own ships, and our fisheries should be
+developed. Writing as a Director of the East India Company,
+Mun pronounced our trade with the East Indies the most
+profitable of our commercial activities, not only because we
+obtain its products cheaply for ourselves, but because we
+sell the surplus at a high price to our neighbours. This "
+may well stir up our utmost endeavours to maintain and
+enlarge this great and noble business, so much importing the
+public wealth, strength and happiness."
 
 Such was the faith of Mercantilism as it was most widely
 accepted. Apart from what he has to say about sumptuary
@@ -8813,30 +8814,30 @@ for all and to spare.
 That Adam Smith should have been hailed as a prophet can
 only be explained on the hypothesis that the moral tone of
 society had already reached its nadir ere he wrote. Ruskin's
-allusion to him as " the half-bred and half-witted Scotchman
-who taught the deliberate blasphemy: Thou shalt hate the
-Lord thy God, damn His laws and covet thy neighbour's
-goods," was well deserved, and is not the less true because
-he was sufficiently cunning to wrap up his devilish advice
-in language of plausible sophistry instead of presenting it
-in the raw. The apology of all who act as Adam Smith would
-have them do is that they take the world as they find it,
-but they conceal the fact that they are content to leave it
-worse than they found it. Of no one is this truer than of
-Adam Smith. He was the pioneer of that economic fatalism
-which during its fifty years of power paralysed society. In
-the hands of his followers all his half-hearted
-qualifications were torn away and political economy became
-the rigid soulless doctrine of every man for himself and the
-devil take the hindermost, and all sympathy for the
-exploited was strangled by the Ricardian "iron law of
-wages." That Ruskin entirely annihilated the brazen doctrine
-in the first three pages of *Unto this Last*, published in
-1862, by exposing the fallacy underlying the method of
-reasoning of the Manchester economists, any one with an
-ounce of logic in his composition is well aware. Yet in
-spite of this it showed no signs of weakening until its most
-distinguished adherent, John Stuart Mill, disowned the
+allusion to him as " the half-bred and half-witted
+Scotchman who taught the deliberate blasphemy: Thou shalt
+hate the Lord thy God, damn His laws and covet thy
+neighbour's goods," was well deserved, and is not the less
+true because he was sufficiently cunning to wrap up his
+devilish advice in language of plausible sophistry instead
+of presenting it in the raw. The apology of all who act as
+Adam Smith would have them do is that they take the world as
+they find it, but they conceal the fact that they are
+content to leave it worse than they found it. Of no one is
+this truer than of Adam Smith. He was the pioneer of that
+economic fatalism which during its fifty years of power
+paralysed society. In the hands of his followers all his
+half-hearted qualifications were torn away and political
+economy became the rigid soulless doctrine of every man for
+himself and the devil take the hindermost, and all sympathy
+for the exploited was strangled by the Ricardian "iron law
+of wages." That Ruskin entirely annihilated the brazen
+doctrine in the first three pages of *Unto this Last*,
+published in 1862, by exposing the fallacy underlying the
+method of reasoning of the Manchester economists, any one
+with an ounce of logic in his composition is well aware. Yet
+in spite of this it showed no signs of weakening until its
+most distinguished adherent, John Stuart Mill, disowned the
 superstition seven years afterwards, in 1869.
 
 Apologists of Adam Smith urge in his defence that the
@@ -9354,8 +9355,8 @@ expediency, useful at a particular juncture but with no
 finality about them. The supposed central truth of the new
 economics having been established in this way, sophists
 found no difficulty in persuading the world that all other
-ideas and traditions which clashed with the demands of
-"progress" were of themselves dated. Such ideas, they
+ideas and traditions which clashed with the demands
+of"progress" were of themselves dated. Such ideas, they
 affirmed, might be true at one stage of social evolution but
 not at another. All truth, they maintained, was relative;
 absolute truth did not exist.

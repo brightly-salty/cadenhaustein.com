@@ -63,8 +63,11 @@ main = hakyllWith config $ do
     dependency <- makePatternDependency "books.json"
     rulesExtraDependencies [dependency] $
       compile $ do
-        Just books <- recompilingUnsafeCompiler $ decodeFileStrict "books.json"
-        getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField books <> boolField "doBooks" (const True)) >>= relativizeUrls 
+        result <- recompilingUnsafeCompiler $ eitherDecodeFileStrict "books.json"
+        case result of
+          Right books ->
+            getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField books <> boolField "doBooks" (const True)) >>= relativizeUrls 
+          Left e -> error e
 
   create ["blog/index.html"] $ do
     route idRoute
@@ -127,7 +130,7 @@ replace from to = intercalate to . splitOn from
 cleanIndex :: String -> String
 cleanIndex = replace ".html" "" . replace "index.html" "./" . replace "/index.html" "/"
 
-data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: Maybe String, votes :: Int}
+data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, lastWriteTime :: String}
   deriving (Generic, Show)
 
 instance ToJSON Book where
@@ -136,10 +139,7 @@ instance ToJSON Book where
 instance FromJSON Book
 
 compareBooks :: Book -> Book -> Ordering
-compareBooks a b
-  | votes a > votes b = LT
-  | votes a < votes b = GT
-  | otherwise = compare (year b) (year a)
+compareBooks a b = compare (year b) (year a)
 
 booksField :: [Book] -> Context String
 booksField books = listField "books" bookCtx (pure items)
@@ -150,11 +150,11 @@ booksField books = listField "books" bookCtx (pure items)
         <> field "author" (pure . author . itemBody)
         <> field "title" (pure . title . itemBody)
         <> field "year" (pure . show . year . itemBody)
-        <> field "votes" (pure . show . votes . itemBody)
+        <> field "lastWriteTime" (pure . lastWriteTime . itemBody)
         <> field
           "source"
           ( \item ->
-              case source (itemBody item) of
-                Just src -> pure src
-                Nothing -> noResult ""
+              if source (itemBody item) == ""
+                then noResult ""
+                else pure $ source $ itemBody item
           )

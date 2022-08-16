@@ -679,17 +679,17 @@ hut and a bridge with it; he stacks it ready to burn for
 fuel. The wealth he thus produces by his labour goes to him
 and his, and because the labour he has to expend is what
 impresses him most about the process, he calls the wealth
-produced at the end of it: " Wealth produced by his labour."
-He thinks of his labour as the one agent of the whole
-affair, and so it is the one immediate human agent; but, as
-we have seen, there are two other agents as well. His mere
-labour (that is, the use of his brain and his muscles) would
-not have produced a pennyworth of wealth, but for two other
-agents: Natural Forces (or Land) and Capital. And we shall
-find when we look into it that the wealth he thus produces
-and regards as one thing is also really divided into three
-divisions: one corresponding to each of the three agents
-which produce wealth.
+produced at the end of it: " Wealth produced by his
+labour." He thinks of his labour as the one agent of the
+whole affair, and so it is the one immediate human agent;
+but, as we have seen, there are two other agents as well.
+His mere labour (that is, the use of his brain and his
+muscles) would not have produced a pennyworth of wealth, but
+for two other agents: Natural Forces (or Land) and Capital.
+And we shall find when we look into it that the wealth he
+thus produces and regards as one thing is also really
+divided into three divisions: one corresponding to each of
+the three agents which produce wealth.
 
 Being a settler living by himself and possessing his own
 land and his own implements, he controls all he produces and
@@ -4248,9 +4248,9 @@ cheque is the name of the bank; then there is the word "
 Pay," and after that the client adds the sum which he wants
 paid and signs his name to prove that it is really he who is
 entitled to have the sum and who is asking for it. The words
-" or bearer " are sometimes printed after the word " Pay,"
-so that anyone bringing the cheque for the client can get
-the money for him.
+" or bearer " are sometimes printed after the word "
+Pay," so that anyone bringing the cheque for the client can
+get the money for him.
 
 But to prevent people using these pieces of paper to get
 money without having the right to it the word "order" was

@@ -5407,11 +5407,11 @@ notable development is taking place, and that Montreal,
 being a large city, is showing signs of the slackening to be
 seen in other large cities.
 
-"Now look at the other picture. The race that is going ahead
-is the French race. . . . In Quebec, where there are nearly
-2,000,000 Canadians of French origin in a population of
-2,350,000, that might have been expected. But as a matter of
-fact it is not in Quebec that the French are making good
+"Now look at the other picture. The race that is going
+ahead is the French race. . . . In Quebec, where there are
+nearly 2,000,000 Canadians of French origin in a population
+of 2,350,000, that might have been expected. But as a matter
+of fact it is not in Quebec that the French are making good
 most conspicuously . . . nor in Nova Scotia and New
 Brunswick is the comparative success of the French stock
 most marked. They are doing splendidly on the land and

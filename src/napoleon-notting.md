@@ -5052,10 +5052,10 @@ was almost undecipherable, but seemed to be something like--
 
 "How about old Steevens and the *mot juste*? E.g..."
 
-"Morning winked a little wearily at me over the curt edge of
-Campden Hill and its houses with their sharp shadows. Under
-the abrupt black cardboard of the outline, it took some
-little time to detect colours; but at length I saw a
+"Morning winked a little wearily at me over the curt edge
+of Campden Hill and its houses with their sharp shadows.
+Under the abrupt black cardboard of the outline, it took
+some little time to detect colours; but at length I saw a
 brownish yellow shifting in the obscurity, and I knew that
 it was the guard of Swindon's West Kensington army. They are
 being held as a reserve, and lining the whole ridge above
@@ -5248,20 +5248,20 @@ all such larger but yet more soluble riddles are as nothing
 compared to the one small but unanswerable riddle: Where did
 they get the horses?
 
-"*Later*.---I have heard a most extraordinary account of the
-origin of the appearance of the horses. It appears that that
-amazing person, General Turnbull, who is now ruling Pump
-Street in the absence of Wayne, sent out, on the morning of
-the declaration of war, a vast number of little boys (or
-cherubs of the gutter, as we pressmen say), with half-crowns
-in their pockets, to take cabs all over London. No less than
-a hundred and sixty cabs met at Pump Street; were
-commandeered by the garrison. The men were set free, the
-cabs used to make barricades, and the horses kept in Pump
-Street, where they were fed and exercised for several days,
-until they were sufficiently rapid and efficient to be used
-for this wild ride out of the town. If this is so, and I
-have it on the best possible authority, the method of the
+"*Later*.---I have heard a most extraordinary account of
+the origin of the appearance of the horses. It appears that
+that amazing person, General Turnbull, who is now ruling
+Pump Street in the absence of Wayne, sent out, on the
+morning of the declaration of war, a vast number of little
+boys (or cherubs of the gutter, as we pressmen say), with
+half-crowns in their pockets, to take cabs all over London.
+No less than a hundred and sixty cabs met at Pump Street;
+were commandeered by the garrison. The men were set free,
+the cabs used to make barricades, and the horses kept in
+Pump Street, where they were fed and exercised for several
+days, until they were sufficiently rapid and efficient to be
+used for this wild ride out of the town. If this is so, and
+I have it on the best possible authority, the method of the
 sortie is explained. But we have no explanation of its
 object. Just as Barker's Blues were swinging round the
 corner after them, they were stopped, but not by an enemy;
@@ -5400,8 +5400,8 @@ agony of man. And I knew that compared to that, this
 overwhelming tower was itself a triviality; it was a mere
 stalk of stone which humanity could snap like a stick.
 
-"I don't know why I have talked so much about this silly old
-Waterworks Tower, which at the very best was only a
+"I don't know why I have talked so much about this silly
+old Waterworks Tower, which at the very best was only a
 tremendous background. It was that, certainly, a sombre and
 awful landscape, against which our figures were relieved.
 But I think the real reason was, that there was in my own
@@ -5447,16 +5447,16 @@ jaws. 'Is that you?' shouted Lambert, genially, to Wilson,
 across the hemmed-in host of Netting Hill. That's about the
 ticket,' replied General Wilson; 'keep them under the wall.'
 
-"The men of Notting Hill were falling fast. Adam Wayne threw
-up his long arms to the wall above him, and with a spring
-stood upon it, a gigantic figure against the moon. He tore
-the banner out of the hands of the standard-bearer below
-him, and shook it out suddenly above our heads, so that it
-was like thunder in the heavens.
+"The men of Notting Hill were falling fast. Adam Wayne
+threw up his long arms to the wall above him, and with a
+spring stood upon it, a gigantic figure against the moon. He
+tore the banner out of the hands of the standard-bearer
+below him, and shook it out suddenly above our heads, so
+that it was like thunder in the heavens.
 
-"'Round the Red Lion!' he cried. 'Swords round the Red Lion!
-Halberds round the Red Lion! They are the thorns round the
-rose.'
+"'Round the Red Lion!' he cried. 'Swords round the Red
+Lion! Halberds round the Red Lion! They are the thorns round
+the rose.'
 
 "His voice and the crack of the banner made a momentary
 rally, and Lambert, whose idiotic face was almost beautiful
@@ -5475,19 +5475,20 @@ busy with the enormous flag. He stepped back only just in
 time to avoid the first cut, and let the flag-staff fall, so
 that the spear-blade at the end of it pointed to Lambert.
 
-"'The banner stoops,' cried Wayne, in a voice that must have
-startled streets. 'The banner of Netting Hill stoops to a
-hero,' And with the words he drove the spear-point and half
-the flag-staff through Lambert's body and dropped him dead
-upon the road below, a stone upon the stones of the street.
+"'The banner stoops,' cried Wayne, in a voice that must
+have startled streets. 'The banner of Netting Hill stoops to
+a hero,' And with the words he drove the spear-point and
+half the flag-staff through Lambert's body and dropped him
+dead upon the road below, a stone upon the stones of the
+street.
 
 "'Notting Hill! Notting Hill!' cried Wayne, in a sort of
 divine rage. 'Her banner is all the holier for the blood of
 a brave enemy! Up on the wall, patriots! Up on the wall!
 Notting Hill!'
 
-"With his long strong arm he actually dragged a man up on to
-the wall to be silhouetted against the moon, and more and
+"With his long strong arm he actually dragged a man up on
+to the wall to be silhouetted against the moon, and more and
 more men climbed up there, pulled themselves and were
 pulled, till clusters and crowds of the half-massacred men
 of Pump Street massed upon the wall above us.
@@ -5501,13 +5502,13 @@ Wilson's army, irritably. 'Bayswater for ever!'
 ground. 'Bayswater for ever! We have taught our enemies
 patriotism!'
 
-"'Oh, cut these fellows up and have done with it!' cried one
-of Lambert's lieutenants, who was reduced to something
+"'Oh, cut these fellows up and have done with it!' cried
+one of Lambert's lieutenants, who was reduced to something
 bordering on madness by the responsibility of succeeding to
 the command.
 
-"'Let us by all means try,' said Wilson, grimly; and the two
-armies closed round the third.
+"'Let us by all means try,' said Wilson, grimly; and the
+two armies closed round the third.
 
 "I simply cannot describe what followed. I am sorry, but
 there is such a thing as physical fatigue, as physical
@@ -5534,9 +5535,9 @@ never know, for the simple reason that every one who knew
 will probably be cut to pieces in the course of the next two
 or three hours.
 
-"I have heard, about three minutes ago, that Buck and Buck's
-methods have won after all. He was perfectly right, of
-course, when one comes to think of it, in holding that it
+"I have heard, about three minutes ago, that Buck and
+Buck's methods have won after all. He was perfectly right,
+of course, when one comes to think of it, in holding that it
 was physically impossible for a street to defeat a city.
 While we thought he was patrolling the eastern gates with
 his Purple army; while we were rushing about the streets and

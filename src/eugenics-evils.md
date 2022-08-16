@@ -1195,9 +1195,9 @@ from theology. The mark of the atheistic style is that it
 instinctively chooses the word which suggests that things
 are dead things; that things have no souls. Thus they will
 not speak of waging war, which means willing it; they speak
-of the" outbreak of war," as if all the guns blew up without
-the men touching them. Thus those Socialists that are
-atheist will not call their international sympathy,
+of the" outbreak of war," as if all the guns blew up
+without the men touching them. Thus those Socialists that
+are atheist will not call their international sympathy,
 sympathy; they will call it "solidarity," as if the poor men
 of France and Germany were physically stuck together like
 dates in a grocer's shop. The same Marxian Socialists are
@@ -3467,16 +3467,16 @@ costs nothing. As it does not cost the beggar a penny to
 indulge, so it would not cost the employer a penny to
 employ. He could not alter or improve the tables or the
 chairs on the cheap. But there were two pieces of furniture
-(labelled respectively "the husband" and" the wife ") whose
-relations were much cheaper. He could alter the *marriage*
-in the house in such a way as to promise himself the largest
-possible number of the kind of children he did want, with
-the smallest possible number of the kind he did not. He
-could divert the force of sex from producing vagabonds. And
-he could harness to his high engines unbought the red
-unbroken river of the blood of a man in his youth, as he has
-already harnessed to them all the wild waste rivers of the
-world.
+(labelled respectively "the husband" and" the wife ")
+whose relations were much cheaper. He could alter the
+*marriage* in the house in such a way as to promise himself
+the largest possible number of the kind of children he did
+want, with the smallest possible number of the kind he did
+not. He could divert the force of sex from producing
+vagabonds. And he could harness to his high engines unbought
+the red unbroken river of the blood of a man in his youth,
+as he has already harnessed to them all the wild waste
+rivers of the world.
 
 ## The Meanness of the Motive
 

@@ -475,9 +475,9 @@ is not difficult) . If you aim at something noble and
 succeed in it, you will generally find that you have
 succeeded not in that alone. A hundred other good and noble
 things which you never dreamed of will have been
-accomplished by the way." He also said that "though our best
-directed efforts may often seem wasted and lost, nothing
-coming of them that can be pointed to and distinctly
+accomplished by the way." He also said that "though our
+best directed efforts may often seem wasted and lost,
+nothing coming of them that can be pointed to and distinctly
 identified as a definite gain to humanity; though this may
 happen ninety-nine times in every hundred, the hundredth
 time the result may be so great that we had never dared to
@@ -844,11 +844,11 @@ settled only by bloodshed, Mr. Garrison, though he had long
 considered such a solution inevitable, deplored the
 rejection of Non-Resistance principles on the part of the
 Abolitionists: "When the antislavery cause was launched," he
-said, "it was baptized in the spirit of peace. We proclaimed
-to the country and the world that the weapons of our warfare
-were not carnal, but spiritual, and we believed them to be
-mighty through God to the pulling down even of the
-stronghold of slavery; and for several years great moral
+said, "it was baptized in the spirit of peace. We
+proclaimed to the country and the world that the weapons of
+our warfare were not carnal, but spiritual, and we believed
+them to be mighty through God to the pulling down even of
+the stronghold of slavery; and for several years great moral
 power accompanied our cause wherever presented. Alas in the
 course of the fearful developments of the Slave Power, and
 its continued aggressions on the rights of the people of the
@@ -938,13 +938,13 @@ control the passions and lead to the performance of all good
 offices, they are not to be discarded for those of a hostile
 character."
 
-"What is war? Is it not the opposite of peace, as slavery is
-of liberty, as sin is of holiness, as Belial is of Christ?
-And is slavery sometimes to be enforced---is sin in cases of
-emergency to be committed---is Belial occasionally to be
-preferred to Christ, as circumstances may require? These are
-grave questions, and the redemption of the world is
-dependent on the answers that may be given to them.
+"What is war? Is it not the opposite of peace, as slavery
+is of liberty, as sin is of holiness, as Belial is of
+Christ? And is slavery sometimes to be enforced---is sin in
+cases of emergency to be committed---is Belial occasionally
+to be preferred to Christ, as circumstances may require?
+These are grave questions, and the redemption of the world
+is dependent on the answers that may be given to them.
 
 "The better the object, the less need, the less
 justification there is to behave as they do, who have one

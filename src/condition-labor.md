@@ -106,8 +106,8 @@ As to the use of land, we hold: That---
 
 While the right of ownership that justly attaches to things
 produced by labor cannot attach to land, there may attach to
-land a right of possession. As your Holiness says, " God has
-not granted the earth to mankind in general in the sense
+land a right of possession. As your Holiness says, " God
+has not granted the earth to mankind in general in the sense
 that all without distinction can deal with it as they
 please," and regulations necessary for its best use may be
 fixed by human laws. But such regulations must conform to
@@ -778,10 +778,10 @@ remunerative labor the very reason and motive of his work is
 to obtain property, and to hold it in his own private
 possession.
 
-"If one man hire out to another his strength or his industry
-he does this for the purpose of receiving in return what is
-necessary for food and living; he thereby expressly proposes
-to acquire a full and legal right, not only to the
+"If one man hire out to another his strength or his
+industry he does this for the purpose of receiving in return
+what is necessary for food and living; he thereby expressly
+proposes to acquire a full and legal right, not only to the
 remuneration, but also to the disposal of that remuneration
 as he pleases.
 
@@ -2580,23 +2580,24 @@ not the effect be, what is seen to-day in Ireland, to
 increase the market value of land and thus make it more
 difficult for those not so favored, and for those who will
 come after, to get land? How, moreover, on the principle
-which you declare (36), that " to the state the interests of
-all are equal, whether high or low," will you justify state
-aid to one man to buy a bit of land without also insisting
-on state aid to another man to buy a donkey, to another to
-buy a shop, to another to buy the tools and materials of a
-trade---state aid in short to everybody who may be able to
-make good use of it or thinks that he could? And are you not
-thus landed in communism---not the communism of the early
-Christians and of the religious orders, but communism that
-uses the coercive power of the state to take rightful
-property by force from those who have, to give to those who
-have not? For the state has no purse of Fortunatus; the
-state cannot repeat the miracle of the loaves and fishes;
-all that the state can give, it must get by some form or
-other of the taxing power. And whether it gives or lends
-money, or gives or lends credit, it cannot give to those who
-have not, without taking from those who have.
+which you declare (36), that " to the state the interests
+of all are equal, whether high or low," will you justify
+state aid to one man to buy a bit of land without also
+insisting on state aid to another man to buy a donkey, to
+another to buy a shop, to another to buy the tools and
+materials of a trade---state aid in short to everybody who
+may be able to make good use of it or thinks that he could?
+And are you not thus landed in communism---not the communism
+of the early Christians and of the religious orders, but
+communism that uses the coercive power of the state to take
+rightful property by force from those who have, to give to
+those who have not? For the state has no purse of
+Fortunatus; the state cannot repeat the miracle of the
+loaves and fishes; all that the state can give, it must get
+by some form or other of the taxing power. And whether it
+gives or lends money, or gives or lends credit, it cannot
+give to those who have not, without taking from those who
+have.
 
 But aside from all this, any scheme of dividing up land
 while maintaining private property in land is futile. Small
@@ -4274,7 +4275,7 @@ communion with the Apostolic See, Pope Leo XIII.*
     the purpose of using them for the perfecting of his own
     nature, and, at the same time, that he may employ them,
     as the steward of God's providence, for the benefit of
-    others. "He that hath a talent," said St. Gregory the
+    others."He that hath a talent," said St. Gregory the
     Great, "let him see that he hide it not; he that hath
     abundance, let him quicken himself to mercy and
     generosity; he that hath art and skill, let him do his

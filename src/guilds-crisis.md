@@ -754,9 +754,9 @@ Medicine* comments editorially on the result to labour of
 efficiency schemes designed to relieve it of "wasted"
 effort.
 
-"Working along with his partner the efficiency engineer, the
-speeder-up has managed to obtain from the factory worker a
-larger output in the same period of time. This is done by
+"Working along with his partner the efficiency engineer,
+the speeder-up has managed to obtain from the factory worker
+a larger output in the same period of time. This is done by
 eliminating the so-called superfluous motions of the arms
 and lingers i.e. those which do not contribute directly to
 the fashioning of the article under process of

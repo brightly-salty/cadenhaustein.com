@@ -1742,25 +1742,26 @@ practical advantage in the ease with which the American
 butterfly flits from flower to flower. He may in a sense
 force his acquaintance on us, but he does not force himself
 on us. Even when, to our prejudices, he seems to insist on
-knowing us, "at least he does not insist on our knowing him.
-It may be, to some sensibilities, a bad thing that a total
-stranger should talk as if he were a friend, but it might
-possibly be worse if he insisted on being a friend before he
-would talk like one. To a great deal of the interviewing 1 ,
-indeed much the greater part of it, even this criticism does
-not apply; there is nothing which even an Englishman of
-extreme sensibility could regard as particularly private;
-the questions involved are generally entirely public, and
-treated with not a little public spirit. But my only reason
-for saying here what can be said even for the worst
-exceptions is to point out this general and neglected
-principle; that the very thing that we complain of in a
-foreigner generally carries with it its own foreign cure.
-American interviewing is generally very reasonable, and it
-is always very rapid. And even those to whom talking to an
-intelligent fellow creature is as horrible as having a tooth
-out may still admit that American interviewing has many of
-the qualities of American dentistry.
+knowing us, "at least he does not insist on our knowing
+him. It may be, to some sensibilities, a bad thing that a
+total stranger should talk as if he were a friend, but it
+might possibly be worse if he insisted on being a friend
+before he would talk like one. To a great deal of the
+interviewing 1 , indeed much the greater part of it, even
+this criticism does not apply; there is nothing which even
+an Englishman of extreme sensibility could regard as
+particularly private; the questions involved are generally
+entirely public, and treated with not a little public
+spirit. But my only reason for saying here what can be said
+even for the worst exceptions is to point out this general
+and neglected principle; that the very thing that we
+complain of in a foreigner generally carries with it its own
+foreign cure. American interviewing is generally very
+reasonable, and it is always very rapid. And even those to
+whom talking to an intelligent fellow creature is as
+horrible as having a tooth out may still admit that American
+interviewing has many of the qualities of American
+dentistry.
 
 Another effect that has given rise to this fallacy, this
 exaggeration of the vulgarity and curiosity of the press, is

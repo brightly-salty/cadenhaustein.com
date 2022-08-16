@@ -3128,10 +3128,10 @@ moment, "Why do you prefer civilisation to savagery?" he
 would look wildly round at object after object, and would
 only be able to answer vaguely, " Why, there is that
 bookcase.... and the coals in the coal-scuttle... and
-pianos... and policemen." The whole case for civilisation is
-that the case for it is complex. It has done so many things.
-But that very multiplicity of proof which ought to make
-reply overwhelming makes reply impossible.
+pianos... and policemen." The whole case for civilisation
+is that the case for it is complex. It has done so many
+things. But that very multiplicity of proof which ought to
+make reply overwhelming makes reply impossible.
 
 There is, therefore, about all complete conviction a kind of
 huge helplessness. The belief is so big that it takes a long
@@ -4633,9 +4633,9 @@ un-Christian to rebel against the rich or to submit to the
 rich. But it is quite certainly un-Christian to trust the
 rich, to regard the rich as more morally safe than the poor.
 A Christian may consistently say, " I respect that man's
-rank, although he takes bribes." But a Christian cannot say,
-as all modern men are saying at lunch and breakfast, "a man
-of that rank would not take bribes." For it is a part of
+rank, although he takes bribes." But a Christian cannot
+say, as all modern men are saying at lunch and breakfast, "a
+man of that rank would not take bribes." For it is a part of
 Christian dogma that any man in any rank may take bribes. It
 is a part of Christian dogma; it also happens by a curious
 coincidence that it is a part of obvious human history. When

@@ -1247,11 +1247,11 @@ society in repeated and perpetual circles, constantly
 returning to their several stations, drawn thither by
 operations of industry or of business.
 
-"In the possession of money every one has his turn. It comes
-to him in the shape of payment for his sales or his industry
-and passes from him in the shape of payment or expenditure,
-again to return at its proper time and on a proper occasion
-to serve the same purposes as before.
+"In the possession of money every one has his turn. It
+comes to him in the shape of payment for his sales or his
+industry and passes from him in the shape of payment or
+expenditure, again to return at its proper time and on a
+proper occasion to serve the same purposes as before.
 
 "Now, I contend that as the progress of money lies in a
 circular route, a certain system of account may be made to
@@ -1502,9 +1502,10 @@ made in bills of the Bank of Exchange, of denominations of
 
 "Specie will be used in making change only.
 
-"4th. The rate of discount will be taxed at ---%, commission
-included, no matter how long the paper has to run. With the
-Bank of Exchange all business will be finished on the spot.
+"4th. The rate of discount will be taxed at ---%,
+commission included, no matter how long the paper has to
+run. With the Bank of Exchange all business will be finished
+on the spot.
 
 "5th. Every subscriber binds himself to receive in all
 payments, from whomsoever it ay be and at par, the paper of
@@ -1516,20 +1517,20 @@ the bank, and at their nominal value.
 
 "Is this a paper currency?
 
-"I answer unhesitatingly, No! It is neither paper-money, nor
-money of paper; it is neither government checks, nor even
-bank-bills; it is not of the nature of anything that has
-been hitherto invented to make up for the scarcity of the
-specie. It is the bill of exchange generalized.
+"I answer unhesitatingly, No! It is neither paper-money,
+nor money of paper; it is neither government checks, nor
+even bank-bills; it is not of the nature of anything that
+has been hitherto invented to make up for the scarcity of
+the specie. It is the bill of exchange generalized.
 
-"The essence of the bill of exchange is constituted---first,
-by its being drawn from one place on another; second, by its
-representing a real value equal to the sum it expresses;
-third, by the promise or obligation on the part of the
-drawee to pay it when it falls due.
+"The essence of the bill of exchange is
+constituted---first, by its being drawn from one place on
+another; second, by its representing a real value equal to
+the sum it expresses; third, by the promise or obligation on
+the part of the drawee to pay it when it falls due.
 
-"In three words, that which constitutes the bill of exchange
-is exchange, provision, acceptance.
+"In three words, that which constitutes the bill of
+exchange is exchange, provision, acceptance.
 
 "As to the date of issue, or of falling due; as to the
 designation of the places, persons, object---these are
@@ -2222,8 +2223,8 @@ free from all its disadvantages!
 # VI. The Provincial Land Bank[^13] {#vi.-the-provincial-land-bank13}
 
 "In the year 1714," says Governor Hutchinson, in his
-"History of Massachusetts," a certain "party had projected a
-private bank; or, rather, had taken up a project published
+"History of Massachusetts," a certain "party had projected
+a private bank; or, rather, had taken up a project published
 in London in the year 1684; but this not being generally
 known in America, a merchant of Boston was the reputed
 father of it. There was nothing more in it than issuing
@@ -2496,8 +2497,8 @@ redeemable in gold and silver."[^18] All arguments,
 therefore, against mutual money, derived from the colonial
 currency, are foreign to the purpose.
 
-The main objections against mutual banking are as
-follows: 1. It is a novelty, and therefore a chimera of the
+The main objections against mutual banking are as follows:
+1. It is a novelty, and therefore a chimera of the
 inventor's brain; 2. It is an old story, borrowed from
 provincial history, and therefore of no account!
 

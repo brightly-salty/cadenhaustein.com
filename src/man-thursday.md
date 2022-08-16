@@ -3426,8 +3426,8 @@ we are to go through this interview and come out sane or
 alive, we must have some code of signals between us that
 this brute will not see. I have made a rough alphabetical
 cypher corresponding to the five fingers---like this, see,"
-and he rippled with his fingers on the wooden table---" BAD,
-bad, a word we may frequently require."
+and he rippled with his fingers on the wooden table---"
+BAD, bad, a word we may frequently require."
 
 Syme poured himself out another glass of wine, and began to
 study the scheme. He was abnormally quick with his brains at
@@ -7182,11 +7182,11 @@ had suffered for one hour a real agony such as I---"
 
 Syme sprang to his feet, shaking from head to foot.
 
-"I see everything," he cried, "everything that there is. Why
-does each thing on the earth war against each other thing?
-Why does each small thing in the world have to fight against
-the world itself? Why does a fly have to fight the whole
-universe? Why does a dandelion have to fight the whole
+"I see everything," he cried, "everything that there is.
+Why does each thing on the earth war against each other
+thing? Why does each small thing in the world have to fight
+against the world itself? Why does a fly have to fight the
+whole universe? Why does a dandelion have to fight the whole
 universe? For the same reason that I had to be alone in the
 dreadful Council of the Days. So that each thing that obeys
 law may have the glory and isolation of the anarchist. So

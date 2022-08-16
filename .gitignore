@@ -3,3 +3,4 @@ _cache/
 .vscode/settings.json
 books/
 !docs/books/
+.bookbuilder

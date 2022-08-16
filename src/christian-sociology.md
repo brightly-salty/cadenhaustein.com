@@ -601,7 +601,7 @@ important. The life of this world may be transient, yet it
 is an essential part of the next. If we neglect to take
 measures to make truth and justice prevail in this world,
 what reason is there to suppose we shall be equipped to make
-them prevail in the next? "The other world is this world in
+them prevail in the next?"The other world is this world in
 the fulness of its consequences." Hence the Kingdom of God
 around which the social teaching of Jesus moves. The phrase
 or its equivalent, the Kingdom of Heaven, occurs more than a
@@ -5503,20 +5503,21 @@ that conception of social economy and well-being which had
 its foundations in agriculture rather than in trade and
 commerce, of which we read:
 
-"Among manual industries none stood higher in the estimation
-of the Canon law than agriculture. It was looked upon as the
-mother and producer of all social organisation, and culture,
-as the fosterer of all other industries, and consequently as
-the basis of material well-being. The Canon law exacted
-special consideration for agriculture, and, partly for this
-reason, that it tended in a higher degree than any other
-branch of labour to teach those who practised it godly fear
-and uprightness. 'The farmer,' so it is written in *A
-Christian Admonition*, 'must in all things be protected and
-encouraged, for all depends upon his labour, from the
-Emperor to the humblest of mankind, and his handiwork is in
-particular honourable and well-pleasing to God.' Therefore
-both the spiritual and secular law protect him.
+"Among manual industries none stood higher in the
+estimation of the Canon law than agriculture. It was looked
+upon as the mother and producer of all social organisation,
+and culture, as the fosterer of all other industries, and
+consequently as the basis of material well-being. The Canon
+law exacted special consideration for agriculture, and,
+partly for this reason, that it tended in a higher degree
+than any other branch of labour to teach those who practised
+it godly fear and uprightness. 'The farmer,' so it is
+written in *A Christian Admonition*, 'must in all things be
+protected and encouraged, for all depends upon his labour,
+from the Emperor to the humblest of mankind, and his
+handiwork is in particular honourable and well-pleasing to
+God.' Therefore both the spiritual and secular law protect
+him.
 
 "Next to agriculture came handiwork. 'This is praiseworthy
 in the sight of God, especially in so far as it represents
@@ -6239,10 +6240,10 @@ sight.
     wickedness of men might be restrained through fear of
     it, and that good men could safely live among bad men;
     and that bad men should be punished and cease to do evil
-    for fear of punishment." (From the preamble to the Fuero
-    Juzgo, a collection of laws Gothic and Roman in origin,
-    made by the Hispano-Gothic King Chindavinto, A.D. 640.
-    In the National Library of Spain, Madrid.)
+    for fear of punishment." (From the preamble to the
+    Fuero Juzgo, a collection of laws Gothic and Roman in
+    origin, made by the Hispano-Gothic King Chindavinto,
+    A.D. 640. In the National Library of Spain, Madrid.)
 
     In a school catechism it was taught in England within
     living memory that the purpose of law was "to preserve
