@@ -4,7 +4,7 @@
 import Control.Applicative (Alternative (empty))
 import Data.Aeson
 import Data.Foldable (forM_, foldl')
-import Data.List (intercalate, isSuffixOf, sortBy)
+import Data.List (sort, nub, intercalate, isSuffixOf, sortBy)
 import Data.List.Split (splitOn)
 import Data.Maybe (fromJust, fromMaybe)
 import Data.Monoid (mappend)
@@ -13,6 +13,7 @@ import GHC.Generics
 import Hakyll
 import System.FilePath (takeBaseName, takeDirectory, (</>))
 import Text.HTML.TagSoup (Tag (..))
+import Control.Arrow (second)
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -65,8 +66,8 @@ main = hakyllWith config $ do
       compile $ do
         result <- recompilingUnsafeCompiler $ eitherDecodeFileStrict "books.json"
         case result of
-          Right books ->
-            getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField books <> boolField "doBooks" (const True)) >>= relativizeUrls 
+          Right bookData ->
+            getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField bookData <> boolField "doBooks" (const True)) >>= relativizeUrls 
           Left e -> error e
 
   create ["blog/index.html"] $ do
@@ -130,27 +131,30 @@ replace from to = intercalate to . splitOn from
 cleanIndex :: String -> String
 cleanIndex = replace ".html" "" . replace "index.html" "./" . replace "/index.html" "/"
 
-data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, lastWriteTime :: String}
+data BookData = BookData {categories :: [String], books :: [Book]}
   deriving (Generic, Show)
 
-instance ToJSON Book where
-  toEncoding = genericToEncoding defaultOptions
+instance FromJSON BookData
+
+data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, lastWriteTime :: String, category :: Int}
+  deriving (Generic, Show)
 
 instance FromJSON Book
 
 compareBooks :: Book -> Book -> Ordering
 compareBooks a b = compare (year b) (year a)
 
-booksField :: [Book] -> Context String
-booksField books = listField "books" bookCtx (pure items)
+booksField :: BookData -> Context String
+booksField bookData = listField "categories" categoryCtx (pure cats)
   where
-    items = (\book -> Item (fromString (tag book)) book) <$> sortBy compareBooks books
+    makeCatItem index cat = Item (fromString cat) (cat, filter ((index ==) . category) (books bookData))
+    cats = zipWith makeCatItem [0..] $ categories bookData
+    categoryCtx = listFieldWith "books" bookCtx (\item -> let bks = snd (itemBody item) in pure ((\book -> Item (fromString (tag book)) book) <$> sortBy compareBooks bks)) <> field "category" (pure . fst . itemBody)
     bookCtx =
       field "tag" (pure . tag . itemBody)
         <> field "author" (pure . author . itemBody)
         <> field "title" (pure . title . itemBody)
         <> field "year" (pure . show . year . itemBody)
-        <> field "lastWriteTime" (pure . lastWriteTime . itemBody)
         <> field
           "source"
           ( \item ->

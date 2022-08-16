@@ -12,30 +12,33 @@ type Book = object
   title: string
   year: int
   lastWriteTime: string
+  category: int
 
 func `<`(x, y: Book): bool {.raises: [].} =
-  return x.year < y.year
+  if x.category != y.category: return x.category < y.category
+  x.year > y.year
   
 type BookBuilder = object
   books: seq[Book]
+  categories: seq[string]
 
 func sourceFile(book: Book): string {.raises: [].} =
   "src" / book.tag.addFileExt "md"
 
-proc makeBookBuilder(): BookBuilder {.raises: [BuilderError].} =
+proc createBuilder(): BookBuilder {.raises: [BuilderError].} =
   try:
     let fileContents = "books.json".readFile
-    BookBuilder(books: to[seq[Book]](fileContents))
+    to[BookBuilder](fileContents)
   except Exception:
     raise newException(BuilderError, getCurrentExceptionMsg())
 
 func addBook(builder: var BookBuilder, book: Book) {.raises: [].} =
   builder.books.add book
 
-proc save(builder: BookBuilder) {.raises: [BuilderError].} =
+proc save(builder: var BookBuilder) {.raises: [BuilderError].} =
   try:
-    let fileContents = $$builder.books.sorted
-    "books.json".writeFile fileContents
+    builder.books.sort()
+    "books.json".writeFile $$builder
   except Exception:
     raise newException(BuilderError, getCurrentExceptionMsg())
 
@@ -117,39 +120,33 @@ proc make(book: var Book): int {.raises: [BuilderError].}=
     raise newException(BuilderError, getCurrentExceptionMsg())
   return QuitSuccess
 
-proc askAuthor(): string {.raises: [IOError].} =
-  "Author:".readLineFromStdin
+func useCategory(builder: var BookBuilder, category: string): int {.raises: [].} =
+  for (i, c) in enumerate(builder.categories):
+    if c == category:
+      return i
+  builder.categories.add category
+  return builder.categories.len - 1
 
-proc askSource(): string {.raises: [IOError].} =
-  "Source:".readLineFromStdin
-
-proc askTag(): string {.raises: [IOError].} =
-  "Tag:".readLineFromStdin
-
-proc askTitle(): string {.raises: [IOError].} =
-  "Title:".readLineFromStdin
-
-proc askYear(): int {.raises: [IOError, ValueError].} =
-  "Year:".readLineFromStdin.parseInt
-
-proc initialize(book: var Book) {.raises: [BuilderError].} =
+proc add(builder: var BookBuilder, book: Book) {.raises: [BuilderError].} =
   try:
-    book.author = askAuthor()
-    book.source = askSource()
-    book.tag = askTag()
-    book.title = askTitle()
-    book.year = askYear()
+    var book: Book
+    book.author = "Author:".readLineFromStdin
+    book.source = "Source:".readLineFromStdin
+    book.tag = "Tag:".readLineFromStdin
+    book.title = "Title:".readLineFromStdin
+    book.year = "Year:".readLineFromStdin.parseInt
+    book.category = builder.useCategory "Category:".readLineFromStdin
     book.sourceFile.writeFile "\n"
     discard book.make
+    builder.books.add book
   except Exception:
     raise newException(BuilderError, getCurrentExceptionMsg())
 
 proc init(): int {.raises: [BuilderError].} =
   result = QuitFailure
   var book: Book
-  book.initialize
-  var builder = makeBookBuilder()
-  builder.addBook book
+  var builder = createBuilder()
+  builder.add book
   builder.save
   return QuitSuccess
 
@@ -159,8 +156,8 @@ proc makeAll(): int {.raises: [BuilderError].} =
     "books".createDir
   except Exception:
     raise newException(BuilderError, getCurrentExceptionMsg())
-  var builder = makeBookBuilder()
-  var newBuilder = BookBuilder(books: @[])
+  var builder = createBuilder()
+  var newBuilder = BookBuilder(books: @[], categories: builder.categories)
   for (i, book) in enumerate(builder.books):
     let canSkip =
       try:

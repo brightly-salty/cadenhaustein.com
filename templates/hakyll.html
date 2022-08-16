@@ -28,8 +28,11 @@
         <h1>$title$</h1>
         $body$
         $if(doBooks)$
+        $for(categories)$
+        <strong>$category$</strong>
         $for(books)$
         <p><a href="/books/$tag$"><em>$title$</em> by $author$ ($year$)</a></p>
+        $endfor$
         $endfor$
         $endif$
     </main>
