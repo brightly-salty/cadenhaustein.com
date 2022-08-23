@@ -1,7 +1,7 @@
 #!/usr/bin/env nimcr
 
 import os, osproc, rdstdin, times
-import std/[algorithm, enumerate, exitProcs, marshal, json, streams, strutils, terminal, with]
+import std/[algorithm, enumerate, exitProcs, marshal, json, sequtils, streams, strutils, sugar, terminal, with]
 
 type BuilderError = object of CatchableError
 
@@ -50,8 +50,7 @@ proc executeCommand(command: string) {.raises: [BuilderError].} =
     raise newException(BuilderError, getCurrentExceptionMsg())
   if res.exitCode != 0: raise newException(BuilderError, "Command \n" & command & "\n exited with code " & $res.exitCode & " and output \n" & res.output)
   
-proc make(book: var Book): int {.raises: [BuilderError].}=
-  result = QuitFailure
+proc make(book: var Book) {.raises: [BuilderError].}=
   let dir = "books" / book.tag
   let readDir = dir / "read"
   try:
@@ -118,7 +117,6 @@ proc make(book: var Book): int {.raises: [BuilderError].}=
     book.lastWriteTime = $getTime()
   except Exception:
     raise newException(BuilderError, getCurrentExceptionMsg())
-  return QuitSuccess
 
 func useCategory(builder: var BookBuilder, category: string): int {.raises: [].} =
   for (i, c) in enumerate(builder.categories):
@@ -137,62 +135,84 @@ proc add(builder: var BookBuilder, book: Book) {.raises: [BuilderError].} =
     book.year = "Year:".readLineFromStdin.parseInt
     book.category = builder.useCategory "Category:".readLineFromStdin
     book.sourceFile.writeFile "\n"
-    discard book.make
+    book.make
     builder.books.add book
   except Exception:
     raise newException(BuilderError, getCurrentExceptionMsg())
 
-proc init(): int {.raises: [BuilderError].} =
-  result = QuitFailure
+proc init() {.raises: [BuilderError].} =
   var book: Book
   var builder = createBuilder()
   builder.add book
   builder.save
-  return QuitSuccess
 
-proc makeAll(): int {.raises: [BuilderError].} =
-  result = QuitFailure
+proc skipWhenAble(book: Book): bool =
+  try:
+    book.sourceFile.getFileInfo.lastWriteTime <= book.lastWriteTime.parseTime("yyyy-MM-dd'T'HH:mm:sszzz", utc()):
+  except TimeParseError, OSError: false
+
+proc neverSkip(_: Book): bool = false
+
+proc make(canSkip: proc(book: Book): bool {.raises: [BuilderError].}) {.raises: [BuilderError].} =
   try:
     "books".createDir
-  except Exception:
-    raise newException(BuilderError, getCurrentExceptionMsg())
+  except Exception: raise newException(BuilderError, getCurrentExceptionMsg())
+  
   var builder = createBuilder()
-  var newBuilder = BookBuilder(books: @[], categories: builder.categories)
-  for (i, book) in enumerate(builder.books):
-    let canSkip =
-      try:
-        book.sourceFile.getFileInfo.lastWriteTime <= book.lastWriteTime.parseTime("yyyy-MM-dd'T'HH:mm:sszzz", utc()):
-      except TimeParseError, OSError: false
-    var newBook = 
-      if canSkip:
-        echo "Skipping: " & book.tag
-        book
-      else:
-        echo "Making: " & book.tag
-        var newBook = book
-        if newBook.make != QuitSuccess: return
-        newBook
-    newBuilder.addBook newBook
-  newBuilder.save
-  return QuitSuccess
 
-proc help(): int {.raises: [].} =
+  proc modifyBook(book: var Book) {.raises: [BuilderError].} =
+    if book.canSkip:
+      echo "Skipping: " & book.tag
+    else:
+      echo "Making: " & book.tag
+      book.make
+
+  builder.books.apply(modifyBook)  
+  builder.save
+    
+  let validFiles = collect(for book in builder.books: book.tag)
+  var toDelete: seq[string]
+  try:
+    for file in "books".walkDir(relative = true):
+      if file.path notIn validFiles: toDelete.add("books" / file.path)
+  except Exception: raise newException(BuilderError, getCurrentExceptionMsg())
+  for file in toDelete:
+    try:
+      file.removeFile
+    except Exception: raise newException(BuilderError, getCurrentExceptionMsg())
+
+proc help() {.raises: [].} =
   echo "Usage:"
   echo "  bookbuilder init"
   echo "  bookbuilder make"
-  return QuitSuccess
 
 proc main(): int =
+  result = QuitSuccess
   let params = commandLineParams()
-  return
-    if params.len == 0: help()
-    else:
-      case params[0]:
-      of "init": 
+  if params.len == 0:
+    help()
+  else:
+    case params[0]:
+    of "init": 
+      try:
         init()
-      of "make":
-        makeAll()
-      else: help()
+      except BuilderError as e:
+        echo "Error: " & e.msg
+        return QuitFailure
+    of "make":
+      try:
+        make(skipWhenAble)
+      except BuilderError as e:
+        echo "Error: " & e.msg
+        return QuitFailure
+    of "make-all":
+      try:
+        make(neverSkip)
+      except BuilderError as e:
+        echo "Error: " & e.msg
+        return QuitFailure
+    else:
+      help()
 
 when isMainModule:
   exitProcs.addExitProc resetAttributes
