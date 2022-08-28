@@ -1,8 +1,21 @@
 # Note to Second Edition
 
-Since the first edition of this book was exhausted more than two years ago, there have been constant enquiries for a second. I am glad that it is now possible to issue this. No material alteration has been made. I am more convinced than I was in 1914 that the true meaning of the death of Christ is to be gained along the lines herein suggested, and that human affairs can never go rightly until men learn that evil can only be overcome with good. The two appendices are new. They give material and suggestions for further study.
+Since the first edition of this book was exhausted more than two years
+ago, there have been constant enquiries for a second. I am glad that it
+is now possible to issue this. No material alteration has been made. I
+am more convinced than I was in 1914 that the true meaning of the death
+of Christ is to be gained along the lines herein suggested, and that
+human affairs can never go rightly until men learn that evil can only be
+overcome with good. The two appendices are new. They give material and
+suggestions for further study.
 
-An investigation of the teaching of the New Testament regarding the Death of Christ and its place in the salvation of men is greatly needed. For some years past I have been engaged upon the subject and hope it may shortly be possible to issue a larger book in which many problems which could not be dealt with here will be discussed. In the meantime the reader may be assured that further study has only confirmed me in the views herein expressed.
+An investigation of the teaching of the New Testament regarding the
+Death of Christ and its place in the salvation of men is greatly needed.
+For some years past I have been engaged upon the subject and hope it may
+shortly be possible to issue a larger book in which many problems which
+could not be dealt with here will be discussed. In the meantime the
+reader may be assured that further study has only confirmed me in the
+views herein expressed.
 
 **William E. Wilson.**
 
@@ -10,9 +23,37 @@ An investigation of the teaching of the New Testament regarding the Death of Chr
 
 # Preface
 
-The terrible things which are happening at this moment on the Continent of Europe witness not only to a failure in the national life of our "Christian" States, but also to a deep disease in the Church itself. Somehow we have failed miserably in our presentation of Christ. The conviction is forced upon us that had the Church been truly Christian these things could never have happened. At the centre of all Christian thinking stands the Cross of Christ. If we have failed rightly to read its message, that failure is bound to tell with direful results upon all our life. The writer of these Studies believes that it is just here that we have failed. We have not seen that, when Jesus Christ went forth to die, He was putting to the proof His own message of non-resistance; He was simply telling us in unmistakable language that force can never overcome evil, and that the defeat of right is better than taking up arms for its defence. The greatest victory which good has ever won in the world was secured in the hour when purity and truth and gentleness met and were overthrown by hate and envy and pride.
+The terrible things which are happening at this moment on the Continent
+of Europe witness not only to a failure in the national life of our
+"Christian" States, but also to a deep disease in the Church itself.
+Somehow we have failed miserably in our presentation of Christ. The
+conviction is forced upon us that had the Church been truly Christian
+these things could never have happened. At the centre of all Christian
+thinking stands the Cross of Christ. If we have failed rightly to read
+its message, that failure is bound to tell with direful results upon all
+our life. The writer of these Studies believes that it is just here that
+we have failed. We have not seen that, when Jesus Christ went forth to
+die, He was putting to the proof His own message of non-resistance; He
+was simply telling us in unmistakable language that force can never
+overcome evil, and that the defeat of right is better than taking up
+arms for its defence. The greatest victory which good has ever won in
+the world was secured in the hour when purity and truth and gentleness
+met and were overthrown by hate and envy and pride.
 
-In these pages it would be absurd to expect a full treatment of every aspect of the question. The central problem of why it was necessary for the Son of God to die is, however, faced, and we are given a plain exposition of God's method of dealing with evil as seen in the death of Christ. The Church has not followed that method. It has persistently attempted to enthrone righteousness and truth by the method of force. To-day, with startling suddenness we are compelled to see whither it all leads. At such a time men see great issues with a clarity of vision most rare at other times. Perhaps in these days of bitter stress and humiliation we shall be able to see, as never before, what the stress and sorrow of Calvary meant to the Son of God. All who are trying to wrest the deepest lessons from the experiences of this dark hour will welcome the courageous attempt of these pages to lead us to a true understanding of God's great plans for the final overthrow of evil.
+In these pages it would be absurd to expect a full treatment of every
+aspect of the question. The central problem of why it was necessary for
+the Son of God to die is, however, faced, and we are given a plain
+exposition of God's method of dealing with evil as seen in the death of
+Christ. The Church has not followed that method. It has persistently
+attempted to enthrone righteousness and truth by the method of force.
+To-day, with startling suddenness we are compelled to see whither it all
+leads. At such a time men see great issues with a clarity of vision most
+rare at other times. Perhaps in these days of bitter stress and
+humiliation we shall be able to see, as never before, what the stress
+and sorrow of Calvary meant to the Son of God. All who are trying to
+wrest the deepest lessons from the experiences of this dark hour will
+welcome the courageous attempt of these pages to lead us to a true
+understanding of God's great plans for the final overthrow of evil.
 
 **Henry T. Hodgkin.**
 
@@ -20,33 +61,188 @@ In these pages it would be absurd to expect a full treatment of every aspect of 
 
 # Chapter I. Introductory
 
-For many years past the atonement has been conspicuously absent from most Christian preaching. Very few preachers teach the theory of it current sixty years ago. Many practically disregard the subject---to the loss of themselves and their hearers. Others use old phrases which have become dear to them from old association, but which are liable to convey misconceptions. The old theories have been rejected by most modern men---probably rightly rejected---but nothing has been put in their place. And in consequence religious thought is weak at its centre. It is therefore necessary to investigate the subject and see what the foundations are, and what may be legitimately built upon them.
+For many years past the atonement has been conspicuously absent from
+most Christian preaching. Very few preachers teach the theory of it
+current sixty years ago. Many practically disregard the subject---to the
+loss of themselves and their hearers. Others use old phrases which have
+become dear to them from old association, but which are liable to convey
+misconceptions. The old theories have been rejected by most modern
+men---probably rightly rejected---but nothing has been put in their
+place. And in consequence religious thought is weak at its centre. It is
+therefore necessary to investigate the subject and see what the
+foundations are, and what may be legitimately built upon them.
 
-The Atonement is a fact. We know this because through the centuries since Jesus Christ many thousands of men and women who were in despair as a result of sin, have found through Him access to God, have realised God's love as the supreme fact in their lives, and have been able to live a true and victorious life in the Divine strength. In short, they have been reconciled to God. The obstacle which separated them from Him has been first transcended and then gradually eliminated. Probably this experience has always come as the result of the realisation of God's love, and in the overwhelming majority of cases it is consciously connected with the death of Christ.
+The Atonement is a fact. We know this because through the centuries
+since Jesus Christ many thousands of men and women who were in despair
+as a result of sin, have found through Him access to God, have realised
+God's love as the supreme fact in their lives, and have been able to
+live a true and victorious life in the Divine strength. In short, they
+have been reconciled to God. The obstacle which separated them from Him
+has been first transcended and then gradually eliminated. Probably this
+experience has always come as the result of the realisation of God's
+love, and in the overwhelming majority of cases it is consciously
+connected with the death of Christ.
 
-The barrier that separates men from God is sin. Sin is a fact in human experience,---in some ways the most important fact. The normal man who thinks over his life at all is conscious that he has not only made mistakes, but has also wilfully done wrong.[^1] Sin may be defined as opposition of the will to God, or the choice of something less than the morally best. Sometimes it is conscious and deliberate; a man definitely knows a course of action to be wrong, and knowing that, takes it. More often the sin consists in not desiring to know what the right course of action is. It is not so much the choice of wrong as the choice of ignorance, lest knowledge should show one to be wrong. In either case, whether veiled or open, there is opposition to the will of God. But God is righteous, His will is that the world He has made should develop into perfect harmony. Man, by opposition to this holy. will, delays the coming of the Kingdom of God and causes endless suffering to himself and his fellow creatures. The reconciliation of man to God in Jesus Christ, which we call Atonement, is the action of God by which man's opposition is overcome, and his will brought into harmony with the Divine will.
+The barrier that separates men from God is sin. Sin is a fact in human
+experience,---in some ways the most important fact. The normal man who
+thinks over his life at all is conscious that he has not only made
+mistakes, but has also wilfully done wrong.[^1] Sin may be defined as
+opposition of the will to God, or the choice of something less than the
+morally best. Sometimes it is conscious and deliberate; a man definitely
+knows a course of action to be wrong, and knowing that, takes it. More
+often the sin consists in not desiring to know what the right course of
+action is. It is not so much the choice of wrong as the choice of
+ignorance, lest knowledge should show one to be wrong. In either case,
+whether veiled or open, there is opposition to the will of God. But God
+is righteous, His will is that the world He has made should develop into
+perfect harmony. Man, by opposition to this holy. will, delays the
+coming of the Kingdom of God and causes endless suffering to himself and
+his fellow creatures. The reconciliation of man to God in Jesus Christ,
+which we call Atonement, is the action of God by which man's opposition
+is overcome, and his will brought into harmony with the Divine will.
 
-[^1]: Some men appear to have no sense of sin, but this is either because they have not reflected upon their actions, or have somehow argued themselves into the belief that they are not responsible for them.
-
-An adequate theory of Atonement must not do violence to the Scriptural statements on the subject. No theory of Atonement is explicitly taught in the New Testament, but there is very great agreement among New Testament writers on four great points regarding the work of Christ for men, namely: (1) The reconciliation wrought by Christ is the work of God. It springs from His love and His grace. He takes steps to bring men to Himself (Romans 5:8). "God commendeth His own love toward us, in that while we were yet sinners Christ died for us" (Compare also 2 Corinthians 5:19; Ephesians 2:8; Titus 3:4; 1 John 4:9, 10; and John 3:16). (2) It is through Christ's death that reconciliation comes to us. This is to be seen all through the New Testament in the constant references to the blood of Jesus, which signifies His life given up in death (compare Mark 14:24; Acts 20:28; Romans 3:25; Ephesians 1:7; Hebrews 10:19; 1 John 1:7; Revelations 5:9). So fundamental is this thought of the death of Christ with Paul (comprehensively referred to as 'the Cross') that it is made the centre of his thought and preaching (1 Corinthians 1:18-2:5; and Galatians 6:14). Nor is there lacking reference to His death as the essence of His work for men in our Lord's own words, "The Son of man came not to be served but to serve, and *to give His life a ransom for many*" (Mark 10:45). (3) This reconciliation to God, this forgiveness is appropriated by faith on the side of man. Faith is far more than an intellectual assent, it is an attitude of one personality towards another---it is confidence and trust. This attitude of faith in Himself was taught by Jesus Christ---even though in the Synoptic Gospels the word itself is not used. His two invitations, "Come unto Me all ye that are weary and heavy-laden and I will give you rest" (Matthew 11:28, 29), and "If any man will come after Me let him deny himself and take up his cross and follow Me" (Mark 8:34), require faith on the part of the would-be follower. It is the confidence which springs from love that alone can bring men to seek such an overturning of the world's standards of values as is implied in these words of our Lord. Faith, then, is no merely theoretical belief, but a vital personal relationship. (4) The consequence of the reconciliation to God is the union of the reconciled with Jesus Christ. This is taught especially clearly in Paul's epistles and the Gospel of John. (See Romans 6; Colossians 3; Galatians 5:13-26; and John 15.) From the parable of the vine, and Galatians 3:13-26, we gather that this union is an intensely moral thing. Through it, sin is to be eliminated and a fully developed Christian character to be formed. These four New Testament statements then must be given due place in the attempted re-statement. Only one of them is likely to cause difficulty to earnest minded people,---the second, that reconciliation comes through the death of Christ. It is objected, "Why was the death of Christ necessary? Would not the announcement of God's free grace be sufficient to save men?" To answer this question in such a way as to give due weight also to the other New Testament statements is our task.
+An adequate theory of Atonement must not do violence to the Scriptural
+statements on the subject. No theory of Atonement is explicitly taught
+in the New Testament, but there is very great agreement among New
+Testament writers on four great points regarding the work of Christ for
+men, namely: (1) The reconciliation wrought by Christ is the work of
+God. It springs from His love and His grace. He takes steps to bring men
+to Himself (Romans 5:8). "God commendeth His own love toward us, in that
+while we were yet sinners Christ died for us" (Compare also 2
+Corinthians 5:19; Ephesians 2:8; Titus 3:4; 1 John 4:9, 10; and John
+3:16). (2) It is through Christ's death that reconciliation comes to us.
+This is to be seen all through the New Testament in the constant
+references to the blood of Jesus, which signifies His life given up in
+death (compare Mark 14:24; Acts 20:28; Romans 3:25; Ephesians 1:7;
+Hebrews 10:19; 1 John 1:7; Revelations 5:9). So fundamental is this
+thought of the death of Christ with Paul (comprehensively referred to as
+'the Cross') that it is made the centre of his thought and preaching (1
+Corinthians 1:18-2:5; and Galatians 6:14). Nor is there lacking
+reference to His death as the essence of His work for men in our Lord's
+own words, "The Son of man came not to be served but to serve, and *to
+give His life a ransom for many*" (Mark 10:45). (3) This reconciliation
+to God, this forgiveness is appropriated by faith on the side of man.
+Faith is far more than an intellectual assent, it is an attitude of one
+personality towards another---it is confidence and trust. This attitude
+of faith in Himself was taught by Jesus Christ---even though in the
+Synoptic Gospels the word itself is not used. His two invitations, "Come
+unto Me all ye that are weary and heavy-laden and I will give you rest"
+(Matthew 11:28, 29), and "If any man will come after Me let him deny
+himself and take up his cross and follow Me" (Mark 8:34), require faith
+on the part of the would-be follower. It is the confidence which springs
+from love that alone can bring men to seek such an overturning of the
+world's standards of values as is implied in these words of our Lord.
+Faith, then, is no merely theoretical belief, but a vital personal
+relationship. (4) The consequence of the reconciliation to God is the
+union of the reconciled with Jesus Christ. This is taught especially
+clearly in Paul's epistles and the Gospel of John. (See Romans 6;
+Colossians 3; Galatians 5:13-26; and John 15.) From the parable of the
+vine, and Galatians 3:13-26, we gather that this union is an intensely
+moral thing. Through it, sin is to be eliminated and a fully developed
+Christian character to be formed. These four New Testament statements
+then must be given due place in the attempted re-statement. Only one of
+them is likely to cause difficulty to earnest minded people,---the
+second, that reconciliation comes through the death of Christ. It is
+objected, "Why was the death of Christ necessary? Would not the
+announcement of God's free grace be sufficient to save men?" To answer
+this question in such a way as to give due weight also to the other New
+Testament statements is our task.
 
 # Chapter II. The Traditional Doctrine
 
-We saw in the first chapter that the problem to be solved in connection with the Atonement is "Why did Christ need to die?" To this question the answer is frequently given, "He died instead of us." Now in a certain sense this answer is quite indisputably true, for since salvation comes through Christ's death, it may truly be said that His death is instead of the death in sin of those whom He saves. He died, they do not die. But to say this amounts to no more than the general statement that our salvation comes through Christ's death. How it comes from it, or why the death had to take place is still unexplained. No theory of atonement is involved in the words.
+We saw in the first chapter that the problem to be solved in connection
+with the Atonement is "Why did Christ need to die?" To this question the
+answer is frequently given, "He died instead of us." Now in a certain
+sense this answer is quite indisputably true, for since salvation comes
+through Christ's death, it may truly be said that His death is instead
+of the death in sin of those whom He saves. He died, they do not die.
+But to say this amounts to no more than the general statement that our
+salvation comes through Christ's death. How it comes from it, or why the
+death had to take place is still unexplained. No theory of atonement is
+involved in the words.
 
-But most people who used to employ the phrase "Christ died instead of us" meant something much more definite than this. They meant the doctrine of Substitution---that Christ died for us in the sense that His death was by way of exchange for our deaths. In other words, that in His death, Christ bore instead of us the punishment of our sins. Theologians of fifty years ago meant by the Atonement "*the satisfaction of Divine justice for the sin of man by the substituted penal sufferings of the Son of God.*"[^2]. Now this does imply a definite formulated theory of Atonement, and one that demands our respectful investigation. This theory, which we may for brevity's sake call the Protestant doctrine, since it dates from the Reformation, contains the following ideas: (1) Sin which separates man from God is such a horrible thing that those who have committed it deserve eternal death (generally understood as eternal torment). (2) God cannot justly forgive sin unless the punishment has been borne. (3) The punishment for sin was transferred to Christ and borne by Him. (4) Sinners who believe on Christ are freed from the consequences of their sin (eternal death). Their guilt is transferred to Christ and punished in Him and His merits are imputed to them, so that God no longer looks upon them as sinners; but others who do not believe are not freed, and in spite of the fact that Christ suffered will be damned. (5) Man, then, is powerless to achieve his own salvation, it is done for him.
+But most people who used to employ the phrase "Christ died instead of
+us" meant something much more definite than this. They meant the
+doctrine of Substitution---that Christ died for us in the sense that His
+death was by way of exchange for our deaths. In other words, that in His
+death, Christ bore instead of us the punishment of our sins. Theologians
+of fifty years ago meant by the Atonement "*the satisfaction of Divine
+justice for the sin of man by the substituted penal sufferings of the
+Son of God.*"[^2]. Now this does imply a definite formulated theory of
+Atonement, and one that demands our respectful investigation. This
+theory, which we may for brevity's sake call the Protestant doctrine,
+since it dates from the Reformation, contains the following ideas: (1)
+Sin which separates man from God is such a horrible thing that those who
+have committed it deserve eternal death (generally understood as eternal
+torment). (2) God cannot justly forgive sin unless the punishment has
+been borne. (3) The punishment for sin was transferred to Christ and
+borne by Him. (4) Sinners who believe on Christ are freed from the
+consequences of their sin (eternal death). Their guilt is transferred to
+Christ and punished in Him and His merits are imputed to them, so that
+God no longer looks upon them as sinners; but others who do not believe
+are not freed, and in spite of the fact that Christ suffered will be
+damned. (5) Man, then, is powerless to achieve his own salvation, it is
+done for him.
 
-[^2]: W.G.T. Shedd, in his history of Christian Doctrine, published 1872, gives the above words as the generally accepted definition of the Atonement.
+Such a theory has certain great merits. (a) It strongly emphasises the
+terrible nature of sin. Sin is no light matter, it is not something that
+does not count. It is no mere negative. (b) And further it insists that
+man has no merit. He cannot win salvation from God; he must accept it as
+a gift. (c) It endeavours, though, I think unsuccessfully, to show how
+God is just. These three points are of vast importance, and we dare not
+despise the theory which insists upon them. And though we may see reason
+to dissent from it, we must be careful that anything put in its place is
+at least as satisfactory on these points. But in spite of these merits,
+which must account for its long reign in theology (from the sixteenth to
+the nineteenth century), the theory has several radical defects. These
+defects are visible from three different points of view. (1) The
+Rational and Logical. (2) The Moral. (3) The Scriptural.
 
-Such a theory has certain great merits. (a) It strongly emphasises the terrible nature of sin. Sin is no light matter, it is not something that does not count. It is no mere negative. (b) And further it insists that man has no merit. He cannot win salvation from God; he must accept it as a gift. (c) It endeavours, though, I think unsuccessfully, to show how God is just. These three points are of vast importance, and we dare not despise the theory which insists upon them. And though we may see reason to dissent from it, we must be careful that anything put in its place is at least as satisfactory on these points. But in spite of these merits, which must account for its long reign in theology (from the sixteenth to the nineteenth century), the theory has several radical defects. These defects are visible from three different points of view. (1) The Rational and Logical. (2) The Moral. (3) The Scriptural.
+(1) The Rational defect. If Christ died instead of all, why is the
+    salvation purchased by His death restricted to believers only? The
+    punishment has been borne, it cannot logically be still to bear. If
+    Christ suffered instead of the sinner, the sinner ought not to have
+    to suffer too.
 
-(1) The Rational defect. If Christ died instead of all, why is the salvation purchased by His death restricted to believers only? The punishment has been borne, it cannot logically be still to bear. If Christ suffered instead of the sinner, the sinner ought not to have to suffer too.
+(2) The Moral defects. (a) The theory states that Christ was punished
+    instead of us (as generally stated, that our sin was transferred to
+    Him and punished in Him). This implies that sin can be transferred.
+    But sin is not a thing that belongs to one man and can be made over
+    to another. It is an inward state of opposition to God. To say,
+    then, that man's sin is transferred to Christ, if it means anything,
+    means that man's opposition to God is transferred to Christ. In
+    other words, that in place of sinners opposing God, Christ opposes
+    Him. But this has only to be mentioned to be rejected as impossible.
+    But it is possible that the theory may be held without the explicit
+    statement that man's sin was transferred to Christ. Rather it was
+    the *punishment of man's sin which was transferred to Christ.* But
+    the theory does say that sin must be punished, and if the sin is not
+    transferred to the one who bears the punishment, sin is not
+    punished, and the theory fails. (b) The whole theory is founded on
+    the idea that perfect justice *must* punish sin.[^3] Can this be a
+    true idea in face of the fact that we all feel it cruel and
+    vindictive in man to exact the extreme penalty? Can it be right for
+    God to do what is wrong for man?
 
-(2) The Moral defects. (a) The theory states that Christ was punished instead of us (as generally stated, that our sin was transferred to Him and punished in Him). This implies that sin can be transferred. But sin is not a thing that belongs to one man and can be made over to another. It is an inward state of opposition to God. To say, then, that man's sin is transferred to Christ, if it means anything, means that man's opposition to God is transferred to Christ. In other words, that in place of sinners opposing God, Christ opposes Him. But this has only to be mentioned to be rejected as impossible. But it is possible that the theory may be held without the explicit statement that man's sin was transferred to Christ. Rather it was the *punishment of man's sin which was transferred to Christ.* But the theory does say that sin must be punished, and if the sin is not transferred to the one who bears the punishment, sin is not punished, and the theory fails. (b) The whole theory is founded on the idea that perfect justice *must* punish sin.[^3] Can this be a true idea in face of the fact that we all feel it cruel and vindictive in man to exact the extreme penalty? Can it be right for God to do what is wrong for man?
-
-[^3]: Of course it is not denied that sin brings many disastrous consequences, but Christ's death does not save the sinner from these, and similar disastrous consequences sometimes also follow acts in no way sinful, but even unselfish and altruistic.
-
-(3) And this leads us over to the Scriptural objections to the doctrine. (a) Not only is it the clear teaching of our Lord and His apostles that it is the duty of men freely to forgive those who injure them (see Matthew 5:38-48; Romans 12:14-21; Ephesians 4:32; Colossians 3:13), but it is frequently insisted upon in the New Testament that God Himself forgives freely (see Romans 5:15, 17, 6:23, "free gift," Ephesians 2:4-9). Can it be rightly called free forgiveness which requires the full penalty to be exacted before it can be given? (b) Further, in the New Testament it is frequently stated that God is the originator of Man's salvation (1 John 4:9, 10; 2 Corinthians 5:19, etc.) This fundamental fact the theory appears to deny. For in it God and Christ are separated. Instead of being regarded as the supreme revealer of what God is, Christ has been shown as loving and merciful and God as angry and vindictively "just." This is reflected in popular hymnology. Many of us were taught as children the hymn which runs,
+```{=html}
+<!-- -->
+```
+(3) And this leads us over to the Scriptural objections to the
+    doctrine. (a) Not only is it the clear teaching of our Lord and His
+    apostles that it is the duty of men freely to forgive those who
+    injure them (see Matthew 5:38-48; Romans 12:14-21; Ephesians 4:32;
+    Colossians 3:13), but it is frequently insisted upon in the New
+    Testament that God Himself forgives freely (see Romans 5:15, 17,
+    6:23, "free gift," Ephesians 2:4-9). Can it be rightly called free
+    forgiveness which requires the full penalty to be exacted before it
+    can be given? (b) Further, in the New Testament it is frequently
+    stated that God is the originator of Man's salvation (1 John 4:9,
+    10; 2 Corinthians 5:19, etc.) This fundamental fact the theory
+    appears to deny. For in it God and Christ are separated. Instead of
+    being regarded as the supreme revealer of what God is, Christ has
+    been shown as loving and merciful and God as angry and vindictively
+    "just." This is reflected in popular hymnology. Many of us were
+    taught as children the hymn which runs,
 
 > "He knew how wicked man had been,
 >
@@ -56,173 +252,843 @@ Such a theory has certain great merits. (a) It strongly emphasises the terrible 
 >
 > He'd bear the punishment instead."
 
-The New Testament teaches that we know God through Christ, that is as love and mercy, but this theory sets up another picture of God which it *calls* just, and which has been painted without looking at Christ. God and Christ by this means have been, in popular thought, opposed instead of united. (c) By stating that Christ died instead of us, this theory fails to do justice to the many passages in Paul's epistles where the Christian is said to share in the death of Christ (see Romans 6; Colossians 2; Philippians 3:10, etc.) and in particular it reaches a conclusion precisely contrary to that of the apostle from the premises "Christ died for all" (2 Corinthians 5:14 "on behalf of") for Paul deduces therefrom, "therefore all died," which is exactly what could not be said if "Christ died instead of all."
+The New Testament teaches that we know God through Christ, that is as
+love and mercy, but this theory sets up another picture of God which it
+*calls* just, and which has been painted without looking at Christ. God
+and Christ by this means have been, in popular thought, opposed instead
+of united. (c) By stating that Christ died instead of us, this theory
+fails to do justice to the many passages in Paul's epistles where the
+Christian is said to share in the death of Christ (see Romans 6;
+Colossians 2; Philippians 3:10, etc.) and in particular it reaches a
+conclusion precisely contrary to that of the apostle from the premises
+"Christ died for all" (2 Corinthians 5:14 "on behalf of") for Paul
+deduces therefrom, "therefore all died," which is exactly what could not
+be said if "Christ died instead of all."
 
-But there is a more fundamental defect in the Protestant theory in that it works towards an unsatisfactory result, and apparently starts from a mistaken pre-supposition. In it, God and man are reconciled by a sacrifice offered to God, or a ransom paid to Him.[^4] That is to say, it appears to be thought that it was God rather than man who needed altering. Again, it says that Jesus Christ bore the *punishment* instead of the believing sinner and so the latter is freed from the punishment of sin. It does not show how he is freed from sin itself. (In fact sanctification was, in older theology, an entirely separate process.) The attention of the framers of the doctrine seems to have been so concentrated on the thought of punishment, that to them the evil in sin was in that, rather than in its essential nature. A theory, therefore, could seem to them satisfactory which showed no logical or causal connection between forgiveness and moral reformation, and instead of showing how Christ's death brought into the world forces which would finally abolish sin, was content to regard that death as a transaction between the first and second persons of the Trinity, which in *some way made sin not count*.
+But there is a more fundamental defect in the Protestant theory in that
+it works towards an unsatisfactory result, and apparently starts from a
+mistaken pre-supposition. In it, God and man are reconciled by a
+sacrifice offered to God, or a ransom paid to Him.[^4] That is to say,
+it appears to be thought that it was God rather than man who needed
+altering. Again, it says that Jesus Christ bore the *punishment* instead
+of the believing sinner and so the latter is freed from the punishment
+of sin. It does not show how he is freed from sin itself. (In fact
+sanctification was, in older theology, an entirely separate process.)
+The attention of the framers of the doctrine seems to have been so
+concentrated on the thought of punishment, that to them the evil in sin
+was in that, rather than in its essential nature. A theory, therefore,
+could seem to them satisfactory which showed no logical or causal
+connection between forgiveness and moral reformation, and instead of
+showing how Christ's death brought into the world forces which would
+finally abolish sin, was content to regard that death as a transaction
+between the first and second persons of the Trinity, which in *some way
+made sin not count*.
 
-[^4]: This idea is justified, by those who hold it, from Mark 10:45, where our Lord says that He came "to give His life a ransom for many." This passage will be discussed later. Here it is enough to say that there is *no indication* that our Lord meant that the ransom was paid to God.
+Now the presupposition that Christ's death alters God's attitude to man
+rather than man's to God, is mistaken, for it is not only contrary to
+sound reasoning, but to Scriptural statements (for example, John 3:16).
+And so also in the case of the result to be achieved. In not a few
+places it is said that Christ's death was to take away sin (John 1:29; 1
+John 1:7; 1 John 3:5; 1 Peter 1:18; Hebrews 9:13, 14. This seems to be
+the meaning too of Romans 6:1-4, and Romans 8:3-4). But the Protestant
+doctrine only deals with punishment. By some earnest-minded Christians
+it is then rejected from no unworthy motives but because *it seems to
+them to depend upon an untrue conception of God, and to minimise the
+real evil of sin.*
 
-Now the presupposition that Christ's death alters God's attitude to man rather than man's to God, is mistaken, for it is not only contrary to sound reasoning, but to Scriptural statements (for example, John 3:16). And so also in the case of the result to be achieved. In not a few places it is said that Christ's death was to take away sin (John 1:29; 1 John 1:7; 1 John 3:5; 1 Peter 1:18; Hebrews 9:13, 14. This seems to be the meaning too of Romans 6:1-4, and Romans 8:3-4). But the Protestant doctrine only deals with punishment. By some earnest-minded Christians it is then rejected from no unworthy motives but because *it seems to them to depend upon an untrue conception of God, and to minimise the real evil of sin.*
-
-Perhaps it may be objected, "This all may be true enough, but how can the many passages which speak of our Lord's death as a sacrifice or a ransom be otherwise interpreted but on this theory?" This question must be dealt with in the next chapter.
+Perhaps it may be objected, "This all may be true enough, but how can
+the many passages which speak of our Lord's death as a sacrifice or a
+ransom be otherwise interpreted but on this theory?" This question must
+be dealt with in the next chapter.
 
 # Chapter III. Propitiation and Redemption
 
-We must now turn our attention to the question with which the last chapter closed. Is it not a fact that the Protestant doctrine of the Atonement is supported by many passages in the New Testament, which speak of Christ's death in sacrificial language or refer to it as a ransom or redemption paid for men? It cannot be denied that such passages have been quoted in support of the Protestant doctrine, but in face of the fact that the Church was about fifteen hundred years in arriving at that doctrine, and over one thousand years in arriving even at Anselm's theory which is in some respects similar, it can scarcely be maintained that the doctrine is so clearly taught in the New Testament that it is the only legitimate explanation of the passages in question.
+We must now turn our attention to the question with which the last
+chapter closed. Is it not a fact that the Protestant doctrine of the
+Atonement is supported by many passages in the New Testament, which
+speak of Christ's death in sacrificial language or refer to it as a
+ransom or redemption paid for men? It cannot be denied that such
+passages have been quoted in support of the Protestant doctrine, but in
+face of the fact that the Church was about fifteen hundred years in
+arriving at that doctrine, and over one thousand years in arriving even
+at Anselm's theory which is in some respects similar, it can scarcely be
+maintained that the doctrine is so clearly taught in the New Testament
+that it is the only legitimate explanation of the passages in question.
 
-In the compass of a short chapter it will not be possible to discuss all the New Testament passages where sacrificial terms are used of Christ's death; it will, however, be enough if we consider the most prominent passage, Romans 3:19-26, which is particularly important for our purpose, because it contains, not only a sacrificial term, "propitiation," but also the term "redemption," used in the closest connection with it; the two can therefore be discussed together. It is impossible to understand the separate verses apart from the context, so the whole passage is given *in extenso*.
+In the compass of a short chapter it will not be possible to discuss all
+the New Testament passages where sacrificial terms are used of Christ's
+death; it will, however, be enough if we consider the most prominent
+passage, Romans 3:19-26, which is particularly important for our
+purpose, because it contains, not only a sacrificial term,
+"propitiation," but also the term "redemption," used in the closest
+connection with it; the two can therefore be discussed together. It is
+impossible to understand the separate verses apart from the context, so
+the whole passage is given *in extenso*.
 
-> "Now we know that what things soever the law saith, it speaketh to them that are under the law; that every mouth may be stopped, and all the world may be brought under the judgment of God: because by the works of the law shall no flesh be justified in His sight: for through the law cometh the knowledge of sin. But now apart from the law a righteousness of God hath been manifested, being witnessed by the law and the prophets; even the righteousness of God through faith in Jesus Christ unto all them that believe: for there is no distinction; for all have sinned, and fall short of the glory of God; being justified freely by His grace through the redemption that is in Christ Jesus:  whom God set forth to be a propitiation, through faith, by His blood, to show His righteousness, because of the passing over of the sins done aforetime in the forbearance of God; for the showing, I say, of His righteousness at this present season: that He might Himself be just, and the justifier of him that hath faith in Jesus."
+> "Now we know that what things soever the law saith, it speaketh to
+> them that are under the law; that every mouth may be stopped, and all
+> the world may be brought under the judgment of God: because by the
+> works of the law shall no flesh be justified in His sight: for through
+> the law cometh the knowledge of sin. But now apart from the law a
+> righteousness of God hath been manifested, being witnessed by the law
+> and the prophets; even the righteousness of God through faith in Jesus
+> Christ unto all them that believe: for there is no distinction; for
+> all have sinned, and fall short of the glory of God; being justified
+> freely by His grace through the redemption that is in Christ Jesus:
+> whom God set forth to be a propitiation, through faith, by His blood,
+> to show His righteousness, because of the passing over of the sins
+> done aforetime in the forbearance of God; for the showing, I say, of
+> His righteousness at this present season: that He might Himself be
+> just, and the justifier of him that hath faith in Jesus."
 
-Now it can scarcely be doubted that the keynote of this passage is that *God does it all. Man could not gain God's favour, so God gave it.* Any interpretation of individual words must then be in harmony with this keynote. With this in mind we may discuss the meaning of (a) "propitiation" and (b) "redemption."
+Now it can scarcely be doubted that the keynote of this passage is that
+*God does it all. Man could not gain God's favour, so God gave it.* Any
+interpretation of individual words must then be in harmony with this
+keynote. With this in mind we may discuss the meaning of (a)
+"propitiation" and (b) "redemption."
 
-(a) The word "propitiation" may mean "mercy-seat" or it may mean " propitiatory sacrifice," such as a sin offering, and other meanings have also been suggested. A great deal of discussion has taken place as to which of these is here in Paul's mind. But none fit very well into the context, for the mercy-seat on the top of the ark was, after all, an inanimate piece of furniture, and could at best only be used metaphorically of Jesus Christ; and the sin-offering was presented by man to God, whereas the chief point of this passage is that God Himself puts forth the propitiation. It is then probable that Paul does not intend either meaning in a literal sense, but rather refers to the idea common to both; *that which brings God and man together.* Now in old time, both amongst the Jews and Gentiles, it was man who approached God, sometimes cheerfully and with confidence, feeling sure that God was favourable; sometimes with the knowledge of sin, and the fear that God was offended, but in either case, presenting an offering, a sacrifice. The advances came from the side of man. The offering might be divinely appointed, and in so far it was pledge of divine grace; but for all that, it was man who offered it, not God. It was believed that man had in some way to win God's favour. But Paul's new message is that God's favour cannot be won. In Jesus Christ it is freely given. *Man cannot put forward anything that will bring God and man together; it is God that does it.* Thus instead of taking "propitiation" in this passage as meaning a sacrifice offered by man to God, which is the usual meaning of the word, it would be much nearer the truth to say that the "propitiation" of which Paul speaks is a sacrifice offered by God to man. To call Christ's death a sacrifice offered to God for the sin of man, and to quote this passage in support of the statement, means that by too close an adherence to the literal meaning of one word, the whole intention of the passage has been missed. This is one of the cases where the apostle himself would have warned us that "the letter killeth." May we not say that Paul has been forced here to use words in an unusual sense, simply because Christianity involves an upsetting of all current ideas, and no words were adequate to express the greatness of the revelation of God in Christ?
+(a) The word "propitiation" may mean "mercy-seat" or it may mean "
+    propitiatory sacrifice," such as a sin offering, and other meanings
+    have also been suggested. A great deal of discussion has taken place
+    as to which of these is here in Paul's mind. But none fit very well
+    into the context, for the mercy-seat on the top of the ark was,
+    after all, an inanimate piece of furniture, and could at best only
+    be used metaphorically of Jesus Christ; and the sin-offering was
+    presented by man to God, whereas the chief point of this passage is
+    that God Himself puts forth the propitiation. It is then probable
+    that Paul does not intend either meaning in a literal sense, but
+    rather refers to the idea common to both; *that which brings God and
+    man together.* Now in old time, both amongst the Jews and Gentiles,
+    it was man who approached God, sometimes cheerfully and with
+    confidence, feeling sure that God was favourable; sometimes with the
+    knowledge of sin, and the fear that God was offended, but in either
+    case, presenting an offering, a sacrifice. The advances came from
+    the side of man. The offering might be divinely appointed, and in so
+    far it was pledge of divine grace; but for all that, it was man who
+    offered it, not God. It was believed that man had in some way to win
+    God's favour. But Paul's new message is that God's favour cannot be
+    won. In Jesus Christ it is freely given. *Man cannot put forward
+    anything that will bring God and man together; it is God that does
+    it.* Thus instead of taking "propitiation" in this passage as
+    meaning a sacrifice offered by man to God, which is the usual
+    meaning of the word, it would be much nearer the truth to say that
+    the "propitiation" of which Paul speaks is a sacrifice offered by
+    God to man. To call Christ's death a sacrifice offered to God for
+    the sin of man, and to quote this passage in support of the
+    statement, means that by too close an adherence to the literal
+    meaning of one word, the whole intention of the passage has been
+    missed. This is one of the cases where the apostle himself would
+    have warned us that "the letter killeth." May we not say that Paul
+    has been forced here to use words in an unusual sense, simply
+    because Christianity involves an upsetting of all current ideas, and
+    no words were adequate to express the greatness of the revelation of
+    God in Christ?
 
-(b) The meaning of the word "redemption" in this passage must now be discussed. It, and kindred words, such as "redeem" and "ransom" are used in several places in the New Testament of Christ's work for men. Christians are "redeemed by the precious blood of Christ" (1 Peter 1:18, 19), "redeemed from the curse of the law" (Galatains 3:13, here it is not the same word in Greek but the meaning is clearly similar). Christ Himself spoke of giving His life a "ransom for many" (Mark 10:45)... What do these terms imply? At first sight the answer given is, "a commercial transaction," and according to Anselm's famous theory of the Atonement, such a transaction did take place between the first and second persons of the Trinity. In lieu of the insult done to God by man's sin, Christ, as man, paid his death. Thus He satisfied God's offended honour. Is that what is here intended? Let us investigate. Now four factors normally enter into such a commercial transaction: the person or thing bought, the buyer, the person to whom the purchase money is paid, and the purchase money itself. Clearly here, and in other New Testament passages, the person purchased is the believer, and the purchaser is Jesus Christ, or in this place (Romans 3:19ff.) God the Father, and the price paid is the death of Christ. But who is the person from whom the purchase is made? *No answer to this question is ever given in the New Testament.* In one place, Christians are said to be redeemed from a "vain manner of life" (1 Peter 1:18); in another, "from the curse of the law" (Galatians 3:13), and these two are in reality the same, for both mean "from the dominion of sin." But these are not personal beings from whom a purchase can be made. They are rather spoken of pictorially in language which applies properly to persons because the thought in the mind of the writers is that of redemption from slavery---and slavery implies a master. The earliest definite answer to the question, "to whom was the price paid?" was given long after the close of the apostolic age, and stated that it was paid to the devil. And this was not unnatural, for, it was argued, "he is the hard master who keeps men in slavery and sin."
+(b) The meaning of the word "redemption" in this passage must now be
+    discussed. It, and kindred words, such as "redeem" and "ransom" are
+    used in several places in the New Testament of Christ's work for
+    men. Christians are "redeemed by the precious blood of Christ" (1
+    Peter 1:18, 19), "redeemed from the curse of the law" (Galatains
+    3:13, here it is not the same word in Greek but the meaning is
+    clearly similar). Christ Himself spoke of giving His life a "ransom
+    for many" (Mark 10:45)... What do these terms imply? At first sight
+    the answer given is, "a commercial transaction," and according to
+    Anselm's famous theory of the Atonement, such a transaction did take
+    place between the first and second persons of the Trinity. In lieu
+    of the insult done to God by man's sin, Christ, as man, paid his
+    death. Thus He satisfied God's offended honour. Is that what is here
+    intended? Let us investigate. Now four factors normally enter into
+    such a commercial transaction: the person or thing bought, the
+    buyer, the person to whom the purchase money is paid, and the
+    purchase money itself. Clearly here, and in other New Testament
+    passages, the person purchased is the believer, and the purchaser is
+    Jesus Christ, or in this place (Romans 3:19ff.) God the Father, and
+    the price paid is the death of Christ. But who is the person from
+    whom the purchase is made? *No answer to this question is ever given
+    in the New Testament.* In one place, Christians are said to be
+    redeemed from a "vain manner of life" (1 Peter 1:18); in another,
+    "from the curse of the law" (Galatians 3:13), and these two are in
+    reality the same, for both mean "from the dominion of sin." But
+    these are not personal beings from whom a purchase can be made. They
+    are rather spoken of pictorially in language which applies properly
+    to persons because the thought in the mind of the writers is that of
+    redemption from slavery---and slavery implies a master. The earliest
+    definite answer to the question, "to whom was the price paid?" was
+    given long after the close of the apostolic age, and stated that it
+    was paid to the devil. And this was not unnatural, for, it was
+    argued, "he is the hard master who keeps men in slavery and sin."
 
-But this reply carried with it certain implications. If God paid the devil by Christ's death for the sin of men, then clearly the devil must have had a right to tyrannise over them. And not only so, at His death Christ must have come into the power of the devil. But seeing that Christ was risen and seated at the right hand of God, He must have escaped from the devil's clutches. It was therefore said that God had bargained with the devil to free mankind from his slavery on condition that Jesus Christ was given to him instead. *The devil did not know that he would not be able to keep the Son of God.* Thus, practically God cheated the devil (Origen, see Oxenham, "Catholic Doctrine of the Atonement," pp. 114-121). This theory or something like it held the field, until Anselm, about the year 1100, in his famous treatise, "Cur Deus Homo," finally destroyed it and substituted the theory that Christ's death was a price paid to God. We may be thankful for Anselm's work, for the theory of ransom from the devil was founded on very low moral ideas, and must have hindered true spiritual progress. But there is more to be said for the theory of ransom from the devil than for that of Anselm as an interpretation of Scriptural statements. For it is clear in Romans 3:19ff. that God pays the ransom, therefore He can scarcely also be the one to whom it is paid.
+But this reply carried with it certain implications. If God paid the
+devil by Christ's death for the sin of men, then clearly the devil must
+have had a right to tyrannise over them. And not only so, at His death
+Christ must have come into the power of the devil. But seeing that
+Christ was risen and seated at the right hand of God, He must have
+escaped from the devil's clutches. It was therefore said that God had
+bargained with the devil to free mankind from his slavery on condition
+that Jesus Christ was given to him instead. *The devil did not know that
+he would not be able to keep the Son of God.* Thus, practically God
+cheated the devil (Origen, see Oxenham, "Catholic Doctrine of the
+Atonement," pp. 114-121). This theory or something like it held the
+field, until Anselm, about the year 1100, in his famous treatise, "Cur
+Deus Homo," finally destroyed it and substituted the theory that
+Christ's death was a price paid to God. We may be thankful for Anselm's
+work, for the theory of ransom from the devil was founded on very low
+moral ideas, and must have hindered true spiritual progress. But there
+is more to be said for the theory of ransom from the devil than for that
+of Anselm as an interpretation of Scriptural statements. For it is clear
+in Romans 3:19ff. that God pays the ransom, therefore He can scarcely
+also be the one to whom it is paid.
 
-The truth seems to be, that in interpreting passages which speak of Christ's death as a "ransom," a straining after literal exactness has destroyed the real meaning, just as in the case of the interpretation of "propitiation." We know who were ransomed, and who ransomed them, and we know what the price was. But it is not possible to state to whom the price was paid. "To the devil" really, was the most natural answer. But the implications of that theory are such that it cannot be accepted. Nor can we say with Anselm, "it was paid to God," for it is abundantly clear that it was God who paid the price; and Anselm's further idea of God through Christ satisfying His own offended honour is highly artificial and has no Scriptural foundation. May we not rather recognise that both the words "propitiation" and "ransom" are here and elsewhere in the New Testament applied to Christ's death in a metaphorical sense, and are used to express the result achieved by His death, rather than to describe the process by which it was achieved. He was not *literally* a propitiatory sacrifice, for such would have been offered. by man to God, not put forth by God Himself. But His death did what all those sacrifices had striven to do. *It brought man to God.* So also, Christ's death was not a ransom in that it was a price paid to someone for the freeing of slaves. Nevertheless, it did free slaves, and is constantly freeing them, and it was like a ransom too, in that it was costly. It cost Jesus Christ His life to free men. *The redemption of man from sin could only be accomplished by God Himself at a terrible cost. Sin hurts God.*
+The truth seems to be, that in interpreting passages which speak of
+Christ's death as a "ransom," a straining after literal exactness has
+destroyed the real meaning, just as in the case of the interpretation of
+"propitiation." We know who were ransomed, and who ransomed them, and we
+know what the price was. But it is not possible to state to whom the
+price was paid. "To the devil" really, was the most natural answer. But
+the implications of that theory are such that it cannot be accepted. Nor
+can we say with Anselm, "it was paid to God," for it is abundantly clear
+that it was God who paid the price; and Anselm's further idea of God
+through Christ satisfying His own offended honour is highly artificial
+and has no Scriptural foundation. May we not rather recognise that both
+the words "propitiation" and "ransom" are here and elsewhere in the New
+Testament applied to Christ's death in a metaphorical sense, and are
+used to express the result achieved by His death, rather than to
+describe the process by which it was achieved. He was not *literally* a
+propitiatory sacrifice, for such would have been offered. by man to God,
+not put forth by God Himself. But His death did what all those
+sacrifices had striven to do. *It brought man to God.* So also, Christ's
+death was not a ransom in that it was a price paid to someone for the
+freeing of slaves. Nevertheless, it did free slaves, and is constantly
+freeing them, and it was like a ransom too, in that it was costly. It
+cost Jesus Christ His life to free men. *The redemption of man from sin
+could only be accomplished by God Himself at a terrible cost. Sin hurts
+God.*
 
 # Chapter IV. Non-Resistance
 
-In the foregoing chapters it has been shown. how unsatisfactory is the traditional Protestant doctrine of the Atonement. It not only appears illogical and even un-ethical, but it disagrees with Scriptural statements, and is based upon a misunderstanding of the very passages which it seeks to interpret. It is therefore imperatively necessary to seek for some truer theory. For without some statement of the significance of Christ's death our religious thought is weak at its centre. And a return to pre-Reformation theories will be of no avail, for as we saw, Anselm's view shares in the unsatisfactory features of the Protestant doctrine. At the present day another theory is also before us, presented with much earnestness and learning, by R. C. Moberly, in the well-known work "Atonement and Personality." With much that is said in that book one cannot but have hearty agreement, but its main constructive theory really stands under the same condemnation as earlier theories. Instead of what is called vicarious suffering, it substitutes the idea of vicarious penitence, and this idea is profoundly unsatisfactory, because:
+In the foregoing chapters it has been shown. how unsatisfactory is the
+traditional Protestant doctrine of the Atonement. It not only appears
+illogical and even un-ethical, but it disagrees with Scriptural
+statements, and is based upon a misunderstanding of the very passages
+which it seeks to interpret. It is therefore imperatively necessary to
+seek for some truer theory. For without some statement of the
+significance of Christ's death our religious thought is weak at its
+centre. And a return to pre-Reformation theories will be of no avail,
+for as we saw, Anselm's view shares in the unsatisfactory features of
+the Protestant doctrine. At the present day another theory is also
+before us, presented with much earnestness and learning, by R. C.
+Moberly, in the well-known work "Atonement and Personality." With much
+that is said in that book one cannot but have hearty agreement, but its
+main constructive theory really stands under the same condemnation as
+earlier theories. Instead of what is called vicarious suffering, it
+substitutes the idea of vicarious penitence, and this idea is profoundly
+unsatisfactory, because:
 
-(1) It still denies that God can forgive men freely. Its thesis is that man must render to God a sufficient---repentance, but denies that man can do so, because no sinner can adequately see the horror of sin and adequately turn from it. Hence Jesus Christ had to give this adequate repentance for man's sins. This, then, is really a satisfaction theory in another form. God must receive something on man's behalf before He can forgive. It stands therefore under the same condemnation as the earlier theories in that it asserts that it is God rather than man whose attitude has to be changed. Yet like them it contains a valuable grain of truth, for it is true that the sinner whose feelings are blunted by his sin, even when sincerely repentant, cannot see its full odiousness as God sees it. But we are never told in the New Testament that God requires of man a perfect conception of the terrible nature of sin; we are only told both in the Old and New Testaments that He welcomes one who turns from sin (fox example, Ezekiel 18:21, Luke 15).
+(1) It still denies that God can forgive men freely. Its thesis is that
+    man must render to God a sufficient---repentance, but denies that
+    man can do so, because no sinner can adequately see the horror of
+    sin and adequately turn from it. Hence Jesus Christ had to give this
+    adequate repentance for man's sins. This, then, is really a
+    satisfaction theory in another form. God must receive something on
+    man's behalf before He can forgive. It stands therefore under the
+    same condemnation as the earlier theories in that it asserts that it
+    is God rather than man whose attitude has to be changed. Yet like
+    them it contains a valuable grain of truth, for it is true that the
+    sinner whose feelings are blunted by his sin, even when sincerely
+    repentant, cannot see its full odiousness as God sees it. But we are
+    never told in the New Testament that God requires of man a perfect
+    conception of the terrible nature of sin; we are only told both in
+    the Old and New Testaments that He welcomes one who turns from sin
+    (fox example, Ezekiel 18:21, Luke 15).
 
-(2) But this theory also assumes that repentance *can* be vicarious,---that one intimately connected by love with another can repent of the latter's sins. Moberly instances the deep sorrow of a mother for the sin of her son, and calls this vicarious penitence. But surely while it must be recognised that such sorrow on the mother's part may do much to redeem her child, and is really a beautiful and true illustration of some aspects of the work of Christ for men, it can scarcely rightly be called vicarious *penitence*. A mother can earnestly desire a son's repentance, she can feel the shame of his sin; she can sympathise with and encourage any beginnings of true sorrow and repentance which she may discern in him; and she may even make up her mind that he *shall not sin* again, that he shall come to his senses, and such an act of will on her part may help to bring him to repentance, *but it will be his repentance and not hers.* And it is a logical fallacy to call her attitude of mind penitence, for it is essentially different from what we mean by penitence; it is not a change of mind, a turning round, a repentance. Indeed, if there be anything of repentance in such a mother's attitude, it is not vicarious, but repentance for her own sin in failing in sympathy or prayer for the erring son.
+(2) But this theory also assumes that repentance *can* be
+    vicarious,---that one intimately connected by love with another can
+    repent of the latter's sins. Moberly instances the deep sorrow of a
+    mother for the sin of her son, and calls this vicarious penitence.
+    But surely while it must be recognised that such sorrow on the
+    mother's part may do much to redeem her child, and is really a
+    beautiful and true illustration of some aspects of the work of
+    Christ for men, it can scarcely rightly be called vicarious
+    *penitence*. A mother can earnestly desire a son's repentance, she
+    can feel the shame of his sin; she can sympathise with and encourage
+    any beginnings of true sorrow and repentance which she may discern
+    in him; and she may even make up her mind that he *shall not sin*
+    again, that he shall come to his senses, and such an act of will on
+    her part may help to bring him to repentance, *but it will be his
+    repentance and not hers.* And it is a logical fallacy to call her
+    attitude of mind penitence, for it is essentially different from
+    what we mean by penitence; it is not a change of mind, a turning
+    round, a repentance. Indeed, if there be anything of repentance in
+    such a mother's attitude, it is not vicarious, but repentance for
+    her own sin in failing in sympathy or prayer for the erring son.
 
-(3) But the most serious defect in this theory of vicarious penitence is that it does not explain why Christ had to die. This is the difficulty which all theories of the Atonement have to face, and previous ones have faced it and given an explanation of His death, though as we have seen an unsatisfactory one. If vicarious penitence were possible, which it is not, there would seem to be no particular reason why such penitence on the part of Christ should lead Him to His death. It then appears that this theory not only shares in the defects of previous theories, but in addition does not explain the very fact which it was (presumably) constructed to explain.
+(3) But the most serious defect in this theory of vicarious penitence is
+    that it does not explain why Christ had to die. This is the
+    difficulty which all theories of the Atonement have to face, and
+    previous ones have faced it and given an explanation of His death,
+    though as we have seen an unsatisfactory one. If vicarious penitence
+    were possible, which it is not, there would seem to be no particular
+    reason why such penitence on the part of Christ should lead Him to
+    His death. It then appears that this theory not only shares in the
+    defects of previous theories, but in addition does not explain the
+    very fact which it was (presumably) constructed to explain.
 
-We cannot too often remind ourselves that God forgives men *freely*. Any theories of the necessity of Christ's death must be compatible with this fact, which is taught in both Old and New Testaments. The question is now forced upon us, why in the face of this fact were the satisfaction theories ever propounded? To this question there is a threefold answer. (1) Firstly, it is clear from the New Testament that the universal belief in the early Church was t*hat Christ died for us,* and this had to be explained. (2) Secondly, metaphors of sacrifice and ransom are used in the New Testament of His death, and these were overpressed by an unenlightened literalism, so that pedantic insistence on the letter of Scripture destroyed its meaning. These facts we have already noted and investigated, but there is a third fact of no less importance. (3) The theories of Anselm and the Reformation reflect the current morality of their respective ages. In the former case, the doctrine of satisfaction for injury is taken from Roman Law, and the latter is influenced by feudal ideas of justice. In other words, both theories assume, though the framers of them were probably unaware of the assumption, that God must act according to the current standards of their own day, like a Roman litigant, or a feudal Baron. It is because of this implicit assumption that these theories are no longer acceptable to people of our own day. Quite apart from deeply founded rational and Scriptural objections, they are repugnant to the unthinking man-in-the-street, because they assume as basal legal and moral ideas which are no longer operative.
+We cannot too often remind ourselves that God forgives men *freely*. Any
+theories of the necessity of Christ's death must be compatible with this
+fact, which is taught in both Old and New Testaments. The question is
+now forced upon us, why in the face of this fact were the satisfaction
+theories ever propounded? To this question there is a threefold answer.
+(1) Firstly, it is clear from the New Testament that the universal
+belief in the early Church was t*hat Christ died for us,* and this had
+to be explained. (2) Secondly, metaphors of sacrifice and ransom are
+used in the New Testament of His death, and these were overpressed by an
+unenlightened literalism, so that pedantic insistence on the letter of
+Scripture destroyed its meaning. These facts we have already noted and
+investigated, but there is a third fact of no less importance. (3) The
+theories of Anselm and the Reformation reflect the current morality of
+their respective ages. In the former case, the doctrine of satisfaction
+for injury is taken from Roman Law, and the latter is influenced by
+feudal ideas of justice. In other words, both theories assume, though
+the framers of them were probably unaware of the assumption, that God
+must act according to the current standards of their own day, like a
+Roman litigant, or a feudal Baron. It is because of this implicit
+assumption that these theories are no longer acceptable to people of our
+own day. Quite apart from deeply founded rational and Scriptural
+objections, they are repugnant to the unthinking man-in-the-street,
+because they assume as basal legal and moral ideas which are no longer
+operative.
 
-Can we then say we must substitute for these ancient ideas of justice, modern ones acceptable to present-day people, and with a theory founded on such all will be well? No, for the next generation may find our ideas no less objectionable than we find those of four hundred years ago. These theories were wrong because they took current human law as the standard. *We shall come nearest to a true theory if we substitute for that the highest code of ethics as taught by Jesus Christ Himself.* In other words, these theories went wrong by assuming that *God would act as men in their day acted.* We shall be right if we assume that *God acts as Jesus Christ taught men to act.* The question at issue is, "How shall God deal with sinful men?" How is He to treat those who oppose their wills to His, and make discord instead of harmony in His world?
+Can we then say we must substitute for these ancient ideas of justice,
+modern ones acceptable to present-day people, and with a theory founded
+on such all will be well? No, for the next generation may find our ideas
+no less objectionable than we find those of four hundred years ago.
+These theories were wrong because they took current human law as the
+standard. *We shall come nearest to a true theory if we substitute for
+that the highest code of ethics as taught by Jesus Christ Himself.* In
+other words, these theories went wrong by assuming that *God would act
+as men in their day acted.* We shall be right if we assume that *God
+acts as Jesus Christ taught men to act.* The question at issue is, "How
+shall God deal with sinful men?" How is He to treat those who oppose
+their wills to His, and make discord instead of harmony in His world?
 
-Now in the Gospels, Jesus Christ tells us very distinctly how His followers are to deal with those who do them wrong. The Church has, indeed, seldom taken the words seriously, but they are there, and are undisputed words of Jesus. "Resist not the evildoer, but whatsoever smiteth thee upon thy right cheek turn to him the other also" (Matthew 5:39). In endeavouring to advance the Kingdom of God, to bring the Divine harmony into the world, our Lord then advises His followers not to return violence with violence, but to repay hate with love. Older theories of Atonement have assumed that God vindicates His justice by rigorously punishing the evil-doer. But Christ calls His disciples not to resist the evil-doer. Can it be possible that God requires of man a line of conduct diametrically opposed to His own? That can scarcely be, for our Lord Himself set up "the Father" as our standard of conduct, and that especially in His kindness and mercy. (See Matthew 5:45-8, and Luke 6:35-6.) Ought we not rather to believe that God Himself, in dealing with sinners, uses the same method which our Lord enjoined on His disciples, the method of non-resistance? It is in Jesus Christ that God is completely revealed to man. Christ's work for man is God's work. Christ's supreme work, according to the New Testament, was His death. Let us ask, then, quite simply, "What was the cause of Christ's death?" Not some speculative theological cause, but the plain historical cause to be seen in the Gospels. The answer can be given in two sentences, "*Jesus Christ died as a non-resistant; His death came to Him because He testified to the principle of non-resistance.*" He did nothing to defend Himself from torture and death. That is obvious on the face of the Gospel narrative. Therefore He literally, and to the fullest possible extent, obeyed the principle which He laid down for the guidance of His followers. But the more we look into the underlying cause of His death, the more it is clear that it was not simply that He did not resist evildoers, but that He died *because* He would not resist. When He came the Jewish people were looking for a Messiah, whom they expected to be a conquering king. Jesus would not accept that interpretation of His Messiahship, and in consequence lost the confidence of the people. They wanted a conqueror; He was a non-resister, therefore He died.
+Now in the Gospels, Jesus Christ tells us very distinctly how His
+followers are to deal with those who do them wrong. The Church has,
+indeed, seldom taken the words seriously, but they are there, and are
+undisputed words of Jesus. "Resist not the evildoer, but whatsoever
+smiteth thee upon thy right cheek turn to him the other also" (Matthew
+5:39). In endeavouring to advance the Kingdom of God, to bring the
+Divine harmony into the world, our Lord then advises His followers not
+to return violence with violence, but to repay hate with love. Older
+theories of Atonement have assumed that God vindicates His justice by
+rigorously punishing the evil-doer. But Christ calls His disciples not
+to resist the evil-doer. Can it be possible that God requires of man a
+line of conduct diametrically opposed to His own? That can scarcely be,
+for our Lord Himself set up "the Father" as our standard of conduct, and
+that especially in His kindness and mercy. (See Matthew 5:45-8, and Luke
+6:35-6.) Ought we not rather to believe that God Himself, in dealing
+with sinners, uses the same method which our Lord enjoined on His
+disciples, the method of non-resistance? It is in Jesus Christ that God
+is completely revealed to man. Christ's work for man is God's work.
+Christ's supreme work, according to the New Testament, was His death.
+Let us ask, then, quite simply, "What was the cause of Christ's death?"
+Not some speculative theological cause, but the plain historical cause
+to be seen in the Gospels. The answer can be given in two sentences,
+"*Jesus Christ died as a non-resistant; His death came to Him because He
+testified to the principle of non-resistance.*" He did nothing to defend
+Himself from torture and death. That is obvious on the face of the
+Gospel narrative. Therefore He literally, and to the fullest possible
+extent, obeyed the principle which He laid down for the guidance of His
+followers. But the more we look into the underlying cause of His death,
+the more it is clear that it was not simply that He did not resist
+evildoers, but that He died *because* He would not resist. When He came
+the Jewish people were looking for a Messiah, whom they expected to be a
+conquering king. Jesus would not accept that interpretation of His
+Messiahship, and in consequence lost the confidence of the people. They
+wanted a conqueror; He was a non-resister, therefore He died.
 
 # Chapter V. The Self-Sacrifice of God
 
-In the previous chapter it was suggested that Christ's death really represents His non-resistance of evil. We have now a threefold task, namely: (1) To amplify and explain the term non-resistance. (2) To endeavour to show how it works. (3) To see whether our theory is confirmed or contradicted by Christian experience, especially as represented in the New Testament.
+In the previous chapter it was suggested that Christ's death really
+represents His non-resistance of evil. We have now a threefold task,
+namely: (1) To amplify and explain the term non-resistance. (2) To
+endeavour to show how it works. (3) To see whether our theory is
+confirmed or contradicted by Christian experience, especially as
+represented in the New Testament.
 
-1\. What do we mean by non-resistance? The term is liable to misunderstanding. It appears to connote a passive attitude. But the full meaning of the words "Resist not the evil-doer" (Matthew 5:39) is far more than passive. They emphatically do not mean "evil does not matter; it is not real, therefore it may be neglected." Such a thought is entirely out of harmony with the teaching of Jesus and with all Christian experience. Evil is real and terrible, and must be faced and overcome. Paul recognised that and gave the advice, "Be not overcome with evil, but overcome evil with good" (Romans 12:21). There is just this much truth in the thought of being passive towards evil---that sometimes the best way of combating evil within oneself is to turn away the mind from it rather than to fix one's attention on it. But a passive attitude taken towards one who is doing an injury will not make the injury of no consequence. It is a fact, a very hard fact, and it is neither possible nor desirable that the injured party should not feel it, or that he should think it does not matter. That someone, unprovoked, attacks and damages another person, does matter, it is a serious thing. *It not only damages the person attacked---it damages God's world. It is an insult to God.* Therefore it is a mistake to take up a passive attitude towards it. The one who is so treated has a duty, a responsibility. He must endeavour to make right the damage, to cure the ill. But the usual method---violent resistance---only intensifies the evil, and the evil is to be cured. This can only be done by returning good for evil, love for hate. And the injured person, *because he has been injured,* is the one who, above all others, can be the channel of God's saving grace to the wrong doer. The first part of his action will be negative, he must not return evil for evil; then he must try to overcome evil with good. This is what Jesus did. He spoke of God's love, of forgiveness, of the true life. His offers were rejected, He was opposed and finally killed,---yet all through He never ceased to offer good for evil. When we speak of non-resistance we mean a line of conduct of which the term, strictly speaking, only covers the negative side. The positive side is the real spring of action, and is nothing less than *returning good for evil.*
+1\. What do we mean by non-resistance? The term is liable to
+misunderstanding. It appears to connote a passive attitude. But the full
+meaning of the words "Resist not the evil-doer" (Matthew 5:39) is far
+more than passive. They emphatically do not mean "evil does not matter;
+it is not real, therefore it may be neglected." Such a thought is
+entirely out of harmony with the teaching of Jesus and with all
+Christian experience. Evil is real and terrible, and must be faced and
+overcome. Paul recognised that and gave the advice, "Be not overcome
+with evil, but overcome evil with good" (Romans 12:21). There is just
+this much truth in the thought of being passive towards evil---that
+sometimes the best way of combating evil within oneself is to turn away
+the mind from it rather than to fix one's attention on it. But a passive
+attitude taken towards one who is doing an injury will not make the
+injury of no consequence. It is a fact, a very hard fact, and it is
+neither possible nor desirable that the injured party should not feel
+it, or that he should think it does not matter. That someone,
+unprovoked, attacks and damages another person, does matter, it is a
+serious thing. *It not only damages the person attacked---it damages
+God's world. It is an insult to God.* Therefore it is a mistake to take
+up a passive attitude towards it. The one who is so treated has a duty,
+a responsibility. He must endeavour to make right the damage, to cure
+the ill. But the usual method---violent resistance---only intensifies
+the evil, and the evil is to be cured. This can only be done by
+returning good for evil, love for hate. And the injured person, *because
+he has been injured,* is the one who, above all others, can be the
+channel of God's saving grace to the wrong doer. The first part of his
+action will be negative, he must not return evil for evil; then he must
+try to overcome evil with good. This is what Jesus did. He spoke of
+God's love, of forgiveness, of the true life. His offers were rejected,
+He was opposed and finally killed,---yet all through He never ceased to
+offer good for evil. When we speak of non-resistance we mean a line of
+conduct of which the term, strictly speaking, only covers the negative
+side. The positive side is the real spring of action, and is nothing
+less than *returning good for evil.*
 
-2\. How does non-resistance work? We have defined sin as opposition towards God. While it is expressed in part by definite acts, these acts are not, properly speaking, *themselves* sin, it is the attitude of mind which lies behind them which is sin. *And this consists in a tendency of the human will contrary to God's will.* It may sometimes be possible to make a person do a right action by means of outward compulsion; it is pretty frequently possible forcibly to prevent a person doing a wrong action. But such use of force has by no means certainly had any effect at all in *altering the will* of the person to commit wrong acts. Indeed, the very fact that force is used to prevent the will issuing in acts of wrong often intensifies the wrong desire. The person has been dared to do wrong, if he can. Thus sin cannot be abolished by force. The sinner may indeed be destroyed and his sin with him---which is as near achieving the purpose as taking a stain out of a table-cloth with nitric acid, which does indeed very effectively remove the stain, but removes the tablecloth as well. This is often forgotten by those who speak as if punishment inflicted on the sinner would vindicate God's justice. As long as evil is present, justice cannot be fully vindicated.
+2\. How does non-resistance work? We have defined sin as opposition
+towards God. While it is expressed in part by definite acts, these acts
+are not, properly speaking, *themselves* sin, it is the attitude of mind
+which lies behind them which is sin. *And this consists in a tendency of
+the human will contrary to God's will.* It may sometimes be possible to
+make a person do a right action by means of outward compulsion; it is
+pretty frequently possible forcibly to prevent a person doing a wrong
+action. But such use of force has by no means certainly had any effect
+at all in *altering the will* of the person to commit wrong acts.
+Indeed, the very fact that force is used to prevent the will issuing in
+acts of wrong often intensifies the wrong desire. The person has been
+dared to do wrong, if he can. Thus sin cannot be abolished by force. The
+sinner may indeed be destroyed and his sin with him---which is as near
+achieving the purpose as taking a stain out of a table-cloth with nitric
+acid, which does indeed very effectively remove the stain, but removes
+the tablecloth as well. This is often forgotten by those who speak as if
+punishment inflicted on the sinner would vindicate God's justice. As
+long as evil is present, justice cannot be fully vindicated.
 
-If we may use the expression, the problem presented to God by the sin of man was, "how to change that *will to do evil* into a *will to do right?*" That is essentially what was required to bring about a reconciliation between God and man. It was not a change in God that would do this; not a change in the nature of God's claim on man. The change must be in man, not alone in his actions, but in his very personality. It must alter the aim and purpose of that personality out of a direction opposed to God into one in harmony with God's will. It is God Himself who effects this change in man by the appeal of love. That His love represented in Jesus Christ was resisted is the measure of man's sin. *The death of Christ is then both the condemnation of man's sin, and the supreme proof of the depth of Christ's love.* And that is nothing less than the love of God, for Christ is God's representative on earth, God expressed as man. The power of love will touch a man when nothing else can, and the more that love is resisted the more it must be shown---hence, non-resistance to the evil-doer is essential to its complete success, else it were possible to say that love is limited.
+If we may use the expression, the problem presented to God by the sin of
+man was, "how to change that *will to do evil* into a *will to do
+right?*" That is essentially what was required to bring about a
+reconciliation between God and man. It was not a change in God that
+would do this; not a change in the nature of God's claim on man. The
+change must be in man, not alone in his actions, but in his very
+personality. It must alter the aim and purpose of that personality out
+of a direction opposed to God into one in harmony with God's will. It is
+God Himself who effects this change in man by the appeal of love. That
+His love represented in Jesus Christ was resisted is the measure of
+man's sin. *The death of Christ is then both the condemnation of man's
+sin, and the supreme proof of the depth of Christ's love.* And that is
+nothing less than the love of God, for Christ is God's representative on
+earth, God expressed as man. The power of love will touch a man when
+nothing else can, and the more that love is resisted the more it must be
+shown---hence, non-resistance to the evil-doer is essential to its
+complete success, else it were possible to say that love is limited.
 
-3\. This doctrine of the Atonement is confirmed by Christian experience in a manner in which the older doctrines were not. The older doctrines depended for much of their power on the idea of God's justice issuing in wrath and destruction to the evil-doer. This was no part of Christian experience; the Christian, though he was alive to his sin, had not experienced God's wrath against it. As Whittier expresses it,
+3\. This doctrine of the Atonement is confirmed by Christian experience
+in a manner in which the older doctrines were not. The older doctrines
+depended for much of their power on the idea of God's justice issuing in
+wrath and destruction to the evil-doer. This was no part of Christian
+experience; the Christian, though he was alive to his sin, had not
+experienced God's wrath against it. As Whittier expresses it,
 
 > "I know not of His hate, I know
 >
 > His goodness and His love."
 
-It may be said, "But the Christian would not experience the wrath of God; it is reserved for sinners." To this it may be answered, "True, but it is one of the most glorious facts of Christian experience that numbers of men who now enjoy communion with God in Christ were once sunk in the depths of sin. And it is the almost universal testimony of such that it was the love and forbearance of God that saved them." Nor as we look about us in the world do we see the wrath of God coming upon the ungodly. In fact, one of the great problems which have faced religious people is, "Why does not God strike down the wicked in their wickedness? Why does He hold His hand?" On our theory of His method in the world this question falls to the ground. If God is love and is always seeking to save the lost, loving to the uttermost, never desiring to punish---then He will not and cannot, without denying Himself, vindictively destroy the sinner. But what of the wrath of God? A careful reading of Romans 1:18-32 shows that what is there referred to as the "wrath of God" is what we should call the "natural consequences of sin." Sin breeds suffering, and so does much well-meant but mistaken action, which cannot properly be called sin. But the suffering does not come as a punishment because it is sin, but as a disastrous consequence of what is unnatural. And the Atonement in Jesus Christ does not free men from such results of sin---it assures them of God's forgiveness (that is, of His love and favour) and gives them new life.
+It may be said, "But the Christian would not experience the wrath of
+God; it is reserved for sinners." To this it may be answered, "True, but
+it is one of the most glorious facts of Christian experience that
+numbers of men who now enjoy communion with God in Christ were once sunk
+in the depths of sin. And it is the almost universal testimony of such
+that it was the love and forbearance of God that saved them." Nor as we
+look about us in the world do we see the wrath of God coming upon the
+ungodly. In fact, one of the great problems which have faced religious
+people is, "Why does not God strike down the wicked in their wickedness?
+Why does He hold His hand?" On our theory of His method in the world
+this question falls to the ground. If God is love and is always seeking
+to save the lost, loving to the uttermost, never desiring to
+punish---then He will not and cannot, without denying Himself,
+vindictively destroy the sinner. But what of the wrath of God? A careful
+reading of Romans 1:18-32 shows that what is there referred to as the
+"wrath of God" is what we should call the "natural consequences of sin."
+Sin breeds suffering, and so does much well-meant but mistaken action,
+which cannot properly be called sin. But the suffering does not come as
+a punishment because it is sin, but as a disastrous consequence of what
+is unnatural. And the Atonement in Jesus Christ does not free men from
+such results of sin---it assures them of God's forgiveness (that is, of
+His love and favour) and gives them new life.
 
-Again, the older views of Atonement were unable to do justice to what is a very prominent thought in Paul's epistles, "the union of the Christian with Christ." Not that the Church has not taught this, and that numberless Christians have not experienced it---rather that it was something in no way organically connected with the Atonement. It had to be considered as a separate thing. The Atonement brought men to God, then other forces came into play and brought about the union of the Christian with Christ. But what is the foundation of Paul's teaching of union with Christ? *It is union with His death.* Now on our view this is clearly and closely connected with the Atonement. For Christ's death is God dealing with sinful men by the method of non-resistance. Then the union of Christians with Christ in His death means their taking part in Christ's work for the world in the deepest humility and forbearance and love, experiencing in part the sufferings of Christ, sufferings which were not mainly physical, but were due to His intense desire for the good of men, frustrated by their opposition to their own good. When Paul speaks of being united in the death of Christ, he means first, as has always been recognised, that our salvation comes through His death. But he means further, that in our work for the salvation of men we shall suffer for them as Christ suffered. Thus Paul himself suffered, which explains Colossians 1:24, where he speaks of "filling up what is lacking of the sufferings of Christ." This, too, is what he meant by the "fellowship of Christ's sufferings" (Philippians 3:10). And thus, too, it is that our Lord's foretelling of His passion is at once followed by His words to His disciples about taking up the Cross (Mark 8:34), and that He speaks of His giving up His life "a ransom for many" as the culmination of service such as is expected not only from Him but from all who work for the Kingdom of God (Mark 10:45).
+Again, the older views of Atonement were unable to do justice to what is
+a very prominent thought in Paul's epistles, "the union of the Christian
+with Christ." Not that the Church has not taught this, and that
+numberless Christians have not experienced it---rather that it was
+something in no way organically connected with the Atonement. It had to
+be considered as a separate thing. The Atonement brought men to God,
+then other forces came into play and brought about the union of the
+Christian with Christ. But what is the foundation of Paul's teaching of
+union with Christ? *It is union with His death.* Now on our view this is
+clearly and closely connected with the Atonement. For Christ's death is
+God dealing with sinful men by the method of non-resistance. Then the
+union of Christians with Christ in His death means their taking part in
+Christ's work for the world in the deepest humility and forbearance and
+love, experiencing in part the sufferings of Christ, sufferings which
+were not mainly physical, but were due to His intense desire for the
+good of men, frustrated by their opposition to their own good. When Paul
+speaks of being united in the death of Christ, he means first, as has
+always been recognised, that our salvation comes through His death. But
+he means further, that in our work for the salvation of men we shall
+suffer for them as Christ suffered. Thus Paul himself suffered, which
+explains Colossians 1:24, where he speaks of "filling up what is lacking
+of the sufferings of Christ." This, too, is what he meant by the
+"fellowship of Christ's sufferings" (Philippians 3:10). And thus, too,
+it is that our Lord's foretelling of His passion is at once followed by
+His words to His disciples about taking up the Cross (Mark 8:34), and
+that He speaks of His giving up His life "a ransom for many" as the
+culmination of service such as is expected not only from Him but from
+all who work for the Kingdom of God (Mark 10:45).
 
-The sufferings of Christ are then not to be eee as something which man gives to God, or something which is given to God on man's behalf, but rather as the cost to God of continually offering man forgiveness. If one is faced with wrong-doing, and does not merely overlook it, the time may come when one has to choose between doing violence to the wrong-doer, or suffering at his hands. This choice was presented to God, and, in Jesus Christ, He chose to suffer. This is in a very direct way suffering instead of the evil-doer, but it is not in the least what Anselm or the Reformers meant by that phrase. It is *directly* bearing the sin of man, which is what the Scriptures say Christ did, but it is not bearing the punishment of sin instead of man, for that as we have seen is impossible.
+The sufferings of Christ are then not to be eee as something which man
+gives to God, or something which is given to God on man's behalf, but
+rather as the cost to God of continually offering man forgiveness. If
+one is faced with wrong-doing, and does not merely overlook it, the time
+may come when one has to choose between doing violence to the
+wrong-doer, or suffering at his hands. This choice was presented to God,
+and, in Jesus Christ, He chose to suffer. This is in a very direct way
+suffering instead of the evil-doer, but it is not in the least what
+Anselm or the Reformers meant by that phrase. It is *directly* bearing
+the sin of man, which is what the Scriptures say Christ did, but it is
+not bearing the punishment of sin instead of man, for that as we have
+seen is impossible.
 
-Think now what vast consequences follow from this view! God is no longer to be regarded as the terrible dispenser of vengeance, from which men may escape by Christ's self-sacrificing love in bearing the punishment. He is rather, as Jesus taught, the loving Heavenly Father who strives to draw all men to Himself---who condescends to them, who suffers for them and with them. And God shows that suffering for men in the person of Jesus Christ. At the Cross, love and sin faced one another, and apparently sin conquered, but love is really unconquerable. Christ literally "bore the sin of the world"---not its punishment---the sin itself killed Him. The wilful blindness and hypocrisy of the Pharisees, the prudent worldly wisdom of the Sadducees, the irresolution of Pilate, the fickleness and folly of the populace---it was these that brought Him to the Cross. Not one of us is free from some of these. Had we been there we might have condemned Him. And that sin of man which Christ bore once in history, God has borne from all time, and will bear until redemption is complete, and all men are brought back into the divine harmony.
+Think now what vast consequences follow from this view! God is no longer
+to be regarded as the terrible dispenser of vengeance, from which men
+may escape by Christ's self-sacrificing love in bearing the punishment.
+He is rather, as Jesus taught, the loving Heavenly Father who strives to
+draw all men to Himself---who condescends to them, who suffers for them
+and with them. And God shows that suffering for men in the person of
+Jesus Christ. At the Cross, love and sin faced one another, and
+apparently sin conquered, but love is really unconquerable. Christ
+literally "bore the sin of the world"---not its punishment---the sin
+itself killed Him. The wilful blindness and hypocrisy of the Pharisees,
+the prudent worldly wisdom of the Sadducees, the irresolution of Pilate,
+the fickleness and folly of the populace---it was these that brought Him
+to the Cross. Not one of us is free from some of these. Had we been
+there we might have condemned Him. And that sin of man which Christ bore
+once in history, God has borne from all time, and will bear until
+redemption is complete, and all men are brought back into the divine
+harmony.
 
-Sin, then, looks no less terrible than it did. In the old view it was terrible because God punished it relentlessly. Now it is terrible because it hurts the loving heart of the Father---a far deeper thought. The impulse to virtue is no longer the fear of the punishment for sin, but responsible love to the everlasting mercy. And what of conduct? If we accept this view, the strain between theology and ethics goes, the standards for God and man are one. God loves to the uttermost, and suffers, rather than by violence sweep away man's opposition. Man is to love as he has been loved, to answer violence with patience, evil with good, hate with love, and to do this without limit. For Christ died.
+Sin, then, looks no less terrible than it did. In the old view it was
+terrible because God punished it relentlessly. Now it is terrible
+because it hurts the loving heart of the Father---a far deeper thought.
+The impulse to virtue is no longer the fear of the punishment for sin,
+but responsible love to the everlasting mercy. And what of conduct? If
+we accept this view, the strain between theology and ethics goes, the
+standards for God and man are one. God loves to the uttermost, and
+suffers, rather than by violence sweep away man's opposition. Man is to
+love as he has been loved, to answer violence with patience, evil with
+good, hate with love, and to do this without limit. For Christ died.
 
 # Chapter VI. Practical Conclusions
 
-The view of the Atonement which has been put forward in these papers, if accepted by the Christian Church, would have far-reaching consequences in thought and conduct. Belief always affects conduct, though in some cases, owing to the illogicality of the---believer, its influence is not as great as one would expect. Under the reign of the traditional doctrine, the Atonement influenced Christian people in two different directions. The love of Christ had its natural result on those who knew it. It produced a deep and sincere devotion to Him, a love to Him which was strong enough to carry men through anything for His sake, and a self-sacrificing love for others. Christ had died for them, they would give all for Christ, they would follow Him and serve Him to death. And as they submitted themselves to His influence, love and mercy sprang up in their lives as the natural fruits of His spirit. Such results always follow when the self-sacrificing love of Christ grips anyone, and that quite apart from any doctrine of the Atonement; they arise from the spiritual appreciation of the fact of the Atonement.
+The view of the Atonement which has been put forward in these papers, if
+accepted by the Christian Church, would have far-reaching consequences
+in thought and conduct. Belief always affects conduct, though in some
+cases, owing to the illogicality of the---believer, its influence is not
+as great as one would expect. Under the reign of the traditional
+doctrine, the Atonement influenced Christian people in two different
+directions. The love of Christ had its natural result on those who knew
+it. It produced a deep and sincere devotion to Him, a love to Him which
+was strong enough to carry men through anything for His sake, and a
+self-sacrificing love for others. Christ had died for them, they would
+give all for Christ, they would follow Him and serve Him to death. And
+as they submitted themselves to His influence, love and mercy sprang up
+in their lives as the natural fruits of His spirit. Such results always
+follow when the self-sacrificing love of Christ grips anyone, and that
+quite apart from any doctrine of the Atonement; they arise from the
+spiritual appreciation of the fact of the Atonement.
 
-The intellectual understanding of it, as set forth in the Medieval or Protestant form of doctrine, tended to have an almost precisely opposite effect. The theory that God must exact to the full the penalty of sin, that He is full of fierce indignation against it, which would, had not Jesus Christ interposed and borne the punishment due to them, have issued in eternal torments for the sinners,---this theory naturally tended to make men fierce and vengeful, unforgiving and unmerciful; and historically there can be little doubt that much of the fierceness with which Christians persecuted those whom they considered heretics and much of the cruelty of old-time penal systems are due to the fact that the conception of God which underlies this theory prevented the experience of Christ's love producing the fruit of human goodness which should be its natural result. Thus under the old theory experience and thought were opposed; they drew sincere Christians in different ways. Those who experienced the first inflow of new spiritual life in the Reformation or the Evangelical revival were generally most influenced by the experience of the love of Christ, but their successors, whose spiritual life was not so directly derived from first-hand spiritual experience, were often influenced by theological considerations, and were in consequence hard, and sometimes unforgiving and cruel. Thus we find the fierce intolerance of the Puritans came to its fullest development in later times in the American Colonies rather than in the earlier times in England. And this too explains the fact that the greatest advances towards a more humane spirit in dealing with criminals and the greatest tolerance towards "heretics" and "false religions" have come along with a weakening of dogmatic Christianity. The prevalent belief of the humanitarian agnostic that Christianity is opposed to the best in humanity, and the cloudy belief of modern Christians that theology is either unimportant or positively harmful are neither of them really valid, but are due to the fact that the Christian thought, founded ona mistaken theory of the most central message of God to man, the death of Christ, has for hundreds of years been fighting against Christian intuition founded upon a first-hand experience of Christ.
+The intellectual understanding of it, as set forth in the Medieval or
+Protestant form of doctrine, tended to have an almost precisely opposite
+effect. The theory that God must exact to the full the penalty of sin,
+that He is full of fierce indignation against it, which would, had not
+Jesus Christ interposed and borne the punishment due to them, have
+issued in eternal torments for the sinners,---this theory naturally
+tended to make men fierce and vengeful, unforgiving and unmerciful; and
+historically there can be little doubt that much of the fierceness with
+which Christians persecuted those whom they considered heretics and much
+of the cruelty of old-time penal systems are due to the fact that the
+conception of God which underlies this theory prevented the experience
+of Christ's love producing the fruit of human goodness which should be
+its natural result. Thus under the old theory experience and thought
+were opposed; they drew sincere Christians in different ways. Those who
+experienced the first inflow of new spiritual life in the Reformation or
+the Evangelical revival were generally most influenced by the experience
+of the love of Christ, but their successors, whose spiritual life was
+not so directly derived from first-hand spiritual experience, were often
+influenced by theological considerations, and were in consequence hard,
+and sometimes unforgiving and cruel. Thus we find the fierce intolerance
+of the Puritans came to its fullest development in later times in the
+American Colonies rather than in the earlier times in England. And this
+too explains the fact that the greatest advances towards a more humane
+spirit in dealing with criminals and the greatest tolerance towards
+"heretics" and "false religions" have come along with a weakening of
+dogmatic Christianity. The prevalent belief of the humanitarian agnostic
+that Christianity is opposed to the best in humanity, and the cloudy
+belief of modern Christians that theology is either unimportant or
+positively harmful are neither of them really valid, but are due to the
+fact that the Christian thought, founded ona mistaken theory of the most
+central message of God to man, the death of Christ, has for hundreds of
+years been fighting against Christian intuition founded upon a
+first-hand experience of Christ.
 
-Thus almost everywhere in Christendom theory and experience have been opposed, and even those who, building upon experience, gave theory a second place, as did the early Friends, were still handicapped by the fact that they did not definitely reject the mistaken theory, but were inclined rather to put a ban upon all thought. Had the early theologians amongst Friends, Barclay and Penington, been followed by others of like learning and spirit, Christian thought might long ago have rid itself of the burden of this contradiction, and who can measure what an advance would then have been possible? Mistaken theory has then been a cause of inner weakness to the Church, She has spoken with two voices, and these have contradicted one another. She has experienced that God is love, and has taught it, but her words have been in part ineffective because her central doctrine has seemed to imply to many minds that God is Hate. Will not a great accession of strength be the result when experience and theory speak with the same voice? Such a result will follow if the view here advocated is accepted. The opposition between the effect of the personality of Jesus as seen in the Gospels and as known in experience on the one hand, and the doctrine of the Atonement on the other hand disappears. Nay, even more, this theory of Christ's work reinforces the personal appeal. Theory and experience help one another. Christian thinking becomes clarified. God and Christ are no longer opposed as has often been the case in popular thought. They are one in purpose and work, one in love and self-sacrifice for men. But another opposition also disappears. On the one hand there are those who look upon Christianity as essentially a following of Christ, which they generally interpret to mean the practice of kindness and love to all. On the other hand, Christianity is held to consist essentially in a belief that Christ atoned for our sins, died instead of us; faith in that act of His brings salvation. Now on the old doctrine of the Atonement these two views of Christianity were not necessarily connected, and were sometimes even opposed to one another. It is a matter of common knowledge that those who were chiefly attached to the former view were looked upon askance by those who made much of the Atonement, and themselves were inclined to deny the fact of Atonement or to belittle it. But if the essential of the Atonement is that God does not resist evil, that He returns good for evil and suffers rather than inflict injury, then belief in this fact is most closely connected with Christian conduct, and following Christ receives a more definite content than it has ever had before. He came to establish the Kingdom of God and He told His followers to make its coming the supreme object of their prayers and efforts. Seeing then that the method which He took to establish it was the method of non-resistance, following Him must mean taking that method to advance it. In other words, the following of Christ and the belief in His atonement for us become one. He saved us by non-resistance; we are to follow Him and so save the world by the same method (Mark 8:34).
+Thus almost everywhere in Christendom theory and experience have been
+opposed, and even those who, building upon experience, gave theory a
+second place, as did the early Friends, were still handicapped by the
+fact that they did not definitely reject the mistaken theory, but were
+inclined rather to put a ban upon all thought. Had the early theologians
+amongst Friends, Barclay and Penington, been followed by others of like
+learning and spirit, Christian thought might long ago have rid itself of
+the burden of this contradiction, and who can measure what an advance
+would then have been possible? Mistaken theory has then been a cause of
+inner weakness to the Church, She has spoken with two voices, and these
+have contradicted one another. She has experienced that God is love, and
+has taught it, but her words have been in part ineffective because her
+central doctrine has seemed to imply to many minds that God is Hate.
+Will not a great accession of strength be the result when experience and
+theory speak with the same voice? Such a result will follow if the view
+here advocated is accepted. The opposition between the effect of the
+personality of Jesus as seen in the Gospels and as known in experience
+on the one hand, and the doctrine of the Atonement on the other hand
+disappears. Nay, even more, this theory of Christ's work reinforces the
+personal appeal. Theory and experience help one another. Christian
+thinking becomes clarified. God and Christ are no longer opposed as has
+often been the case in popular thought. They are one in purpose and
+work, one in love and self-sacrifice for men. But another opposition
+also disappears. On the one hand there are those who look upon
+Christianity as essentially a following of Christ, which they generally
+interpret to mean the practice of kindness and love to all. On the other
+hand, Christianity is held to consist essentially in a belief that
+Christ atoned for our sins, died instead of us; faith in that act of His
+brings salvation. Now on the old doctrine of the Atonement these two
+views of Christianity were not necessarily connected, and were sometimes
+even opposed to one another. It is a matter of common knowledge that
+those who were chiefly attached to the former view were looked upon
+askance by those who made much of the Atonement, and themselves were
+inclined to deny the fact of Atonement or to belittle it. But if the
+essential of the Atonement is that God does not resist evil, that He
+returns good for evil and suffers rather than inflict injury, then
+belief in this fact is most closely connected with Christian conduct,
+and following Christ receives a more definite content than it has ever
+had before. He came to establish the Kingdom of God and He told His
+followers to make its coming the supreme object of their prayers and
+efforts. Seeing then that the method which He took to establish it was
+the method of non-resistance, following Him must mean taking that method
+to advance it. In other words, the following of Christ and the belief in
+His atonement for us become one. He saved us by non-resistance; we are
+to follow Him and so save the world by the same method (Mark 8:34).
 
-With this doctrine of the Atonement then Christian thinking becomes capable of great simplification; ethics and theology point in the same direction, and Christian conduct and Christian faith become united. We have a Gospel that the thinking man can accept. It is not filled with inner contradictions, it does not lower our conception of God, nor does it contradict any Scripture statement; rather, for the first time, it does justice to the numerous New Testament passages which speak of the Christian sharing in the sufferings of Christ. It bates not a jot of the hideousness of sin, but it presents God's method of curing it as something that really touches the problem, not as something which brings in factors of whose existence no man can know. And it shows how God requires man's co-operation with Him in the work of salvation.
+With this doctrine of the Atonement then Christian thinking becomes
+capable of great simplification; ethics and theology point in the same
+direction, and Christian conduct and Christian faith become united. We
+have a Gospel that the thinking man can accept. It is not filled with
+inner contradictions, it does not lower our conception of God, nor does
+it contradict any Scripture statement; rather, for the first time, it
+does justice to the numerous New Testament passages which speak of the
+Christian sharing in the sufferings of Christ. It bates not a jot of the
+hideousness of sin, but it presents God's method of curing it as
+something that really touches the problem, not as something which brings
+in factors of whose existence no man can know. And it shows how God
+requires man's co-operation with Him in the work of salvation.
 
-One opposition, however, is intensified; Christian practice can no longer be confounded with the way of the world. The opposition between them is deep and essential. The object which the worldly man wants to achieve is not generally so far removed from the Christian ideal as is often assumed. He usually desires justice, he hates injustice and oppression---in other people. Nearly every well-intentioned man, who thinks at all, is a reformer. He wishes to put other people right, and often sees quite correctly where they are wrong. For example, it is evident that all Englishmen detest German militarism, and we are constantly being told that the present war is to put an end to it; but there is very great danger that its result will rather be to enthrone militarism in England; and this will be as bad for the world at large as is German militarism; and further, there is no reason to suppose that German militarism can be permanently destroyed by any other means than by the will of the German people. The world's method of reform then is to make other people do right. This is an exterior method, and from that very fact fails radically. Jesus Christ advised a very different line of conduct when, in the simile of the mote and the beam, he suggested that reform must begin with the reformer; and His method, instead of being a merely surface alteration, as forced reforms are bound to be, begins within and secures the central citadel of a man's life by capturing his affections, and thus alters not merely a man's action, but his thoughts and desires, so that he does right naturally and because he wants to do it, not from compulsion.
+One opposition, however, is intensified; Christian practice can no
+longer be confounded with the way of the world. The opposition between
+them is deep and essential. The object which the worldly man wants to
+achieve is not generally so far removed from the Christian ideal as is
+often assumed. He usually desires justice, he hates injustice and
+oppression---in other people. Nearly every well-intentioned man, who
+thinks at all, is a reformer. He wishes to put other people right, and
+often sees quite correctly where they are wrong. For example, it is
+evident that all Englishmen detest German militarism, and we are
+constantly being told that the present war is to put an end to it; but
+there is very great danger that its result will rather be to enthrone
+militarism in England; and this will be as bad for the world at large as
+is German militarism; and further, there is no reason to suppose that
+German militarism can be permanently destroyed by any other means than
+by the will of the German people. The world's method of reform then is
+to make other people do right. This is an exterior method, and from that
+very fact fails radically. Jesus Christ advised a very different line of
+conduct when, in the simile of the mote and the beam, he suggested that
+reform must begin with the reformer; and His method, instead of being a
+merely surface alteration, as forced reforms are bound to be, begins
+within and secures the central citadel of a man's life by capturing his
+affections, and thus alters not merely a man's action, but his thoughts
+and desires, so that he does right naturally and because he wants to do
+it, not from compulsion.
 
-Christ's method of reform does not use injurious force, and it must take the consequences. Injury and suffering must be expected, and even, in extreme cases, death. The death of Christ means that the world is not to be reformed by force, but by love, which is never willing to inflict injury, but must be ready ever to suffer it. It is obvious that this Divine programme of Christianity cannot be reconciled with self-defence by means of injury to another, nor with national defence, much less with greed for gain, aggression and militarism. While these are recognised methods by which the so-called Christian nations gain their ends, it cannot be much wonder to any thinking person that the Kingdom of God does not come. The acceptance then of this theory of the Atonement would, if the Church held it consistently, place her definitely in opposition to the powers of the world. She would no more consent to bless armies and baptise battleships. She would probably lose many members, for to be a Christian would again mean unpopularity and persecution. But the Church, though reduced in numbers, would be increased in power, for she would again be following Christ, and carrying on the work which He entrusted to her,
+Christ's method of reform does not use injurious force, and it must take
+the consequences. Injury and suffering must be expected, and even, in
+extreme cases, death. The death of Christ means that the world is not to
+be reformed by force, but by love, which is never willing to inflict
+injury, but must be ready ever to suffer it. It is obvious that this
+Divine programme of Christianity cannot be reconciled with self-defence
+by means of injury to another, nor with national defence, much less with
+greed for gain, aggression and militarism. While these are recognised
+methods by which the so-called Christian nations gain their ends, it
+cannot be much wonder to any thinking person that the Kingdom of God
+does not come. The acceptance then of this theory of the Atonement
+would, if the Church held it consistently, place her definitely in
+opposition to the powers of the world. She would no more consent to
+bless armies and baptise battleships. She would probably lose many
+members, for to be a Christian would again mean unpopularity and
+persecution. But the Church, though reduced in numbers, would be
+increased in power, for she would again be following Christ, and
+carrying on the work which He entrusted to her,
 
-But there is much else in our modern life that will have to be altered as a consequence of this view of the work of Christ. It is a commonplace that to-day industry is a sort of war between capital and labour. That this is a somewhat exaggerated way of speaking is probably realised now that we are engaged in a real war; but there is this much truth in it, that greed for gain, the desire to get the better of one another, and oppression are all very evident in the business world. The Christian Church is waking to this fact, and the acceptance of this view of the Atonement could not but increase her sensitiveness to such forms of wrong, and make her additionally eager to find some Christian solution to the problems of commercial life. Again, there is the great subject of the administration of justice and the treatment of criminals. How far are the functions of the Police Force and the office of Magistrate compatible with God's method of saving the world by returning good for evil? We must not be too ready to dispense with these long-used human institutions, yet we shall be obliged to think whether they do not require serious modification. In fact, it is not too much to say that *the acceptance of this view of Christ's work for men will require us to re-think the whole of our personal, social, and political systems. It implies a definite outlook on life which is radically different from that of the world.* Paul held that the whole philosophy of life was "Jesus Christ and Him crucified" (1 Corinthians 2:2); and as we get back again to what was to him the centre, we too shall find, as he did, that "the foolishness of God is wiser than men, and the weakness of God is stronger than men."
+But there is much else in our modern life that will have to be altered
+as a consequence of this view of the work of Christ. It is a commonplace
+that to-day industry is a sort of war between capital and labour. That
+this is a somewhat exaggerated way of speaking is probably realised now
+that we are engaged in a real war; but there is this much truth in it,
+that greed for gain, the desire to get the better of one another, and
+oppression are all very evident in the business world. The Christian
+Church is waking to this fact, and the acceptance of this view of the
+Atonement could not but increase her sensitiveness to such forms of
+wrong, and make her additionally eager to find some Christian solution
+to the problems of commercial life. Again, there is the great subject of
+the administration of justice and the treatment of criminals. How far
+are the functions of the Police Force and the office of Magistrate
+compatible with God's method of saving the world by returning good for
+evil? We must not be too ready to dispense with these long-used human
+institutions, yet we shall be obliged to think whether they do not
+require serious modification. In fact, it is not too much to say that
+*the acceptance of this view of Christ's work for men will require us to
+re-think the whole of our personal, social, and political systems. It
+implies a definite outlook on life which is radically different from
+that of the world.* Paul held that the whole philosophy of life was
+"Jesus Christ and Him crucified" (1 Corinthians 2:2); and as we get back
+again to what was to him the centre, we too shall find, as he did, that
+"the foolishness of God is wiser than men, and the weakness of God is
+stronger than men."
 
-For if, as we believe, the Cross of Christ is God's clearest message to men, then it must follow that the whole of our natural way of thinking as to how evil is to be conquered is mistaken. *God who created and sustains the Universe, is revealed to us in Jesus Christ, as saving the world by the method of nonresistance. To refuse to adopt the same method ourselves, is to claim that we are wiser than the Almighty.*
+For if, as we believe, the Cross of Christ is God's clearest message to
+men, then it must follow that the whole of our natural way of thinking
+as to how evil is to be conquered is mistaken. *God who created and
+sustains the Universe, is revealed to us in Jesus Christ, as saving the
+world by the method of nonresistance. To refuse to adopt the same method
+ourselves, is to claim that we are wiser than the Almighty.*
 
 # Appendix 1. Bibliography
 
 The traditional view of the Atonement somewhat softened:---
 
-- R. W. Dale: *The Atonement.*
+-   R. W. Dale: *The Atonement.*
 
-- James Denney:
-  *The Death of Christ.*
-  *The Christian Doctrine of Reconciliation.* Published 1917.
+-   James Denney: *The Death of Christ.* *The Christian Doctrine of
+    Reconciliation.* Published 1917.
 
-- P. L. Snowden: *The Atonement and Ourselves.* Published 1919.
+-   P. L. Snowden: *The Atonement and Ourselves.* Published 1919.
 
-- J. K. Mozley: *The Doctrine of the Atonement* (last chapter). Published 1915.
+-   J. K. Mozley: *The Doctrine of the Atonement* (last chapter).
+    Published 1915.
 
 Histories of the Doctrine:---
 
-- R. S. Franks: *History of the Doctrine of the Work of Christ.* 2 Vols. Published 1918.
+-   R. S. Franks: *History of the Doctrine of the Work of Christ.* 2
+    Vols. Published 1918.
 
-- L. W. Grensted: *A Short History of the Doctrine of the Atonement.* Published 1920.
+-   L. W. Grensted: *A Short History of the Doctrine of the Atonement.*
+    Published 1920.
 
-- Robert Mackintosh. *Historic Theories of Atonement.* Published 1920.
+-   Robert Mackintosh. *Historic Theories of Atonement.* Published 1920.
 
-- J. K. Mozley: *The Doctrine of the Atonement.* Published 1915.
+-   J. K. Mozley: *The Doctrine of the Atonement.* Published 1915.
 
 Critical of traditional views:---
 
-- Melville Scott: *The Atonement*. Published 1g10. Good on Old Testament.
+-   Melville Scott: *The Atonement*. Published 1g10. Good on Old
+    Testament.
 
-- G. B. Stevens: *The Christian Doctrine of Salvation*. Good on New Testament. Partly historical, partly critical.
+-   G. B. Stevens: *The Christian Doctrine of Salvation*. Good on New
+    Testament. Partly historical, partly critical.
 
-- T. Vincent Tymms: *The Christian Idea of Atonement.* Good criticism of traditional views.
+-   T. Vincent Tymms: *The Christian Idea of Atonement.* Good criticism
+    of traditional views.
 
-- Hastings Rashdall: *The Idea of Atonement in Christian Theology.* Published 1919. An all-round treatise, uncompromisingly hostile to the traditional view, strongly advocating "Moral Influence" view.
+-   Hastings Rashdall: *The Idea of Atonement in Christian Theology.*
+    Published 1919. An all-round treatise, uncompromisingly hostile to
+    the traditional view, strongly advocating "Moral Influence" view.
 
 Famous Reconstructions of the Doctrine:---
 
-- H. Bushnell: *The Vicarious Sacrifice.* The classical statement in modern times of the 'moral influence' view.
+-   H. Bushnell: *The Vicarious Sacrifice.* The classical statement in
+    modern times of the 'moral influence' view.
 
-- J. McLeod Campbell: *The Nature of the Atonement.*
+-   J. McLeod Campbell: *The Nature of the Atonement.*
 
-- R. C. Moberly: *Atonement and Personality.*
+-   R. C. Moberly: *Atonement and Personality.*
 
-- Douglas White: *Forgiveness and Suffering.* Published 1913. Nearly approaches view here presented.
+-   Douglas White: *Forgiveness and Suffering.* Published 1913. Nearly
+    approaches view here presented.
 
 Taking the same view as here presented:---
 
-- W. Fearon Halliday: *Reconciliation and Reality.* Published 1917. The best general treatment of the subject.
+-   W. Fearon Halliday: *Reconciliation and Reality.* Published 1917.
+    The best general treatment of the subject.
 
-- Edward Grubb: *The Meaning of the Cross.* Published 1922. Scriptural, historical and comprehensive.
+-   Edward Grubb: *The Meaning of the Cross.* Published 1922.
+    Scriptural, historical and comprehensive.
 
-- Practically all the writers of the *Christian Revolution Series* take this view, and express it in their books in the series. It is especially clearly set forth in A. T. Cadoux' *Essays in Christian Thinking.* In America it has been quite independently expressed by Walter Rauschenbusch in a *Theology for the Social Gospel.*
+-   Practically all the writers of the *Christian Revolution Series*
+    take this view, and express it in their books in the series. It is
+    especially clearly set forth in A. T. Cadoux' *Essays in Christian
+    Thinking.* In America it has been quite independently expressed by
+    Walter Rauschenbusch in a *Theology for the Social Gospel.*
 
 Useful for a background:---
 
-- C. E. Rolt: *The World's Redemption.* A Philosophic world-view harmonising with the view here presented.
+-   C. E. Rolt: *The World's Redemption.* A Philosophic world-view
+    harmonising with the view here presented.
 
-- R. S. Moxon: *The Doctrine of Sin,* Published 1922.
+-   R. S. Moxon: *The Doctrine of Sin,* Published 1922.
 
-- Dougall and Emmet: *The Lord of Thought;* and
+-   Dougall and Emmet: *The Lord of Thought;* and
 
-- Norman L. Robinson: *Christian Justice;* bear on the problem of Punishment and Justice.
+-   Norman L. Robinson: *Christian Justice;* bear on the problem of
+    Punishment and Justice.
 
 # Appendix 2. Helps for use of Study Circles
 
-The two chief questions to be kept in mind throughout are: How are we to explain the connection between the death of Christ and the salvation of men? And what are the moral implications of our ideas on the subject?
+The two chief questions to be kept in mind throughout are: How are we to
+explain the connection between the death of Christ and the salvation of
+men? And what are the moral implications of our ideas on the subject?
 
-Two meetings may with advantage be given to each of Chapters 1, 2, 3 and 4.
+Two meetings may with advantage be given to each of Chapters 1, 2, 3 and
+4.
 
 ## Chapter I
 
-Central thought is "The atonement is a fact" (p. 9). We know it as a fact because people have evidently been reconciled to God through Christ and His death.
+Central thought is "The atonement is a fact" (p. 9). We know it as a
+fact because people have evidently been reconciled to God through Christ
+and His death.
 
-The original meaning of word "Atonement" in English is "Reconciliation"---At-one-ment. This is the meaning in Romans 5:11 A.V., the only place where the word occurs in N.T. R.V. translates rightly "Reconciliation."
+The original meaning of word "Atonement" in English is
+"Reconciliation"---At-one-ment. This is the meaning in Romans 5:11 A.V.,
+the only place where the word occurs in N.T. R.V. translates rightly
+"Reconciliation."
 
-To realise what is the meaning of the Fact of Atonement, thought should be given to the following questions:
+To realise what is the meaning of the Fact of Atonement, thought should
+be given to the following questions:
 
 What is Sin?
 
-Is there any distinction between evil-doing in general and sin? Do we call a man a sinner for doing wrong which he has not realised as wrong? May not such unconscious wrong be as bad for the world at large as what is conscious and deliberate?
+Is there any distinction between evil-doing in general and sin? Do we
+call a man a sinner for doing wrong which he has not realised as wrong?
+May not such unconscious wrong be as bad for the world at large as what
+is conscious and deliberate?
 
 What is the relation of Sin to God?
 
@@ -232,55 +1098,124 @@ What is the relation of Sin to our fellow-men?
 
 Is it correct to say "Sin is Selfishness"?
 
-Suppose we regard human life as consisting in relations of the self with God and the fellow-men. Sin spoils these relations. Atonement would mean the restoration of right relations. If this is so, what must atonement do? Must it alter God, the world of fellow-men, or the sinner?
+Suppose we regard human life as consisting in relations of the self with
+God and the fellow-men. Sin spoils these relations. Atonement would mean
+the restoration of right relations. If this is so, what must atonement
+do? Must it alter God, the world of fellow-men, or the sinner?
 
-For the fact of Atonement seen in the transformation of sinners into saints, see *Broken Earthenware* and *In the Hands of the Potter*, by H. Begbie, and James's *Varieties of Religious Experience*, Lect. 9 and 10.
+For the fact of Atonement seen in the transformation of sinners into
+saints, see *Broken Earthenware* and *In the Hands of the Potter*, by H.
+Begbie, and James's *Varieties of Religious Experience*, Lect. 9 and 10.
 
 ## Chapter II
 
-The subject is the Traditional Protestant Doctrine: "The satisfaction of Divine justice for the sin of man by the substituted penal sufferings of the Son of God" (p.13).
+The subject is the Traditional Protestant Doctrine: "The satisfaction of
+Divine justice for the sin of man by the substituted penal sufferings of
+the Son of God" (p.13).
 
-Nearly everyone recognises the rational or moral difficulties in accepting this. Its sole support nowadays is the belief that it, or something like it, is necessarily implied in Scripture. It is therefore important that a careful study of the N.T. should be made on the question Passages on the subject naturally fall under three heads :
+Nearly everyone recognises the rational or moral difficulties in
+accepting this. Its sole support nowadays is the belief that it, or
+something like it, is necessarily implied in Scripture. It is therefore
+important that a careful study of the N.T. should be made on the
+question Passages on the subject naturally fall under three heads :
 
-(1) Those which seem inconsistent with the Traditional Doctrine. All such, for instance, as speak of free forgiveness or of salvation as due to the love of God, thus naturally making any idea of satisfaction or appeasement unlikely, for example:
+(1) Those which seem inconsistent with the Traditional Doctrine. All
+    such, for instance, as speak of free forgiveness or of salvation as
+    due to the love of God, thus naturally making any idea of
+    satisfaction or appeasement unlikely, for example:
 
-John 3:16-21; Romans 3:19-26 (as interpreted in chapter 3); Romans 8:3 and 31-39; 2 Corinthians 5:18-19 (whole context, 11-21, should be read); 1 John 3:16, 4:9-10.
+John 3:16-21; Romans 3:19-26 (as interpreted in chapter 3); Romans 8:3
+and 31-39; 2 Corinthians 5:18-19 (whole context, 11-21, should be read);
+1 John 3:16, 4:9-10.
 
-(2) Those which have been used as bases for the doctrine; such as use expressions about sacrifice and ransom, and those which have been taken to imply substitution in the strict sense. It is to be noted that neither "satisfaction" nor "substitution" are Biblical words, and that there is no passage in the N.T. where even the ideas behind "satisfaction" are *indisputably* expressed.
+(2) Those which have been used as bases for the doctrine; such as use
+    expressions about sacrifice and ransom, and those which have been
+    taken to imply substitution in the strict sense. It is to be noted
+    that neither "satisfaction" nor "substitution" are Biblical words,
+    and that there is no passage in the N.T. where even the ideas behind
+    "satisfaction" are *indisputably* expressed.
 
-About all these passages we ought to ask---Are they meant literally, or is there something metaphorical, typical, or pictorial about them? Do the words necessarily convey the meaning which has been read into them? Does the reference to Christ's death as a sacrifice necessarily lead to the traditional doctrine at all? If sacrifice implied either satisfaction or substitution, what is the meaning of the passages which refer to the lives and deaths of Christians as sacrifices? Is there any reason to think that phrases apparently implying substitution really mean any more than is suggested on p. 13?
+About all these passages we ought to ask---Are they meant literally, or
+is there something metaphorical, typical, or pictorial about them? Do
+the words necessarily convey the meaning which has been read into them?
+Does the reference to Christ's death as a sacrifice necessarily lead to
+the traditional doctrine at all? If sacrifice implied either
+satisfaction or substitution, what is the meaning of the passages which
+refer to the lives and deaths of Christians as sacrifices? Is there any
+reason to think that phrases apparently implying substitution really
+mean any more than is suggested on p. 13?
 
-References:---Mark 10:45; Matthew 26:28; Matthew 26:36-44; Romans 3:25 (as usually interpreted); Romans 5:10: 1 Corinthians 6:20; 1 Corinthians 5:7; 2 Corinthians 5:21; Galatians 3:13, 4:4; Ephesians 5:2; 1 Timothy 2:5-6; Hebrews 2:17, 9:22-28; 1 Peter 2:24 (as ordinarily interpreted), etc., etc.
+References:---Mark 10:45; Matthew 26:28; Matthew 26:36-44; Romans 3:25
+(as usually interpreted); Romans 5:10: 1 Corinthians 6:20; 1 Corinthians
+5:7; 2 Corinthians 5:21; Galatians 3:13, 4:4; Ephesians 5:2; 1 Timothy
+2:5-6; Hebrews 2:17, 9:22-28; 1 Peter 2:24 (as ordinarily interpreted),
+etc., etc.
 
-Passages referring to the lives and deaths of Christians as sacrifices:---Romans 12:1; Romans 15:16; Philippians 2:17; Philippians 4:18; 2 Timothy 4:6; compare also Hebrews 13:15-16; 1 Peter 2:5-9.
+Passages referring to the lives and deaths of Christians as
+sacrifices:---Romans 12:1; Romans 15:16; Philippians 2:17; Philippians
+4:18; 2 Timothy 4:6; compare also Hebrews 13:15-16; 1 Peter 2:5-9.
 
-(3) Those which may be used in support of the doctrine, but do not, taken by themselves, even apparently imply it. These only in general support the idea that in some way Christ's death was involved in man's salvation; they therefore equally well fit in with the thesis of Atonement and Non-Resistance.
+(3) Those which may be used in support of the doctrine, but do not,
+    taken by themselves, even apparently imply it. These only in general
+    support the idea that in some way Christ's death was involved in
+    man's salvation; they therefore equally well fit in with the thesis
+    of Atonement and Non-Resistance.
 
-Luke 24:46-47; John 6:51, 10:11-18; Romans 5:6; 1 Corinthians 15:3; 2 Corinthians 5:14-15; Galatians 1:4; Ephesians 1:6-7; 1 Thessalonians 5:9-10; Titus 2:13-14; Hebrews 2:9, 9:12; Revelations 1:5-6.
+Luke 24:46-47; John 6:51, 10:11-18; Romans 5:6; 1 Corinthians 15:3; 2
+Corinthians 5:14-15; Galatians 1:4; Ephesians 1:6-7; 1 Thessalonians
+5:9-10; Titus 2:13-14; Hebrews 2:9, 9:12; Revelations 1:5-6.
 
 ## Chapter III
 
-The subject of this chapter is the meaning of sacrificial terms as applied to the death of Christ and the use of the words "redemption," "ransom," etc., in the N.T.
+The subject of this chapter is the meaning of sacrificial terms as
+applied to the death of Christ and the use of the words "redemption,"
+"ransom," etc., in the N.T.
 
-The strength of the argument for the traditional view lies in the assumption that sacrificial terms imply the necessity of "appeasing God," that is, that to propitiate means to appease. And on the assumption that "ransom" and "redeem" are used in the full and complete literal meaning, as stated on p. 23 and 24.
+The strength of the argument for the traditional view lies in the
+assumption that sacrificial terms imply the necessity of "appeasing
+God," that is, that to propitiate means to appease. And on the
+assumption that "ransom" and "redeem" are used in the full and complete
+literal meaning, as stated on p. 23 and 24.
 
-The thesis of the chapter is that in Romans 3 these two assumptions are untrue. The same applies elsewhere in N.T. But the reasoning can be carried a step farther back. Even in the O.T. sacrifices are *not* regarded as appeasing God. Melville Scott's *Atonement*, chapters 3 and 4, should be read and the references there given looked up.
+The thesis of the chapter is that in Romans 3 these two assumptions are
+untrue. The same applies elsewhere in N.T. But the reasoning can be
+carried a step farther back. Even in the O.T. sacrifices are *not*
+regarded as appeasing God. Melville Scott's *Atonement*, chapters 3 and
+4, should be read and the references there given looked up.
 
-The words "ransom," "redeem," etc., as used in O.T., should be looked up in a concordance and a careful study made as to where used perfectly literally and where metaphorically (that is, where it is impossible to suppose that an actual purchase is meant). It will be found that about 60% are metaphorical, and this includes *ail* in which God is called Redeemer.
+The words "ransom," "redeem," etc., as used in O.T., should be looked up
+in a concordance and a careful study made as to where used perfectly
+literally and where metaphorically (that is, where it is impossible to
+suppose that an actual purchase is meant). It will be found that about
+60% are metaphorical, and this includes *ail* in which God is called
+Redeemer.
 
-Were the O.T. sacrifices meant to appease God? (See Melville Scott, *op. cit.*)
+Were the O.T. sacrifices meant to appease God? (See Melville Scott, *op.
+cit.*)
 
-If "propitiate" means "appease," does not Romans 3:24 and 25, mean that God appeased Himself? Do you think Paul can mean that?
+If "propitiate" means "appease," does not Romans 3:24 and 25, mean that
+God appeased Himself? Do you think Paul can mean that?
 
-If these verses mean that Christ paid God for our salvation, how can it be true that we are "justified *freely* by His *grace*?"
+If these verses mean that Christ paid God for our salvation, how can it
+be true that we are "justified *freely* by His *grace*?"
 
-In verse 26, how is it that God is proved just? Is He some way proved just *in spite* of justifying "him that hath faith in Jesus?" Or is He proved just *because* He justifies?
+In verse 26, how is it that God is proved just? Is He some way proved
+just *in spite* of justifying "him that hath faith in Jesus?" Or is He
+proved just *because* He justifies?
 
-In face of the frequently metaphorical use of "redeem" etc., in the O.T., need we think that Paul must use "redemption" literally here?
+In face of the frequently metaphorical use of "redeem" etc., in the
+O.T., need we think that Paul must use "redemption" literally here?
 
 ## Chapter IV
 
-The central ideas are "Repentance" and "Forgiveness." What is implied in these and how are they related to one another? It is shown in the chapter that Moberly's idea of "Vicarious Penitence" is fallacious and that we have reason to think that God's forgiveness manifests itself in non-resistance to the evil-doer. A further study of what is meant by Repentance and Forgiveness will make both these points clearer, and will also show how it is that God can rightly forgive the repentant sinner without any "sanction" of punishment.
+The central ideas are "Repentance" and "Forgiveness." What is implied in
+these and how are they related to one another? It is shown in the
+chapter that Moberly's idea of "Vicarious Penitence" is fallacious and
+that we have reason to think that God's forgiveness manifests itself in
+non-resistance to the evil-doer. A further study of what is meant by
+Repentance and Forgiveness will make both these points clearer, and will
+also show how it is that God can rightly forgive the repentant sinner
+without any "sanction" of punishment.
 
 What is repentance?
 
@@ -290,7 +1225,16 @@ Is it desire to escape the punishment?
 
 Is it something that does instead of punishment?
 
-All these meanings are suggested by the words *repentance* and *penitence*, which are derived from the Latin "*poena*," meaning " expiation," "punishment," "suffering." The words themselves come from the Vulgate rendering of *metanoeite* by "poenitentiam agite." But the Greek word *metanoein* means "to change one's mind." And this does not necessarily imply either expiation, punishment, suffering, or sorrow, though the two latter may generally accompany it. "To repent," then, obviously means to change one's mind from opposing God to trusting Him and obeying Him. Is there any possibility that one who does this, in so far as he does it, will "abuse God's forgiveness?"
+All these meanings are suggested by the words *repentance* and
+*penitence*, which are derived from the Latin "*poena*," meaning "
+expiation," "punishment," "suffering." The words themselves come from
+the Vulgate rendering of *metanoeite* by "poenitentiam agite." But the
+Greek word *metanoein* means "to change one's mind." And this does not
+necessarily imply either expiation, punishment, suffering, or sorrow,
+though the two latter may generally accompany it. "To repent," then,
+obviously means to change one's mind from opposing God to trusting Him
+and obeying Him. Is there any possibility that one who does this, in so
+far as he does it, will "abuse God's forgiveness?"
 
 ### Forgiveness
 
@@ -308,56 +1252,134 @@ Or is it the restoration of friendship between God and man?
 
 If it is the last, the others may all in time follow from it.
 
-If it is the last, we see at once how it is that forgiveness cannot come till man repents, because no one can be in a state of friendship with another if he does not want to be. And this points to two different meanings of the word "forgiveness." As God's action it cannot take place till man repents. As God's attitude it is always present, being an essential part of His love.
+If it is the last, we see at once how it is that forgiveness cannot come
+till man repents, because no one can be in a state of friendship with
+another if he does not want to be. And this points to two different
+meanings of the word "forgiveness." As God's action it cannot take place
+till man repents. As God's attitude it is always present, being an
+essential part of His love.
 
-A careful thinking out of these points will help to a clearer understanding of Atonement as non-resistance.
+A careful thinking out of these points will help to a clearer
+understanding of Atonement as non-resistance.
 
-Reading: D. White's *Forgiveness and Suffering*, chapter 5, also 6 and 7.
+Reading: D. White's *Forgiveness and Suffering*, chapter 5, also 6 and
+7.
 
 ## Chapter V
 
 The central ideas are self-sacrifice and moral appeal.
 
-Perhaps the most important words in Chapter V are on p. 37: "The death of Christ is, then, both the condemnation of man's sin and the supreme proof of the depth of Christ's love."
+Perhaps the most important words in Chapter V are on p. 37: "The death
+of Christ is, then, both the condemnation of man's sin and the supreme
+proof of the depth of Christ's love."
 
 The following passages should be studied:---
 
 (a) John 3:17-21, 5:22-30, 8:15-16, 12:31-32, 47-48.
 
-(b) Mark 8:31-34, 10:42-45; Romans 5:6-11, 6:1-11, 23, 7:1-4; 2 Corinthians 6:14-19; Galatians 2:20-21; Philippians 2:1-11; Colossians 1:19-22; Titus 2:11-14; Hebrews 2:14-18; Hebrews 9:13-14 (notice contrast between "flesh" v. 13 and "conscience" v. 14), 1 Peter 2:21-25, etc.
+(b) Mark 8:31-34, 10:42-45; Romans 5:6-11, 6:1-11, 23, 7:1-4; 2
+    Corinthians 6:14-19; Galatians 2:20-21; Philippians 2:1-11;
+    Colossians 1:19-22; Titus 2:11-14; Hebrews 2:14-18; Hebrews 9:13-14
+    (notice contrast between "flesh" v. 13 and "conscience" v. 14), 1
+    Peter 2:21-25, etc.
 
-(a) Refer to Christ as Judge.
+(c) Refer to Christ as Judge.
 
-(b) Refer to certain aspects of His work through His death.
+(d) Refer to certain aspects of His work through His death.
 
 The following questions may be raised:---
 
-Does the judgment on sin here spoken of imply punishment? If not, in what does it consist? What bearing has such judgment on our theory?
+Does the judgment on sin here spoken of imply punishment? If not, in
+what does it consist? What bearing has such judgment on our theory?
 
-What bearing on our theory have such passages as refer to (a) the moral effects of Christ's death in us, for example, 2 Corinthians 5:14-19 and Hebrews 9:13-14, etc., and (b) His death as exemplary, for example, Mark 8:31-34, Philippians 2:1-11, and 1 Peter 2:21-25, etc.?
+What bearing on our theory have such passages as refer to (a) the moral
+effects of Christ's death in us, for example, 2 Corinthians 5:14-19 and
+Hebrews 9:13-14, etc., and (b) His death as exemplary, for example, Mark
+8:31-34, Philippians 2:1-11, and 1 Peter 2:21-25, etc.?
 
-If Atonement implies a moral change in man (see Chapter I.), must not an important part of Christ's work be a *moral appeal?*
+If Atonement implies a moral change in man (see Chapter I.), must not an
+important part of Christ's work be a *moral appeal?*
 
-If forgiveness cannot be complete without repentance (see Chapter IV), must not Christ's work have been aimed at producing repentance?
+If forgiveness cannot be complete without repentance (see Chapter IV),
+must not Christ's work have been aimed at producing repentance?
 
-How does His self-sacrifice consummating in death do this? What made His death necessary?
+How does His self-sacrifice consummating in death do this? What made His
+death necessary?
 
-Have we in the N.T. any indication that Christ's death was necessary to alter God's attitude towards us?
+Have we in the N.T. any indication that Christ's death was necessary to
+alter God's attitude towards us?
 
 ## Chapter VI
 
-The central thought is that God's way of putting the world right is the way of inward change, produced by moral appeal (p. 47). This is in entire accord with Christian experience, but has not had any adequate expression in Christian Theory. The view of Atonement as Non-Resistance ought to strengthen enormously the Christian position by uniting theory and experience. But it definitely opposes Christianity to the world.
+The central thought is that God's way of putting the world right is the
+way of inward change, produced by moral appeal (p. 47). This is in
+entire accord with Christian experience, but has not had any adequate
+expression in Christian Theory. The view of Atonement as Non-Resistance
+ought to strengthen enormously the Christian position by uniting theory
+and experience. But it definitely opposes Christianity to the world.
 
 Thought may profitably be given to the following subjects:---
 
-Setting right the world by inward change means beginning with the individual. The nearest individual is myself. What change is needed in me?
+Setting right the world by inward change means beginning with the
+individual. The nearest individual is myself. What change is needed in
+me?
 
-How ought I to work for the change in others? Consider the meaning of "Judge not" (Matthew 7:1). Consider the force of example and love and service. Consider the example of Christ and how we may copy it. Note how constantly in the N.T. the *Death* of Christ is referred to as exemplary. References: Mark 8:31-34; Mark 10:42-45; Philippians 2:1-11; Colossians 1:24; 1 Peter 1:14-22, 2:21-24, 3:16-18, 4:1, 12-13, etc.
+How ought I to work for the change in others? Consider the meaning of
+"Judge not" (Matthew 7:1). Consider the force of example and love and
+service. Consider the example of Christ and how we may copy it. Note how
+constantly in the N.T. the *Death* of Christ is referred to as
+exemplary. References: Mark 8:31-34; Mark 10:42-45; Philippians 2:1-11;
+Colossians 1:24; 1 Peter 1:14-22, 2:21-24, 3:16-18, 4:1, 12-13, etc.
 
 What is the meaning of this?
 
-Special problems: War, Industrial Competition, Prisons, Police, and Punishment. In all these we see enormous wrong. Two questions arise: (a) What is the right which should be substituted for the wrong? (b) How are we to work for this substitution?
+Special problems: War, Industrial Competition, Prisons, Police, and
+Punishment. In all these we see enormous wrong. Two questions arise: (a)
+What is the right which should be substituted for the wrong? (b) How are
+we to work for this substitution?
 
-Is not the answer to both along the same lines? These are wrong in that they use the ways of opposition and injury of people. They must be put right by the way of inward change. No way of injury and violence can rightly put them right. Love, persuasion, example, are the only forces.
+Is not the answer to both along the same lines? These are wrong in that
+they use the ways of opposition and injury of people. They must be put
+right by the way of inward change. No way of injury and violence can
+rightly put them right. Love, persuasion, example, are the only forces.
 
-On the question of *War* the author's two books, *Christ and War* (written before the great War broke out) and *The Foundations of Peace* (written during the War) may be recommended. The latter gives the fullest discussion of the meaning of "Non-Resistance" in any modern book. It also discusses means of preventing war. The volumes of the *Christian Revolution Series* set forth the general back-ground of Pacifism. On the question of *Crime and Punishment,* Thomas Mott Osbourne's *Society and Prisons* is good, as is C. Leeson's *The Probation System.* Actual conditions as they were up to a few years ago are given in *English Prisons To-day,* Hobhouse and Brockway, and the history is given in the Webb's *Prisons under Local Government.* George Ives' *History of Penal Methods* covers a much wider field, and is the best introduction to the whole subject. On the *Social Question* generally, [R. H. Tawney's *Acquisitive Society*](https://cadenhaustein.com/books/acquisitive-society/) and the Webb's *Decay of Capitalist Civilization* are important. H. T. Hodgkin's *Christian Revolution* gives valuable suggestions towards a Christian re-organisation of society. The publications of the *Christian Conference for Economics, Politics and Citizenship* (C.O.P.E.C.) may be studied with advantage.
+On the question of *War* the author's two books, *Christ and War*
+(written before the great War broke out) and *The Foundations of Peace*
+(written during the War) may be recommended. The latter gives the
+fullest discussion of the meaning of "Non-Resistance" in any modern
+book. It also discusses means of preventing war. The volumes of the
+*Christian Revolution Series* set forth the general back-ground of
+Pacifism. On the question of *Crime and Punishment,* Thomas Mott
+Osbourne's *Society and Prisons* is good, as is C. Leeson's *The
+Probation System.* Actual conditions as they were up to a few years ago
+are given in *English Prisons To-day,* Hobhouse and Brockway, and the
+history is given in the Webb's *Prisons under Local Government.* George
+Ives' *History of Penal Methods* covers a much wider field, and is the
+best introduction to the whole subject. On the *Social Question*
+generally, [R. H. Tawney's *Acquisitive
+Society*](https://cadenhaustein.com/books/acquisitive-society/) and the
+Webb's *Decay of Capitalist Civilization* are important. H. T. Hodgkin's
+*Christian Revolution* gives valuable suggestions towards a Christian
+re-organisation of society. The publications of the *Christian
+Conference for Economics, Politics and Citizenship* (C.O.P.E.C.) may be
+studied with advantage.
+
+[^1]: Some men appear to have no sense of sin, but this is either
+    because they have not reflected upon their actions, or have somehow
+    argued themselves into the belief that they are not responsible for
+    them.
+
+[^2]: W.G.T. Shedd, in his history of Christian Doctrine, published
+    1872, gives the above words as the generally accepted definition of
+    the Atonement.
+
+[^3]: Of course it is not denied that sin brings many disastrous
+    consequences, but Christ's death does not save the sinner from
+    these, and similar disastrous consequences sometimes also follow
+    acts in no way sinful, but even unselfish and altruistic.
+
+[^4]: This idea is justified, by those who hold it, from Mark 10:45,
+    where our Lord says that He came "to give His life a ransom for
+    many." This passage will be discussed later. Here it is enough to
+    say that there is *no indication* that our Lord meant that the
+    ransom was paid to God.

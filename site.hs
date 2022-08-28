@@ -13,6 +13,7 @@ import GHC.Generics
 import Hakyll
 import System.FilePath (takeBaseName, takeDirectory, (</>))
 import Text.HTML.TagSoup (Tag (..))
+import Prelude hiding (words)
 import Control.Arrow (second)
 
 --------------------------------------------------------------------------------
@@ -136,10 +137,29 @@ data BookData = BookData {categories :: [String], books :: [Book]}
 
 instance FromJSON BookData
 
-data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, lastWriteTime :: String, category :: Int}
+data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, hash :: String, words :: Int, category :: Int}
   deriving (Generic, Show)
 
 instance FromJSON Book
+
+prettyWords :: Book -> String
+prettyWords book =
+    let ws = words book in 
+    if ws > 400000
+    then show (ws `div` 100000) <> "00k"
+    else
+      if ws > 40000
+      then show (ws `div` 10000) <> "0k"
+      else
+        if ws > 4000
+        then show (ws `div` 1000) <> "k"
+        else
+          if ws > 400
+          then show (ws `div` 100) <> "00"
+          else
+           if ws > 40
+           then show (ws `div` 10) <> "0"
+           else show ws
 
 compareBooks :: Book -> Book -> Ordering
 compareBooks a b = compare (year b) (year a)
@@ -155,6 +175,7 @@ booksField bookData = listField "categories" categoryCtx (pure cats)
         <> field "author" (pure . author . itemBody)
         <> field "title" (pure . title . itemBody)
         <> field "year" (pure . show . year . itemBody)
+        <> field "words" (pure . prettyWords . itemBody)
         <> field
           "source"
           ( \item ->

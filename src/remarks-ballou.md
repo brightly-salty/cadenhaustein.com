@@ -1,31 +1,601 @@
-*Friend President*---'Where the Spirit of the Lord is, there is liberty.' I feel that the Spirit of the Lord is in this meeting, and that all who participate in its discussions are at *liberty* to express their convictions and peculiar views in their own *way*, without fear of offending each other. We are of various religious connexions, but different modes of thought and expression. Be it *so;* since we come together in *love*, for the consideration and promotion of that *grand virtue* of Christianity without which all others become *practically* unfruitful.
+*Friend President*---'Where the Spirit of the Lord is, there is
+liberty.' I feel that the Spirit of the Lord is in this meeting, and
+that all who participate in its discussions are at *liberty* to express
+their convictions and peculiar views in their own *way*, without fear of
+offending each other. We are of various religious connexions, but
+different modes of thought and expression. Be it *so;* since we come
+together in *love*, for the consideration and promotion of that *grand
+virtue* of Christianity without which all others become *practically*
+unfruitful.
 
-For my own part, I am not only not offended at hearing opinions and ideas expressed here contrary in some respects to my own, but I am *happy* to hear them delivered with that freedom and independence which evinces the absence of even a suspicion that any one *can* take offence. This is a sure presage of the triumph of truth over all our errors, whatever they may be, or whoever may hold them.
+For my own part, I am not only not offended at hearing opinions and
+ideas expressed here contrary in some respects to my own, but I am
+*happy* to hear them delivered with that freedom and independence which
+evinces the absence of even a suspicion that any one *can* take offence.
+This is a sure presage of the triumph of truth over all our errors,
+whatever they may be, or whoever may hold them.
 
-My views of the subject presented in the resolution just submitted may not entirely coincide with those of my friends; but I offer them *frankly*, expecting that they will be accepted or rejected, as each individual may judge that they deserve.
+My views of the subject presented in the resolution just submitted may
+not entirely coincide with those of my friends; but I offer them
+*frankly*, expecting that they will be accepted or rejected, as each
+individual may judge that they deserve.
 
-I perceive with joy that a *divine instinct,* if so I may term it, actuates my brethren and sisters of this convention in favor of *non-resistance.* This instinct is *strong,* and *true* as the needle to the pole; while at the same time few of us clearly understand *how* a non-resistant should carry out his principles, especially with respect to human government. The *heart* is *right,* though the *head* may *err.* We love the blessed principle of non-resistance, though perhaps not sufficiently acute and discriminating, either to *state* or *defend* it *always* correctly. Hence we are not to be *argued* down by polemic ingenuity and eloquence; which however *confounding* is yet *unconvincing,* that on the whole we are not *right.* If I can contribute any thing towards a better understanding of this important subject, so as to obviate any of its seeming difficulties, I shall deem myself happy in the privilege of being for a few moments as a speaker.
+I perceive with joy that a *divine instinct,* if so I may term it,
+actuates my brethren and sisters of this convention in favor of
+*non-resistance.* This instinct is *strong,* and *true* as the needle to
+the pole; while at the same time few of us clearly understand *how* a
+non-resistant should carry out his principles, especially with respect
+to human government. The *heart* is *right,* though the *head* may
+*err.* We love the blessed principle of non-resistance, though perhaps
+not sufficiently acute and discriminating, either to *state* or *defend*
+it *always* correctly. Hence we are not to be *argued* down by polemic
+ingenuity and eloquence; which however *confounding* is yet
+*unconvincing,* that on the whole we are not *right.* If I can
+contribute any thing towards a better understanding of this important
+subject, so as to obviate any of its seeming difficulties, I shall deem
+myself happy in the privilege of being for a few moments as a speaker.
 
-The resolution before us in these words:---'Resolved, That it is the object of this Society neither to purify nor to subvert human governments, but to advance in the earth that kingdom of peace and righteousness, which supersedes all such governments.' In speaking to this resolution, I do so, not formally and technically in the name of this Society (of which I am not a member) but simply as a *non-resistant,* in defence of the common cause in which we are all engaged. I therefore take the resolution as if it read---'Resolved, That it is the object of all true non-resistants...' What then are the capital points which it embraces? It seems to suggest three general inquiries: "What is *human government?*", "What is *divine government?*", and "What is the *object* of *non-resistants* with respect to *human* government?".
+The resolution before us in these words:---'Resolved, That it is the
+object of this Society neither to purify nor to subvert human
+governments, but to advance in the earth that kingdom of peace and
+righteousness, which supersedes all such governments.' In speaking to
+this resolution, I do so, not formally and technically in the name of
+this Society (of which I am not a member) but simply as a
+*non-resistant,* in defence of the common cause in which we are all
+engaged. I therefore take the resolution as if it read---'Resolved, That
+it is the object of all true non-resistants...' What then are the
+capital points which it embraces? It seems to suggest three general
+inquiries: "What is *human government?*", "What is *divine
+government?*", and "What is the *object* of *non-resistants* with
+respect to *human* government?".
 
-*What is human government?* It is the will of man---whether of one, few, many or all, in a state or nation---exercising absolute authority over man, by means of cunning and physical force. This *will* may be ascertained, declared, and executed, with or without written constitutions and laws, regularly or irregularly, in moderation or in violence; still it is alike human government under all forms and administrations, ☞ the *will of man* exercising absolute authority over man, by means of cunning and physical force. It may be patriarchal, hierarchical, monarchical, aristocratical, democratical, or mobocratical---still it answers to this definition. It originates in man, depends on man, and makes man the lord---the slave of man.
+*What is human government?* It is the will of man---whether of one, few,
+many or all, in a state or nation---exercising absolute authority over
+man, by means of cunning and physical force. This *will* may be
+ascertained, declared, and executed, with or without written
+constitutions and laws, regularly or irregularly, in moderation or in
+violence; still it is alike human government under all forms and
+administrations, ☞ the *will of man* exercising absolute authority over
+man, by means of cunning and physical force. It may be patriarchal,
+hierarchical, monarchical, aristocratical, democratical, or
+mobocratical---still it answers to this definition. It originates in
+man, depends on man, and makes man the lord---the slave of man.
 
-*What is the divine government?* It is the infallible will of God prescribing the duty of moral agents, and claiming their primary undivided allegiance, as indispensable to the enjoyment of pure and endless happiness. In the revolution it is denominated 'the kingdom and reign of Christ.' The kingdom of Christ is the kingdom of God; for what is Christ's is God's. The Father dwelleth in the Son, and without **Him** the Son can do nothing. In this kingdom the all perfect God is sole King, Lawgiver, and Judge. He divides his authority with no *creature;* he is absolute Sovereign; he claims the whole heart, mind, and strength. His throne is in the spirit, and he writes his law on the understanding. Whosoever will not obey him *implicitly* is not yet delivered from the kingdom of darkness, and abides in moral death.
+*What is the divine government?* It is the infallible will of God
+prescribing the duty of moral agents, and claiming their primary
+undivided allegiance, as indispensable to the enjoyment of pure and
+endless happiness. In the revolution it is denominated 'the kingdom and
+reign of Christ.' The kingdom of Christ is the kingdom of God; for what
+is Christ's is God's. The Father dwelleth in the Son, and without
+**Him** the Son can do nothing. In this kingdom the all perfect God is
+sole King, Lawgiver, and Judge. He divides his authority with no
+*creature;* he is absolute Sovereign; he claims the whole heart, mind,
+and strength. His throne is in the spirit, and he writes his law on the
+understanding. Whosoever will not obey him *implicitly* is not yet
+delivered from the kingdom of darkness, and abides in moral death.
 
-From this it appears that human government, properly so called, can in no case be either superior to, or coequal with, the divine. Can this conclusion be avoided? There are three, and but three cases, in which *human* government may dispute supremacy with the *divine.* 1. When God requires *one* thing and man requires the *contrary.* In this case, whom ought we to obey? All christians must answer, with the faithful apostles of old, ☞ 'We ought to obey God rather than men.' But must we disobey parents, patriarchs, priests, kings, nobles, presidents, governors, generals, legislatures, constitutions, armies, mobs, *all* rather than disobey God? *We* **must**; and then patiently endure the penal consequences.Then surely human government is nothing against the government of God. 2. Human government and divine government sometimes agree in prescribing the *same* duty; that is, God and man both require the same thing. In *this* case ought not the reverence of *human* authority to constitute at least a *part* of the motive for doing right. We will see. Did man originate this duty? No. Did he first declare it? No. Has he added one *iota* of *obligation* to it? No. *God* originated it, first declared it, and made it in the highest possible degree obligatory. Human government has merely borrowed it, re-echoed, and interwoven it with the tissue of *its* own enactments. How then can the christian turn his back on Jehovah, and make his low obeisance to man? Or how can he divide his reverence between the *divine* and mere *human* authority? How can he perform this duty any more willingly or faithfully, because *human* government has re-enacted it? Evidently he cannot. He will feel that it is the *Creator's* law, not the *creature's;* that he is under the highest possible obligation to perform it from reverence to *God alone.* Man has *adopted* it, and incorporated it with his own devices, but he has added nothing to its rightfulness or force. Here again *human* government is virtually *nothing.* It has not even a claim of *joint reverence* with that of the *divine.* 3. Human legislators enact many law for the relief, convenience, and general welfare of mankind, which are demonstrably *right* and *salutary*, but which God has never *expressly* authorized in detail. In this case has not human authority a *primary* claim to our reverence? Let us see. What is the motive from which a true christian will perform these requirements of *man?* Must he not first be convinced that they are in perfect harmony with the great law of love to God and man---that they agree with what the divine Lawgiver has *expressly* required? Doubtless. Well, when fully convinced of *this,* what are they to him but mere amplifications of the heavenly law---new applications of its plain principles---more minute details of acknowledged general duty? What, therefore, is demonstrably *right,* he will feel bound to approve and scrupulously practice, not for *human* government's sake, but for *righteousness' sake*---or, in other words, for the divine government's sake. This must be his great motive; for no other would be a *holy* motive. It is one thing to *discover* new items of duty---new applications of moral obligation---and another to *create* them. Many may *discover* and point out new details---circumstantial peculiarities of duty---but he cannot *create principles,* nor originate moral obligation. The infinite Father has preoccupied this whole field. When then if the Legislature discover a new item of duty, arising out of a new combination of circumstances, and enact a good law for the observance of that duty, with pains and penalties annexed; or what if a Convention like this discover the existence of such an item of duty, and affirm it in the form of a solemn resolution; the duty once made plain, no matter how, would not the truly good man be under precisely the same obligation to perform it? And if the Legislature should afterwards without cause repeal such *law,* and enact a bad one in its stead; or if this Convention should *non* affirm the existence of the duty before declared, would not the enlightened christian be under precisely the same obligation *still?* None of these supposed circumstances ought to weigh a feather upon the conscience. The sense of obligation must look directly to the Great Source of moral perfection, and the grand controlling motive of a holy heart in the performance of every duty must be, ☞ *God requires it---it is right---it is best.* We must perform all our duties as unto God, and not unto man.
+From this it appears that human government, properly so called, can in
+no case be either superior to, or coequal with, the divine. Can this
+conclusion be avoided? There are three, and but three cases, in which
+*human* government may dispute supremacy with the *divine.* 1. When God
+requires *one* thing and man requires the *contrary.* In this case, whom
+ought we to obey? All christians must answer, with the faithful apostles
+of old, ☞ 'We ought to obey God rather than men.' But must we disobey
+parents, patriarchs, priests, kings, nobles, presidents, governors,
+generals, legislatures, constitutions, armies, mobs, *all* rather than
+disobey God? *We* **must**; and then patiently endure the penal
+consequences.Then surely human government is nothing against the
+government of God. 2. Human government and divine government sometimes
+agree in prescribing the *same* duty; that is, God and man both require
+the same thing. In *this* case ought not the reverence of *human*
+authority to constitute at least a *part* of the motive for doing right.
+We will see. Did man originate this duty? No. Did he first declare it?
+No. Has he added one *iota* of *obligation* to it? No. *God* originated
+it, first declared it, and made it in the highest possible degree
+obligatory. Human government has merely borrowed it, re-echoed, and
+interwoven it with the tissue of *its* own enactments. How then can the
+christian turn his back on Jehovah, and make his low obeisance to man?
+Or how can he divide his reverence between the *divine* and mere *human*
+authority? How can he perform this duty any more willingly or
+faithfully, because *human* government has re-enacted it? Evidently he
+cannot. He will feel that it is the *Creator's* law, not the
+*creature's;* that he is under the highest possible obligation to
+perform it from reverence to *God alone.* Man has *adopted* it, and
+incorporated it with his own devices, but he has added nothing to its
+rightfulness or force. Here again *human* government is virtually
+*nothing.* It has not even a claim of *joint reverence* with that of the
+*divine.* 3. Human legislators enact many law for the relief,
+convenience, and general welfare of mankind, which are demonstrably
+*right* and *salutary*, but which God has never *expressly* authorized
+in detail. In this case has not human authority a *primary* claim to our
+reverence? Let us see. What is the motive from which a true christian
+will perform these requirements of *man?* Must he not first be convinced
+that they are in perfect harmony with the great law of love to God and
+man---that they agree with what the divine Lawgiver has *expressly*
+required? Doubtless. Well, when fully convinced of *this,* what are they
+to him but mere amplifications of the heavenly law---new applications of
+its plain principles---more minute details of acknowledged general duty?
+What, therefore, is demonstrably *right,* he will feel bound to approve
+and scrupulously practice, not for *human* government's sake, but for
+*righteousness' sake*---or, in other words, for the divine government's
+sake. This must be his great motive; for no other would be a *holy*
+motive. It is one thing to *discover* new items of duty---new
+applications of moral obligation---and another to *create* them. Many
+may *discover* and point out new details---circumstantial peculiarities
+of duty---but he cannot *create principles,* nor originate moral
+obligation. The infinite Father has preoccupied this whole field. When
+then if the Legislature discover a new item of duty, arising out of a
+new combination of circumstances, and enact a good law for the
+observance of that duty, with pains and penalties annexed; or what if a
+Convention like this discover the existence of such an item of duty, and
+affirm it in the form of a solemn resolution; the duty once made plain,
+no matter how, would not the truly good man be under precisely the same
+obligation to perform it? And if the Legislature should afterwards
+without cause repeal such *law,* and enact a bad one in its stead; or if
+this Convention should *non* affirm the existence of the duty before
+declared, would not the enlightened christian be under precisely the
+same obligation *still?* None of these supposed circumstances ought to
+weigh a feather upon the conscience. The sense of obligation must look
+directly to the Great Source of moral perfection, and the grand
+controlling motive of a holy heart in the performance of every duty must
+be, ☞ *God requires it---it is right---it is best.* We must perform all
+our duties as unto God, and not unto man.
 
-The conclusion is therefore unavoidable, that the *will* of *man* \[human government\] whether in one, a thousand, or many millions, has no intrinsic authority---no moral supremacy---and no rightful claim to the allegiance of man. It has no original, inherent authority whatsoever over the conscience. What then becomes of *human* government, as contradistinguished from the divine government? Is it not a mere cypher? When it *opposes* God's government it is *nothing;* when it *agrees* with his government it is *nothing;* and when it *discovers* a new item of duty---a new application of the general law of God---it is *nothing.*
+The conclusion is therefore unavoidable, that the *will* of *man*
+\[human government\] whether in one, a thousand, or many millions, has
+no intrinsic authority---no moral supremacy---and no rightful claim to
+the allegiance of man. It has no original, inherent authority whatsoever
+over the conscience. What then becomes of *human* government, as
+contradistinguished from the divine government? Is it not a mere cypher?
+When it *opposes* God's government it is *nothing;* when it *agrees*
+with his government it is *nothing;* and when it *discovers* a new item
+of duty---a new application of the general law of God---it is *nothing.*
 
-We now arrive at the third inquiry suggested in the resolution before us, namely "What is the object of non-resistants with respect to human government?" Is it their object to *purify* it, to *reform* it? No; for our principles forbid us to take any part in the management of its machinery. We can neither fight for it, legislate in  it, hold its offices, vote at its elections, nor act any political part within its pale. To *purify,* to *reform* it---if such were our object---we must actively participate in its management. Moreover, if human government, properly so called, is what I have shown it to be, there can be no such thing as *purifying* it. Where there is nothing but *dross,* there is nothing to refine. Separate from what is commonly considered *human* government all that it has *borrowed,* or *stolen* from the *divine,* and what remains? What is there in the mere *human* worth purifying---capable of purification? Nothing. Again, is it our object to *subvert* human government---to overthrow it---to turn it upside down? By no means. We utterly disclaim any such object. We are no Jacobins, Revolutionists, Anarchists; though often *slanderously so denominated.* And here I must be permitted to make some explanations, demanded by the public misapprehension of our real position and general movement. It seems to be taken for granted, that we have started a crusade to force the practice of non-resistance upon nations, states, bodies politic and all existing organizations of human society; which is considered tantamount to an attempt for the violent *subversion* of human government. This is a very great mistake. We are not so insane as to imagine any such result practicable in the nature of things. We put our enterprise on purely christian grounds, and depend for success wholly on the use of christian means. We have nothing to do with nations, states, and bodies politic, merely *as such;* for they have neither souls nor consciences. We address ourselves to *individuals,* who have both soul and conscience, and expect to affect organized masses of men only through their individual members. And as to any kind of *force,* other than that of truth and love sustained by a consistent example, as non-resistants, we utterly *eschew* it, with respect to all moral agents, collectively and individually. We very well know that neither bodies politic, nor individuals, can practice christian non-resistance while actuated by the *spirit of this world,* and void of christian principle,---that is to say, while they are radically anti-christian in feeling, motive, conduct, and moral character. We are not so wild and visionary as to expect such impossibilities. Nor do we go against all human government in favor of *no* government. We make no such issue. On the contrary, we believe it to be among the irrevocable ordinations of God, that all who will not be governed by *Him* shall be governed by one another---shall be tyrannized over by one another; that so long as men will indulge the lust of dominion, they shall be filled with the fruits of slavery; that they who will not be obedient to the law of love, shall bow down under the yoke of physical force; that 'they who take the sword shall perish with the sword;' and that while so many as twenty ambitious, proud, selfish, revengeful, sinful men remain in any corner of the world, they shall be subject to a human government of physical violence among themselves. If men will make themselves sick, *physic* is a *necessary evil.* If they will not observe the laws of health, they must bow to the dictation of doctors. If they *will* be gluttons, drunkards, debauchees, and pugilists, they must make the best of emetics, cathartics, cautery, amputation, and whatever else ensues. So if men will not be governed bby God, it is their doom to be enslaved one by another. And in this view, human government---defective as it is, bad as it is---is a *necessary evil* to those who will not be in willing subjection to the *divine.* Its *restraints* are better than *no* restraints at all---and its *evils* are preventives of greater. For thus it is that selfishness is made to thwart selfishness, pride to humble pride, revenge to check revenge, cruelty to deter cruelty, and wrath to punish wrath; that the vile lusts of men, overruled by infinite wisdom, may counterwork and destroy each other. In this way *human* government grows out of the disorder of rebellious moral natures, and will *continue,* by inevitable consequence, in some form or other among men, till **he** whose right it is to reign 'shall be all in all.' Meantime, non-resistants are required by their principles not to resist any of the ordinances of these governments by physical force, however unjust and wicked; but to be subject to the *powers that be,* either *actively* or *passively. Actively,* in doing whatever they require that is agreeable to the law of God, or which may be innocently consented to. *Passively,* in the patient sufferance of their *penalties,* whenever duty to the divine government requires that *man* should be *disobeyed.* No unnecessary offence is to be given to Caesar; but his tribute money is to be rendered to him, and his taxes quietly paid; while at the same time the things which belong unto God are to be most scrupulously rendered to **him,** regardless alike of the favor or the frowns of all the governments on earth.
+We now arrive at the third inquiry suggested in the resolution before
+us, namely "What is the object of non-resistants with respect to human
+government?" Is it their object to *purify* it, to *reform* it? No; for
+our principles forbid us to take any part in the management of its
+machinery. We can neither fight for it, legislate in it, hold its
+offices, vote at its elections, nor act any political part within its
+pale. To *purify,* to *reform* it---if such were our object---we must
+actively participate in its management. Moreover, if human government,
+properly so called, is what I have shown it to be, there can be no such
+thing as *purifying* it. Where there is nothing but *dross,* there is
+nothing to refine. Separate from what is commonly considered *human*
+government all that it has *borrowed,* or *stolen* from the *divine,*
+and what remains? What is there in the mere *human* worth
+purifying---capable of purification? Nothing. Again, is it our object to
+*subvert* human government---to overthrow it---to turn it upside down?
+By no means. We utterly disclaim any such object. We are no Jacobins,
+Revolutionists, Anarchists; though often *slanderously so denominated.*
+And here I must be permitted to make some explanations, demanded by the
+public misapprehension of our real position and general movement. It
+seems to be taken for granted, that we have started a crusade to force
+the practice of non-resistance upon nations, states, bodies politic and
+all existing organizations of human society; which is considered
+tantamount to an attempt for the violent *subversion* of human
+government. This is a very great mistake. We are not so insane as to
+imagine any such result practicable in the nature of things. We put our
+enterprise on purely christian grounds, and depend for success wholly on
+the use of christian means. We have nothing to do with nations, states,
+and bodies politic, merely *as such;* for they have neither souls nor
+consciences. We address ourselves to *individuals,* who have both soul
+and conscience, and expect to affect organized masses of men only
+through their individual members. And as to any kind of *force,* other
+than that of truth and love sustained by a consistent example, as
+non-resistants, we utterly *eschew* it, with respect to all moral
+agents, collectively and individually. We very well know that neither
+bodies politic, nor individuals, can practice christian non-resistance
+while actuated by the *spirit of this world,* and void of christian
+principle,---that is to say, while they are radically anti-christian in
+feeling, motive, conduct, and moral character. We are not so wild and
+visionary as to expect such impossibilities. Nor do we go against all
+human government in favor of *no* government. We make no such issue. On
+the contrary, we believe it to be among the irrevocable ordinations of
+God, that all who will not be governed by *Him* shall be governed by one
+another---shall be tyrannized over by one another; that so long as men
+will indulge the lust of dominion, they shall be filled with the fruits
+of slavery; that they who will not be obedient to the law of love, shall
+bow down under the yoke of physical force; that 'they who take the sword
+shall perish with the sword;' and that while so many as twenty
+ambitious, proud, selfish, revengeful, sinful men remain in any corner
+of the world, they shall be subject to a human government of physical
+violence among themselves. If men will make themselves sick, *physic* is
+a *necessary evil.* If they will not observe the laws of health, they
+must bow to the dictation of doctors. If they *will* be gluttons,
+drunkards, debauchees, and pugilists, they must make the best of
+emetics, cathartics, cautery, amputation, and whatever else ensues. So
+if men will not be governed bby God, it is their doom to be enslaved one
+by another. And in this view, human government---defective as it is, bad
+as it is---is a *necessary evil* to those who will not be in willing
+subjection to the *divine.* Its *restraints* are better than *no*
+restraints at all---and its *evils* are preventives of greater. For thus
+it is that selfishness is made to thwart selfishness, pride to humble
+pride, revenge to check revenge, cruelty to deter cruelty, and wrath to
+punish wrath; that the vile lusts of men, overruled by infinite wisdom,
+may counterwork and destroy each other. In this way *human* government
+grows out of the disorder of rebellious moral natures, and will
+*continue,* by inevitable consequence, in some form or other among men,
+till **he** whose right it is to reign 'shall be all in all.' Meantime,
+non-resistants are required by their principles not to resist any of the
+ordinances of these governments by physical force, however unjust and
+wicked; but to be subject to the *powers that be,* either *actively* or
+*passively. Actively,* in doing whatever they require that is agreeable
+to the law of God, or which may be innocently consented to. *Passively,*
+in the patient sufferance of their *penalties,* whenever duty to the
+divine government requires that *man* should be *disobeyed.* No
+unnecessary offence is to be given to Caesar; but his tribute money is
+to be rendered to him, and his taxes quietly paid; while at the same
+time the things which belong unto God are to be most scrupulously
+rendered to **him,** regardless alike of the favor or the frowns of all
+the governments on earth.
 
-What then *is* the object of non-resistants with respect to human governments---if it is neither to *purify* nor *subvert* them? The resolution declares that it is to *supersede* them. To supersede them with *what?* With the kingdom of Christ. *How?* By the spiritual regeneration of their individual subjects---by implanting in their minds higher principles of feeling and action---by giving them *heavenly* instead of *earthly motives.* And now, to understand this process of superseding, let us consider the nature of Christ's kingdom. It is not an outward, temporal, temporal kingdom, like those of this world. It is spiritual, moral, eternal. When the Jews demanded information about the coming of this kingdom, ignorantly expecting it to appear with unparalleled external majesty, pomp, and circumstance, Jesus replied: 'The kingdom of God cometh not with observation; neither shall men say, lo here, or lo there; for behold, the kingdom of God is within you.' When before Pilate, charged by his enemies with having set himself up against Caesar as a king, he said---'My kingdom is not of this world. If my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews. But now is my kingdom not from hence.' When his yet worldly minded disciples strove among themselves which should be greatest in his kingdom, he washed their feet with his own hands, for an *example,* and declared unto them that *he* among them who would be *greatest* should be *least* of all, and *servant* of all. He forbade them to exercise lordship, after the manner of carnal men among the nations of the earth, but to esteem each other better than themselves, and to regard *humility* as the only true *greatness;* to vie with each other---not for the *highest,* but for the *lowest* place---not for a chance to *rule,* but for aa chance to *serve*---not for the blessedness of *receiving,* but for that of *giving*---not for the praise of man, but for the approval of God---not for the *prerogative* of *inflicting* physical suffering for righteousness' sake, but for the *privilege* of *enduring* it. Hence he made himself the great Exemplar of non-resistants; and 'when he was reviled, reviled not again; what he suffered, he threatened not; but committed himself to **him** that judgeth righteously; enduring every insult, reproach, cruelty, and torture of his enemies, with unprovokable patience, and unconquerable love; forgiving his most deadly persecutors, and expiring with a prayer upon his lips for their salvation. Thus he *overcame evil, with good;* and leaving behind him the Alexanders and Caesars of this world in their base murderous glory, earned for himself a name which is above every name, whether in this world or that to come; being highly exalted at the **divine right hand,** 'that unto him every knee should bow, of things in heaven, in earth, and under the earth---and every tongue confess him Lord to the glory of God the Father.' Such is the Lord and Master of christians; whom they are to *obey* and *imitate,* rather than Moses, or Samuel, or David, or Solomon, or Elijah, or Daniel, or even *John.* His kingdom is the kingdom of heaven; wherein all legislative, judicial, and avenging power is vested exclusively in that High and Holy One, who *cannot* **err,** either in sentiment, judgement, or action. Of this kingdom the apostle truly says---it 'is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.' The fruit of its spirit, he further says---'is love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, temperance.' 'Now they that are Christ's have crucified the flesh with its affections and lusts.' Having learned to renounce carnal weapons of defence, worldly honors, political preferments, and a vain dependence on the operations of human government for the cure of moral disorders, they cease to avenge themselves on evil doers, either on their own responsibility as individuals, or on that of the State through its penal laws. They deem it their duty to forgive, not punish---to yield unto wrath and suffer wrong, without recompensing evil for evil---referring their cause always unto Him who hath said, 'Vengeance is mine; I will repay,'---and thus obeying Christ in his injunction, to love enemies; bless them that curse, do good to them that hate, and pray for the despiteful and persecuting.
+What then *is* the object of non-resistants with respect to human
+governments---if it is neither to *purify* nor *subvert* them? The
+resolution declares that it is to *supersede* them. To supersede them
+with *what?* With the kingdom of Christ. *How?* By the spiritual
+regeneration of their individual subjects---by implanting in their minds
+higher principles of feeling and action---by giving them *heavenly*
+instead of *earthly motives.* And now, to understand this process of
+superseding, let us consider the nature of Christ's kingdom. It is not
+an outward, temporal, temporal kingdom, like those of this world. It is
+spiritual, moral, eternal. When the Jews demanded information about the
+coming of this kingdom, ignorantly expecting it to appear with
+unparalleled external majesty, pomp, and circumstance, Jesus replied:
+'The kingdom of God cometh not with observation; neither shall men say,
+lo here, or lo there; for behold, the kingdom of God is within you.'
+When before Pilate, charged by his enemies with having set himself up
+against Caesar as a king, he said---'My kingdom is not of this world. If
+my kingdom were of this world, then would my servants fight, that I
+should not be delivered to the Jews. But now is my kingdom not from
+hence.' When his yet worldly minded disciples strove among themselves
+which should be greatest in his kingdom, he washed their feet with his
+own hands, for an *example,* and declared unto them that *he* among them
+who would be *greatest* should be *least* of all, and *servant* of all.
+He forbade them to exercise lordship, after the manner of carnal men
+among the nations of the earth, but to esteem each other better than
+themselves, and to regard *humility* as the only true *greatness;* to
+vie with each other---not for the *highest,* but for the *lowest*
+place---not for a chance to *rule,* but for aa chance to *serve*---not
+for the blessedness of *receiving,* but for that of *giving*---not for
+the praise of man, but for the approval of God---not for the
+*prerogative* of *inflicting* physical suffering for righteousness'
+sake, but for the *privilege* of *enduring* it. Hence he made himself
+the great Exemplar of non-resistants; and 'when he was reviled, reviled
+not again; what he suffered, he threatened not; but committed himself to
+**him** that judgeth righteously; enduring every insult, reproach,
+cruelty, and torture of his enemies, with unprovokable patience, and
+unconquerable love; forgiving his most deadly persecutors, and expiring
+with a prayer upon his lips for their salvation. Thus he *overcame evil,
+with good;* and leaving behind him the Alexanders and Caesars of this
+world in their base murderous glory, earned for himself a name which is
+above every name, whether in this world or that to come; being highly
+exalted at the **divine right hand,** 'that unto him every knee should
+bow, of things in heaven, in earth, and under the earth---and every
+tongue confess him Lord to the glory of God the Father.' Such is the
+Lord and Master of christians; whom they are to *obey* and *imitate,*
+rather than Moses, or Samuel, or David, or Solomon, or Elijah, or
+Daniel, or even *John.* His kingdom is the kingdom of heaven; wherein
+all legislative, judicial, and avenging power is vested exclusively in
+that High and Holy One, who *cannot* **err,** either in sentiment,
+judgement, or action. Of this kingdom the apostle truly says---it 'is
+not meat and drink; but righteousness, and peace, and joy in the Holy
+Ghost.' The fruit of its spirit, he further says---'is love, joy, peace,
+long-suffering, gentleness, goodness, faith, meekness, temperance.' 'Now
+they that are Christ's have crucified the flesh with its affections and
+lusts.' Having learned to renounce carnal weapons of defence, worldly
+honors, political preferments, and a vain dependence on the operations
+of human government for the cure of moral disorders, they cease to
+avenge themselves on evil doers, either on their own responsibility as
+individuals, or on that of the State through its penal laws. They deem
+it their duty to forgive, not punish---to yield unto wrath and suffer
+wrong, without recompensing evil for evil---referring their cause always
+unto Him who hath said, 'Vengeance is mine; I will repay,'---and thus
+obeying Christ in his injunction, to love enemies; bless them that
+curse, do good to them that hate, and pray for the despiteful and
+persecuting.
 
-This is the doctrine and practice which non-resistants profess to have embraced, and according to the tenor of which they propose to *supersede* all human governments with the *divine.* This is the real object of their present movement. They cease to take any active part in the affairs of human government. They cease to put their trust in the wisdom of man for guidance, or in the arm of flesh for protection. Yet they stand not in the attitude of *antagonists* to human government; nor can they allow themselves to be mistaken for anarchists, nor be considered as willing to give any just cause of offence to the 'powers that be.' Neither can they enter into any quarrel with professedly good men, who feel called to higher mission tha that of *reigning* or *serving* in the kingdoms of this world. But we hear a voice from *above,* saying---'What is that to thee? follow thou me.' And we deem it our privilege, through whatever of reproach or suffering we may be called, to show unto all good men whose reliance is even *secondarily* upon human government for the conversion of the world, *'a more excellent way.'* And now, what is there so horrible, so dangerous, so alarming in all this? Why are we so misunderstood, misrepresented and denounced? These principles and this cause must prevail---if christianity itself shall prevail; and blessed are they among our opposers, whose mistaken zeal shall not betray them into a warfare against God.
+This is the doctrine and practice which non-resistants profess to have
+embraced, and according to the tenor of which they propose to
+*supersede* all human governments with the *divine.* This is the real
+object of their present movement. They cease to take any active part in
+the affairs of human government. They cease to put their trust in the
+wisdom of man for guidance, or in the arm of flesh for protection. Yet
+they stand not in the attitude of *antagonists* to human government; nor
+can they allow themselves to be mistaken for anarchists, nor be
+considered as willing to give any just cause of offence to the 'powers
+that be.' Neither can they enter into any quarrel with professedly good
+men, who feel called to higher mission tha that of *reigning* or
+*serving* in the kingdoms of this world. But we hear a voice from
+*above,* saying---'What is that to thee? follow thou me.' And we deem it
+our privilege, through whatever of reproach or suffering we may be
+called, to show unto all good men whose reliance is even *secondarily*
+upon human government for the conversion of the world, *'a more
+excellent way.'* And now, what is there so horrible, so dangerous, so
+alarming in all this? Why are we so misunderstood, misrepresented and
+denounced? These principles and this cause must prevail---if
+christianity itself shall prevail; and blessed are they among our
+opposers, whose mistaken zeal shall not betray them into a warfare
+against God.
 
-But the cry salutes our ears from the open mouths even of professing charlatans.---'Non-resistance is *impracticable* in the present state of the world; you must wait till the millennium.' I answer; 'to him that believeth all things are possible.' Let the power of love and forbearance be faithfully exemplified, and it will remove mountains. And as to the millennium what is it? Is it a state of things to come about like the seasons, by the revolution of the planets? Is it to be the result of some arbitrary mechanical process? or of a mere chemical agency? Is it to be the effect of *physical* or of *moral* causes? Alas! how many are expecting the millennium to come 'with observation;' just as the Jews of old were expecting the kingdom of God; not knowing that this millennium and kingdom, must be *within* men, before it can ever be *around* them. Let us have the spirit of the millennium, and do the works of the millennium. Then will the millennium have already come; and then will it speedily embosom the whole earth. What is this cry of *impracticability,* but a cry of rebellion against the living God? What through under preliminary dispensations he winked at the ignorance of mankind, and even commanded his chosen servants to act a conspicuous part in the great system of governmental violence: this was only until *'the times of reformation.'* In Christ *He* annuls the temporary ordinances of *revenge,* and commands forbearance---non-resistance to the physical violence of man, even of the most injurious. Hear his 'Revised Statutes,'---☞ 'Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: but I say unto you, that ye resist not evil; but whosoever shall smite thee on thy cheek, turn to him the other also. And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.' Now is it impracticable to obey this holy commandment? Is not God the best judge of what is practicable? Who has a right to question the expediency or practicability of what the Infinite Father through his Son has enjoined. And let us be careful not to narrow down the meaning of this commandment. It is much more comprehensive than most expositors have been willing to allow. It forbids not merely all personal, individual, self-assumed right of retaliation, but all revenge *at law*---all procuring of punishment to our injurers in the way of *legal prosecution* and *judicial sentence.* It goes this whole length. When our Lord says---'Ye have heard that it hath been said, An eye for an eye and a tooth for a tooth'---he refers to the Mosaic Statute Law. By consulting Exodus 21:22-25; Leviticus 24:19, 20, and Deuteronomy 19:18-21, we find the Statutes referred to; according to which life must be given 'for life, breach for breach, eye for eye, tooth for tooth, hand for hand, foot for foot, burning for burning, wound for wound, and stripe for stripe.' The injured party, or his friends in his stead, had their redress and revenge *at law.* They might not take the business into their own hands, but might enter their complaint in due form to the elders of their town or city, and have a fair trial of the accused before the proper tribunals. When the sentence of the judges had been pronounced, it was executed in legal form; the criminal being doomed to suffer the same injury to life or limb, which he had caused to his neighbor. Thus when a man had received a wound from his fellow man, or lost an eye, or a tooth, a hand or a foot, he had his revenge *at law;* by due process of which he could thrust out an eye, or a tooth, or cut off a hand or a foot, or inflict any other injury which had been inflicted on him. But however salutary this statute, and however necessary to the good order of society in the opinion of political moralists, the great Master of christians has *abrogated* it, and commanded his followers not to resist evil; not to resist it even according to *law*---not to procure punishment to their injurers through the regular judicial medium; but to bear all indignities, insults, assaults and wrongs, with forgiving meekness and patience. Here then is an end to controversy, with all who mean to be wholly Christ's; they *must* be *non-resistants.* Who dares to question the rectitude, propriety, practicability, or expediency, of doing what the All-wise God has thus plainly required? Is it one who calls Christ Lord and Master? Alas! for the faithless, distrustful man. Do not such hear the words of Christ, in just reproof---saying 'Why call ye me Lord, Lord, and do not the things which I command?'
+But the cry salutes our ears from the open mouths even of professing
+charlatans.---'Non-resistance is *impracticable* in the present state of
+the world; you must wait till the millennium.' I answer; 'to him that
+believeth all things are possible.' Let the power of love and
+forbearance be faithfully exemplified, and it will remove mountains. And
+as to the millennium what is it? Is it a state of things to come about
+like the seasons, by the revolution of the planets? Is it to be the
+result of some arbitrary mechanical process? or of a mere chemical
+agency? Is it to be the effect of *physical* or of *moral* causes? Alas!
+how many are expecting the millennium to come 'with observation;' just
+as the Jews of old were expecting the kingdom of God; not knowing that
+this millennium and kingdom, must be *within* men, before it can ever be
+*around* them. Let us have the spirit of the millennium, and do the
+works of the millennium. Then will the millennium have already come; and
+then will it speedily embosom the whole earth. What is this cry of
+*impracticability,* but a cry of rebellion against the living God? What
+through under preliminary dispensations he winked at the ignorance of
+mankind, and even commanded his chosen servants to act a conspicuous
+part in the great system of governmental violence: this was only until
+*'the times of reformation.'* In Christ *He* annuls the temporary
+ordinances of *revenge,* and commands forbearance---non-resistance to
+the physical violence of man, even of the most injurious. Hear his
+'Revised Statutes,'---☞ 'Ye have heard that it hath been said, An eye
+for an eye, and a tooth for a tooth: but I say unto you, that ye resist
+not evil; but whosoever shall smite thee on thy cheek, turn to him the
+other also. And if any man will sue thee at the law, and take away thy
+coat, let him have thy cloak also.' Now is it impracticable to obey this
+holy commandment? Is not God the best judge of what is practicable? Who
+has a right to question the expediency or practicability of what the
+Infinite Father through his Son has enjoined. And let us be careful not
+to narrow down the meaning of this commandment. It is much more
+comprehensive than most expositors have been willing to allow. It
+forbids not merely all personal, individual, self-assumed right of
+retaliation, but all revenge *at law*---all procuring of punishment to
+our injurers in the way of *legal prosecution* and *judicial sentence.*
+It goes this whole length. When our Lord says---'Ye have heard that it
+hath been said, An eye for an eye and a tooth for a tooth'---he refers
+to the Mosaic Statute Law. By consulting Exodus 21:22-25; Leviticus
+24:19, 20, and Deuteronomy 19:18-21, we find the Statutes referred to;
+according to which life must be given 'for life, breach for breach, eye
+for eye, tooth for tooth, hand for hand, foot for foot, burning for
+burning, wound for wound, and stripe for stripe.' The injured party, or
+his friends in his stead, had their redress and revenge *at law.* They
+might not take the business into their own hands, but might enter their
+complaint in due form to the elders of their town or city, and have a
+fair trial of the accused before the proper tribunals. When the sentence
+of the judges had been pronounced, it was executed in legal form; the
+criminal being doomed to suffer the same injury to life or limb, which
+he had caused to his neighbor. Thus when a man had received a wound from
+his fellow man, or lost an eye, or a tooth, a hand or a foot, he had his
+revenge *at law;* by due process of which he could thrust out an eye, or
+a tooth, or cut off a hand or a foot, or inflict any other injury which
+had been inflicted on him. But however salutary this statute, and
+however necessary to the good order of society in the opinion of
+political moralists, the great Master of christians has *abrogated* it,
+and commanded his followers not to resist evil; not to resist it even
+according to *law*---not to procure punishment to their injurers through
+the regular judicial medium; but to bear all indignities, insults,
+assaults and wrongs, with forgiving meekness and patience. Here then is
+an end to controversy, with all who mean to be wholly Christ's; they
+*must* be *non-resistants.* Who dares to question the rectitude,
+propriety, practicability, or expediency, of doing what the All-wise God
+has thus plainly required? Is it one who calls Christ Lord and Master?
+Alas! for the faithless, distrustful man. Do not such hear the words of
+Christ, in just reproof---saying 'Why call ye me Lord, Lord, and do not
+the things which I command?'
 
-But all this passes for nothing which many, who exclaim---'What are you going to do with the wolves and tigers of human kind? Are you going to give them full range for their prey? Will you invite the thief, the robber, the burglar, the murderer---to come and carry off your property, ravish away your treasures, spoil your house, butcher your wife and children, and shed your own heart's blood? Will you be such a *fool,* such an enemy to yourself, your family and society? Will you encourage all manner of rapine and bloodshed, by assurances that you will never resist, nor even prosecute the basest ruffians?' What a terrible appeal is this? how full of frightful images, and horrid anticipations of evil, from the practice of non-resistance. But if I am a christian, will such appeals move me? Am I a christian, and do I doubt that God will protect me and mine against all the thieves, robbers and murderers in the world, while conscientiously do my duty? Am I more willing to rely upon forbidden means of defence, than upon the power of **him** who doeth his will in the armies of heaven and among the inhabitants of the earth---and who hath said, 'I will never leave thee, nor forsake thee?' 'But are you sure that God will always render your property, person and life secure from these attacks?' No; for it *may* be best that I should suffer---that I should even lose all things earthly. What then; is treasure on earth my only treasure? is worldly substance my chief good; is this life my only life? What if I should actually lose my money; have I not treasure laid up in heaven, where neither moth, nor rust, nor thieves can touch it? What if I should suffer great cruelties in my person *'for righteousness sake;'* should I therefore be miserable? What if I should lose my own life and that of my family; should I not *find life eternal* for them and myself? I may be robbed, but I shall still be rich; I may be murdered, but I shall live forevermore; I may suffer the loss of all things earthly, but I shall gain all things heavenly. If I cannot confidently say this, am I a *christian?* 'Who then shall harm us, if we be followers of that which is good?' I have a right to expect, and I do confidently expect, that in practising the sublime virtue of non-resistance for the kingdom of heaven's sake, God will keep all that I commit to him in perfect safety, even here on earth, as long as it is for my good to be exempted from loss and suffering. I do firmly believe that in acting out these principles steadily and consistently, I shall continue longer uninjured, longer in the enjoyment of life, longer safe from the depredations, assaults and murderous violence of wicked men, than with all the swords, guns, pistols, dirks, peace officers, sheriffs, judges, prisons and gallows of the world. If this is the faith of a fool, then am I willing to be accounted a fool, till time shall test the merits of my position. It may not prove to be such great folly after all. 'Well, says the objector, I should like to know how you would manage matters, if the ruffian should actually break into your house with settled intent to rob and murder; would you shrink back coward like, and see your wife and children slaughtered before your eyes?' I cannot tell how I might act in such a dreadful emergency---how weak and frail I should prove. But I can tell you how I *ought* to act---how I wish to act. If a firm, consistent non-resistant, I should prove myself no *coward;* for it requires the noblest courage, the highest fortitude, to be a non-resistant. If what I ought to be, I should be calm, and unruffled by the alarm at my door. I should meet my wretched fellow-man with a spirit, an air, a salutation, a deportment, so Christ-like, so little expected, so confounding, so morally irresistible, that in all probability his weapons of violence and death would fall harmless to his side. I would say---'friend, why comest thou hither? surely not to injure those who wish thee nothing but good? This house is one of peace and friendship to all mankind. If thou art cold, warm thyself at our fire; if hungry, refresh thyself at our table; if thou art weary, sleep in our bed; if thou art destitute, poor, and needy, freely take of our goods. Come, let us be friends, that God may keep us all from evil and bless us with his protection.' What would be the effect of such treatment as this? Would it not completely overcome the feelings of the invader, so as either to make him retreat inoffensively out of the house, or at least forbear all meditated violence? Would it not be incomparably safer than to rush to the shattered door, half distracted with alarm, grasping some deadly weapon and bearing it aloft, looking fiery wrath, and mad defiance at the enemy? How soon would follow the mortal encounter, and how extremely uncertain the issue? The moment I appeared in such an attitude, (just the thing expected) would not ruffian coolness and well trained muscular force be almost sure to seal the fate of myself and family? But in acting the non-resistant part, should I not be likely, in nine cases out of ten, to escape with perfect safety? \['Yes,' said a brother, 'in *ninety-nine* cases out of a hundred.\] Yea, and perhaps nine hundred and ninety-nine out of a thousand. Not however, to expect too much; suppose the robber should not be wholly deterred; would he, at worst, seek any thing beyond mere booty? Would not our lives and persons escape untouched? It would hardly be worth his while to murder or mangle those who opposed no *force* to his depredations. But we will make the case utterly desperate. Contrary to all probability, we will suppose that no moral majesty, no calm and dignified remonstrance, no divine interposition, availed any thing towards the prevention of the slaughter of an innocent family; what then would I do in the last resort? I would gather my loved ones in a group behind my person; I would cover their retreat to the farthest corner of our room; and there in their front would I receive the blows of the murderer. I would say to him---'Since nothing but our blood will satisfy thy thirst, I commend my *all* to that God in whom I trust. He will receive us to his bosom; and may he have mercy on *thee.* Strike if thou wilt; but thou must come through my poor body to the bodies of these helpless victims!' Well, suppose the horrible tragedy complete, and our butchered remains all lying silent in their gore; what then? We are all dead; we fell clinging to each other; in a *moment* the pains of death were over; the 'debt of nature' is paid; where are we now? *Where? Annihilated? Miserable?* No! Our happy spirits, conveyed by holy angels, wing their lightning flight to the bowers of Paradise---to the home of the blest---to the blissful arms of an approving Redeemer---to the welcome embrace 'of the just made perfect.' Who would not rather pass away thus unstained with blood, into the joys of that Lord, who himself quenched the fiery darts of his malicious murderers with his own vital blood, than to purchase a few days of mortal life by precipitating into eternity a fellow creature, with his millstone of unrepentant crime about his neck? Is it so dreadful a thing for the christian to be hurried to heaven---and to be sent into eternal life a little before his natural time---to have all his pains of dissolution crowded into a moment? Is life on earth, (brief at longest, and often embittered by distressing ills,) of so much value, that we would *murder,* rather than be murdered? O, let me die the death of the christian *non-resistant,* and let my last end be like his! Let me suffer and die with Christ, that I also may live and reign with him. The conclusion then is, that in a vast majority of cases the non-resistant would remain unharmed by the sons of violence, and that in the *worst* supposable case, he would only be hurried out of this life, with his dear family, into a *better.* But rejoins the operator---'I consider it the duty of a christian to look to the good of society at large, and to contribute what he can, in a lawful way, to the security of life, person and property around him. Therefore let him assist in bringing malefactors to justice, and not shrink from aiding the magistrate in preserving the bulwarks of order.' And so we are to throw away God's judgment of what is best, and trample under foot the solemn injunction of Christ! Well, what shall we gain by this infidelity and rebellion? 'Nay,---but we are in duty bound to love our neighbor---to seek the peace and welfare of society---to do our part towards protecting the innocent and helpless against the ravages of merciless wolves---to maintain wholesome penal restraints.' Answer. We think we are seeking this great end more effectually, as non-resistants, than we could do by becoming informers, prosecutors, jailers or hangmen. 'An *ounce* of *preventive* is worth more than a *pound* of *curative.*' But at all events, since we cannot fight, nor go to law for ourselves or our dearest relatives, we must decline doing so for any other description of persons. It is a favorite argument of our opposers, that we are not required to love our *neighbors* **better** than *ourselves.* Whether this argument be sound or not, perhaps it is not *now* necessary to affirm; but it is certainly a very conclusive one, or *ought* to be, with the objector in this case, to show the unreasonableness of requiring us to do more for our neighbors in society at large, than for ourselves, our wives and children. We must act on the same principles, and pursue the same general course with respect to all; and in so doing 'we stand or fall to our own master.'
+But all this passes for nothing which many, who exclaim---'What are you
+going to do with the wolves and tigers of human kind? Are you going to
+give them full range for their prey? Will you invite the thief, the
+robber, the burglar, the murderer---to come and carry off your property,
+ravish away your treasures, spoil your house, butcher your wife and
+children, and shed your own heart's blood? Will you be such a *fool,*
+such an enemy to yourself, your family and society? Will you encourage
+all manner of rapine and bloodshed, by assurances that you will never
+resist, nor even prosecute the basest ruffians?' What a terrible appeal
+is this? how full of frightful images, and horrid anticipations of evil,
+from the practice of non-resistance. But if I am a christian, will such
+appeals move me? Am I a christian, and do I doubt that God will protect
+me and mine against all the thieves, robbers and murderers in the world,
+while conscientiously do my duty? Am I more willing to rely upon
+forbidden means of defence, than upon the power of **him** who doeth his
+will in the armies of heaven and among the inhabitants of the
+earth---and who hath said, 'I will never leave thee, nor forsake thee?'
+'But are you sure that God will always render your property, person and
+life secure from these attacks?' No; for it *may* be best that I should
+suffer---that I should even lose all things earthly. What then; is
+treasure on earth my only treasure? is worldly substance my chief good;
+is this life my only life? What if I should actually lose my money; have
+I not treasure laid up in heaven, where neither moth, nor rust, nor
+thieves can touch it? What if I should suffer great cruelties in my
+person *'for righteousness sake;'* should I therefore be miserable? What
+if I should lose my own life and that of my family; should I not *find
+life eternal* for them and myself? I may be robbed, but I shall still be
+rich; I may be murdered, but I shall live forevermore; I may suffer the
+loss of all things earthly, but I shall gain all things heavenly. If I
+cannot confidently say this, am I a *christian?* 'Who then shall harm
+us, if we be followers of that which is good?' I have a right to expect,
+and I do confidently expect, that in practising the sublime virtue of
+non-resistance for the kingdom of heaven's sake, God will keep all that
+I commit to him in perfect safety, even here on earth, as long as it is
+for my good to be exempted from loss and suffering. I do firmly believe
+that in acting out these principles steadily and consistently, I shall
+continue longer uninjured, longer in the enjoyment of life, longer safe
+from the depredations, assaults and murderous violence of wicked men,
+than with all the swords, guns, pistols, dirks, peace officers,
+sheriffs, judges, prisons and gallows of the world. If this is the faith
+of a fool, then am I willing to be accounted a fool, till time shall
+test the merits of my position. It may not prove to be such great folly
+after all. 'Well, says the objector, I should like to know how you would
+manage matters, if the ruffian should actually break into your house
+with settled intent to rob and murder; would you shrink back coward
+like, and see your wife and children slaughtered before your eyes?' I
+cannot tell how I might act in such a dreadful emergency---how weak and
+frail I should prove. But I can tell you how I *ought* to act---how I
+wish to act. If a firm, consistent non-resistant, I should prove myself
+no *coward;* for it requires the noblest courage, the highest fortitude,
+to be a non-resistant. If what I ought to be, I should be calm, and
+unruffled by the alarm at my door. I should meet my wretched fellow-man
+with a spirit, an air, a salutation, a deportment, so Christ-like, so
+little expected, so confounding, so morally irresistible, that in all
+probability his weapons of violence and death would fall harmless to his
+side. I would say---'friend, why comest thou hither? surely not to
+injure those who wish thee nothing but good? This house is one of peace
+and friendship to all mankind. If thou art cold, warm thyself at our
+fire; if hungry, refresh thyself at our table; if thou art weary, sleep
+in our bed; if thou art destitute, poor, and needy, freely take of our
+goods. Come, let us be friends, that God may keep us all from evil and
+bless us with his protection.' What would be the effect of such
+treatment as this? Would it not completely overcome the feelings of the
+invader, so as either to make him retreat inoffensively out of the
+house, or at least forbear all meditated violence? Would it not be
+incomparably safer than to rush to the shattered door, half distracted
+with alarm, grasping some deadly weapon and bearing it aloft, looking
+fiery wrath, and mad defiance at the enemy? How soon would follow the
+mortal encounter, and how extremely uncertain the issue? The moment I
+appeared in such an attitude, (just the thing expected) would not
+ruffian coolness and well trained muscular force be almost sure to seal
+the fate of myself and family? But in acting the non-resistant part,
+should I not be likely, in nine cases out of ten, to escape with perfect
+safety? \['Yes,' said a brother, 'in *ninety-nine* cases out of a
+hundred.\] Yea, and perhaps nine hundred and ninety-nine out of a
+thousand. Not however, to expect too much; suppose the robber should not
+be wholly deterred; would he, at worst, seek any thing beyond mere
+booty? Would not our lives and persons escape untouched? It would hardly
+be worth his while to murder or mangle those who opposed no *force* to
+his depredations. But we will make the case utterly desperate. Contrary
+to all probability, we will suppose that no moral majesty, no calm and
+dignified remonstrance, no divine interposition, availed any thing
+towards the prevention of the slaughter of an innocent family; what then
+would I do in the last resort? I would gather my loved ones in a group
+behind my person; I would cover their retreat to the farthest corner of
+our room; and there in their front would I receive the blows of the
+murderer. I would say to him---'Since nothing but our blood will satisfy
+thy thirst, I commend my *all* to that God in whom I trust. He will
+receive us to his bosom; and may he have mercy on *thee.* Strike if thou
+wilt; but thou must come through my poor body to the bodies of these
+helpless victims!' Well, suppose the horrible tragedy complete, and our
+butchered remains all lying silent in their gore; what then? We are all
+dead; we fell clinging to each other; in a *moment* the pains of death
+were over; the 'debt of nature' is paid; where are we now? *Where?
+Annihilated? Miserable?* No! Our happy spirits, conveyed by holy angels,
+wing their lightning flight to the bowers of Paradise---to the home of
+the blest---to the blissful arms of an approving Redeemer---to the
+welcome embrace 'of the just made perfect.' Who would not rather pass
+away thus unstained with blood, into the joys of that Lord, who himself
+quenched the fiery darts of his malicious murderers with his own vital
+blood, than to purchase a few days of mortal life by precipitating into
+eternity a fellow creature, with his millstone of unrepentant crime
+about his neck? Is it so dreadful a thing for the christian to be
+hurried to heaven---and to be sent into eternal life a little before his
+natural time---to have all his pains of dissolution crowded into a
+moment? Is life on earth, (brief at longest, and often embittered by
+distressing ills,) of so much value, that we would *murder,* rather than
+be murdered? O, let me die the death of the christian *non-resistant,*
+and let my last end be like his! Let me suffer and die with Christ, that
+I also may live and reign with him. The conclusion then is, that in a
+vast majority of cases the non-resistant would remain unharmed by the
+sons of violence, and that in the *worst* supposable case, he would only
+be hurried out of this life, with his dear family, into a *better.* But
+rejoins the operator---'I consider it the duty of a christian to look to
+the good of society at large, and to contribute what he can, in a lawful
+way, to the security of life, person and property around him. Therefore
+let him assist in bringing malefactors to justice, and not shrink from
+aiding the magistrate in preserving the bulwarks of order.' And so we
+are to throw away God's judgment of what is best, and trample under foot
+the solemn injunction of Christ! Well, what shall we gain by this
+infidelity and rebellion? 'Nay,---but we are in duty bound to love our
+neighbor---to seek the peace and welfare of society---to do our part
+towards protecting the innocent and helpless against the ravages of
+merciless wolves---to maintain wholesome penal restraints.' Answer. We
+think we are seeking this great end more effectually, as non-resistants,
+than we could do by becoming informers, prosecutors, jailers or hangmen.
+'An *ounce* of *preventive* is worth more than a *pound* of *curative.*'
+But at all events, since we cannot fight, nor go to law for ourselves or
+our dearest relatives, we must decline doing so for any other
+description of persons. It is a favorite argument of our opposers, that
+we are not required to love our *neighbors* **better** than *ourselves.*
+Whether this argument be sound or not, perhaps it is not *now* necessary
+to affirm; but it is certainly a very conclusive one, or *ought* to be,
+with the objector in this case, to show the unreasonableness of
+requiring us to do more for our neighbors in society at large, than for
+ourselves, our wives and children. We must act on the same principles,
+and pursue the same general course with respect to all; and in so doing
+'we stand or fall to our own master.'
 
-'But we want the best men in office, the best laws and the best administration of government. Will you be recreant to your trust as citizens? Will you withhold your votes from the side and cause of right? Will you leave knaves and villains to govern the world?' Answer. We expect to do as much towards keeping the world in order by a straightforward, consistent, exemplary practice of our principles, nay *more,* than by *voting, office-holding, legislating,* or punishing criminals. A truly good man wields an influence on our ground great and salutary wherever he is known. It is not by the poor test of *numbers* that righteousness can gain its deserved respect in the world. It is not by getting into places of worldly power and emolument, that christians are to promote human welfare. It is not by fighting with carnal weapons, and wielding the instruments of legal vengeance, that they can hope to strengthen the bonds of moral restraint. Majorities often decree folly and iniquity. *Power* oftener corrupts its possessor, than benefits the powerless. The real power which restrains the world is *moral power,* acting silently and unostentatiously within and upon the soul. He, therefore, who has the fewest outward ensigns of authority, will, if wise and holy, contribute most to the good order of mankind. Besides, even unprincipled men in office are compelled to bow to a strong public sentiment, superinduced by the efforts of good men in private life. They are not wanting in vanity to be *esteemed* the friends of virtue, and from this motive generally conform their laws and proceedings more or less to a *right* general opinion. If we can do any thing towards promoting a sound morality, as we hope to do, we shall make our influence felt without envy, not only in the lowest depths of society, but in the high places of political power. I expect, if true to my sense of duty, to do as much in my town and community towards preserving wholesome moral order, as if clothed with the official dignity of a *first* select-man, a representative to General Court, a justice of the peace, or even a member of Congress. Whatever my natural ambition might have coveted in the blindness of unchastened nature, I now envy not Governors, Presidents, or Monarchs, their stations of usefulness and glory; bnt feel that in humble obscurity I have a higher mission assigned me, in the faithful fulfilment of which it may be my privilege to do more for my race, than if elevated to either of their *world-envied* seats. Every true non-resistant will be a great conservator of *public* as well as *private* morals. Away then with the intrigues and tricks of political ambition, the petty squabbles of partizans and office-holders, the hollow bluster of demagogues, and the capricious admiration of a tickled multitude. Let us obey God, declare the truth, walk in love, and *deserve* the gratitude of the world, though we never *receive* it.
+'But we want the best men in office, the best laws and the best
+administration of government. Will you be recreant to your trust as
+citizens? Will you withhold your votes from the side and cause of right?
+Will you leave knaves and villains to govern the world?' Answer. We
+expect to do as much towards keeping the world in order by a
+straightforward, consistent, exemplary practice of our principles, nay
+*more,* than by *voting, office-holding, legislating,* or punishing
+criminals. A truly good man wields an influence on our ground great and
+salutary wherever he is known. It is not by the poor test of *numbers*
+that righteousness can gain its deserved respect in the world. It is not
+by getting into places of worldly power and emolument, that christians
+are to promote human welfare. It is not by fighting with carnal weapons,
+and wielding the instruments of legal vengeance, that they can hope to
+strengthen the bonds of moral restraint. Majorities often decree folly
+and iniquity. *Power* oftener corrupts its possessor, than benefits the
+powerless. The real power which restrains the world is *moral power,*
+acting silently and unostentatiously within and upon the soul. He,
+therefore, who has the fewest outward ensigns of authority, will, if
+wise and holy, contribute most to the good order of mankind. Besides,
+even unprincipled men in office are compelled to bow to a strong public
+sentiment, superinduced by the efforts of good men in private life. They
+are not wanting in vanity to be *esteemed* the friends of virtue, and
+from this motive generally conform their laws and proceedings more or
+less to a *right* general opinion. If we can do any thing towards
+promoting a sound morality, as we hope to do, we shall make our
+influence felt without envy, not only in the lowest depths of society,
+but in the high places of political power. I expect, if true to my sense
+of duty, to do as much in my town and community towards preserving
+wholesome moral order, as if clothed with the official dignity of a
+*first* select-man, a representative to General Court, a justice of the
+peace, or even a member of Congress. Whatever my natural ambition might
+have coveted in the blindness of unchastened nature, I now envy not
+Governors, Presidents, or Monarchs, their stations of usefulness and
+glory; bnt feel that in humble obscurity I have a higher mission
+assigned me, in the faithful fulfilment of which it may be my privilege
+to do more for my race, than if elevated to either of their
+*world-envied* seats. Every true non-resistant will be a great
+conservator of *public* as well as *private* morals. Away then with the
+intrigues and tricks of political ambition, the petty squabbles of
+partizans and office-holders, the hollow bluster of demagogues, and the
+capricious admiration of a tickled multitude. Let us obey God, declare
+the truth, walk in love, and *deserve* the gratitude of the world,
+though we never *receive* it.
 
-'But should non-resistants ever become the great majority in any community, pray how would they get on with public affairs. There must be highways, and bridges, and school houses, and education, and alms. houses, and hospitals.' Very well; nothing easier than for communities of *christian non-resistants* to get along with all these matters. Suppose them to meet, in those days, from time to time within each town, or more general community, *voluntarily*, just as we are here assembled. Suppose them all anxious to *know* their duty, and ready to *do* it, as soon as clearly pointed out. Then of course the wisest will speak to attentive ears and upright minds. They will propose measures, discuss them in friendship, and come to a conclusion in favor of the *best*---without wounding personal vanity, or breeding a quarrel with each other's selfishness. The law of love and the counsels of wisdom will prevail without strife, and all be eager to contribute their full share of expense and effort to the object. Instead of the leading *few* striving, as *now*, who shall be *first* and greatest, the strife will then be, who shall have the least *authority*. And among the mass, instead of the strife, as now, who shall bear the lightest burden, the only strife will be---who shall do most for the promotion of every good work. Happy days, whenever they arrive! If there shall be any *poor* in those days, or any *insane*, or any *unlettered*, or unaccommodated travellers, they will soon be abundantly provided for, without the aid of physical force, pains or penalties. God hasten that blessed era of love and peace, and grant success to all our well directed efforts in this holy cause. Thus finally may all human governments be superseded by the divine government, and the kingdoms of this world be swallowed up in the one all-glorious kingdom of our Lord Jesus Christ. And now, having freely expressed my views and feelings on the subject of the resolution presented, I submit them to the consideration of the friends; hoping that they will receive into good and honest hearts whatever is worth retaining, and the worthless cast away.
+'But should non-resistants ever become the great majority in any
+community, pray how would they get on with public affairs. There must be
+highways, and bridges, and school houses, and education, and alms.
+houses, and hospitals.' Very well; nothing easier than for communities
+of *christian non-resistants* to get along with all these matters.
+Suppose them to meet, in those days, from time to time within each town,
+or more general community, *voluntarily*, just as we are here assembled.
+Suppose them all anxious to *know* their duty, and ready to *do* it, as
+soon as clearly pointed out. Then of course the wisest will speak to
+attentive ears and upright minds. They will propose measures, discuss
+them in friendship, and come to a conclusion in favor of the
+*best*---without wounding personal vanity, or breeding a quarrel with
+each other's selfishness. The law of love and the counsels of wisdom
+will prevail without strife, and all be eager to contribute their full
+share of expense and effort to the object. Instead of the leading *few*
+striving, as *now*, who shall be *first* and greatest, the strife will
+then be, who shall have the least *authority*. And among the mass,
+instead of the strife, as now, who shall bear the lightest burden, the
+only strife will be---who shall do most for the promotion of every good
+work. Happy days, whenever they arrive! If there shall be any *poor* in
+those days, or any *insane*, or any *unlettered*, or unaccommodated
+travellers, they will soon be abundantly provided for, without the aid
+of physical force, pains or penalties. God hasten that blessed era of
+love and peace, and grant success to all our well directed efforts in
+this holy cause. Thus finally may all human governments be superseded by
+the divine government, and the kingdoms of this world be swallowed up in
+the one all-glorious kingdom of our Lord Jesus Christ. And now, having
+freely expressed my views and feelings on the subject of the resolution
+presented, I submit them to the consideration of the friends; hoping
+that they will receive into good and honest hearts whatever is worth
+retaining, and the worthless cast away.
