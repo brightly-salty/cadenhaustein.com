@@ -15,6 +15,7 @@ import System.FilePath (takeBaseName, takeDirectory, (</>))
 import Text.HTML.TagSoup (Tag (..))
 import Prelude hiding (words)
 import Control.Arrow (second)
+import GHC.Float
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -144,22 +145,18 @@ instance FromJSON Book
 
 prettyWords :: Book -> String
 prettyWords book =
-    let ws = words book in 
-    if ws > 400000
-    then show (ws `div` 100000) <> "00k"
-    else
-      if ws > 40000
-      then show (ws `div` 10000) <> "0k"
-      else
-        if ws > 4000
-        then show (ws `div` 1000) <> "k"
-        else
-          if ws > 400
-          then show (ws `div` 100) <> "00"
-          else
-           if ws > 40
-           then show (ws `div` 10) <> "0"
-           else show ws
+  let wds = fromIntegral $ words book in
+  let order = double2Int (logBase 10 wds) - 1 in
+  let [c1, c2] = show $ double2Int $ wds / (10 ** (fromIntegral order)) in
+  case order of 
+    1 -> c1:c2:"0"
+    2 -> c1:'.':c2:"k"
+    3 -> c1:c2:"k"
+    4 -> c1:c2:"0k"
+    5 -> c1:'.':c2:"m"
+    6 -> c1:c2:"m"
+    7 -> c1:c2:"0m"
+    _ -> error $ show order
 
 compareBooks :: Book -> Book -> Ordering
 compareBooks a b = compare (year b) (year a)
