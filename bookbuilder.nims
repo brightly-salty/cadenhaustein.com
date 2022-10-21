@@ -95,7 +95,7 @@ proc make(book: var Book) {.raises: [BuilderError].}=
   s &= book.title
   s &= "</span>, by <span resource='[_:creator]' rel='dct:creator'><span property='dct:title'>"
   s &= book.author
-  s &= "</span></span>), identified by <a href='https://cadenhaustein.com' rel='dct:publisher'><span property='dct:title'>Caden Haustein</span></a>, is free of known Copyright restrictions.</p></main></body></html>"
+  s &= "</span></span>), identified by <a href='https://cadenhaustein.com' rel='dct:publisher'><span property='dct:title'>Caden Haustein</span></a>, is free of known Copyright restrictions.</p></main><script async src=\"/count.js\"></script></body></html>"
   let indexFile = dir / "index.html" 
   wrap: indexFile.writeFile s
   wrap:

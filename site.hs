@@ -20,7 +20,7 @@ import GHC.Float
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["robots.txt", "favicon.ico", "books/*/*.epub", "books/*/*.pdf", "books/*/*.mobi", "fonts/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "count.js", "books/*/*.epub", "books/*/*.pdf", "books/*/*.mobi", "fonts/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
