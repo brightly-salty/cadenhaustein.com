@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-I welcome inquiries regarding the **SURF vehicle forensics project**, the Co**mmonweal Archive**, or potential research collaborations."
+I welcome inquiries regarding the **SURF vehicle forensics project**, the **Commonweal Archive**, or potential research collaborations."
 
 **Email** [chaustein@harding.edu](chaustein@harding.edu)
 
