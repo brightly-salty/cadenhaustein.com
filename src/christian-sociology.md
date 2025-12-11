@@ -5264,7 +5264,7 @@ our civilisation becomes daily more unstable, and the end is in sight.
 
 [^19]: The early part of this chapter is largely based upon the valuable
     material contained in Dr. A. J. Carlyle's\* Mediaeval Political
-    Theory in the West*, and the latter part on Herr M. Beer's *History
+    Theory in the West*, and the latter part on Herr M. Beer's* History
     of British Socialism\*, to whom acknowledgments are due.
 
 [^20]: *A History of British Socialism*, by M. Beer, vol. i, p. 11.

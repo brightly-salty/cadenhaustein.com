@@ -1,6 +1,6 @@
-https://cadenhaustein.com/about/index.html
 https://cadenhaustein.com/blog/index.html
 https://cadenhaustein.com/blog/letter-young-distributist/index.html
+https://cadenhaustein.com/books/index.html
 https://cadenhaustein.com/books/acquisitive-society/index.html
 https://cadenhaustein.com/books/acquisitive-society/read/index.html
 https://cadenhaustein.com/books/agrarian-justice/index.html
@@ -77,4 +77,7 @@ https://cadenhaustein.com/books/whats-wrong/index.html
 https://cadenhaustein.com/books/whats-wrong/read/index.html
 https://cadenhaustein.com/books/where-love/index.html
 https://cadenhaustein.com/books/where-love/read/index.html
+https://cadenhaustein.com/contact/index.html
+https://cadenhaustein.com/cv/index.html
 https://cadenhaustein.com/index.html
+https://cadenhaustein.com/research/index.html

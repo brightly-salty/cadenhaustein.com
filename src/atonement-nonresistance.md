@@ -224,9 +224,8 @@ Rational and Logical. (2) The Moral. (3) The Scriptural.
     vindictive in man to exact the extreme penalty? Can it be right for
     God to do what is wrong for man?
 
-```{=html}
 <!-- -->
-```
+
 (3) And this leads us over to the Scriptural objections to the
     doctrine. (a) Not only is it the clear teaching of our Lord and His
     apostles that it is the duty of men freely to forgive those who
@@ -985,80 +984,80 @@ ourselves, is to claim that we are wiser than the Almighty.*
 
 The traditional view of the Atonement somewhat softened:---
 
--   R. W. Dale: *The Atonement.*
+- R. W. Dale: *The Atonement.*
 
--   James Denney: *The Death of Christ.* *The Christian Doctrine of
-    Reconciliation.* Published 1917.
+- James Denney: *The Death of Christ.* *The Christian Doctrine of
+  Reconciliation.* Published 1917.
 
--   P. L. Snowden: *The Atonement and Ourselves.* Published 1919.
+- P. L. Snowden: *The Atonement and Ourselves.* Published 1919.
 
--   J. K. Mozley: *The Doctrine of the Atonement* (last chapter).
-    Published 1915.
+- J. K. Mozley: *The Doctrine of the Atonement* (last chapter).
+  Published 1915.
 
 Histories of the Doctrine:---
 
--   R. S. Franks: *History of the Doctrine of the Work of Christ.* 2
-    Vols. Published 1918.
+- R. S. Franks: *History of the Doctrine of the Work of Christ.* 2 Vols.
+  Published 1918.
 
--   L. W. Grensted: *A Short History of the Doctrine of the Atonement.*
-    Published 1920.
+- L. W. Grensted: *A Short History of the Doctrine of the Atonement.*
+  Published 1920.
 
--   Robert Mackintosh. *Historic Theories of Atonement.* Published 1920.
+- Robert Mackintosh. *Historic Theories of Atonement.* Published 1920.
 
--   J. K. Mozley: *The Doctrine of the Atonement.* Published 1915.
+- J. K. Mozley: *The Doctrine of the Atonement.* Published 1915.
 
 Critical of traditional views:---
 
--   Melville Scott: *The Atonement*. Published 1g10. Good on Old
-    Testament.
+- Melville Scott: *The Atonement*. Published 1g10. Good on Old
+  Testament.
 
--   G. B. Stevens: *The Christian Doctrine of Salvation*. Good on New
-    Testament. Partly historical, partly critical.
+- G. B. Stevens: *The Christian Doctrine of Salvation*. Good on New
+  Testament. Partly historical, partly critical.
 
--   T. Vincent Tymms: *The Christian Idea of Atonement.* Good criticism
-    of traditional views.
+- T. Vincent Tymms: *The Christian Idea of Atonement.* Good criticism of
+  traditional views.
 
--   Hastings Rashdall: *The Idea of Atonement in Christian Theology.*
-    Published 1919. An all-round treatise, uncompromisingly hostile to
-    the traditional view, strongly advocating "Moral Influence" view.
+- Hastings Rashdall: *The Idea of Atonement in Christian Theology.*
+  Published 1919. An all-round treatise, uncompromisingly hostile to the
+  traditional view, strongly advocating "Moral Influence" view.
 
 Famous Reconstructions of the Doctrine:---
 
--   H. Bushnell: *The Vicarious Sacrifice.* The classical statement in
-    modern times of the 'moral influence' view.
+- H. Bushnell: *The Vicarious Sacrifice.* The classical statement in
+  modern times of the 'moral influence' view.
 
--   J. McLeod Campbell: *The Nature of the Atonement.*
+- J. McLeod Campbell: *The Nature of the Atonement.*
 
--   R. C. Moberly: *Atonement and Personality.*
+- R. C. Moberly: *Atonement and Personality.*
 
--   Douglas White: *Forgiveness and Suffering.* Published 1913. Nearly
-    approaches view here presented.
+- Douglas White: *Forgiveness and Suffering.* Published 1913. Nearly
+  approaches view here presented.
 
 Taking the same view as here presented:---
 
--   W. Fearon Halliday: *Reconciliation and Reality.* Published 1917.
-    The best general treatment of the subject.
+- W. Fearon Halliday: *Reconciliation and Reality.* Published 1917. The
+  best general treatment of the subject.
 
--   Edward Grubb: *The Meaning of the Cross.* Published 1922.
-    Scriptural, historical and comprehensive.
+- Edward Grubb: *The Meaning of the Cross.* Published 1922. Scriptural,
+  historical and comprehensive.
 
--   Practically all the writers of the *Christian Revolution Series*
-    take this view, and express it in their books in the series. It is
-    especially clearly set forth in A. T. Cadoux' *Essays in Christian
-    Thinking.* In America it has been quite independently expressed by
-    Walter Rauschenbusch in a *Theology for the Social Gospel.*
+- Practically all the writers of the *Christian Revolution Series* take
+  this view, and express it in their books in the series. It is
+  especially clearly set forth in A. T. Cadoux' *Essays in Christian
+  Thinking.* In America it has been quite independently expressed by
+  Walter Rauschenbusch in a *Theology for the Social Gospel.*
 
 Useful for a background:---
 
--   C. E. Rolt: *The World's Redemption.* A Philosophic world-view
-    harmonising with the view here presented.
+- C. E. Rolt: *The World's Redemption.* A Philosophic world-view
+  harmonising with the view here presented.
 
--   R. S. Moxon: *The Doctrine of Sin,* Published 1922.
+- R. S. Moxon: *The Doctrine of Sin,* Published 1922.
 
--   Dougall and Emmet: *The Lord of Thought;* and
+- Dougall and Emmet: *The Lord of Thought;* and
 
--   Norman L. Robinson: *Christian Justice;* bear on the problem of
-    Punishment and Justice.
+- Norman L. Robinson: *Christian Justice;* bear on the problem of
+  Punishment and Justice.
 
 # Appendix 2. Helps for use of Study Circles
 

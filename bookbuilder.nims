@@ -1,6 +1,6 @@
 #!/usr/bin/env nim
 mode = ScriptMode.Silent
---hints:off
+--hints: off
 
 import std/[linenoise]
 import std/[algorithm, enumerate, hashes, json, macros, os, sequtils, strutils]
@@ -8,19 +8,18 @@ import std/[algorithm, enumerate, hashes, json, macros, os, sequtils, strutils]
 type BuilderError = object of CatchableError
 
 type Book = object
-  author: string 
+  author: string
   source: string
   tag: string
   title: string
   year: int
-  words: int
   hash: string
   category: int
 
 func `<`(x, y: Book): bool {.raises: [].} =
   if x.category != y.category: return x.category < y.category
   x.year > y.year
-  
+
 type BookBuilder = object
   books: seq[Book]
   categories: seq[string]
@@ -41,27 +40,20 @@ proc createBuilder(): BookBuilder {.raises: [BuilderError].} =
 proc save(builder: var BookBuilder) {.raises: [BuilderError].} =
   wrap:
     builder.books.sort()
-    var jsonNode = %*builder 
+    var jsonNode = %*builder
     var data: string
     data.toUgly jsonNode
     "books.json".writeFile data
 
-proc countWords(contents: string): int {.raises: [BuilderError].} =
-  wrap:
-    var inWord = false
-    for c in contents:
-      if c in Whitespace:
-        inWord = false
-      elif not inWord:
-        result.inc
-        inWord = true
-
-proc make(book: var Book) {.raises: [BuilderError].}=
+proc make(book: var Book) {.raises: [BuilderError].} =
   let dir = "books" / book.tag
   wrap: dir.mkDir
   let readDir = dir / "read"
   wrap: readDir.mkDir
-  let commonCommand = "/usr/local/bin/pandoc --wrap=auto --table-of-contents --standalone --reference-location=block --section-divs --from=markdown+smart+auto_identifiers --metadata=author:" & book.author.quoteShell & " --metadata=title:" & book.title.quoteShell & " --metadata=date:" & quoteShell($book.year) & " " & book.sourceFile.quoteShell
+  let commonCommand = "/usr/local/bin/pandoc --wrap=auto --table-of-contents --standalone --reference-location=block --section-divs --from=markdown+smart+auto_identifiers --metadata=author:" &
+      book.author.quoteShell & " --metadata=title:" & book.title.quoteShell &
+      " --metadata=date:" & quoteShell($book.year) & " " &
+      book.sourceFile.quoteShell
   let pdfFile = dir / book.tag.addFileExt("pdf")
   wrap: exec(commonCommand & " --to=pdf --pdf-engine=xelatex --output=" & pdfFile)
   let htmlFile = readDir / "index.html"
@@ -95,17 +87,17 @@ proc make(book: var Book) {.raises: [BuilderError].}=
   s &= book.title
   s &= "</span>, by <span resource='[_:creator]' rel='dct:creator'><span property='dct:title'>"
   s &= book.author
-  s &= "</span></span>), identified by <a href='https://cadenhaustein.com' rel='dct:publisher'><span property='dct:title'>Caden Haustein</span></a>, is free of known Copyright restrictions.</p></main><script async src=\"/count.js\"></script></body></html>"
-  let indexFile = dir / "index.html" 
+  s &= "</span></span>), identified by <a href='https://cadenhaustein.com' rel='dct:publisher'><span property='dct:title'>Caden Haustein</span></a>, is free of known Copyright restrictions.</p></main></body></html>"
+  let indexFile = dir / "index.html"
   wrap: indexFile.writeFile s
   wrap:
-    exec("/usr/local/bin/pandoc --wrap=auto --from=markdown+smart+auto_identifiers " & book.sourceFile & " --to=markdown+smart+auto_identifiers --output=output.md")
+    exec("/usr/local/bin/pandoc --wrap=auto --from=markdown+smart+auto_identifiers " &
+        book.sourceFile & " --to=markdown+smart+auto_identifiers --output=output.md")
     mvFile("output.md", book.sourceFile)
   wrap:
     let contents = book.sourceFile.readFile
     book.hash = $contents.hash
-    book.words = contents.countWords
-  
+
 func useCategory(builder: var BookBuilder, category: string): int {.raises: [].} =
   for (i, c) in enumerate(builder.categories):
     if c == category:
@@ -148,7 +140,8 @@ proc skipWhenAble(book: Book): bool {.raises: [].} =
 
 proc neverSkip(_: Book): bool {.raises: [].} = false
 
-proc make(canSkip: proc(book: Book): bool {.raises: [BuilderError].}) {.raises: [BuilderError].} =
+proc make(canSkip: proc(book: Book): bool {.raises: [
+    BuilderError].}) {.raises: [BuilderError].} =
   proc modifyBook(book: var Book) {.raises: [BuilderError].} =
     if book.canSkip:
       echo "Skipping: " & book.tag
@@ -158,7 +151,7 @@ proc make(canSkip: proc(book: Book): bool {.raises: [BuilderError].}) {.raises: 
 
   wrap: "books".mkDir
   var builder = createBuilder()
-  builder.books.apply(modifyBook)  
+  builder.books.apply(modifyBook)
   builder.save
   let validFiles = builder.books.mapIt(it.tag)
   wrap:

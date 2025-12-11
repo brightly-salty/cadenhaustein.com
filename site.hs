@@ -13,18 +13,18 @@ import GHC.Generics
 import Hakyll
 import System.FilePath (takeBaseName, takeDirectory, (</>))
 import Text.HTML.TagSoup (Tag (..))
-import Prelude hiding (words)
+import Prelude
 import Control.Arrow (second)
 import GHC.Float
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-  forM_ ["robots.txt", "favicon.ico", "count.js", "books/*/*.epub", "books/*/*.pdf", "books/*/*.mobi", "fonts/*"] $ \f -> match f $ do
+  forM_ ["robots.txt", "favicon.ico", "books/*/*.epub", "books/*/*.pdf", "books/*/*.mobi", "fonts/*", "images/*", "files/*"] $ \f -> match f $ do
     route idRoute
     compile copyFileCompiler
 
-  match "books/*/read/index.html" $ do
+  forM_ ["books/*/read/index.html", "books/*/index.html"] $ \f -> match f $ do
     route idRoute
     compile $
       getResourceString
@@ -32,17 +32,17 @@ main = hakyllWith config $ do
         >>= cleanIndexUrls
         >>= cleanInlineCSS
 
-  match "books/*/index.html" $ do
-      route idRoute
-      compile $
-        getResourceString
-          >>= relativizeUrls
-          >>= cleanIndexUrls
-          >>= cleanInlineCSS
-
   match "styles/*" $ do
     route idRoute
     compile compressCssCompiler
+
+  forM_ ["contact.md", "research.md", "cv.md"] $ \f -> match f $ do 
+    route $ gsubRoute ".md" (const "/index.html") 
+    compile $
+      pandocCompiler
+        >>= loadAndApplyTemplate "templates/hakyll.html" (postCtx <> dontDoBooks)
+        >>= relativizeUrls
+        >>= cleanIndexUrls     
 
   match "blog/*.md" $ do
     route $ gsubRoute ".md" (const "/index.html") 
@@ -53,30 +53,30 @@ main = hakyllWith config $ do
         >>= relativizeUrls
         >>= cleanIndexUrls
 
-  match "about.md" $ do
-    route $ customRoute $ const "about/index.html"
+  match "index.md" $ do
+    route $ customRoute $ const "index.html"
     compile $
       pandocCompiler
         >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> dontDoBooks)
         >>= relativizeUrls
         >>= cleanIndexUrls
 
-  match "index.html" $ do
-    route idRoute
+  match "books.md" $ do
+    route $ customRoute $ const "books/index.html"
     dependency <- makePatternDependency "books.json"
     rulesExtraDependencies [dependency] $
       compile $ do
         result <- recompilingUnsafeCompiler $ eitherDecodeFileStrict "books.json"
         case result of
           Right bookData ->
-            getResourceBody >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField bookData <> boolField "doBooks" (const True)) >>= relativizeUrls 
+            pandocCompiler >>= loadAndApplyTemplate "templates/hakyll.html" (defaultContext <> booksField bookData <> boolField "doBooks" (const True)) >>= relativizeUrls         >>= cleanIndexUrls
           Left e -> error e
 
   create ["blog/index.html"] $ do
     route idRoute
     compile $ do
       posts <- loadAll "blog/*.md"
-      let ctx = listField "posts" postCtx (pure posts) <> constField "title" "Blog" <> dontDoBooks <> defaultContext
+      let ctx = listField "posts" postCtx (pure posts) <> constField "title" "Essays" <> dontDoBooks <> defaultContext
       makeItem ""
         >>= loadAndApplyTemplate "templates/blog.html" ctx
         >>= loadAndApplyTemplate "templates/hakyll.html" ctx
@@ -86,7 +86,7 @@ main = hakyllWith config $ do
   create ["sitemap.txt"] $ do
     route idRoute
     compile $ do
-      pages <- loadAll ("books/*/index.html" .||. "books/*/read/index.html" .||. "blog/*.md" .||. fromList ["about.md", "index.html", "blog/index.html"])
+      pages <- loadAll ("books/*/index.html" .||. "books/*/read/index.html" .||. "blog/*.md" .||. fromList ["books.md", "index.md", "research.md", "contact.md", "cv.md", "blog/index.html"])
       let sitemapCtx = listField "pages" (constField "root" root <> defaultContext) (pure pages) <> constField "root" root
       makeItem "" >>= loadAndApplyTemplate "templates/sitemap.txt" sitemapCtx
 
@@ -138,25 +138,10 @@ data BookData = BookData {categories :: [String], books :: [Book]}
 
 instance FromJSON BookData
 
-data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, hash :: String, words :: Int, category :: Int}
+data Book = Book {author :: String, title :: String, year :: Int, tag :: String, source :: String, hash :: String, category :: Int}
   deriving (Generic, Show)
 
 instance FromJSON Book
-
-prettyWords :: Book -> String
-prettyWords book =
-  let wds = fromIntegral $ words book in
-  let order = double2Int (logBase 10 wds) - 1 in
-  let [c1, c2] = show $ double2Int $ wds / (10 ** (fromIntegral order)) in
-  case order of 
-    1 -> c1:c2:"0"
-    2 -> c1:'.':c2:"k"
-    3 -> c1:c2:"k"
-    4 -> c1:c2:"0k"
-    5 -> c1:'.':c2:"m"
-    6 -> c1:c2:"m"
-    7 -> c1:c2:"0m"
-    _ -> error $ show order
 
 compareBooks :: Book -> Book -> Ordering
 compareBooks a b = compare (year b) (year a)
@@ -172,7 +157,6 @@ booksField bookData = listField "categories" categoryCtx (pure cats)
         <> field "author" (pure . author . itemBody)
         <> field "title" (pure . title . itemBody)
         <> field "year" (pure . show . year . itemBody)
-        <> field "words" (pure . prettyWords . itemBody)
         <> field
           "source"
           ( \item ->
