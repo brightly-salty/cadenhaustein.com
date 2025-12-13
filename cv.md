@@ -28,7 +28,6 @@ Harding University | Searcy, AR
 
 ## Conference Presentations (Anticipated)
 
-- American Society of Criminology, Nov 2026 (anticipated)
 - Arkansas Association of Chiefs of Police, Sep 2026 (anticipated)
 - Arkansas Sheriffs Association, May 2026 (anticipated)
 - Harding Undergraduate Research Conference, April 2026 (anticipated)
